@@ -1,0 +1,49 @@
+{
+  "name": "discord-steam-feed-bot",
+  "version": "1.0.0",
+  "description": "GitHub Actions-powered bot that feeds Steam game news to Discord channels",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "fetch": "tsx src/index.ts",
+    "lint": "eslint src/",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write src/",
+    "format:check": "prettier --check src/",
+    "test": "vitest run"
+  },
+  "keywords": [
+    "discord",
+    "steam",
+    "feed",
+    "bot",
+    "github-actions"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "discord.js": "^14.15.3",
+    "js-yaml": "^4.1.0",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.6.0",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^20.14.9",
+    "@typescript-eslint/eslint-plugin": "^7.15.0",
+    "@typescript-eslint/parser": "^7.15.0",
+    "eslint": "^8.57.0",
+    "globals": "^17.5.0",
+    "prettier": "^3.3.3",
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3",
+    "vitest": "^1.6.0"
+  }
+}
