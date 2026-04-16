@@ -1,8 +1,16 @@
-import { NewsItem } from './types'
+import type { NewsItem } from './types'
+import type { Source } from './sources/types'
 import { dispatchSource, getSourceName } from './sources'
 import { loadConfig } from './config'
 import { loadState, saveState, isNewItem, markPosted } from './state'
+import { loadStatus, saveStatus, calculateNextRun, type StatusError } from './status'
 import { postNews } from './discord/webhook'
+
+interface SourceResult {
+  source: Source
+  items: NewsItem[]
+  error: StatusError | null
+}
 
 async function main(): Promise<void> {
   console.log('Discord Feed Bot')
@@ -10,19 +18,33 @@ async function main(): Promise<void> {
 
   const config = loadConfig()
   const state = loadState()
+  const previousStatus = loadStatus()
 
-  const newPosts: NewsItem[] = []
+  const results: SourceResult[] = []
   const enabledSources = config.sources.filter((s) => s.enabled !== false)
 
   console.log(`Fetching news for ${enabledSources.length} source(s)...`)
 
   for (const source of enabledSources) {
     console.log(`  Fetching: ${source.name}...`)
-    const items = await dispatchSource(source)
-    const newItems = items.filter((n) => isNewItem(n.id, source.id, state))
-    newPosts.push(...newItems)
-    console.log(`    ${items.length} items found, ${newItems.length} new`)
+    try {
+      const items = await dispatchSource(source)
+      const newItems = items.filter((n) => isNewItem(n.id, source.id, state))
+      results.push({ source, items: newItems, error: null })
+      console.log(`    ${items.length} items found, ${newItems.length} new`)
+    } catch (error) {
+      const errorMsg = error instanceof Error ? error.message : 'Unknown error'
+      console.error(`    Error: ${errorMsg}`)
+      results.push({
+        source,
+        items: [],
+        error: { source: source.id, message: errorMsg, time: new Date().toISOString() },
+      })
+    }
   }
+
+  const newPosts = results.flatMap((r) => r.items)
+  const errors = results.map((r) => r.error).filter((e): e is StatusError => e !== null)
 
   const maxPosts = config.settings.max_posts_per_run
   if (newPosts.length > maxPosts) {
@@ -52,7 +74,26 @@ async function main(): Promise<void> {
 
   saveState(state)
 
-  console.log(`Done! Posted ${newPosts.length} new post(s).`)
+  const now = new Date().toISOString()
+  const success = errors.length === 0
+  const allErrors = [...previousStatus.errors, ...errors]
+
+  saveStatus({
+    lastRun: now,
+    success,
+    postsCount: newPosts.length,
+    sourcesCount: enabledSources.length,
+    errors: allErrors,
+    nextRun: calculateNextRun(now),
+  })
+
+  if (success) {
+    console.log(`Done! Posted ${newPosts.length} new post(s).`)
+  } else {
+    console.log(
+      `Done! Posted ${newPosts.length} new post(s). ${errors.length} source(s) had errors.`
+    )
+  }
 }
 
 main().catch((error) => {

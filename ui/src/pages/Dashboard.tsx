@@ -4,6 +4,7 @@ import { Plus, AlertCircle, Loader2, Gamepad2 } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Card } from '@/components/ui/card'
 import { SourceCard } from '@/components/sources/SourceCard'
+import { StatusHeader } from '@/components/status/StatusHeader'
 import { useSourcesStore } from '@/stores/sources'
 import { useGitHubStore } from '@/stores/github'
 import { useUIStore } from '@/stores/ui'
@@ -78,6 +79,8 @@ export function Dashboard() {
   return (
     <div className="flex-1 overflow-auto p-6">
       <div className="max-w-4xl mx-auto">
+        <StatusHeader />
+
         <div className="flex items-center justify-between mb-6">
           <div>
             <h1 className="text-2xl font-semibold text-text-primary">Sources</h1>
