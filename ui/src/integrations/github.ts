@@ -4,6 +4,22 @@ import { REPO_OWNER, REPO_NAME } from '@/utils/env'
 import { safeBase64Encode } from '@/utils/encoding'
 
 const CONFIG_PATH = 'config.yaml'
+const STATUS_PATH = 'data/status.json'
+
+export interface StatusError {
+  source: string
+  message: string
+  time: string
+}
+
+export interface Status {
+  lastRun: string | null
+  success: boolean
+  postsCount: number
+  sourcesCount: number
+  errors: StatusError[]
+  nextRun: string | null
+}
 
 interface GitHubFile {
   content: string
@@ -82,6 +98,14 @@ export class GitHubAPI {
       method: 'POST',
       body: JSON.stringify({ ref: 'main' }),
     })
+  }
+
+  async getStatus(): Promise<Status> {
+    const data = await this.fetch<{ content: string }>(
+      `/repos/${REPO_OWNER}/${REPO_NAME}/contents/${STATUS_PATH}`
+    )
+    const content = atob(data.content)
+    return JSON.parse(content) as Status
   }
 
   async getWorkflowRuns(): Promise<
