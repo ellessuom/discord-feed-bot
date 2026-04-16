@@ -3,17 +3,24 @@
   "version": "1.0.0",
   "description": "GitHub Actions-powered bot that feeds Steam game news to Discord channels",
   "type": "module",
+  "workspaces": [
+    "ui"
+  ],
   "main": "dist/index.js",
   "scripts": {
     "dev": "tsx src/index.ts",
-    "build": "tsc",
+    "dev:ui": "npm run dev -w ui",
+    "build": "npm run build:backend && npm run build:ui",
+    "build:backend": "tsc",
+    "build:ui": "npm run build -w ui",
     "start": "node dist/index.js",
     "fetch": "tsx src/index.ts",
-    "lint": "eslint src/",
-    "typecheck": "tsc --noEmit",
+    "lint": "eslint src/ && npm run lint -w ui",
+    "typecheck": "tsc --noEmit && npm run typecheck -w ui",
     "format": "prettier --write src/",
     "format:check": "prettier --check src/",
-    "test": "vitest run"
+    "test": "vitest run",
+    "preview:ui": "npm run preview -w ui"
   },
   "keywords": [
     "discord",
