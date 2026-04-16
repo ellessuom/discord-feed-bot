@@ -1,6 +1,9 @@
 import { NewsItem } from '../types'
+import { withRetry } from '../utils/retry'
+import { htmlToText } from '../utils/html-to-text'
 
 const DISCORD_EMBED_COLOR = 5814783
+const DISCORD_MAX_DESCRIPTION = 4096
 
 interface DiscordEmbed {
   title: string
@@ -54,34 +57,30 @@ export async function postNews(
   }
 
   if (item.content) {
-    const maxLength = 4096
-    const content = item.content.replace(/<[^>]*>/g, '')
-    embed.description = content.substring(0, maxLength)
-    if (content.length > maxLength) {
-      embed.description += '...'
-    }
+    embed.description = htmlToText(item.content, DISCORD_MAX_DESCRIPTION)
   }
 
   const payload: DiscordWebhookPayload = {
     embeds: [embed],
   }
 
-  try {
-    const response = await fetch(webhookUrl, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify(payload),
-    })
+  await withRetry(
+    async () => {
+      const response = await fetch(webhookUrl, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(payload),
+      })
 
-    if (!response.ok) {
-      throw new Error(`Discord API error: ${response.status} ${response.statusText}`)
-    }
+      if (!response.ok) {
+        throw new Error(`Discord API error: ${response.status} ${response.statusText}`)
+      }
 
-    console.log(`Posted: ${item.title}`)
-  } catch (error) {
-    console.error(`Failed to post "${item.title}":`, error)
-    throw error
-  }
+      console.log(`Posted: ${item.title}`)
+    },
+    { retries: 2, baseDelayMs: 1000 },
+    { operation: `postNews(${item.title})` }
+  )
 }
