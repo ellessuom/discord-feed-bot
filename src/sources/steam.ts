@@ -1,5 +1,5 @@
+import { NewsItem } from '../types'
 import Parser from 'rss-parser'
-import { NewsItem } from './types.js'
 
 const parser = new Parser()
 
@@ -9,7 +9,6 @@ const STEAM_APP_NEWS_URL = 'https://store.steampowered.com/feeds/news/app/'
 export async function fetchSteamNews(): Promise<NewsItem[]> {
   try {
     const feed = await parser.parseURL(STEAM_NEWS_URL)
-
     return (
       feed.items?.map((item) => ({
         id: item.guid || item.id || item.link || '',
@@ -18,7 +17,7 @@ export async function fetchSteamNews(): Promise<NewsItem[]> {
         content: item.content || item['content:encoded'] || '',
         publishedAt: item.pubDate ? new Date(item.pubDate) : new Date(),
         source: 'steam_news',
-        image: item.enclosures?.[0]?.url || item.media?.thumbnail?.url,
+        image: item.enclosures?.[0]?.url,
       })) || []
     )
   } catch (error) {
@@ -30,7 +29,6 @@ export async function fetchSteamNews(): Promise<NewsItem[]> {
 export async function fetchGameNews(appid: number, name: string): Promise<NewsItem[]> {
   try {
     const feed = await parser.parseURL(`${STEAM_APP_NEWS_URL}${appid}/`)
-
     return (
       feed.items?.map((item) => ({
         id: item.guid || item.id || item.link || '',
@@ -39,7 +37,7 @@ export async function fetchGameNews(appid: number, name: string): Promise<NewsIt
         content: item.content || item['content:encoded'] || '',
         publishedAt: item.pubDate ? new Date(item.pubDate) : new Date(),
         source: `game_${appid}`,
-        image: item.enclosures?.[0]?.url || item.media?.thumbnail?.url,
+        image: item.enclosures?.[0]?.url,
       })) || []
     )
   } catch (error) {

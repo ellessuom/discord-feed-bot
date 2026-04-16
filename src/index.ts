@@ -1,8 +1,8 @@
-import { fetchSteamNews, fetchGameNews } from './sources/steam.js'
-import { loadConfig } from './config.js'
-import { loadState, saveState, isNewItem, markPosted } from './state.js'
-import { postNews } from './discord/webhook.js'
-import { NewsItem } from './types.js'
+import { NewsItem } from './types'
+import { fetchSteamNews, fetchGameNews } from './sources/steam'
+import { loadConfig } from './config'
+import { loadState, saveState, isNewItem, markPosted } from './state'
+import { postNews } from './discord/webhook'
 
 async function main(): Promise<void> {
   console.log('Discord Steam Feed Bot')
@@ -17,7 +17,7 @@ async function main(): Promise<void> {
   console.log(`Fetching news for ${config.sources.games.length} game(s)...`)
   for (const game of config.sources.games) {
     const news = await fetchGameNews(game.appid, game.name)
-    const newNews = news.filter((n) => isNewItem(n, state))
+    const newNews = news.filter((n: NewsItem) => isNewItem(n, state))
     newPosts.push(...newNews)
     console.log(`  ${game.name}: ${news.length} items found, ${newNews.length} new`)
   }
@@ -26,7 +26,7 @@ async function main(): Promise<void> {
   if (config.sources.steam_news.enabled) {
     console.log('Fetching general Steam news...')
     const news = await fetchSteamNews()
-    const newNews = news.filter((n) => isNewItem(n, state))
+    const newNews = news.filter((n: NewsItem) => isNewItem(n, state))
     newPosts.push(...newNews)
     console.log(`  Steam News: ${news.length} items found, ${newNews.length} new`)
   }
@@ -51,7 +51,8 @@ async function main(): Promise<void> {
     const sourceName =
       item.source === 'steam_news'
         ? 'Steam News'
-        : config.sources.games.find((g) => `game_${g.appid}` === item.source)?.name || 'Steam'
+        : config.sources.games.find((g: { appid: number }) => `game_${g.appid}` === item.source)
+            ?.name || 'Steam'
 
     await postNews(item, config.discord.webhook_url, {
       includeImages: config.settings.include_images,

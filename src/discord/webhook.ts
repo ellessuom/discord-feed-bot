@@ -1,6 +1,6 @@
-import { NewsItem } from './types.js'
+import { NewsItem } from '../types'
 
-const DISCORD_EMBED_COLOR = 5814783 // Steam-like blue
+const DISCORD_EMBED_COLOR = 5814783
 
 interface DiscordEmbed {
   title: string
@@ -55,7 +55,7 @@ export async function postNews(
 
   if (item.content) {
     const maxLength = 4096
-    const content = item.content.replace(/<[^>]*>/g, '') // Strip HTML tags
+    const content = item.content.replace(/<[^>]*>/g, '')
     embed.description = content.substring(0, maxLength)
     if (content.length > maxLength) {
       embed.description += '...'

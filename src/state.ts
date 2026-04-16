@@ -1,11 +1,11 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { NewsItem } from './types.js'
+import { NewsItem } from './types'
 
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = path.dirname(__filename)
-const projectRoot = path.resolve(__dirname, '..', '..')
+const projectRoot = path.resolve(__dirname, '..')
 const statePath = path.resolve(projectRoot, 'data', 'state.json')
 
 interface State {
