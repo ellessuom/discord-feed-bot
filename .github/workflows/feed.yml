@@ -8,6 +8,7 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    permissions: {}
 
     steps:
       - name: Checkout repository
