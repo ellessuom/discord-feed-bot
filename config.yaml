@@ -1,26 +1,14 @@
 discord:
-  # Use environment variable DISCORD_WEBHOOK_URL or set URL here
   webhook_url: '${DISCORD_WEBHOOK_URL}'
 
 sources:
-  # Enable general Steam news
-  steam_news:
-    enabled: false
-
-  # List of games to follow
-  # Find AppID from Steam store URL: https://store.steampowered.com/app/{appid}/
-  games:
-    - appid: 730
-      name: 'Counter-Strike 2'
-    # - appid: 1245620
-    #   name: "Elden Ring"
+  - id: 'steam_730'
+    type: 'steam_game'
+    name: 'Counter-Strike 2'
+    appid: 730
+    enabled: true
 
 settings:
-  # Maximum posts per run (to avoid spamming)
   max_posts_per_run: 10
-
-  # Include images in Discord embeds
   include_images: true
-
-  # Order to post news: "newest_first" or "oldest_first"
   post_order: 'newest_first'

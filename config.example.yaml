@@ -1,26 +1,42 @@
 discord:
-  # Use environment variable DISCORD_WEBHOOK_URL or set URL here
   webhook_url: '${DISCORD_WEBHOOK_URL}'
 
 sources:
-  # Enable general Steam news
-  steam_news:
-    enabled: false
+  - id: 'steam_730'
+    type: 'steam_game'
+    name: 'Counter-Strike 2'
+    appid: 730
+    enabled: true
 
-  # List of games to follow
-  # Find AppID from Steam store URL: https://store.steampowered.com/app/{appid}/
-  games:
-    - appid: 730
-      name: 'Counter-Strike 2'
-    # - appid: 1245620
-    #   name: "Elden Ring"
+  # Steam News (platform-wide announcements)
+  # - id: 'steam_news'
+  #   type: 'steam_news'
+  #   name: 'Steam News'
+  #   enabled: false
+
+  # Reddit subreddit
+  # - id: 'reddit_steam'
+  #   type: 'reddit'
+  #   name: 'r/Steam'
+  #   subreddit: 'Steam'
+  #   enabled: false
+
+  # Generic RSS feed
+  # - id: 'rss_example'
+  #   type: 'rss'
+  #   name: 'Example Blog'
+  #   url: 'https://example.com/feed.xml'
+  #   enabled: false
+
+  # GitHub releases
+  # - id: 'github_vercel_nextjs'
+  #   type: 'github'
+  #   name: 'Next.js'
+  #   owner: 'vercel'
+  #   repo: 'next.js'
+  #   enabled: false
 
 settings:
-  # Maximum posts per run (to avoid spamming)
   max_posts_per_run: 10
-
-  # Include images in Discord embeds
   include_images: true
-
-  # Order to post news: "newest_first" or "oldest_first"
   post_order: 'newest_first'
