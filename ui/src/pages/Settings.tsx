@@ -1,21 +1,56 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
+import { Switch } from '@/components/ui/switch'
 import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert'
 import { Loader2, AlertTriangle, CheckCircle } from 'lucide-react'
 import { useGitHubStore } from '@/stores/github'
+import { useSourcesStore } from '@/stores/sources'
+import { toast } from 'sonner'
 
 export function SettingsPage() {
   const { user, isAuthenticated, isLoading, setPAT, clearPAT, validatePAT } = useGitHubStore()
+  const {
+    config,
+    updateDiscordWebhook,
+    updateSettings,
+    isLoading: configLoading,
+  } = useSourcesStore()
   const [pat, setPat] = useState(() => localStorage.getItem('github_pat') || '')
-  const [discordWebhook, setDiscordWebhook] = useState('')
   const [saved, setSaved] = useState(false)
+
+  const [discordWebhook, setDiscordWebhook] = useState('')
+  const [maxPosts, setMaxPosts] = useState('10')
+  const [includeImages, setIncludeImages] = useState(true)
+  const [initialized, setInitialized] = useState(false)
 
   useEffect(() => {
     validatePAT()
   }, [validatePAT])
+
+  const configDiscordWebhook = useMemo(
+    () => config?.discord.webhook_url ?? '',
+    [config?.discord.webhook_url]
+  )
+  const configMaxPosts = useMemo(
+    () => config?.settings.max_posts_per_run ?? 10,
+    [config?.settings.max_posts_per_run]
+  )
+  const configIncludeImages = useMemo(
+    () => config?.settings.include_images ?? true,
+    [config?.settings.include_images]
+  )
+
+  useEffect(() => {
+    if (config && !initialized) {
+      setDiscordWebhook(configDiscordWebhook)
+      setMaxPosts(String(configMaxPosts))
+      setIncludeImages(configIncludeImages)
+      setInitialized(true)
+    }
+  }, [config, initialized, configDiscordWebhook, configMaxPosts, configIncludeImages])
 
   const handleSavePAT = async () => {
     if (!pat.trim()) return
@@ -27,6 +62,28 @@ export function SettingsPage() {
   const handleClear = () => {
     clearPAT()
     setPat('')
+  }
+
+  const handleSaveWebhook = async () => {
+    if (!discordWebhook.trim()) {
+      toast.error('Webhook URL is required')
+      return
+    }
+    await updateDiscordWebhook(discordWebhook)
+    toast.success('Discord webhook updated')
+  }
+
+  const handleSaveSettings = async () => {
+    const maxPostsNum = parseInt(maxPosts)
+    if (isNaN(maxPostsNum) || maxPostsNum < 1 || maxPostsNum > 100) {
+      toast.error('Max posts must be between 1 and 100')
+      return
+    }
+    await updateSettings({
+      max_posts_per_run: maxPostsNum,
+      include_images: includeImages,
+    })
+    toast.success('Settings updated')
   }
 
   return (
@@ -100,39 +157,77 @@ export function SettingsPage() {
           </CardContent>
         </Card>
 
-        <Card className="bg-background-card border-background-border opacity-50">
+        <Card className="bg-background-card border-background-border">
           <CardHeader>
             <CardTitle className="text-text-primary">Discord Webhook</CardTitle>
-            <CardDescription>Channel for posting feeds. (Managed via config.yaml)</CardDescription>
+            <CardDescription>Channel for posting feeds.</CardDescription>
           </CardHeader>
           <CardContent className="space-y-4">
             <div className="space-y-2">
               <Label htmlFor="discord-webhook">Webhook URL</Label>
-              <Input
-                id="discord-webhook"
-                value={discordWebhook}
-                onChange={(e) => setDiscordWebhook(e.target.value)}
-                placeholder="https://discord.com/api/webhooks/..."
-                disabled
-              />
+              <div className="flex gap-2">
+                <Input
+                  id="discord-webhook"
+                  value={discordWebhook}
+                  onChange={(e) => setDiscordWebhook(e.target.value)}
+                  placeholder="https://discord.com/api/webhooks/..."
+                  type="password"
+                  className="flex-1"
+                />
+                <Button
+                  onClick={handleSaveWebhook}
+                  disabled={configLoading || !discordWebhook.trim()}
+                >
+                  {configLoading ? <Loader2 className="h-4 w-4 animate-spin" /> : 'Save'}
+                </Button>
+              </div>
               <p className="text-xs text-text-muted">
-                The Discord webhook URL is configured in the repository's config.yaml file. Edit the
-                file directly to change the webhook.
+                The Discord webhook URL where feeds will be posted. Keep this secret.
               </p>
             </div>
           </CardContent>
         </Card>
 
-        <Card className="bg-background-card border-background-border opacity-50">
+        <Card className="bg-background-card border-background-border">
           <CardHeader>
             <CardTitle className="text-text-primary">Global Settings</CardTitle>
-            <CardDescription>Configure feed behavior. (Managed via config.yaml)</CardDescription>
+            <CardDescription>Configure feed behavior.</CardDescription>
           </CardHeader>
           <CardContent className="space-y-4">
-            <p className="text-text-muted text-sm">
-              Settings like max posts per run, image inclusion, and post order are configured
-              directly in the config.yaml file. Use this UI for source management only.
-            </p>
+            <div className="space-y-2">
+              <Label htmlFor="max-posts">Max Posts Per Run</Label>
+              <div className="flex gap-2">
+                <Input
+                  id="max-posts"
+                  type="number"
+                  min={1}
+                  max={100}
+                  value={maxPosts}
+                  onChange={(e) => setMaxPosts(e.target.value)}
+                  className="w-32"
+                />
+              </div>
+              <p className="text-xs text-text-muted">
+                Maximum number of posts per workflow run (1-100).
+              </p>
+            </div>
+
+            <div className="flex items-center justify-between">
+              <div>
+                <Label htmlFor="include-images">Include Images</Label>
+                <p className="text-xs text-text-muted">Show thumbnails in Discord embeds.</p>
+              </div>
+              <Switch
+                id="include-images"
+                checked={includeImages}
+                onCheckedChange={setIncludeImages}
+              />
+            </div>
+
+            <Button onClick={handleSaveSettings} disabled={configLoading}>
+              {configLoading ? <Loader2 className="h-4 w-4 animate-spin mr-2" /> : null}
+              Save Settings
+            </Button>
           </CardContent>
         </Card>
       </div>

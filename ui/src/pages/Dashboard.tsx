@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { useNavigate } from 'react-router'
+import { useNavigate, useSearchParams } from 'react-router'
 import { Plus, AlertCircle, Loader2, Gamepad2 } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Card } from '@/components/ui/card'
@@ -8,12 +8,17 @@ import { StatusHeader } from '@/components/status/StatusHeader'
 import { useSourcesStore } from '@/stores/sources'
 import { useGitHubStore } from '@/stores/github'
 import { useUIStore } from '@/stores/ui'
+import type { SourceType } from '@/types/sources'
 
 export function Dashboard() {
   const { sources, isLoading, error, fetchConfig } = useSourcesStore()
   const { isAuthenticated, validatePAT } = useGitHubStore()
   const { openAddModal } = useUIStore()
   const navigate = useNavigate()
+  const [searchParams] = useSearchParams()
+
+  const typeFilter = searchParams.get('type') as SourceType | null
+  const filteredSources = typeFilter ? sources.filter((s) => s.type === typeFilter) : sources
 
   useEffect(() => {
     validatePAT()
@@ -83,9 +88,13 @@ export function Dashboard() {
 
         <div className="flex items-center justify-between mb-6">
           <div>
-            <h1 className="text-2xl font-semibold text-text-primary">Sources</h1>
+            <h1 className="text-2xl font-semibold text-text-primary">
+              {typeFilter
+                ? typeFilter.replace('_', ' ').replace(/\b\w/g, (l) => l.toUpperCase())
+                : 'Sources'}
+            </h1>
             <p className="text-text-secondary mt-1">
-              {sources.length} source{sources.length !== 1 ? 's' : ''} configured
+              {filteredSources.length} source{filteredSources.length !== 1 ? 's' : ''} configured
             </p>
           </div>
           <Button onClick={openAddModal} className="bg-steam-blue hover:bg-steam-light">
@@ -94,7 +103,7 @@ export function Dashboard() {
           </Button>
         </div>
 
-        {sources.length === 0 ? (
+        {filteredSources.length === 0 ? (
           <Card className="bg-background-card border-background-border p-8 text-center">
             <Gamepad2 className="h-12 w-12 text-text-muted mx-auto mb-4" />
             <h3 className="text-lg font-medium text-text-primary mb-2">No Sources Yet</h3>
@@ -108,7 +117,7 @@ export function Dashboard() {
           </Card>
         ) : (
           <div className="space-y-4">
-            {sources.map((source) => (
+            {filteredSources.map((source) => (
               <SourceCard
                 key={source.id}
                 source={source}
