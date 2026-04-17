@@ -6,7 +6,7 @@ import { AddSourceModal } from '@/components/forms/AddSourceModal'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/discord-feed-bot">
       <Routes>
         <Route element={<AppLayout />}>
           <Route path="/" element={<Dashboard />} />
