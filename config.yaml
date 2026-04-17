@@ -1,11 +1,6 @@
 discord:
   webhook_url: https://discord.com/api/webhooks/1494645106320347156/MbRA0UtccL3mUrYX11OPMwXSMD5ackzqaa7dXbTuHtIHX6Q67DLJfymv6fIgFJUP2RXx
-sources:
-  - id: steam_730
-    type: steam_game
-    name: Counter-Strike 2
-    enabled: true
-    appid: 730
+sources: []
 settings:
   max_posts_per_run: 10
   include_images: true
