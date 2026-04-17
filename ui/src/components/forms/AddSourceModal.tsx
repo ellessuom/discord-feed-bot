@@ -310,7 +310,7 @@ export function AddSourceModal() {
 
   return (
     <Dialog open={isAddModalOpen} onOpenChange={(open) => !open && closeAddModal()}>
-      <DialogContent className="bg-background-card border-background-border max-w-2xl max-h-[85vh] overflow-y-auto">
+      <DialogContent className="bg-background-card border-background-border max-w-3xl max-h-[85vh] overflow-y-auto">
         <DialogHeader>
           <DialogTitle className="text-text-primary">Add New Source</DialogTitle>
           <DialogDescription>Choose a source type to start receiving feeds.</DialogDescription>
@@ -319,7 +319,7 @@ export function AddSourceModal() {
         <div className="space-y-6 mt-4">
           <div className="space-y-3">
             <Label>Select Source Type</Label>
-            <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+            <div className="grid grid-cols-2 gap-4">
               {sourceTypes.map((type) => (
                 <button
                   key={type}

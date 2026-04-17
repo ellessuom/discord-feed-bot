@@ -15,6 +15,8 @@ interface SourcesState {
   removeSource: (id: string) => Promise<void>
   updateSource: (source: Source) => Promise<void>
   toggleSourceEnabled: (id: string) => Promise<void>
+  updateDiscordWebhook: (webhookUrl: string) => Promise<void>
+  updateSettings: (settings: Partial<Config['settings']>) => Promise<void>
   clearError: () => void
 }
 
@@ -143,6 +145,66 @@ export const useSourcesStore = create<SourcesState>((set, get) => ({
     if (!source) return
 
     await updateSource({ ...source, enabled: !source.enabled })
+  },
+
+  updateDiscordWebhook: async (webhookUrl: string) => {
+    const { config, configSha } = get()
+    if (!config || !configSha) {
+      set({ error: 'No config loaded' })
+      return
+    }
+
+    set({ isLoading: true, error: null })
+    try {
+      const token = getGitHubPAT()
+      if (!token) throw new Error('No GitHub PAT found')
+
+      const newConfig = {
+        ...config,
+        discord: { webhook_url: webhookUrl },
+      }
+
+      const yamlContent = serializeConfig(newConfig)
+      const api = new GitHubAPI(token)
+      await api.saveConfig(yamlContent, configSha)
+
+      await get().fetchConfig()
+    } catch (error) {
+      set({
+        error: error instanceof Error ? error.message : 'Failed to update webhook',
+        isLoading: false,
+      })
+    }
+  },
+
+  updateSettings: async (settings: Partial<Config['settings']>) => {
+    const { config, configSha } = get()
+    if (!config || !configSha) {
+      set({ error: 'No config loaded' })
+      return
+    }
+
+    set({ isLoading: true, error: null })
+    try {
+      const token = getGitHubPAT()
+      if (!token) throw new Error('No GitHub PAT found')
+
+      const newConfig = {
+        ...config,
+        settings: { ...config.settings, ...settings },
+      }
+
+      const yamlContent = serializeConfig(newConfig)
+      const api = new GitHubAPI(token)
+      await api.saveConfig(yamlContent, configSha)
+
+      await get().fetchConfig()
+    } catch (error) {
+      set({
+        error: error instanceof Error ? error.message : 'Failed to update settings',
+        isLoading: false,
+      })
+    }
   },
 
   clearError: () => set({ error: null }),
