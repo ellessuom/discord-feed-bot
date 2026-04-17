@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://store.steampowered.com/news/app/730/" rel="self" type="application/rss+xml" />
+    <title>730 RSS Feed</title>
+    <link><![CDATA[https://store.steampowered.com/news/app/730/]]></link>
+    <description><![CDATA[Events and Announcements for 730]]></description>
+    <language>en-us</language>
+    <generator>Steam News RSS</generator>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <description>&lt;p class="bb_paragraph"&gt;Update notes example&lt;/p&gt;</description>
+      <link><![CDATA[https://store.steampowered.com/news/app/730/view/534380184755770151]]></link>
+      <pubDate>Tue, 14 Apr 2026 22:07:40 +0000</pubDate>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/534380184755770151</guid>
+    </item>
+    <item>
+      <title>Animgraph 2 Beta</title>
+      <description>&lt;img src="https://example.com/image.png" /&gt;&lt;br&gt;Beta update.&lt;/description>
+      <link><![CDATA[https://store.steampowered.com/news/app/730/view/528750051218948816]]></link>
+      <pubDate>Wed, 01 Apr 2026 22:35:45 +0000</pubDate>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/528750051218948816</guid>
+      <enclosure url="https://example.com/image.png" length="0" type="image/png" />
+    </item>
+  </channel>
+</rss>
