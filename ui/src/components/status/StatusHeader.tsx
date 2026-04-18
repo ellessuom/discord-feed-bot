@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { Play, CheckCircle, XCircle, Clock, Loader2 } from 'lucide-react'
+import { Play, CheckCircle, XCircle, Clock, Loader2, AlertTriangle } from 'lucide-react'
 import { Card } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
 import { useStatusStore } from '@/stores/status'
@@ -23,7 +23,12 @@ function formatRelativeTime(isoString: string | null): string {
 }
 
 export function StatusHeader() {
-  const { status, isLoading: statusLoading, fetchStatus } = useStatusStore()
+  const {
+    status,
+    isLoading: statusLoading,
+    error: statusError,
+    fetchStatus,
+  } = useStatusStore()
   const { isLoading: githubLoading, triggerWorkflow } = useGitHubStore()
 
   useEffect(() => {
@@ -46,13 +51,19 @@ export function StatusHeader() {
               <CheckCircle className="h-5 w-5 text-status-active" />
             ) : status ? (
               <XCircle className="h-5 w-5 text-status-error" />
+            ) : statusError ? (
+              <AlertTriangle className="h-5 w-5 text-status-warning" />
             ) : (
               <Clock className="h-5 w-5 text-text-muted" />
             )}
             <div>
               <p className="text-xs text-text-muted">Last run</p>
               <p className="text-sm text-text-primary font-medium">
-                {status ? formatRelativeTime(status.lastRun) : 'No data'}
+                {status
+                  ? formatRelativeTime(status.lastRun)
+                  : statusError
+                    ? 'Unable to load status'
+                    : 'Waiting for first run'}
               </p>
             </div>
           </div>

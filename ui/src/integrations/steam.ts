@@ -26,7 +26,11 @@ export async function searchSteamGames(query: string): Promise<SteamGame[]> {
   }
 
   const data = await response.json()
-  return data.items || data.products || []
+  const items = data.items || data.products || []
+  return items.map((item: Record<string, unknown>) => ({
+    ...item,
+    appid: item.appid ?? item.id,
+  })) as SteamGame[]
 }
 
 export function getSteamIcon(appid: number): string {

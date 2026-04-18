@@ -49,15 +49,10 @@ function parseRSSItems(items: Parser.Item[] | undefined, sourceId: string): News
 }
 
 export async function fetchRSS(source: RSSSource): Promise<NewsItem[]> {
-  try {
-    const feed = await withRetry(
-      () => parser.parseURL(source.url),
-      { retries: 2, baseDelayMs: 1000 },
-      { operation: `fetchRSS(${source.name})` }
-    )
-    return parseRSSItems(feed.items, source.id)
-  } catch (error) {
-    console.error(`Error fetching RSS feed ${source.name}:`, error)
-    return []
-  }
+  const feed = await withRetry(
+    () => parser.parseURL(source.url),
+    { retries: 2, baseDelayMs: 1000 },
+    { operation: `fetchRSS(${source.name})` }
+  )
+  return parseRSSItems(feed.items, source.id)
 }

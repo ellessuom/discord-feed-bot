@@ -6,6 +6,7 @@ on:
     paths:
       - 'ui/**'
       - '.github/workflows/deploy-ui.yml'
+      - 'package-lock.json'
   workflow_dispatch:
 
 permissions:
@@ -36,8 +37,8 @@ jobs:
       - name: Build UI
         run: npm run build:ui
         env:
-          VITE_REPO_OWNER: ellessuom
-          VITE_REPO_NAME: discord-feed-bot
+          VITE_REPO_OWNER: ${{ github.repository_owner }}
+          VITE_REPO_NAME: ${{ github.event.repository.name }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

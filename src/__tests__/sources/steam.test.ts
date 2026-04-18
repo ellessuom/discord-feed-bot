@@ -32,7 +32,7 @@ describe('Steam source handler', () => {
     )
 
     test(
-      'returns empty array for invalid appid without throwing',
+      'throws when Steam returns 404 for invalid appid',
       async () => {
         const source: SteamGameSource = {
           id: 'steam-invalid',
@@ -41,10 +41,7 @@ describe('Steam source handler', () => {
           appid: 999999999,
         }
 
-        const items = await fetchGameNews(source)
-
-        expect(Array.isArray(items)).toBe(true)
-        expect(items.length).toBe(0)
+        await expect(fetchGameNews(source)).rejects.toThrow(/Failed after 3 attempts/)
       },
       { retry: 2, timeout: 15000 }
     )

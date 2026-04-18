@@ -142,8 +142,8 @@ describe('discord webhook', () => {
       expect(embed.url).toBe('https://example.com/news/1')
       expect(embed.color).toBe(5814783)
       expect(embed.timestamp).toBe('2024-01-15T12:00:00.000Z')
-      expect(embed.author.name).toBe('Steam News')
-      expect(embed.author.url).toBe('https://store.steampowered.com/')
+      expect(embed.author.name).toBe('Test Source')
+      expect(embed.author.url).toBeUndefined()
       expect(embed.footer.text).toBe('Test Source')
       expect(embed.thumbnail.url).toBe('https://example.com/image.jpg')
       expect(embed.description).toBe('Test content')
@@ -207,6 +207,28 @@ describe('discord webhook', () => {
       expect(body.embeds[0].thumbnail).toBeUndefined()
     })
 
+    test('truncates embed title to 256 characters', async () => {
+      const longTitle = 'x'.repeat(300)
+      const item: NewsItem = {
+        id: 'test-title-len',
+        title: longTitle,
+        url: 'https://example.com/news/long-title',
+        publishedAt: new Date('2024-01-15T12:00:00Z'),
+        source: 'test-source',
+      }
+
+      fetchMock.mockResolvedValueOnce({ ok: true, status: 204 })
+
+      await postNews(item, 'https://discord.com/api/webhooks/test', {
+        sourceName: 'Source',
+      })
+
+      const body = JSON.parse(fetchMock.mock.calls[0]![1].body)
+      const title = body.embeds[0].title as string
+      expect(title.length).toBe(256)
+      expect(title.endsWith('...')).toBe(true)
+    })
+
     test('uses default sourceName when not provided', async () => {
       const item: NewsItem = {
         id: 'test-5',
@@ -221,6 +243,7 @@ describe('discord webhook', () => {
       await postNews(item, 'https://discord.com/api/webhooks/test')
 
       const body = JSON.parse(fetchMock.mock.calls[0]![1].body)
+      expect(body.embeds[0].author.name).toBe('Steam News')
       expect(body.embeds[0].footer.text).toBe('Steam News')
     })
 

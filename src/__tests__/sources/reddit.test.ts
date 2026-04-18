@@ -1,9 +1,26 @@
-import { describe, it, expect } from 'vitest'
+import { describe, it, expect, vi, afterEach } from 'vitest'
+import Parser from 'rss-parser'
 import { fetchReddit } from '../../sources/reddit'
 import type { RedditSource } from '../../sources/types'
 
 describe('fetchReddit', () => {
-  it('returns array for any subreddit (handles errors gracefully)', async () => {
+  afterEach(() => {
+    vi.restoreAllMocks()
+  })
+
+  it('fetches and maps reddit RSS items', async () => {
+    vi.spyOn(Parser.prototype, 'parseURL').mockResolvedValue({
+      items: [
+        {
+          guid: 'https://reddit.com/r/programming/comments/abc123/title',
+          title: 'Hello World',
+          link: 'https://reddit.com/r/programming/comments/abc123/title',
+          pubDate: 'Mon, 01 Jan 2024 12:00:00 GMT',
+          contentSnippet: 'snippet text',
+        },
+      ],
+    })
+
     const source: RedditSource = {
       id: 'reddit-programming',
       type: 'reddit',
@@ -14,22 +31,30 @@ describe('fetchReddit', () => {
     const items = await fetchReddit(source)
 
     expect(Array.isArray(items)).toBe(true)
-  }, 30000)
+    expect(items.length).toBe(1)
+    expect(items[0]!.source).toBe('reddit-programming')
+    expect(items[0]!.title).toBe('Hello World')
+    expect(items[0]!.content).toBe('snippet text')
+  })
 
   it('normalizes subreddit by removing r/ prefix', async () => {
-    const sourceWithPrefix: RedditSource = {
+    const parseURL = vi.spyOn(Parser.prototype, 'parseURL').mockResolvedValue({ items: [] })
+
+    const source: RedditSource = {
       id: 'reddit-programming-prefixed',
       type: 'reddit',
       name: 'Programming Subreddit',
       subreddit: 'r/programming',
     }
 
-    const items = await fetchReddit(sourceWithPrefix)
+    await fetchReddit(source)
 
-    expect(Array.isArray(items)).toBe(true)
-  }, 30000)
+    expect(parseURL).toHaveBeenCalledWith('https://www.reddit.com/r/programming/.rss')
+  })
 
-  it('handles invalid/non-existent subreddit gracefully', async () => {
+  it('propagates parser / HTTP errors', async () => {
+    vi.spyOn(Parser.prototype, 'parseURL').mockRejectedValue(new Error('Status code 403'))
+
     const source: RedditSource = {
       id: 'reddit-invalid',
       type: 'reddit',
@@ -37,12 +62,21 @@ describe('fetchReddit', () => {
       subreddit: 'thisSubredditShouldNotExist123456789xyz',
     }
 
-    const items = await fetchReddit(source)
+    await expect(fetchReddit(source)).rejects.toThrow(/Failed after 3 attempts/)
+  })
 
-    expect(Array.isArray(items)).toBe(true)
-  }, 30000)
+  it('returns items with valid structure when feed has entries', async () => {
+    vi.spyOn(Parser.prototype, 'parseURL').mockResolvedValue({
+      items: [
+        {
+          guid: 'g1',
+          title: 'T',
+          link: 'https://example.com/1',
+          pubDate: 'Mon, 01 Jan 2024 12:00:00 GMT',
+        },
+      ],
+    })
 
-  it('returns items with valid structure when available', async () => {
     const source: RedditSource = {
       id: 'reddit-technology',
       type: 'reddit',
@@ -64,9 +98,22 @@ describe('fetchReddit', () => {
       expect(item.publishedAt instanceof Date).toBe(true)
       expect(typeof item.source).toBe('string')
     }
-  }, 30000)
+  })
 
   it('truncates content to 500 characters when present', async () => {
+    const longSnippet = 'a'.repeat(600)
+    vi.spyOn(Parser.prototype, 'parseURL').mockResolvedValue({
+      items: [
+        {
+          guid: 'g2',
+          title: 'Long',
+          link: 'https://example.com/2',
+          pubDate: 'Mon, 01 Jan 2024 12:00:00 GMT',
+          contentSnippet: longSnippet,
+        },
+      ],
+    })
+
     const source: RedditSource = {
       id: 'reddit-news',
       type: 'reddit',
@@ -80,5 +127,5 @@ describe('fetchReddit', () => {
     for (const item of itemsWithContent) {
       expect(item.content!.length).toBeLessThanOrEqual(500)
     }
-  }, 30000)
+  })
 })

@@ -37,7 +37,20 @@ export function loadStatus(): Status {
   }
 
   const content = fs.readFileSync(statusPath, 'utf-8')
-  const raw = JSON.parse(content) as Partial<Status>
+  let raw: Partial<Status>
+  try {
+    raw = JSON.parse(content) as Partial<Status>
+  } catch {
+    console.warn('Invalid status.json; resetting to default status')
+    return {
+      lastRun: null,
+      success: true,
+      postsCount: 0,
+      sourcesCount: 0,
+      errors: [],
+      nextRun: null,
+    }
+  }
 
   return {
     lastRun: raw.lastRun ?? null,

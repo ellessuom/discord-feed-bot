@@ -70,7 +70,12 @@ export function SettingsPage() {
       return
     }
     await updateDiscordWebhook(discordWebhook)
-    toast.success('Discord webhook updated')
+    const { error } = useSourcesStore.getState()
+    if (error) {
+      toast.error(error)
+    } else {
+      toast.success('Discord webhook updated')
+    }
   }
 
   const handleSaveSettings = async () => {
@@ -83,7 +88,12 @@ export function SettingsPage() {
       max_posts_per_run: maxPostsNum,
       include_images: includeImages,
     })
-    toast.success('Settings updated')
+    const { error } = useSourcesStore.getState()
+    if (error) {
+      toast.error(error)
+    } else {
+      toast.success('Settings updated')
+    }
   }
 
   return (
