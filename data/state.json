@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-18T22:13:49.748Z",
+  "lastRun": "2026-04-18T23:16:16.494Z",
   "postedIds": {
     "steam_news": [
       {
@@ -169,6 +169,10 @@
       {
         "id": "https://store.steampowered.com/news/group/9869/view/518618315048878748",
         "postedAt": "2026-04-18T22:13:49.748Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/578080/view/685251502317503144",
+        "postedAt": "2026-04-18T23:16:16.494Z"
       }
     ],
     "reddit_steamdeals": [
@@ -295,7 +299,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/9869/view/518618315048878748",
+    "steam_news": "https://store.steampowered.com/news/app/578080/view/685251502317503144",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sp5v92/save_60_on_superliminal_on_steam/"
   }
 }
