@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-18T14:20:07.785Z",
+  "lastRun": "2026-04-18T15:18:51.206Z",
   "postedIds": {
     "steam_news": [
       {
@@ -41,6 +41,26 @@
       {
         "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537217",
         "postedAt": "2026-04-18T14:20:07.785Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795281",
+        "postedAt": "2026-04-18T15:18:51.206Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795278",
+        "postedAt": "2026-04-18T15:18:51.206Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503087",
+        "postedAt": "2026-04-18T15:18:51.206Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2416450/view/760686795020042737",
+        "postedAt": "2026-04-18T15:18:51.206Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157402647",
+        "postedAt": "2026-04-18T15:18:51.206Z"
       }
     ],
     "reddit_steamdeals": [
@@ -83,11 +103,31 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1so4kcv/save_82_on_mafia_trilogy_on_steam/",
         "postedAt": "2026-04-18T14:20:07.785Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1so9ibs/save_50_on_kotenok_on_steam/",
+        "postedAt": "2026-04-18T15:18:51.206Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sns8yh/aquarist_60_off_on_steam/",
+        "postedAt": "2026-04-18T15:18:51.206Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sni5aw/save_80_on_quantum_break_on_steam/",
+        "postedAt": "2026-04-18T15:18:51.206Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1snaiua/save_100_on_uncanny_tales_cold_road_on_steam/",
+        "postedAt": "2026-04-18T15:18:51.206Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1snaepv/save_100_on_legend_of_keepers_career_of_a_dungeon/",
+        "postedAt": "2026-04-18T15:18:51.206Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/6070552/view/671740703438537217",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1so4kcv/save_82_on_mafia_trilogy_on_steam/"
+    "steam_news": "https://store.steampowered.com/news/group/3693985/view/493848518157402647",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1snaepv/save_100_on_legend_of_keepers_career_of_a_dungeon/"
   }
 }
