@@ -1,0 +1,30 @@
+{
+  "lastRun": "2026-04-18T13:48:44.505Z",
+  "postedIds": {
+    "steam_news": [
+      {
+        "id": "https://store.steampowered.com/news/group/3081/view/560276612041409024",
+        "postedAt": "2026-04-18T13:48:44.505Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537222",
+        "postedAt": "2026-04-18T13:48:44.505Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157402640",
+        "postedAt": "2026-04-18T13:48:44.505Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537220",
+        "postedAt": "2026-04-18T13:48:44.505Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4777282/view/749427798735585677",
+        "postedAt": "2026-04-18T13:48:44.505Z"
+      }
+    ]
+  },
+  "lastSeen": {
+    "steam_news": "https://store.steampowered.com/news/group/4777282/view/749427798735585677"
+  }
+}
