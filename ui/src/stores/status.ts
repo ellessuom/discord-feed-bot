@@ -28,10 +28,10 @@ export const useStatusStore = create<StatusState>((set) => ({
       const api = new GitHubAPI(token)
       const status = await api.getStatus()
       set({ status, isLoading: false })
-    } catch {
+    } catch (err) {
       set({
         status: null,
-        error: 'Failed to fetch status',
+        error: err instanceof Error ? err.message : 'Failed to fetch status',
         isLoading: false,
       })
     }
