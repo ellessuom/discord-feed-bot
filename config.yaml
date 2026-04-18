@@ -1,6 +1,10 @@
 discord:
   webhook_url: https://discord.com/api/webhooks/1494645106320347156/MbRA0UtccL3mUrYX11OPMwXSMD5ackzqaa7dXbTuHtIHX6Q67DLJfymv6fIgFJUP2RXx
-sources: []
+sources:
+  - id: steam_news
+    type: steam_news
+    name: Steam News
+    enabled: true
 settings:
   max_posts_per_run: 10
   include_images: true
