@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-18T18:20:29.473Z",
+  "lastRun": "2026-04-18T19:20:52.486Z",
   "postedIds": {
     "steam_news": [
       {
@@ -235,11 +235,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sp3o5f/save_90_on_alan_wake_on_steam/",
         "postedAt": "2026-04-18T18:20:29.473Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sp5v92/save_60_on_superliminal_on_steam/",
+        "postedAt": "2026-04-18T19:20:52.486Z"
       }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/group/38666666/view/685251502317503105",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sp3o5f/save_90_on_alan_wake_on_steam/"
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sp5v92/save_60_on_superliminal_on_steam/"
   }
 }
