@@ -100,10 +100,20 @@ export class GitHubAPI {
     })
   }
 
-  async getStatus(): Promise<Status> {
-    const data = await this.fetch<{ content: string }>(
-      `/repos/${REPO_OWNER}/${REPO_NAME}/contents/${STATUS_PATH}`
+  async getStatus(): Promise<Status | null> {
+    const response = await fetch(
+      `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${STATUS_PATH}`,
+      { headers: getHeaders(this.token) },
     )
+
+    if (response.status === 404) return null
+
+    if (!response.ok) {
+      const error = await response.json().catch(() => ({ message: 'Unknown error' }))
+      throw new Error(error.message || `GitHub API error: ${response.status}`)
+    }
+
+    const data = (await response.json()) as { content: string }
     const content = atob(data.content.replace(/\n/g, ''))
     return JSON.parse(content) as Status
   }

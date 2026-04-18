@@ -149,7 +149,15 @@ describe('discord webhook', () => {
     })
 
     test('excludes image when item has no image', () => {
-      const { image: _, ...noImageItem } = baseItem
+      const noImageItem: NewsItem = {
+        id: 'test-no-img',
+        title: 'No Image Item',
+        url: 'https://example.com/no-img',
+        content: 'Some content',
+        snippet: 'Some snippet',
+        publishedAt: new Date('2024-01-15T12:00:00Z'),
+        source: 'test-source',
+      }
       const embed = buildEmbed(noImageItem, { includeImages: true })
 
       expect(embed.image).toBeUndefined()
@@ -167,10 +175,14 @@ describe('discord webhook', () => {
     })
 
     test('falls back to content when snippet is absent', () => {
-      const { snippet: _, ...rest } = baseItem
       const item: NewsItem = {
-        ...rest,
+        id: 'test-no-snippet',
+        title: 'No Snippet Item',
+        url: 'https://example.com/no-snippet',
         content: '<p>Fallback content</p>',
+        publishedAt: new Date('2024-01-15T12:00:00Z'),
+        source: 'test-source',
+        image: 'https://example.com/img.jpg',
       }
 
       const embed = buildEmbed(item)
@@ -188,8 +200,14 @@ describe('discord webhook', () => {
     })
 
     test('excludes description when no content or snippet', () => {
-      const { snippet: _s, content: _c, ...rest } = baseItem
-      const item: NewsItem = rest
+      const item: NewsItem = {
+        id: 'test-no-desc',
+        title: 'No Description Item',
+        url: 'https://example.com/no-desc',
+        publishedAt: new Date('2024-01-15T12:00:00Z'),
+        source: 'test-source',
+        image: 'https://example.com/img.jpg',
+      }
 
       const embed = buildEmbed(item)
       expect(embed.description).toBeUndefined()
