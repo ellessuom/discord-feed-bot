@@ -3,6 +3,7 @@ export interface NewsItem {
   title: string
   url: string
   content?: string
+  snippet?: string
   publishedAt: Date
   source: string
   image?: string

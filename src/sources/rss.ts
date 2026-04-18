@@ -34,6 +34,10 @@ function parseRSSItems(items: Parser.Item[] | undefined, sourceId: string): News
       source: sourceId,
     }
 
+    if (item.contentSnippet) {
+      newsItem.snippet = item.contentSnippet.slice(0, 300)
+    }
+
     if (content) {
       newsItem.content = typeof content === 'string' ? content.slice(0, 2000) : content
     }

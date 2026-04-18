@@ -46,6 +46,7 @@ export type Source =
 
 export interface Settings {
   max_posts_per_run: number
+  max_items_per_source: number
   include_images: boolean
   post_order: 'newest_first' | 'oldest_first'
 }

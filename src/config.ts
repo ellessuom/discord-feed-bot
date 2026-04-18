@@ -21,6 +21,7 @@ const DiscordConfigSchema = z.object({
 const SettingsSchema = z
   .object({
     max_posts_per_run: z.number().int().min(1).max(100).default(10),
+    max_items_per_source: z.number().int().min(1).max(50).default(5),
     include_images: z.boolean().default(true),
     post_order: z.enum(['newest_first', 'oldest_first']).default('newest_first'),
   })
@@ -93,6 +94,7 @@ const ConfigSchema = z.object({
 
 export interface Settings {
   max_posts_per_run: number
+  max_items_per_source: number
   include_images: boolean
   post_order: 'newest_first' | 'oldest_first'
 }
@@ -160,6 +162,7 @@ export function loadConfig(): Config {
 
   const settings: Settings = {
     max_posts_per_run: result.data.settings?.max_posts_per_run ?? 10,
+    max_items_per_source: result.data.settings?.max_items_per_source ?? 5,
     include_images: result.data.settings?.include_images ?? true,
     post_order: result.data.settings?.post_order ?? 'newest_first',
   }

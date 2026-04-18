@@ -24,6 +24,7 @@ function parseRedditItems(items: Parser.Item[] | undefined, sourceId: string): N
     }
 
     if (item.contentSnippet) {
+      newsItem.snippet = item.contentSnippet.slice(0, 300)
       newsItem.content = item.contentSnippet.slice(0, 500)
     }
 

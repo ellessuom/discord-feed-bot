@@ -65,6 +65,7 @@ export async function fetchGitHub(source: GitHubSource): Promise<NewsItem[]> {
     }
 
     if (release.body) {
+      newsItem.snippet = release.body.slice(0, 300)
       newsItem.content = release.body.slice(0, 2000)
     }
 
