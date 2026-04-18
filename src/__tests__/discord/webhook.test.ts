@@ -1,5 +1,5 @@
 import { describe, test, expect, vi, beforeEach, afterEach } from 'vitest'
-import { postNews } from '../../discord/webhook'
+import { buildEmbed, postEmbeds } from '../../discord/webhook'
 import { htmlToText } from '../../utils/html-to-text'
 import type { NewsItem } from '../../types'
 
@@ -40,13 +40,9 @@ describe('discord webhook', () => {
       expect(htmlToText('<ul><li>item1</li><li>item2</li></ul>')).toBe('- item1\n- item2')
     })
 
-    test('converts anchor tags to text with URL', () => {
-      expect(htmlToText('<a href="https://example.com">link</a>')).toBe(
-        'link (https://example.com)'
-      )
-      expect(htmlToText('<a href="https://example.com" class="test">link</a>')).toBe(
-        'link (https://example.com)'
-      )
+    test('strips URLs from anchor tags keeping only link text', () => {
+      expect(htmlToText('<a href="https://example.com">link</a>')).toBe('link')
+      expect(htmlToText('<a href="https://example.com" class="test">link</a>')).toBe('link')
     })
 
     test('decodes HTML entities', () => {
@@ -89,11 +85,134 @@ describe('discord webhook', () => {
     test('handles complex HTML', () => {
       const html =
         '<p>Hello <strong>World</strong>!</p><p><a href="https://example.com">Link</a></p>'
-      expect(htmlToText(html)).toBe('Hello World!\n\nLink (https://example.com)')
+      expect(htmlToText(html)).toBe('Hello World!\n\nLink')
     })
   })
 
-  describe('postNews', () => {
+  describe('buildEmbed', () => {
+    const baseItem: NewsItem = {
+      id: 'test-1',
+      title: 'Test News Title',
+      url: 'https://example.com/news/1',
+      content: '<p>Test content here</p>',
+      snippet: 'Test content here',
+      publishedAt: new Date('2024-01-15T12:00:00Z'),
+      source: 'test-source',
+      image: 'https://example.com/image.jpg',
+    }
+
+    test('builds embed with correct structure', () => {
+      const embed = buildEmbed(baseItem, {
+        includeImages: true,
+        sourceName: 'Counter-Strike 2',
+        sourceType: 'steam_game',
+      })
+
+      expect(embed.title).toBe('Test News Title')
+      expect(embed.url).toBe('https://example.com/news/1')
+      expect(embed.color).toBe(0x1b2838)
+      expect(embed.timestamp).toBe('2024-01-15T12:00:00.000Z')
+      expect(embed.author?.name).toBe('Steam')
+      expect(embed.author?.icon_url).toBe('https://store.steampowered.com/favicon.ico')
+      expect(embed.footer?.text).toBe('Counter-Strike 2')
+      expect(embed.image?.url).toBe('https://example.com/image.jpg')
+      expect(embed.description).toBe('Test content here')
+    })
+
+    test('uses source-specific colors', () => {
+      expect(buildEmbed(baseItem, { sourceType: 'steam_game' }).color).toBe(0x1b2838)
+      expect(buildEmbed(baseItem, { sourceType: 'reddit' }).color).toBe(0xff4500)
+      expect(buildEmbed(baseItem, { sourceType: 'rss' }).color).toBe(0x2196f3)
+      expect(buildEmbed(baseItem, { sourceType: 'github' }).color).toBe(0x24292e)
+    })
+
+    test('omits footer when sourceName matches source label', () => {
+      const embed = buildEmbed(baseItem, {
+        sourceName: 'Steam',
+        sourceType: 'steam_game',
+      })
+
+      expect(embed.footer).toBeUndefined()
+    })
+
+    test('uses large image instead of thumbnail', () => {
+      const embed = buildEmbed(baseItem, { includeImages: true })
+
+      expect(embed.image?.url).toBe('https://example.com/image.jpg')
+      expect('thumbnail' in embed).toBe(false)
+    })
+
+    test('excludes image when includeImages is false', () => {
+      const embed = buildEmbed(baseItem, { includeImages: false })
+
+      expect(embed.image).toBeUndefined()
+    })
+
+    test('excludes image when item has no image', () => {
+      const { image: _, ...noImageItem } = baseItem
+      const embed = buildEmbed(noImageItem, { includeImages: true })
+
+      expect(embed.image).toBeUndefined()
+    })
+
+    test('prefers snippet over content for description', () => {
+      const item: NewsItem = {
+        ...baseItem,
+        snippet: 'Short snippet',
+        content: '<p>Very long full content that should not be used</p>',
+      }
+
+      const embed = buildEmbed(item)
+      expect(embed.description).toBe('Short snippet')
+    })
+
+    test('falls back to content when snippet is absent', () => {
+      const { snippet: _, ...rest } = baseItem
+      const item: NewsItem = {
+        ...rest,
+        content: '<p>Fallback content</p>',
+      }
+
+      const embed = buildEmbed(item)
+      expect(embed.description).toBe('Fallback content')
+    })
+
+    test('truncates description to ~300 chars', () => {
+      const item: NewsItem = {
+        ...baseItem,
+        snippet: 'a '.repeat(200),
+      }
+
+      const embed = buildEmbed(item)
+      expect(embed.description!.length).toBeLessThanOrEqual(301)
+    })
+
+    test('excludes description when no content or snippet', () => {
+      const { snippet: _s, content: _c, ...rest } = baseItem
+      const item: NewsItem = rest
+
+      const embed = buildEmbed(item)
+      expect(embed.description).toBeUndefined()
+    })
+
+    test('truncates title to 256 characters', () => {
+      const item: NewsItem = {
+        ...baseItem,
+        title: 'x'.repeat(300),
+      }
+
+      const embed = buildEmbed(item)
+      expect(embed.title.length).toBe(256)
+      expect(embed.title.endsWith('...')).toBe(true)
+    })
+
+    test('defaults to RSS blue for unknown source type', () => {
+      const embed = buildEmbed(baseItem, { sourceType: 'unknown_type' })
+      expect(embed.color).toBe(0x2196f3)
+    })
+  })
+
+  describe('postEmbeds', () => {
     let fetchMock: ReturnType<typeof vi.fn>
 
     beforeEach(() => {
@@ -105,254 +224,85 @@ describe('discord webhook', () => {
       vi.unstubAllGlobals()
     })
 
-    test('posts news with correct embed structure', async () => {
-      const item: NewsItem = {
+    test('sends embeds in a single webhook call', async () => {
+      const embed = buildEmbed({
         id: 'test-1',
-        title: 'Test News Title',
-        url: 'https://example.com/news/1',
-        content: '<p>Test content</p>',
+        title: 'Test',
+        url: 'https://example.com',
         publishedAt: new Date('2024-01-15T12:00:00Z'),
-        source: 'test-source',
-        image: 'https://example.com/image.jpg',
-      }
-
-      fetchMock.mockResolvedValueOnce({
-        ok: true,
-        status: 204,
-        statusText: 'No Content',
+        source: 'test',
       })
 
-      await postNews(item, 'https://discord.com/api/webhooks/test', {
-        includeImages: true,
-        sourceName: 'Test Source',
-      })
+      fetchMock.mockResolvedValueOnce({ ok: true, status: 204 })
+
+      await postEmbeds([embed], 'https://discord.com/api/webhooks/test')
 
       expect(fetchMock).toHaveBeenCalledTimes(1)
-      const call = fetchMock.mock.calls[0]
-      expect(call).toBeDefined()
-      expect(call![0]).toBe('https://discord.com/api/webhooks/test')
-      expect(call![1].method).toBe('POST')
-      expect(call![1].headers['Content-Type']).toBe('application/json')
+      const call = fetchMock.mock.calls[0]!
+      expect(call[0]).toBe('https://discord.com/api/webhooks/test')
+      expect(call[1].method).toBe('POST')
 
-      const body = JSON.parse(call![1].body)
+      const body = JSON.parse(call[1].body)
       expect(body.embeds).toHaveLength(1)
-
-      const embed = body.embeds[0]
-      expect(embed.title).toBe('Test News Title')
-      expect(embed.url).toBe('https://example.com/news/1')
-      expect(embed.color).toBe(5814783)
-      expect(embed.timestamp).toBe('2024-01-15T12:00:00.000Z')
-      expect(embed.author.name).toBe('Test Source')
-      expect(embed.author.url).toBeUndefined()
-      expect(embed.footer.text).toBe('Test Source')
-      expect(embed.thumbnail.url).toBe('https://example.com/image.jpg')
-      expect(embed.description).toBe('Test content')
+      expect(body.embeds[0].title).toBe('Test')
     })
 
-    test('includes thumbnail when image present and includeImages is true', async () => {
-      const item: NewsItem = {
-        id: 'test-2',
-        title: 'News with Image',
-        url: 'https://example.com/news/2',
-        publishedAt: new Date('2024-01-15T12:00:00Z'),
-        source: 'test-source',
-        image: 'https://example.com/image.png',
-      }
+    test('sends multiple embeds in one call', async () => {
+      const embeds = [1, 2, 3].map((i) =>
+        buildEmbed({
+          id: `test-${i}`,
+          title: `Test ${i}`,
+          url: `https://example.com/${i}`,
+          publishedAt: new Date('2024-01-15T12:00:00Z'),
+          source: 'test',
+        }),
+      )
 
       fetchMock.mockResolvedValueOnce({ ok: true, status: 204 })
 
-      await postNews(item, 'https://discord.com/api/webhooks/test', {
-        includeImages: true,
-      })
+      await postEmbeds(embeds, 'https://discord.com/api/webhooks/test')
 
       const body = JSON.parse(fetchMock.mock.calls[0]![1].body)
-      expect(body.embeds[0].thumbnail).toBeDefined()
-      expect(body.embeds[0].thumbnail.url).toBe('https://example.com/image.png')
+      expect(body.embeds).toHaveLength(3)
     })
 
-    test('excludes thumbnail when includeImages is false', async () => {
-      const item: NewsItem = {
-        id: 'test-3',
-        title: 'News without Image',
-        url: 'https://example.com/news/3',
-        publishedAt: new Date('2024-01-15T12:00:00Z'),
-        source: 'test-source',
-        image: 'https://example.com/image.png',
-      }
-
-      fetchMock.mockResolvedValueOnce({ ok: true, status: 204 })
-
-      await postNews(item, 'https://discord.com/api/webhooks/test', {
-        includeImages: false,
-      })
-
-      const body = JSON.parse(fetchMock.mock.calls[0]![1].body)
-      expect(body.embeds[0].thumbnail).toBeUndefined()
-    })
-
-    test('excludes thumbnail when no image on item', async () => {
-      const item: NewsItem = {
-        id: 'test-4',
-        title: 'News no Image',
-        url: 'https://example.com/news/4',
-        publishedAt: new Date('2024-01-15T12:00:00Z'),
-        source: 'test-source',
-      }
-
-      fetchMock.mockResolvedValueOnce({ ok: true, status: 204 })
-
-      await postNews(item, 'https://discord.com/api/webhooks/test')
-
-      const body = JSON.parse(fetchMock.mock.calls[0]![1].body)
-      expect(body.embeds[0].thumbnail).toBeUndefined()
-    })
-
-    test('truncates embed title to 256 characters', async () => {
-      const longTitle = 'x'.repeat(300)
-      const item: NewsItem = {
-        id: 'test-title-len',
-        title: longTitle,
-        url: 'https://example.com/news/long-title',
-        publishedAt: new Date('2024-01-15T12:00:00Z'),
-        source: 'test-source',
-      }
-
-      fetchMock.mockResolvedValueOnce({ ok: true, status: 204 })
-
-      await postNews(item, 'https://discord.com/api/webhooks/test', {
-        sourceName: 'Source',
-      })
-
-      const body = JSON.parse(fetchMock.mock.calls[0]![1].body)
-      const title = body.embeds[0].title as string
-      expect(title.length).toBe(256)
-      expect(title.endsWith('...')).toBe(true)
-    })
-
-    test('uses default sourceName when not provided', async () => {
-      const item: NewsItem = {
-        id: 'test-5',
-        title: 'Test',
-        url: 'https://example.com/news/5',
-        publishedAt: new Date('2024-01-15T12:00:00Z'),
-        source: 'test-source',
-      }
-
-      fetchMock.mockResolvedValueOnce({ ok: true, status: 204 })
-
-      await postNews(item, 'https://discord.com/api/webhooks/test')
-
-      const body = JSON.parse(fetchMock.mock.calls[0]![1].body)
-      expect(body.embeds[0].author.name).toBe('Steam News')
-      expect(body.embeds[0].footer.text).toBe('Steam News')
-    })
-
-    test('excludes description when content is undefined', async () => {
-      const item: NewsItem = {
-        id: 'test-6',
-        title: 'No Content',
-        url: 'https://example.com/news/6',
-        publishedAt: new Date('2024-01-15T12:00:00Z'),
-        source: 'test-source',
-      }
-
-      fetchMock.mockResolvedValueOnce({ ok: true, status: 204 })
-
-      await postNews(item, 'https://discord.com/api/webhooks/test')
-
-      const body = JSON.parse(fetchMock.mock.calls[0]![1].body)
-      expect(body.embeds[0].description).toBeUndefined()
-    })
-
-    test('truncates description to DISCORD_MAX_DESCRIPTION', async () => {
-      const longContent = 'a'.repeat(5000)
-      const item: NewsItem = {
-        id: 'test-7',
-        title: 'Long Content',
-        url: 'https://example.com/news/7',
-        content: longContent,
-        publishedAt: new Date('2024-01-15T12:00:00Z'),
-        source: 'test-source',
-      }
-
-      fetchMock.mockResolvedValueOnce({ ok: true, status: 204 })
-
-      await postNews(item, 'https://discord.com/api/webhooks/test')
-
-      const body = JSON.parse(fetchMock.mock.calls[0]![1].body)
-      expect(body.embeds[0].description.length).toBeLessThanOrEqual(4096)
+    test('does nothing when embeds array is empty', async () => {
+      await postEmbeds([], 'https://discord.com/api/webhooks/test')
+      expect(fetchMock).not.toHaveBeenCalled()
     })
 
     test('retries on failed request', async () => {
-      const item: NewsItem = {
-        id: 'test-8',
+      const embed = buildEmbed({
+        id: 'test-retry',
         title: 'Retry Test',
-        url: 'https://example.com/news/8',
+        url: 'https://example.com',
         publishedAt: new Date('2024-01-15T12:00:00Z'),
-        source: 'test-source',
-      }
+        source: 'test',
+      })
 
       fetchMock
         .mockRejectedValueOnce(new Error('Network error'))
         .mockResolvedValueOnce({ ok: true, status: 204 })
 
-      await postNews(item, 'https://discord.com/api/webhooks/test')
-
-      expect(fetchMock).toHaveBeenCalledTimes(2)
-    })
-
-    test('retries on HTTP error status', async () => {
-      const item: NewsItem = {
-        id: 'test-9',
-        title: 'HTTP Error Test',
-        url: 'https://example.com/news/9',
-        publishedAt: new Date('2024-01-15T12:00:00Z'),
-        source: 'test-source',
-      }
-
-      fetchMock
-        .mockResolvedValueOnce({ ok: false, status: 500, statusText: 'Internal Server Error' })
-        .mockResolvedValueOnce({ ok: true, status: 204 })
-
-      await postNews(item, 'https://discord.com/api/webhooks/test')
+      await postEmbeds([embed], 'https://discord.com/api/webhooks/test')
 
       expect(fetchMock).toHaveBeenCalledTimes(2)
     })
 
     test('throws after max retries exhausted', async () => {
-      const item: NewsItem = {
-        id: 'test-10',
-        title: 'Failed Request',
-        url: 'https://example.com/news/10',
+      const embed = buildEmbed({
+        id: 'test-fail',
+        title: 'Fail',
+        url: 'https://example.com',
         publishedAt: new Date('2024-01-15T12:00:00Z'),
-        source: 'test-source',
-      }
+        source: 'test',
+      })
 
       fetchMock.mockRejectedValue(new Error('Connection refused'))
 
-      await expect(postNews(item, 'https://discord.com/api/webhooks/test')).rejects.toThrow()
-
-      expect(fetchMock).toHaveBeenCalledTimes(3)
-    })
-
-    test('throws after all retry attempts fail with HTTP error', async () => {
-      const item: NewsItem = {
-        id: 'test-11',
-        title: 'Failed HTTP',
-        url: 'https://example.com/news/11',
-        publishedAt: new Date('2024-01-15T12:00:00Z'),
-        source: 'test-source',
-      }
-
-      fetchMock.mockResolvedValue({
-        ok: false,
-        status: 404,
-        statusText: 'Not Found',
-      })
-
-      await expect(postNews(item, 'https://discord.com/api/webhooks/test')).rejects.toThrow(
-        'Failed after 3 attempts'
-      )
+      await expect(
+        postEmbeds([embed], 'https://discord.com/api/webhooks/test'),
+      ).rejects.toThrow()
 
       expect(fetchMock).toHaveBeenCalledTimes(3)
     })

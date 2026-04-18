@@ -23,6 +23,7 @@ export function SettingsPage() {
 
   const [discordWebhook, setDiscordWebhook] = useState('')
   const [maxPosts, setMaxPosts] = useState('10')
+  const [maxItemsPerSource, setMaxItemsPerSource] = useState('5')
   const [includeImages, setIncludeImages] = useState(true)
   const [initialized, setInitialized] = useState(false)
 
@@ -38,6 +39,10 @@ export function SettingsPage() {
     () => config?.settings.max_posts_per_run ?? 10,
     [config?.settings.max_posts_per_run]
   )
+  const configMaxItemsPerSource = useMemo(
+    () => config?.settings.max_items_per_source ?? 5,
+    [config?.settings.max_items_per_source]
+  )
   const configIncludeImages = useMemo(
     () => config?.settings.include_images ?? true,
     [config?.settings.include_images]
@@ -47,10 +52,18 @@ export function SettingsPage() {
     if (config && !initialized) {
       setDiscordWebhook(configDiscordWebhook)
       setMaxPosts(String(configMaxPosts))
+      setMaxItemsPerSource(String(configMaxItemsPerSource))
       setIncludeImages(configIncludeImages)
       setInitialized(true)
     }
-  }, [config, initialized, configDiscordWebhook, configMaxPosts, configIncludeImages])
+  }, [
+    config,
+    initialized,
+    configDiscordWebhook,
+    configMaxPosts,
+    configMaxItemsPerSource,
+    configIncludeImages,
+  ])
 
   const handleSavePAT = async () => {
     if (!pat.trim()) return
@@ -84,8 +97,14 @@ export function SettingsPage() {
       toast.error('Max posts must be between 1 and 100')
       return
     }
+    const maxItemsNum = parseInt(maxItemsPerSource)
+    if (isNaN(maxItemsNum) || maxItemsNum < 1 || maxItemsNum > 50) {
+      toast.error('Max items per source must be between 1 and 50')
+      return
+    }
     await updateSettings({
       max_posts_per_run: maxPostsNum,
+      max_items_per_source: maxItemsNum,
       include_images: includeImages,
     })
     const { error } = useSourcesStore.getState()
@@ -218,7 +237,26 @@ export function SettingsPage() {
                 />
               </div>
               <p className="text-xs text-text-muted">
-                Maximum number of posts per workflow run (1-100).
+                Maximum total posts per workflow run (1-100).
+              </p>
+            </div>
+
+            <div className="space-y-2">
+              <Label htmlFor="max-items-per-source">Max Items Per Source</Label>
+              <div className="flex gap-2">
+                <Input
+                  id="max-items-per-source"
+                  type="number"
+                  min={1}
+                  max={50}
+                  value={maxItemsPerSource}
+                  onChange={(e) => setMaxItemsPerSource(e.target.value)}
+                  className="w-32"
+                />
+              </div>
+              <p className="text-xs text-text-muted">
+                Cap per individual source to prevent one noisy feed from filling the entire run
+                (1-50).
               </p>
             </div>
 

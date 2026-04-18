@@ -81,6 +81,7 @@ describe('config', () => {
       const config = loadConfig()
 
       expect(config.settings.max_posts_per_run).toBe(10)
+      expect(config.settings.max_items_per_source).toBe(5)
       expect(config.settings.include_images).toBe(true)
       expect(config.settings.post_order).toBe('newest_first')
     })
@@ -90,6 +91,7 @@ describe('config', () => {
         ...validConfig,
         settings: {
           max_posts_per_run: 50,
+          max_items_per_source: 10,
           include_images: false,
           post_order: 'oldest_first',
         },
@@ -98,6 +100,7 @@ describe('config', () => {
       const config = loadConfig()
 
       expect(config.settings.max_posts_per_run).toBe(50)
+      expect(config.settings.max_items_per_source).toBe(10)
       expect(config.settings.include_images).toBe(false)
       expect(config.settings.post_order).toBe('oldest_first')
     })
@@ -283,6 +286,28 @@ describe('config', () => {
         ...validConfig,
         settings: {
           max_posts_per_run: 101,
+        },
+      })
+
+      expect(() => loadConfig()).toThrow('Config validation failed')
+    })
+
+    test('throws error for max_items_per_source below minimum', () => {
+      writeConfig({
+        ...validConfig,
+        settings: {
+          max_items_per_source: 0,
+        },
+      })
+
+      expect(() => loadConfig()).toThrow('Config validation failed')
+    })
+
+    test('throws error for max_items_per_source exceeding limit', () => {
+      writeConfig({
+        ...validConfig,
+        settings: {
+          max_items_per_source: 51,
         },
       })
 

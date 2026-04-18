@@ -243,6 +243,7 @@ export function parseConfig(yamlContent: string): Config {
 
   const defaultSettings: Settings = {
     max_posts_per_run: 10,
+    max_items_per_source: 5,
     include_images: true,
     post_order: 'newest_first',
   }

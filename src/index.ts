@@ -4,7 +4,9 @@ import { dispatchSource, getSourceName } from './sources'
 import { loadConfig } from './config'
 import { loadState, saveState, isNewItem, markPosted } from './state'
 import { saveStatus, calculateNextRun, type StatusError } from './status'
-import { postNews } from './discord/webhook'
+import { buildEmbed, postEmbeds, type BuildEmbedOptions } from './discord/webhook'
+
+const EMBEDS_PER_MESSAGE = 10
 
 interface SourceResult {
   source: Source
@@ -21,6 +23,7 @@ async function main(): Promise<void> {
 
   const results: SourceResult[] = []
   const enabledSources = config.sources.filter((s) => s.enabled !== false)
+  const maxItemsPerSource = config.settings.max_items_per_source
 
   console.log(`Fetching news for ${enabledSources.length} source(s)...`)
 
@@ -28,7 +31,15 @@ async function main(): Promise<void> {
     console.log(`  Fetching: ${source.name}...`)
     try {
       const items = await dispatchSource(source)
-      const newItems = items.filter((n) => isNewItem(n.id, source.id, state))
+      let newItems = items.filter((n) => isNewItem(n.id, source.id, state))
+
+      if (newItems.length > maxItemsPerSource) {
+        console.log(
+          `    Capping ${source.name} from ${newItems.length} to ${maxItemsPerSource} items`,
+        )
+        newItems = newItems.slice(0, maxItemsPerSource)
+      }
+
       results.push({ source, items: newItems, error: null })
       console.log(`    ${items.length} items found, ${newItems.length} new`)
     } catch (error) {
@@ -66,29 +77,46 @@ async function main(): Promise<void> {
     saveState(state)
   }
 
-  console.log(`Posting ${postsToDiscord.length} new post(s) to Discord...`)
+  const sourceMap = new Map(enabledSources.map((s) => [s.id, s]))
+  const embeds = postsToDiscord.map((item) => {
+    const source = sourceMap.get(item.source)
+    const opts: BuildEmbedOptions = {
+      includeImages: config.settings.include_images,
+      sourceName: source ? getSourceName(source) : 'Unknown',
+    }
+    if (source) {
+      opts.sourceType = source.type
+    }
+    return { embed: buildEmbed(item, opts), item }
+  })
+
+  console.log(`Posting ${embeds.length} new post(s) to Discord...`)
   const postingErrors: StatusError[] = []
   let postsDelivered = 0
-  for (const item of postsToDiscord) {
-    const source = enabledSources.find((s) => s.id === item.source)
-    const sourceName = source ? getSourceName(source) : 'Unknown'
+
+  for (let i = 0; i < embeds.length; i += EMBEDS_PER_MESSAGE) {
+    const batch = embeds.slice(i, i + EMBEDS_PER_MESSAGE)
 
     try {
-      await postNews(item, config.discord.webhook_url, {
-        includeImages: config.settings.include_images,
-        sourceName,
-      })
-      markPosted(item.id, item.source, state)
+      await postEmbeds(
+        batch.map((b) => b.embed),
+        config.discord.webhook_url,
+      )
+      for (const { item } of batch) {
+        markPosted(item.id, item.source, state)
+        postsDelivered++
+      }
       saveState(state)
-      postsDelivered++
     } catch (error) {
       const errorMsg = error instanceof Error ? error.message : 'Unknown error'
-      console.error(`    Post error: ${errorMsg}`)
-      postingErrors.push({
-        source: item.source,
-        message: errorMsg,
-        time: new Date().toISOString(),
-      })
+      console.error(`    Batch post error: ${errorMsg}`)
+      for (const { item } of batch) {
+        postingErrors.push({
+          source: item.source,
+          message: errorMsg,
+          time: new Date().toISOString(),
+        })
+      }
     }
   }
 
@@ -96,14 +124,13 @@ async function main(): Promise<void> {
 
   const now = new Date().toISOString()
   const success = errors.length === 0
-  const allErrors = errors
 
   saveStatus({
     lastRun: now,
     success,
     postsCount: postsDelivered,
     sourcesCount: enabledSources.length,
-    errors: allErrors,
+    errors,
     nextRun: calculateNextRun(now),
   })
 
@@ -111,7 +138,7 @@ async function main(): Promise<void> {
     console.log(`Done! Posted ${postsDelivered} new post(s).`)
   } else {
     console.log(
-      `Done! Posted ${postsDelivered} new post(s). ${errors.length} error(s) this run.`
+      `Done! Posted ${postsDelivered} new post(s). ${errors.length} error(s) this run.`,
     )
   }
 }

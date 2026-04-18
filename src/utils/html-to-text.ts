@@ -15,7 +15,7 @@ export function htmlToText(html: string, maxLength: number = 4096): string {
     .replace(/<\/div>/gi, '\n')
     .replace(/<\/li>/gi, '\n')
     .replace(/<li[^>]*>/gi, '- ')
-    .replace(/<a[^>]*href="([^"]*)"[^>]*>([^<]*)<\/a>/gi, '$2 ($1)')
+    .replace(/<a[^>]*>([^<]*)<\/a>/gi, '$1')
     .replace(/<[^>]+>/g, '')
     .replace(/&nbsp;/g, ' ')
     .replace(/&amp;/g, '&')

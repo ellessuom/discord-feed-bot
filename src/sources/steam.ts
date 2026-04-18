@@ -30,6 +30,10 @@ function parseRssItems(items: Parser.Item[] | undefined, sourceId: string): News
       source: sourceId,
     }
 
+    if (item.contentSnippet) {
+      newsItem.snippet = item.contentSnippet.slice(0, 300)
+    }
+
     if (content) {
       newsItem.content = content
     }
