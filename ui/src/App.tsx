@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router'
+import { HashRouter, Routes, Route } from 'react-router'
 import { AppLayout } from '@/components/layout/AppLayout'
 import { Dashboard } from '@/pages/Dashboard'
 import { SettingsPage } from '@/pages/Settings'
@@ -6,7 +6,7 @@ import { AddSourceModal } from '@/components/forms/AddSourceModal'
 
 function App() {
   return (
-    <BrowserRouter basename="/discord-feed-bot">
+    <HashRouter>
       <Routes>
         <Route element={<AppLayout />}>
           <Route path="/" element={<Dashboard />} />
@@ -14,7 +14,7 @@ function App() {
         </Route>
       </Routes>
       <AddSourceModal />
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 

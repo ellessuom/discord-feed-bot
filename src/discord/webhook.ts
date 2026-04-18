@@ -36,14 +36,16 @@ export async function postNews(
 ): Promise<void> {
   const { includeImages = true, sourceName = 'Steam News' } = options
 
+  const title =
+    item.title.length > 256 ? `${item.title.substring(0, 253)}...` : item.title
+
   const embed: DiscordEmbed = {
-    title: item.title,
+    title,
     url: item.url,
     color: DISCORD_EMBED_COLOR,
     timestamp: item.publishedAt.toISOString(),
     author: {
-      name: 'Steam News',
-      url: 'https://store.steampowered.com/',
+      name: sourceName,
     },
     footer: {
       text: sourceName,
@@ -78,9 +80,9 @@ export async function postNews(
         throw new Error(`Discord API error: ${response.status} ${response.statusText}`)
       }
 
-      console.log(`Posted: ${item.title}`)
+      console.log(`Posted: ${title}`)
     },
     { retries: 2, baseDelayMs: 1000 },
-    { operation: `postNews(${item.title})` }
+    { operation: `postNews(${title})` }
   )
 }

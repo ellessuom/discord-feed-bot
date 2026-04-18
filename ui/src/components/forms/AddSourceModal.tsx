@@ -251,10 +251,16 @@ function RSSForm({ onAdd }: { onAdd: (source: Source) => void }) {
   const [name, setName] = useState('')
 
   const handleAdd = () => {
+    let hostname = url
+    try {
+      hostname = new URL(url).hostname
+    } catch {
+      // keep raw url as fallback
+    }
     const source: Source = {
       id: `rss_${safeBase64Encode(url).slice(0, 12)}`,
       type: 'rss',
-      name: name || new URL(url).hostname,
+      name: name || hostname,
       url,
       enabled: true,
     }
@@ -342,13 +348,16 @@ function GitHubForm({ onAdd }: { onAdd: (source: Source) => void }) {
 
 export function AddSourceModal() {
   const { isAddModalOpen, closeAddModal } = useUIStore()
-  const { addSource, isLoading } = useSourcesStore()
+  const { addSource, isLoading, error: saveError } = useSourcesStore()
   const [selectedType, setSelectedType] = useState<SourceType | null>(null)
 
   const handleAdd = async (source: Source) => {
     await addSource(source)
-    closeAddModal()
-    setSelectedType(null)
+    const { error } = useSourcesStore.getState()
+    if (!error) {
+      closeAddModal()
+      setSelectedType(null)
+    }
   }
 
   return (
@@ -396,6 +405,12 @@ export function AddSourceModal() {
             <Loader2 className="h-4 w-4 animate-spin" />
             Saving...
           </div>
+        )}
+
+        {saveError && (
+          <Alert variant="destructive">
+            <AlertDescription>{saveError}</AlertDescription>
+          </Alert>
         )}
       </DialogContent>
     </Dialog>

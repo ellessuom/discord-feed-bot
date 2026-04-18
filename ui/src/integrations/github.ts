@@ -69,7 +69,7 @@ export class GitHubAPI {
       `/repos/${REPO_OWNER}/${REPO_NAME}/contents/${path}`
     )
     return {
-      content: atob(data.content),
+      content: atob(data.content.replace(/\n/g, '')),
       sha: data.sha,
     }
   }
@@ -104,7 +104,7 @@ export class GitHubAPI {
     const data = await this.fetch<{ content: string }>(
       `/repos/${REPO_OWNER}/${REPO_NAME}/contents/${STATUS_PATH}`
     )
-    const content = atob(data.content)
+    const content = atob(data.content.replace(/\n/g, ''))
     return JSON.parse(content) as Status
   }
 

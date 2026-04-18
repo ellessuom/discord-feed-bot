@@ -37,15 +37,10 @@ export async function fetchReddit(source: RedditSource): Promise<NewsItem[]> {
   const subreddit = source.subreddit.replace(/^r\//, '')
   const url = `https://www.reddit.com/r/${subreddit}/.rss`
 
-  try {
-    const feed = await withRetry(
-      () => parser.parseURL(url),
-      { retries: 2, baseDelayMs: 1000 },
-      { operation: `fetchReddit(${subreddit})` }
-    )
-    return parseRedditItems(feed.items, source.id)
-  } catch (error) {
-    console.error(`Error fetching Reddit r/${subreddit}:`, error)
-    return []
-  }
+  const feed = await withRetry(
+    () => parser.parseURL(url),
+    { retries: 2, baseDelayMs: 1000 },
+    { operation: `fetchReddit(${subreddit})` }
+  )
+  return parseRedditItems(feed.items, source.id)
 }

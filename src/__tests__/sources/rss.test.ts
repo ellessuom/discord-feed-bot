@@ -46,7 +46,7 @@ describe('fetchRSS', () => {
     }
   }, 30000)
 
-  it('handles invalid URL gracefully', async () => {
+  it('propagates errors for invalid URL', async () => {
     const source: RSSSource = {
       id: 'invalid-rss',
       type: 'rss',
@@ -54,13 +54,10 @@ describe('fetchRSS', () => {
       url: 'https://thisurldoesnotexist123456789.invalid/rss.xml',
     }
 
-    const items = await fetchRSS(source)
-
-    expect(Array.isArray(items)).toBe(true)
-    expect(items.length).toBe(0)
+    await expect(fetchRSS(source)).rejects.toThrow(/Failed after 3 attempts/)
   }, 30000)
 
-  it('handles malformed URL gracefully', async () => {
+  it('propagates errors for malformed URL', async () => {
     const source: RSSSource = {
       id: 'malformed-rss',
       type: 'rss',
@@ -68,10 +65,7 @@ describe('fetchRSS', () => {
       url: 'not-a-valid-url',
     }
 
-    const items = await fetchRSS(source)
-
-    expect(Array.isArray(items)).toBe(true)
-    expect(items.length).toBe(0)
+    await expect(fetchRSS(source)).rejects.toThrow(/Failed after 3 attempts/)
   }, 30000)
 
   it('returns items with valid structure', async () => {
