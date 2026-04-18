@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-18T19:20:52.486Z",
+  "lastRun": "2026-04-18T20:15:18.030Z",
   "postedIds": {
     "steam_news": [
       {
@@ -117,6 +117,26 @@
       {
         "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503105",
         "postedAt": "2026-04-18T18:20:29.473Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795305",
+        "postedAt": "2026-04-18T20:15:18.030Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503127",
+        "postedAt": "2026-04-18T20:15:18.030Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795303",
+        "postedAt": "2026-04-18T20:15:18.030Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795301",
+        "postedAt": "2026-04-18T20:15:18.030Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795299",
+        "postedAt": "2026-04-18T20:15:18.030Z"
       }
     ],
     "reddit_steamdeals": [
@@ -243,7 +263,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/38666666/view/685251502317503105",
+    "steam_news": "https://store.steampowered.com/news/group/1850/view/506233417998795299",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sp5v92/save_60_on_superliminal_on_steam/"
   }
 }
