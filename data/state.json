@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-18T17:17:22.995Z",
+  "lastRun": "2026-04-18T18:20:29.473Z",
   "postedIds": {
     "steam_news": [
       {
@@ -97,6 +97,26 @@
       {
         "id": "https://store.steampowered.com/news/group/9869/view/518618315048878737",
         "postedAt": "2026-04-18T17:17:22.995Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503115",
+        "postedAt": "2026-04-18T18:20:29.473Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503113",
+        "postedAt": "2026-04-18T18:20:29.473Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503111",
+        "postedAt": "2026-04-18T18:20:29.473Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503109",
+        "postedAt": "2026-04-18T18:20:29.473Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503105",
+        "postedAt": "2026-04-18T18:20:29.473Z"
       }
     ],
     "reddit_steamdeals": [
@@ -199,11 +219,27 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1smvgxj/save_80_on_cyborg3003_on_steam/",
         "postedAt": "2026-04-18T17:17:22.995Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sp43g2/save_50_on_atomfall_on_steam/",
+        "postedAt": "2026-04-18T18:20:29.473Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sp3qtb/save_30_on_satisfactory_on_steam/",
+        "postedAt": "2026-04-18T18:20:29.473Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sp3pr0/save_50_on_valheim_on_steam/",
+        "postedAt": "2026-04-18T18:20:29.473Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sp3o5f/save_90_on_alan_wake_on_steam/",
+        "postedAt": "2026-04-18T18:20:29.473Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/9869/view/518618315048878737",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1smvgxj/save_80_on_cyborg3003_on_steam/"
+    "steam_news": "https://store.steampowered.com/news/group/38666666/view/685251502317503105",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sp3o5f/save_90_on_alan_wake_on_steam/"
   }
 }
