@@ -19,8 +19,14 @@ import type { SourceType, Source } from '@/types/sources'
 import { SOURCE_TYPE_INFO } from '@/types/sources'
 import { safeBase64Encode } from '@/utils/encoding'
 
-const sourceTypes: SourceType[] = ['steam_game', 'reddit', 'rss', 'github']
-const comingSoonTypes: SourceType[] = ['steam_news', 'steam_sales']
+const sourceTypes: SourceType[] = [
+  'steam_game',
+  'steam_news',
+  'steam_sales',
+  'reddit',
+  'rss',
+  'github',
+]
 
 function SteamGameForm({ onAdd }: { onAdd: (source: Source) => void }) {
   const [query, setQuery] = useState('')
@@ -162,6 +168,43 @@ function SteamGameForm({ onAdd }: { onAdd: (source: Source) => void }) {
           </Button>
         </div>
       </div>
+    </div>
+  )
+}
+
+function SteamNewsForm({ onAdd }: { onAdd: (source: Source) => void }) {
+  return (
+    <div className="space-y-4">
+      <p className="text-text-secondary text-sm">
+        Steam News provides platform-wide announcements from Valve (Steam updates, events, features,
+        etc.).
+      </p>
+      <Button
+        onClick={() =>
+          onAdd({ id: 'steam_news', type: 'steam_news', name: 'Steam News', enabled: true })
+        }
+      >
+        Add Steam News
+      </Button>
+    </div>
+  )
+}
+
+function SteamSalesForm({ onAdd }: { onAdd: (source: Source) => void }) {
+  return (
+    <div className="space-y-4">
+      <p className="text-text-secondary text-sm">
+        Steam Sales shows current deals and featured promotions from the Steam store. Updates
+        periodically with the latest discounts.
+      </p>
+      <Button
+        onClick={() =>
+          onAdd({ id: 'steam_sales', type: 'steam_sales', name: 'Steam Sales', enabled: true })
+        }
+        className="bg-steam-blue hover:bg-steam-light"
+      >
+        Add Steam Sales
+      </Button>
     </div>
   )
 }
@@ -338,26 +381,11 @@ export function AddSourceModal() {
                 </button>
               ))}
             </div>
-
-            <div className="grid grid-cols-2 gap-3 mt-2">
-              {comingSoonTypes.map((type) => (
-                <button
-                  key={type}
-                  disabled
-                  className="p-4 rounded-lg border border-background-border bg-background/50 text-left opacity-50 cursor-not-allowed"
-                >
-                  <div className="flex items-center gap-2 mb-2 text-text-muted">
-                    <SourceIcon type={type} className="h-5 w-5" />
-                    <span className="font-medium">{SOURCE_TYPE_INFO[type].label}</span>
-                  </div>
-                  <p className="text-xs text-text-muted">{SOURCE_TYPE_INFO[type].description}</p>
-                  <p className="text-xs text-status-warning mt-1">Coming Soon</p>
-                </button>
-              ))}
-            </div>
           </div>
 
           {selectedType === 'steam_game' && <SteamGameForm onAdd={handleAdd} />}
+          {selectedType === 'steam_news' && <SteamNewsForm onAdd={handleAdd} />}
+          {selectedType === 'steam_sales' && <SteamSalesForm onAdd={handleAdd} />}
           {selectedType === 'reddit' && <RedditForm onAdd={handleAdd} />}
           {selectedType === 'rss' && <RSSForm onAdd={handleAdd} />}
           {selectedType === 'github' && <GitHubForm onAdd={handleAdd} />}
