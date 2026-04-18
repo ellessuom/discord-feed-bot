@@ -1,0 +1,53 @@
+{
+  "lastRun": "2026-04-18T14:08:11.501Z",
+  "postedIds": {
+    "steam_news": [
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503084",
+        "postedAt": "2026-04-18T14:08:11.501Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/3081/view/560276612041409024",
+        "postedAt": "2026-04-18T14:08:11.501Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537222",
+        "postedAt": "2026-04-18T14:08:11.501Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4777282/view/749427798735585677",
+        "postedAt": "2026-04-18T14:08:11.501Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4777282/view/541135584198923083",
+        "postedAt": "2026-04-18T14:08:11.501Z"
+      }
+    ],
+    "reddit_steamdeals": [
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1soxh7y/dawn_of_man_is_50_off_this_week_1249/",
+        "postedAt": "2026-04-18T14:08:11.501Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1soqmm0/save_85_on_deadlight_directors_cut_179/",
+        "postedAt": "2026-04-18T14:08:11.501Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1songfk/save_75_on_what_remains_of_edith_finch_on_steam/",
+        "postedAt": "2026-04-18T14:08:11.501Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1soneeg/save_90_on_inside_on_steam_229_249/",
+        "postedAt": "2026-04-18T14:08:11.501Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sond4m/save_90_on_control_ultimate_edition_on_steam_399/",
+        "postedAt": "2026-04-18T14:08:11.501Z"
+      }
+    ]
+  },
+  "lastSeen": {
+    "steam_news": "https://store.steampowered.com/news/group/4777282/view/541135584198923083",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sond4m/save_90_on_control_ultimate_edition_on_steam_399/"
+  }
+}
