@@ -1,15 +1,41 @@
-import { describe, it, expect, vi, afterEach } from 'vitest'
+import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest'
 import Parser from 'rss-parser'
 import { fetchReddit } from '../../sources/reddit'
 import type { RedditSource } from '../../sources/types'
 
+const MOCK_RSS_XML = '<rss><channel></channel></rss>'
+
+function mockFetchAndParse(parseResult: { items: Parser.Item[] }) {
+  vi.stubGlobal(
+    'fetch',
+    vi.fn().mockResolvedValue({
+      ok: true,
+      status: 200,
+      text: () => Promise.resolve(MOCK_RSS_XML),
+    }),
+  )
+  vi.spyOn(Parser.prototype, 'parseString').mockResolvedValue(parseResult)
+}
+
 describe('fetchReddit', () => {
+  beforeEach(() => {
+    vi.stubGlobal(
+      'fetch',
+      vi.fn().mockResolvedValue({
+        ok: true,
+        status: 200,
+        text: () => Promise.resolve(MOCK_RSS_XML),
+      }),
+    )
+  })
+
   afterEach(() => {
     vi.restoreAllMocks()
+    vi.unstubAllGlobals()
   })
 
   it('fetches and maps reddit RSS items', async () => {
-    vi.spyOn(Parser.prototype, 'parseURL').mockResolvedValue({
+    mockFetchAndParse({
       items: [
         {
           guid: 'https://reddit.com/r/programming/comments/abc123/title',
@@ -38,7 +64,7 @@ describe('fetchReddit', () => {
   })
 
   it('normalizes subreddit by removing r/ prefix', async () => {
-    const parseURL = vi.spyOn(Parser.prototype, 'parseURL').mockResolvedValue({ items: [] })
+    mockFetchAndParse({ items: [] })
 
     const source: RedditSource = {
       id: 'reddit-programming-prefixed',
@@ -49,11 +75,24 @@ describe('fetchReddit', () => {
 
     await fetchReddit(source)
 
-    expect(parseURL).toHaveBeenCalledWith('https://www.reddit.com/r/programming/.rss')
+    const fetchMock = vi.mocked(fetch)
+    expect(fetchMock).toHaveBeenCalledWith(
+      'https://www.reddit.com/r/programming/.rss',
+      expect.objectContaining({
+        headers: expect.objectContaining({ 'User-Agent': expect.any(String) }),
+      }),
+    )
   })
 
   it('propagates parser / HTTP errors', async () => {
-    vi.spyOn(Parser.prototype, 'parseURL').mockRejectedValue(new Error('Status code 403'))
+    vi.stubGlobal(
+      'fetch',
+      vi.fn().mockResolvedValue({
+        ok: false,
+        status: 403,
+        text: () => Promise.resolve(''),
+      }),
+    )
 
     const source: RedditSource = {
       id: 'reddit-invalid',
@@ -66,7 +105,7 @@ describe('fetchReddit', () => {
   })
 
   it('returns items with valid structure when feed has entries', async () => {
-    vi.spyOn(Parser.prototype, 'parseURL').mockResolvedValue({
+    mockFetchAndParse({
       items: [
         {
           guid: 'g1',
@@ -102,7 +141,7 @@ describe('fetchReddit', () => {
 
   it('truncates content to 500 characters when present', async () => {
     const longSnippet = 'a'.repeat(600)
-    vi.spyOn(Parser.prototype, 'parseURL').mockResolvedValue({
+    mockFetchAndParse({
       items: [
         {
           guid: 'g2',
