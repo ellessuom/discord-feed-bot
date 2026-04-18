@@ -5,6 +5,11 @@ sources:
     type: steam_news
     name: Steam News
     enabled: true
+  - id: reddit_steamdeals
+    type: reddit
+    name: r/steamdeals
+    enabled: true
+    subreddit: steamdeals
 settings:
   max_posts_per_run: 10
   include_images: true
