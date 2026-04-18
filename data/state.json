@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-18T15:18:51.206Z",
+  "lastRun": "2026-04-18T16:17:10.072Z",
   "postedIds": {
     "steam_news": [
       {
@@ -61,6 +61,22 @@
       {
         "id": "https://store.steampowered.com/news/group/3693985/view/493848518157402647",
         "postedAt": "2026-04-18T15:18:51.206Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701169",
+        "postedAt": "2026-04-18T16:17:10.072Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795285",
+        "postedAt": "2026-04-18T16:17:10.072Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503094",
+        "postedAt": "2026-04-18T16:17:10.072Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/578080/view/685251502317502983",
+        "postedAt": "2026-04-18T16:17:10.072Z"
       }
     ],
     "reddit_steamdeals": [
@@ -123,11 +139,31 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1snaepv/save_100_on_legend_of_keepers_career_of_a_dungeon/",
         "postedAt": "2026-04-18T15:18:51.206Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1snblp1/save_20_on_north_hunt_on_steam/",
+        "postedAt": "2026-04-18T16:17:10.072Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1snaigh/save_100_on_stickman_killing_zombie_on_steam/",
+        "postedAt": "2026-04-18T16:17:10.072Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sn6uc1/save_66_on_hugepixel_collection_vol_3_on_steam/",
+        "postedAt": "2026-04-18T16:17:10.072Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sn3mkd/save_91_on_axes_guns_itorah_x_orbital_bullet_on/",
+        "postedAt": "2026-04-18T16:17:10.072Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1smuu6g/car_mechanic_simulator_2021_is_80_off_on_steam/",
+        "postedAt": "2026-04-18T16:17:10.072Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/3693985/view/493848518157402647",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1snaepv/save_100_on_legend_of_keepers_career_of_a_dungeon/"
+    "steam_news": "https://store.steampowered.com/news/app/578080/view/685251502317502983",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1smuu6g/car_mechanic_simulator_2021_is_80_off_on_steam/"
   }
 }
