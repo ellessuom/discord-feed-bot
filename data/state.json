@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-18T16:17:10.072Z",
+  "lastRun": "2026-04-18T17:17:22.995Z",
   "postedIds": {
     "steam_news": [
       {
@@ -77,6 +77,26 @@
       {
         "id": "https://store.steampowered.com/news/app/578080/view/685251502317502983",
         "postedAt": "2026-04-18T16:17:10.072Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701171",
+        "postedAt": "2026-04-18T17:17:22.995Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503103",
+        "postedAt": "2026-04-18T17:17:22.995Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/33025617/view/537751546857783309",
+        "postedAt": "2026-04-18T17:17:22.995Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/33788459/view/563648694026502519",
+        "postedAt": "2026-04-18T17:17:22.995Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/9869/view/518618315048878737",
+        "postedAt": "2026-04-18T17:17:22.995Z"
       }
     ],
     "reddit_steamdeals": [
@@ -159,11 +179,31 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1smuu6g/car_mechanic_simulator_2021_is_80_off_on_steam/",
         "postedAt": "2026-04-18T16:17:10.072Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sp25f1/save_60_on_the_world_ends_in_ohio_159/",
+        "postedAt": "2026-04-18T17:17:22.995Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1snsgi8/food_store_simulator_75_off/",
+        "postedAt": "2026-04-18T17:17:22.995Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1snsbea/pharmacy_simulator_70_off/",
+        "postedAt": "2026-04-18T17:17:22.995Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1snbsa8/save_10_on_stickman_3d_tennis_deluxe/",
+        "postedAt": "2026-04-18T17:17:22.995Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1smvgxj/save_80_on_cyborg3003_on_steam/",
+        "postedAt": "2026-04-18T17:17:22.995Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/app/578080/view/685251502317502983",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1smuu6g/car_mechanic_simulator_2021_is_80_off_on_steam/"
+    "steam_news": "https://store.steampowered.com/news/group/9869/view/518618315048878737",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1smvgxj/save_80_on_cyborg3003_on_steam/"
   }
 }
