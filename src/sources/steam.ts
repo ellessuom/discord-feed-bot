@@ -72,7 +72,54 @@ export async function fetchSteamNews(source: SteamNewsSource): Promise<NewsItem[
   }
 }
 
+interface SteamSaleItem {
+  id: number
+  name: string
+  discount_percent: number
+  original_price?: number
+  final_price?: number
+  header_image?: string
+}
+
+interface SteamFeaturedCategories {
+  specials?: {
+    items: SteamSaleItem[]
+  }
+}
+
 export async function fetchSteamSales(_source: SteamSalesSource): Promise<NewsItem[]> {
-  console.warn('Steam sales source type is not yet implemented')
-  return []
+  try {
+    const response = await fetch('https://store.steampowered.com/api/featuredcategories/')
+
+    if (!response.ok) {
+      throw new Error(`Steam API error: ${response.status}`)
+    }
+
+    const data = (await response.json()) as SteamFeaturedCategories
+    const specials = data.specials?.items || []
+
+    if (!Array.isArray(specials) || specials.length === 0) {
+      return []
+    }
+
+    return specials.slice(0, 20).map((item): NewsItem => {
+      const newsItem: NewsItem = {
+        id: `sale_${item.id}`,
+        title: `${item.name} - ${item.discount_percent}% OFF`,
+        url: `https://store.steampowered.com/app/${item.id}/`,
+        publishedAt: new Date(),
+        source: _source.id,
+        content: `Was $${((item.original_price ?? 0) / 100).toFixed(2)}, now $${((item.final_price ?? 0) / 100).toFixed(2)}`,
+      }
+
+      if (item.header_image) {
+        newsItem.image = item.header_image
+      }
+
+      return newsItem
+    })
+  } catch (error) {
+    console.error('Error fetching Steam sales:', error)
+    return []
+  }
 }

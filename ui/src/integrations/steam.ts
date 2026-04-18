@@ -18,9 +18,8 @@ export interface SteamGame {
 export async function searchSteamGames(query: string): Promise<SteamGame[]> {
   if (!query.trim()) return []
 
-  const response = await fetch(
-    `https://store.steampowered.com/api/storesearch/?term=${encodeURIComponent(query)}&l=english&cc=US`
-  )
+  const steamUrl = `https://store.steampowered.com/api/storesearch/?term=${encodeURIComponent(query)}&l=english&cc=US`
+  const response = await fetch(`https://corsproxy.io/?url=${encodeURIComponent(steamUrl)}`)
 
   if (!response.ok) {
     throw new Error('Steam API error')

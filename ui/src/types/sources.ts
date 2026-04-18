@@ -70,12 +70,12 @@ export const SOURCE_TYPE_INFO: Record<
   steam_news: {
     icon: 'Newspaper',
     label: 'Steam News',
-    description: 'General Steam platform news',
+    description: 'Platform-wide announcements',
   },
   steam_sales: {
     icon: 'Percent',
     label: 'Steam Sales',
-    description: 'Steam sales and promotions (Coming Soon)',
+    description: 'Current deals & promotions',
   },
   reddit: {
     icon: 'MessageCircle',
