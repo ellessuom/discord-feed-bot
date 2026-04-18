@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-18T14:08:11.501Z",
+  "lastRun": "2026-04-18T14:20:07.785Z",
   "postedIds": {
     "steam_news": [
       {
@@ -21,6 +21,26 @@
       {
         "id": "https://store.steampowered.com/news/group/4777282/view/541135584198923083",
         "postedAt": "2026-04-18T14:08:11.501Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795276",
+        "postedAt": "2026-04-18T14:20:07.785Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157402640",
+        "postedAt": "2026-04-18T14:20:07.785Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537220",
+        "postedAt": "2026-04-18T14:20:07.785Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2507950/view/523121185690487972",
+        "postedAt": "2026-04-18T14:20:07.785Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537217",
+        "postedAt": "2026-04-18T14:20:07.785Z"
       }
     ],
     "reddit_steamdeals": [
@@ -43,11 +63,31 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sond4m/save_90_on_control_ultimate_edition_on_steam_399/",
         "postedAt": "2026-04-18T14:08:11.501Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1soxi19/the_mobius_machine_is_50_off_this_week_999/",
+        "postedAt": "2026-04-18T14:20:07.785Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1soxhlm/planetbase_is_50_off_this_week_749/",
+        "postedAt": "2026-04-18T14:20:07.785Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sox16c/save_70_on_hugepixel_collection_vol_1_on_steam/",
+        "postedAt": "2026-04-18T14:20:07.785Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sob8hz/my_game_zona_origin_pcvr_is_40_off_on_steam/",
+        "postedAt": "2026-04-18T14:20:07.785Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1so4kcv/save_82_on_mafia_trilogy_on_steam/",
+        "postedAt": "2026-04-18T14:20:07.785Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/4777282/view/541135584198923083",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sond4m/save_90_on_control_ultimate_edition_on_steam_399/"
+    "steam_news": "https://store.steampowered.com/news/group/6070552/view/671740703438537217",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1so4kcv/save_82_on_mafia_trilogy_on_steam/"
   }
 }
