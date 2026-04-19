@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-19T08:27:38.880Z",
+  "lastRun": "2026-04-19T09:22:38.284Z",
   "postedIds": {
     "steam_news": [
       {
@@ -351,11 +351,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1spj9mb/save_35_on_manor_lords_on_steam/",
         "postedAt": "2026-04-19T05:06:36.418Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1spo5dp/save_75_on_crypt_robbery_less_than_one_dollar/",
+        "postedAt": "2026-04-19T09:22:38.284Z"
       }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/group/38666666/view/685251502317503170",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spj9mb/save_35_on_manor_lords_on_steam/"
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spo5dp/save_75_on_crypt_robbery_less_than_one_dollar/"
   }
 }
