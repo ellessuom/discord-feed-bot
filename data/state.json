@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-19T07:36:19.820Z",
+  "lastRun": "2026-04-19T08:27:38.880Z",
   "postedIds": {
     "steam_news": [
       {
@@ -205,6 +205,10 @@
       {
         "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537243",
         "postedAt": "2026-04-19T07:36:19.820Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503170",
+        "postedAt": "2026-04-19T08:27:38.880Z"
       }
     ],
     "reddit_steamdeals": [
@@ -351,7 +355,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/6070552/view/671740703438537243",
+    "steam_news": "https://store.steampowered.com/news/group/38666666/view/685251502317503170",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spj9mb/save_35_on_manor_lords_on_steam/"
   }
 }
