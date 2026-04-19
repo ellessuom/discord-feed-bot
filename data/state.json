@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-19T12:20:23.410Z",
+  "lastRun": "2026-04-19T13:31:46.714Z",
   "postedIds": {
     "steam_news": [
       {
@@ -229,6 +229,26 @@
       {
         "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537259",
         "postedAt": "2026-04-19T12:20:23.410Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/3081/view/560276612041409079",
+        "postedAt": "2026-04-19T13:31:46.714Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701234",
+        "postedAt": "2026-04-19T13:31:46.714Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503182",
+        "postedAt": "2026-04-19T13:31:46.714Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795339",
+        "postedAt": "2026-04-19T13:31:46.714Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701232",
+        "postedAt": "2026-04-19T13:31:46.714Z"
       }
     ],
     "reddit_steamdeals": [
@@ -379,11 +399,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1spom3w/save_10_on_stickman_3d_wingsuit_deluxe/",
         "postedAt": "2026-04-19T10:19:29.402Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1spskyv/steam_gladiator_command_399_20/",
+        "postedAt": "2026-04-19T13:31:46.714Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/6070552/view/671740703438537259",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spom3w/save_10_on_stickman_3d_wingsuit_deluxe/"
+    "steam_news": "https://store.steampowered.com/news/group/38509069/view/737042897415701232",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spskyv/steam_gladiator_command_399_20/"
   }
 }
