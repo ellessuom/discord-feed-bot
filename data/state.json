@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-19T09:22:38.284Z",
+  "lastRun": "2026-04-19T10:19:29.402Z",
   "postedIds": {
     "steam_news": [
       {
@@ -209,6 +209,10 @@
       {
         "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503170",
         "postedAt": "2026-04-19T08:27:38.880Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/3041230/view/725783900692939217",
+        "postedAt": "2026-04-19T10:19:29.402Z"
       }
     ],
     "reddit_steamdeals": [
@@ -355,11 +359,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1spo5dp/save_75_on_crypt_robbery_less_than_one_dollar/",
         "postedAt": "2026-04-19T09:22:38.284Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1spom3w/save_10_on_stickman_3d_wingsuit_deluxe/",
+        "postedAt": "2026-04-19T10:19:29.402Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/38666666/view/685251502317503170",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spo5dp/save_75_on_crypt_robbery_less_than_one_dollar/"
+    "steam_news": "https://store.steampowered.com/news/app/3041230/view/725783900692939217",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spom3w/save_10_on_stickman_3d_wingsuit_deluxe/"
   }
 }
