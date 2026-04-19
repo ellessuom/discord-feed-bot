@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-19T14:19:53.901Z",
+  "lastRun": "2026-04-19T15:19:17.288Z",
   "postedIds": {
     "steam_news": [
       {
@@ -261,6 +261,10 @@
       {
         "id": "https://store.steampowered.com/news/group/3693985/view/493848518157402706",
         "postedAt": "2026-04-19T14:19:53.901Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701242",
+        "postedAt": "2026-04-19T15:19:17.288Z"
       }
     ],
     "reddit_steamdeals": [
@@ -419,7 +423,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/3693985/view/493848518157402706",
+    "steam_news": "https://store.steampowered.com/news/group/38509069/view/737042897415701242",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spskyv/steam_gladiator_command_399_20/"
   }
 }
