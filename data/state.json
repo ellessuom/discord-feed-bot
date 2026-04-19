@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-19T03:13:03.987Z",
+  "lastRun": "2026-04-19T05:06:36.418Z",
   "postedIds": {
     "steam_news": [
       {
@@ -177,6 +177,14 @@
       {
         "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503150",
         "postedAt": "2026-04-19T00:52:51.429Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503157",
+        "postedAt": "2026-04-19T05:06:36.418Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/36850264/view/508483852893685861",
+        "postedAt": "2026-04-19T05:06:36.418Z"
       }
     ],
     "reddit_steamdeals": [
@@ -315,11 +323,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1spfxg6/save_70_on_hugepixel_collection_vol_2_on_steam/",
         "postedAt": "2026-04-19T03:13:03.987Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1spj9mb/save_35_on_manor_lords_on_steam/",
+        "postedAt": "2026-04-19T05:06:36.418Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/38204750/view/685251502317503150",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spfxg6/save_70_on_hugepixel_collection_vol_2_on_steam/"
+    "steam_news": "https://store.steampowered.com/news/group/36850264/view/508483852893685861",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spj9mb/save_35_on_manor_lords_on_steam/"
   }
 }
