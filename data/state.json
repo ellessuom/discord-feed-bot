@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-19T18:20:14.378Z",
+  "lastRun": "2026-04-19T19:21:10.219Z",
   "postedIds": {
     "steam_news": [
       {
@@ -325,6 +325,10 @@
       {
         "id": "https://store.steampowered.com/news/group/1850/view/506233417998795352",
         "postedAt": "2026-04-19T18:20:14.378Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/9869/view/518618315048878785",
+        "postedAt": "2026-04-19T19:21:10.219Z"
       }
     ],
     "reddit_steamdeals": [
@@ -487,7 +491,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/1850/view/506233417998795352",
+    "steam_news": "https://store.steampowered.com/news/group/9869/view/518618315048878785",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spxax0/metro_franchise_sale_90_off/"
   }
 }
