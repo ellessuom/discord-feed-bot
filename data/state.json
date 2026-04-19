@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-19T15:19:17.288Z",
+  "lastRun": "2026-04-19T16:17:08.586Z",
   "postedIds": {
     "steam_news": [
       {
@@ -265,6 +265,26 @@
       {
         "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701242",
         "postedAt": "2026-04-19T15:19:17.288Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701247",
+        "postedAt": "2026-04-19T16:17:08.586Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/3041230/view/725783900692939208",
+        "postedAt": "2026-04-19T16:17:08.586Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795350",
+        "postedAt": "2026-04-19T16:17:08.586Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/227300/view/786582495226233008",
+        "postedAt": "2026-04-19T16:17:08.586Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/578080/view/685251502317502986",
+        "postedAt": "2026-04-19T16:17:08.586Z"
       }
     ],
     "reddit_steamdeals": [
@@ -419,11 +439,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1spskyv/steam_gladiator_command_399_20/",
         "postedAt": "2026-04-19T13:31:46.714Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1spxax0/metro_franchise_sale_90_off/",
+        "postedAt": "2026-04-19T16:17:08.586Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/38509069/view/737042897415701242",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spskyv/steam_gladiator_command_399_20/"
+    "steam_news": "https://store.steampowered.com/news/app/578080/view/685251502317502986",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spxax0/metro_franchise_sale_90_off/"
   }
 }
