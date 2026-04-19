@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-19T19:21:10.219Z",
+  "lastRun": "2026-04-19T20:15:53.430Z",
   "postedIds": {
     "steam_news": [
       {
@@ -329,6 +329,22 @@
       {
         "id": "https://store.steampowered.com/news/group/9869/view/518618315048878785",
         "postedAt": "2026-04-19T19:21:10.219Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503213",
+        "postedAt": "2026-04-19T20:15:53.430Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503209",
+        "postedAt": "2026-04-19T20:15:53.430Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503211",
+        "postedAt": "2026-04-19T20:15:53.430Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6858187/view/719028498906219110",
+        "postedAt": "2026-04-19T20:15:53.430Z"
       }
     ],
     "reddit_steamdeals": [
@@ -491,7 +507,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/9869/view/518618315048878785",
+    "steam_news": "https://store.steampowered.com/news/group/6858187/view/719028498906219110",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spxax0/metro_franchise_sale_90_off/"
   }
 }
