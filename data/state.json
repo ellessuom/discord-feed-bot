@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-19T10:19:29.402Z",
+  "lastRun": "2026-04-19T11:17:57.221Z",
   "postedIds": {
     "steam_news": [
       {
@@ -213,6 +213,14 @@
       {
         "id": "https://store.steampowered.com/news/app/3041230/view/725783900692939217",
         "postedAt": "2026-04-19T10:19:29.402Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/42342144/view/671740703438537251",
+        "postedAt": "2026-04-19T11:17:57.221Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/42342144/view/671740703438537249",
+        "postedAt": "2026-04-19T11:17:57.221Z"
       }
     ],
     "reddit_steamdeals": [
@@ -367,7 +375,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/app/3041230/view/725783900692939217",
+    "steam_news": "https://store.steampowered.com/news/group/42342144/view/671740703438537249",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spom3w/save_10_on_stickman_3d_wingsuit_deluxe/"
   }
 }
