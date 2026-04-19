@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-19T00:52:51.429Z",
+  "lastRun": "2026-04-19T03:13:03.987Z",
   "postedIds": {
     "steam_news": [
       {
@@ -299,11 +299,27 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sp5v92/save_60_on_superliminal_on_steam/",
         "postedAt": "2026-04-18T19:20:52.486Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1spheud/save_75_on_disco_elysium_the_final_cut_on_steam/",
+        "postedAt": "2026-04-19T03:13:03.987Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sph5mi/save_75_on_the_outer_worlds_on_steam/",
+        "postedAt": "2026-04-19T03:13:03.987Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sph4aq/save_80_on_total_war_shogun_2_on_steam/",
+        "postedAt": "2026-04-19T03:13:03.987Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1spfxg6/save_70_on_hugepixel_collection_vol_2_on_steam/",
+        "postedAt": "2026-04-19T03:13:03.987Z"
       }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/group/38204750/view/685251502317503150",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sp5v92/save_60_on_superliminal_on_steam/"
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spfxg6/save_70_on_hugepixel_collection_vol_2_on_steam/"
   }
 }
