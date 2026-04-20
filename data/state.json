@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-04-20T06:57:00.472Z",
+  "lastRun": "2026-04-20T07:43:30.443Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157402640",
-        "postedAt": "2026-04-18T14:20:07.785Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537220",
-        "postedAt": "2026-04-18T14:20:07.785Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/2507950/view/523121185690487972",
-        "postedAt": "2026-04-18T14:20:07.785Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537217",
-        "postedAt": "2026-04-18T14:20:07.785Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795281",
-        "postedAt": "2026-04-18T15:18:51.206Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795278",
         "postedAt": "2026-04-18T15:18:51.206Z"
@@ -401,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130463",
         "postedAt": "2026-04-20T06:57:00.472Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130470",
+        "postedAt": "2026-04-20T07:43:30.443Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130472",
+        "postedAt": "2026-04-20T07:43:30.443Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795417",
+        "postedAt": "2026-04-20T07:43:30.443Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2416450/view/760686795020042839",
+        "postedAt": "2026-04-20T07:43:30.443Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/3679080/view/503980887274164904",
+        "postedAt": "2026-04-20T07:43:30.443Z"
       }
     ],
     "reddit_steamdeals": [
@@ -567,7 +567,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/4218320/view/526499614836130463",
+    "steam_news": "https://store.steampowered.com/news/app/3679080/view/503980887274164904",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sq9e1f/save_90_on_en_garde_on_steam/"
   }
 }
