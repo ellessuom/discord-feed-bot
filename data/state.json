@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-04-20T16:33:50.585Z",
+  "lastRun": "2026-04-20T17:28:33.001Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537259",
-        "postedAt": "2026-04-19T12:20:23.410Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/3081/view/560276612041409079",
-        "postedAt": "2026-04-19T13:31:46.714Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701234",
-        "postedAt": "2026-04-19T13:31:46.714Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503182",
-        "postedAt": "2026-04-19T13:31:46.714Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795339",
-        "postedAt": "2026-04-19T13:31:46.714Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701232",
         "postedAt": "2026-04-19T13:31:46.714Z"
@@ -401,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/group/33042543/view/617697508773068811",
         "postedAt": "2026-04-20T16:33:50.585Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701622",
+        "postedAt": "2026-04-20T17:28:33.001Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/41316928/view/534375749569742739",
+        "postedAt": "2026-04-20T17:28:33.001Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/33273264/view/527624151312106128",
+        "postedAt": "2026-04-20T17:28:33.001Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4283115/view/500599386552664986",
+        "postedAt": "2026-04-20T17:28:33.001Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2807960/view/526499614836130025",
+        "postedAt": "2026-04-20T17:28:33.001Z"
       }
     ],
     "reddit_steamdeals": [
@@ -571,11 +571,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sql9jq/save_10_on_all_hail_the_orb_on_steam/",
         "postedAt": "2026-04-20T10:40:34.166Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sqvm6b/squad_tactics_heist_rpg_cyber_knights_flashpoint/",
+        "postedAt": "2026-04-20T17:28:33.001Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/33042543/view/617697508773068811",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sql9jq/save_10_on_all_hail_the_orb_on_steam/"
+    "steam_news": "https://store.steampowered.com/news/app/2807960/view/526499614836130025",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sqvm6b/squad_tactics_heist_rpg_cyber_knights_flashpoint/"
   }
 }
