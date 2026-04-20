@@ -1,11 +1,7 @@
 {
-  "lastRun": "2026-04-20T03:14:10.870Z",
+  "lastRun": "2026-04-20T05:09:48.219Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/4777282/view/541135584198923083",
-        "postedAt": "2026-04-18T14:08:11.501Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/1850/view/506233417998795276",
         "postedAt": "2026-04-18T14:20:07.785Z"
@@ -401,6 +397,10 @@
       {
         "id": "https://store.steampowered.com/news/group/9869/view/518618315048878804",
         "postedAt": "2026-04-20T03:14:10.870Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795399",
+        "postedAt": "2026-04-20T05:09:48.218Z"
       }
     ],
     "reddit_steamdeals": [
@@ -567,7 +567,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/9869/view/518618315048878804",
+    "steam_news": "https://store.steampowered.com/news/group/1850/view/506233417998795399",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sq9e1f/save_90_on_en_garde_on_steam/"
   }
 }
