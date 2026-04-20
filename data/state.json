@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-04-20T12:36:19.839Z",
+  "lastRun": "2026-04-20T13:40:15.302Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503129",
-        "postedAt": "2026-04-18T21:15:32.738Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/46014622/view/505104884727547746",
-        "postedAt": "2026-04-18T21:15:32.738Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795307",
-        "postedAt": "2026-04-18T21:15:32.738Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503142",
-        "postedAt": "2026-04-18T22:13:49.748Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503140",
-        "postedAt": "2026-04-18T22:13:49.748Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/9869/view/518618315048878748",
         "postedAt": "2026-04-18T22:13:49.748Z"
@@ -401,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701452",
         "postedAt": "2026-04-20T12:36:19.839Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/42342144/view/671740703438537483",
+        "postedAt": "2026-04-20T13:40:15.302Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130602",
+        "postedAt": "2026-04-20T13:40:15.302Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503404",
+        "postedAt": "2026-04-20T13:40:15.302Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/1158310/view/552395313313219108",
+        "postedAt": "2026-04-20T13:40:15.302Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/1158310/view/552395313313219106",
+        "postedAt": "2026-04-20T13:40:15.302Z"
       }
     ],
     "reddit_steamdeals": [
@@ -575,7 +575,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/38509069/view/737042897415701452",
+    "steam_news": "https://store.steampowered.com/news/app/1158310/view/552395313313219106",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sql9jq/save_10_on_all_hail_the_orb_on_steam/"
   }
 }
