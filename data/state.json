@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-04-20T08:54:46.106Z",
+  "lastRun": "2026-04-20T09:43:35.801Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795285",
-        "postedAt": "2026-04-18T16:17:10.072Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503094",
-        "postedAt": "2026-04-18T16:17:10.072Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/578080/view/685251502317502983",
-        "postedAt": "2026-04-18T16:17:10.072Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701171",
-        "postedAt": "2026-04-18T17:17:22.995Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503103",
-        "postedAt": "2026-04-18T17:17:22.995Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/33025617/view/537751546857783309",
         "postedAt": "2026-04-18T17:17:22.995Z"
@@ -401,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130466",
         "postedAt": "2026-04-20T08:54:46.106Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/3557620/view/570409712688824337",
+        "postedAt": "2026-04-20T09:43:35.801Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2507950/view/565906111136269200",
+        "postedAt": "2026-04-20T09:43:35.801Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/4172530/view/622201107537461808",
+        "postedAt": "2026-04-20T09:43:35.801Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/4172530/view/622201107537461795",
+        "postedAt": "2026-04-20T09:43:35.801Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/4172530/view/622201107537461810",
+        "postedAt": "2026-04-20T09:43:35.801Z"
       }
     ],
     "reddit_steamdeals": [
@@ -571,7 +571,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/4218320/view/526499614836130466",
+    "steam_news": "https://store.steampowered.com/news/app/4172530/view/622201107537461810",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sqj1gz/save_90_on_green_hell_on_steam_249_209/"
   }
 }
