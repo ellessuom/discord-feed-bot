@@ -1,11 +1,7 @@
 {
-  "lastRun": "2026-04-19T23:17:13.085Z",
+  "lastRun": "2026-04-20T00:52:09.965Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503084",
-        "postedAt": "2026-04-18T14:08:11.501Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/3081/view/560276612041409024",
         "postedAt": "2026-04-18T14:08:11.501Z"
@@ -385,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/app/578080/view/685251502317503146",
         "postedAt": "2026-04-19T23:17:13.085Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537284",
+        "postedAt": "2026-04-20T00:52:09.965Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537282",
+        "postedAt": "2026-04-20T00:52:09.965Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795371",
+        "postedAt": "2026-04-20T00:52:09.965Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537278",
+        "postedAt": "2026-04-20T00:52:09.965Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537280",
+        "postedAt": "2026-04-20T00:52:09.965Z"
       }
     ],
     "reddit_steamdeals": [
@@ -543,11 +559,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1spxax0/metro_franchise_sale_90_off/",
         "postedAt": "2026-04-19T16:17:08.586Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sq9e1f/save_90_on_en_garde_on_steam/",
+        "postedAt": "2026-04-20T00:52:09.965Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/app/578080/view/685251502317503146",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1spxax0/metro_franchise_sale_90_off/"
+    "steam_news": "https://store.steampowered.com/news/group/6070552/view/671740703438537280",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sq9e1f/save_90_on_en_garde_on_steam/"
   }
 }
