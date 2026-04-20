@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-04-20T19:30:23.370Z",
+  "lastRun": "2026-04-20T20:23:26.997Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701254",
-        "postedAt": "2026-04-19T17:16:46.648Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503194",
-        "postedAt": "2026-04-19T17:16:46.648Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/42658688/view/494969887019499756",
-        "postedAt": "2026-04-19T17:16:46.648Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/1371980/view/524247815022445061",
-        "postedAt": "2026-04-19T17:16:46.648Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157402715",
-        "postedAt": "2026-04-19T17:16:46.648Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503197",
         "postedAt": "2026-04-19T18:20:14.378Z"
@@ -401,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503531",
         "postedAt": "2026-04-20T19:30:23.370Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537601",
+        "postedAt": "2026-04-20T20:23:26.997Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537599",
+        "postedAt": "2026-04-20T20:23:26.997Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795665",
+        "postedAt": "2026-04-20T20:23:26.997Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503539",
+        "postedAt": "2026-04-20T20:23:26.997Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/4128580/view/576039212219892560",
+        "postedAt": "2026-04-20T20:23:26.997Z"
       }
     ],
     "reddit_steamdeals": [
@@ -611,7 +611,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/38204750/view/685251502317503531",
+    "steam_news": "https://store.steampowered.com/news/app/4128580/view/576039212219892560",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sqwx9h/save_65_on_cyberpunk_2077_on_steam/"
   }
 }
