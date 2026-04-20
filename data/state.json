@@ -1,19 +1,7 @@
 {
-  "lastRun": "2026-04-20T21:22:27.641Z",
+  "lastRun": "2026-04-20T22:21:46.484Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/9869/view/518618315048878785",
-        "postedAt": "2026-04-19T19:21:10.219Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503213",
-        "postedAt": "2026-04-19T20:15:53.430Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503209",
-        "postedAt": "2026-04-19T20:15:53.430Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503211",
         "postedAt": "2026-04-19T20:15:53.430Z"
@@ -401,6 +389,18 @@
       {
         "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537603",
         "postedAt": "2026-04-20T21:22:27.641Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701646",
+        "postedAt": "2026-04-20T22:21:46.484Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503549",
+        "postedAt": "2026-04-20T22:21:46.484Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/9869/view/529869613052201905",
+        "postedAt": "2026-04-20T22:21:46.484Z"
       }
     ],
     "reddit_steamdeals": [
@@ -607,11 +607,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sqwx9h/save_65_on_cyberpunk_2077_on_steam/",
         "postedAt": "2026-04-20T19:30:23.370Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sr4dml/save_50_on_dark_souls_ii_scholar_of_the_first_sin/",
+        "postedAt": "2026-04-20T22:21:46.484Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/6070552/view/671740703438537603",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sqwx9h/save_65_on_cyberpunk_2077_on_steam/"
+    "steam_news": "https://store.steampowered.com/news/group/9869/view/529869613052201905",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sr4dml/save_50_on_dark_souls_ii_scholar_of_the_first_sin/"
   }
 }
