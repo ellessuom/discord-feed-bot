@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-04-21T17:28:09.047Z",
+  "lastRun": "2026-04-21T18:31:55.625Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157402990",
-        "postedAt": "2026-04-20T15:36:36.471Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/42342144/view/671740703438537591",
-        "postedAt": "2026-04-20T16:33:50.585Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/718735/view/637963704478991192",
-        "postedAt": "2026-04-20T16:33:50.585Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701607",
-        "postedAt": "2026-04-20T16:33:50.585Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/1551360/view/715650801531355349",
-        "postedAt": "2026-04-20T16:33:50.585Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/33042543/view/617697508773068811",
         "postedAt": "2026-04-20T16:33:50.585Z"
@@ -401,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/group/32618574/view/510735652706322619",
         "postedAt": "2026-04-21T17:28:09.047Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130985",
+        "postedAt": "2026-04-21T18:31:55.625Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795872",
+        "postedAt": "2026-04-21T18:31:55.625Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38364543/view/719028498906219676",
+        "postedAt": "2026-04-21T18:31:55.625Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130981",
+        "postedAt": "2026-04-21T18:31:55.625Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795870",
+        "postedAt": "2026-04-21T18:31:55.625Z"
       }
     ],
     "reddit_steamdeals": [
@@ -635,11 +635,19 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1srtywc/save_75_on_perception_heart_and_mind_on_steam_099/",
         "postedAt": "2026-04-21T17:28:09.047Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1srvzep/save_20_on_marathon_on_steam/",
+        "postedAt": "2026-04-21T18:31:55.625Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1srvl32/save_85_on_1428_shadows_over_silesia_299/",
+        "postedAt": "2026-04-21T18:31:55.625Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/32618574/view/510735652706322619",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1srtywc/save_75_on_perception_heart_and_mind_on_steam_099/"
+    "steam_news": "https://store.steampowered.com/news/group/1450625/view/506233417998795870",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1srvl32/save_85_on_1428_shadows_over_silesia_299/"
   }
 }
