@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-04-21T12:33:23.433Z",
+  "lastRun": "2026-04-21T13:39:58.574Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701411",
-        "postedAt": "2026-04-20T10:40:34.166Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503373",
-        "postedAt": "2026-04-20T11:35:22.065Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503371",
-        "postedAt": "2026-04-20T11:35:22.065Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701442",
-        "postedAt": "2026-04-20T11:35:22.065Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/578080/view/685251502317503367",
-        "postedAt": "2026-04-20T11:35:22.065Z"
-      },
       {
         "id": "https://store.steampowered.com/news/app/2426960/view/671740703438537450",
         "postedAt": "2026-04-20T11:35:22.065Z"
@@ -401,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/app/1158310/view/552395313313219181",
         "postedAt": "2026-04-21T12:33:23.433Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157403051",
+        "postedAt": "2026-04-21T13:39:58.574Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503608",
+        "postedAt": "2026-04-21T13:39:58.574Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157403047",
+        "postedAt": "2026-04-21T13:39:58.574Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/553850/view/623327006824596290",
+        "postedAt": "2026-04-21T13:39:58.574Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2221490/view/493848518157402335",
+        "postedAt": "2026-04-21T13:39:58.574Z"
       }
     ],
     "reddit_steamdeals": [
@@ -623,7 +623,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/app/1158310/view/552395313313219181",
+    "steam_news": "https://store.steampowered.com/news/app/2221490/view/493848518157402335",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1srkt1k/save_50_on_the_hive_on_steam/"
   }
 }
