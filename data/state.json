@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-04-21T09:39:01.094Z",
+  "lastRun": "2026-04-21T10:36:25.219Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/app/3679080/view/503980887274164904",
-        "postedAt": "2026-04-20T07:43:30.443Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/42342144/view/671740703438537323",
-        "postedAt": "2026-04-20T08:54:46.106Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130480",
-        "postedAt": "2026-04-20T08:54:46.106Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130478",
-        "postedAt": "2026-04-20T08:54:46.106Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130468",
-        "postedAt": "2026-04-20T08:54:46.106Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130466",
         "postedAt": "2026-04-20T08:54:46.106Z"
@@ -401,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130767",
         "postedAt": "2026-04-21T09:39:01.094Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701702",
+        "postedAt": "2026-04-21T10:36:25.219Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130781",
+        "postedAt": "2026-04-21T10:36:25.219Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130779",
+        "postedAt": "2026-04-21T10:36:25.219Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503584",
+        "postedAt": "2026-04-21T10:36:25.219Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503586",
+        "postedAt": "2026-04-21T10:36:25.219Z"
       }
     ],
     "reddit_steamdeals": [
@@ -619,7 +619,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/4218320/view/526499614836130767",
+    "steam_news": "https://store.steampowered.com/news/group/38204750/view/685251502317503586",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sr9o8o/save_80_on_kingdom_come_deliverance/"
   }
 }
