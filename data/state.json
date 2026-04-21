@@ -1,19 +1,7 @@
 {
-  "lastRun": "2026-04-21T00:51:56.725Z",
+  "lastRun": "2026-04-21T01:40:46.962Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503221",
-        "postedAt": "2026-04-19T23:17:13.085Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/578080/view/685251502317503146",
-        "postedAt": "2026-04-19T23:17:13.085Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537284",
-        "postedAt": "2026-04-20T00:52:09.965Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537282",
         "postedAt": "2026-04-20T00:52:09.965Z"
@@ -401,6 +389,18 @@
       {
         "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503555",
         "postedAt": "2026-04-21T00:51:56.725Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537620",
+        "postedAt": "2026-04-21T01:40:46.962Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/3081/view/560276612041409419",
+        "postedAt": "2026-04-21T01:40:46.962Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503566",
+        "postedAt": "2026-04-21T01:40:46.962Z"
       }
     ],
     "reddit_steamdeals": [
@@ -611,11 +611,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sr4dml/save_50_on_dark_souls_ii_scholar_of_the_first_sin/",
         "postedAt": "2026-04-20T22:21:46.484Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sr9o8o/save_80_on_kingdom_come_deliverance/",
+        "postedAt": "2026-04-21T01:40:46.962Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/38204750/view/685251502317503555",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sr4dml/save_50_on_dark_souls_ii_scholar_of_the_first_sin/"
+    "steam_news": "https://store.steampowered.com/news/group/38666666/view/685251502317503566",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sr9o8o/save_80_on_kingdom_come_deliverance/"
   }
 }
