@@ -1,19 +1,7 @@
 {
-  "lastRun": "2026-04-21T05:05:27.082Z",
+  "lastRun": "2026-04-21T06:48:46.089Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537280",
-        "postedAt": "2026-04-20T00:52:09.965Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503229",
-        "postedAt": "2026-04-20T01:41:37.318Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503249",
-        "postedAt": "2026-04-20T03:14:10.870Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/9869/view/518618315048878804",
         "postedAt": "2026-04-20T03:14:10.870Z"
@@ -401,6 +389,18 @@
       {
         "id": "https://store.steampowered.com/news/app/216150/view/524247815022445350",
         "postedAt": "2026-04-21T05:05:27.082Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2507950/view/565906111136269578",
+        "postedAt": "2026-04-21T06:48:46.089Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6858187/view/719028498906219512",
+        "postedAt": "2026-04-21T06:48:46.089Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/4128580/view/576039212219892584",
+        "postedAt": "2026-04-21T06:48:46.089Z"
       }
     ],
     "reddit_steamdeals": [
@@ -619,7 +619,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/app/216150/view/524247815022445350",
+    "steam_news": "https://store.steampowered.com/news/app/4128580/view/576039212219892584",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sr9o8o/save_80_on_kingdom_come_deliverance/"
   }
 }
