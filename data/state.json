@@ -1,19 +1,7 @@
 {
-  "lastRun": "2026-04-21T20:24:08.177Z",
+  "lastRun": "2026-04-21T21:20:52.815Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701610",
-        "postedAt": "2026-04-20T18:29:04.220Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/3081/view/560276612041409395",
-        "postedAt": "2026-04-20T19:30:23.370Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/3081/view/560276612041409397",
-        "postedAt": "2026-04-20T19:30:23.370Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537597",
         "postedAt": "2026-04-20T19:30:23.370Z"
@@ -401,6 +389,18 @@
       {
         "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795881",
         "postedAt": "2026-04-21T20:24:08.177Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701877",
+        "postedAt": "2026-04-21T21:20:52.815Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503747",
+        "postedAt": "2026-04-21T21:20:52.815Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701866",
+        "postedAt": "2026-04-21T21:20:52.815Z"
       }
     ],
     "reddit_steamdeals": [
@@ -651,7 +651,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/1450625/view/506233417998795881",
+    "steam_news": "https://store.steampowered.com/news/group/38509069/view/737042897415701866",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1srxy3a/save_50_on_silent_hill_2_on_steam/"
   }
 }
