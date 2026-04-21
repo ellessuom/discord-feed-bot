@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-04-21T22:20:15.858Z",
+  "lastRun": "2026-04-21T23:18:34.169Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537599",
-        "postedAt": "2026-04-20T20:23:26.997Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795665",
-        "postedAt": "2026-04-20T20:23:26.997Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503539",
-        "postedAt": "2026-04-20T20:23:26.997Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/4128580/view/576039212219892560",
-        "postedAt": "2026-04-20T20:23:26.997Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701652",
-        "postedAt": "2026-04-20T21:22:27.641Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701650",
         "postedAt": "2026-04-20T21:22:27.641Z"
@@ -401,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503753",
         "postedAt": "2026-04-21T22:20:15.858Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1850/view/538885053334159369",
+        "postedAt": "2026-04-21T23:18:34.169Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/512989355492507655",
+        "postedAt": "2026-04-21T23:18:34.169Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/216150/view/524248354559885313",
+        "postedAt": "2026-04-21T23:18:34.169Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1450625/view/538885053334159363",
+        "postedAt": "2026-04-21T23:18:34.169Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2141910/view/786582495226233756",
+        "postedAt": "2026-04-21T23:18:34.169Z"
       }
     ],
     "reddit_steamdeals": [
@@ -651,11 +651,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ss2md8/save_20_on_tokyo_xtreme_racer_on_steam/",
         "postedAt": "2026-04-21T22:20:15.858Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ss35re/save_50_on_silent_hill_f_on_steam/",
+        "postedAt": "2026-04-21T23:18:34.169Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/38204750/view/685251502317503753",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ss2md8/save_20_on_tokyo_xtreme_racer_on_steam/"
+    "steam_news": "https://store.steampowered.com/news/app/2141910/view/786582495226233756",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ss35re/save_50_on_silent_hill_f_on_steam/"
   }
 }
