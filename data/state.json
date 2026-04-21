@@ -1,11 +1,7 @@
 {
-  "lastRun": "2026-04-21T03:13:17.806Z",
+  "lastRun": "2026-04-21T05:05:27.082Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537278",
-        "postedAt": "2026-04-20T00:52:09.965Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537280",
         "postedAt": "2026-04-20T00:52:09.965Z"
@@ -401,6 +397,10 @@
       {
         "id": "https://store.steampowered.com/news/group/1850/view/506233417998795692",
         "postedAt": "2026-04-21T03:13:17.806Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/216150/view/524247815022445350",
+        "postedAt": "2026-04-21T05:05:27.082Z"
       }
     ],
     "reddit_steamdeals": [
@@ -619,7 +619,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/1850/view/506233417998795692",
+    "steam_news": "https://store.steampowered.com/news/app/216150/view/524247815022445350",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sr9o8o/save_80_on_kingdom_come_deliverance/"
   }
 }
