@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-04-21T15:35:56.535Z",
+  "lastRun": "2026-04-21T16:30:57.849Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/app/1158310/view/552395313313219106",
-        "postedAt": "2026-04-20T13:40:15.302Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701573",
-        "postedAt": "2026-04-20T14:41:09.242Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/42342144/view/671740703438537547",
-        "postedAt": "2026-04-20T14:41:09.242Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701553",
-        "postedAt": "2026-04-20T14:41:09.242Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/4128580/view/576039212219892498",
-        "postedAt": "2026-04-20T14:41:09.242Z"
-      },
       {
         "id": "https://store.steampowered.com/news/app/2221490/view/493848518157402558",
         "postedAt": "2026-04-20T14:41:09.242Z"
@@ -401,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/app/306130/view/622201107537462140",
         "postedAt": "2026-04-21T15:35:56.535Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6858187/view/719028498906219644",
+        "postedAt": "2026-04-21T16:30:57.849Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157403141",
+        "postedAt": "2026-04-21T16:30:57.849Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503689",
+        "postedAt": "2026-04-21T16:30:57.849Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537732",
+        "postedAt": "2026-04-21T16:30:57.849Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/3265700/view/685251502317503562",
+        "postedAt": "2026-04-21T16:30:57.849Z"
       }
     ],
     "reddit_steamdeals": [
@@ -627,11 +627,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1srpznf/save_20_on_enshrouded_on_steam_2399_2399/",
         "postedAt": "2026-04-21T15:35:56.535Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1srrnkm/save_50_on_medieval_dynasty_on_steam/",
+        "postedAt": "2026-04-21T16:30:57.849Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/app/306130/view/622201107537462140",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1srpznf/save_20_on_enshrouded_on_steam_2399_2399/"
+    "steam_news": "https://store.steampowered.com/news/app/3265700/view/685251502317503562",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1srrnkm/save_50_on_medieval_dynasty_on_steam/"
   }
 }
