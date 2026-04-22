@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-22T20:25:55.839Z",
+  "lastRun": "2026-04-22T21:23:15.987Z",
   "postedIds": {
     "steam_news": [
       {
@@ -679,6 +679,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ssvdhr/save_50_on_lies_of_p_on_steam_2999_2999/",
         "postedAt": "2026-04-22T19:34:34.367Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ssxq42/legacy_of_kain_1_2_remastered_50_1499/",
+        "postedAt": "2026-04-22T21:23:15.987Z"
       }
     ],
     "steam_sales": [
@@ -749,6 +753,10 @@
       {
         "id": "sale_1627720",
         "postedAt": "2026-04-22T20:25:55.839Z"
+      },
+      {
+        "id": "sale_3065800",
+        "postedAt": "2026-04-22T21:23:15.986Z"
       }
     ],
     "reddit_gamingnews": [
@@ -859,6 +867,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ssvnhk/shuhei_yoshida_says_releasing_games_day_one_on_pc/",
         "postedAt": "2026-04-22T19:34:34.367Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ssxf7c/ruiner_2_official_gameplay_trailer/",
+        "postedAt": "2026-04-22T21:23:15.987Z"
       }
     ],
     "steam_2073850": [
@@ -906,9 +918,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ssvdhr/save_50_on_lies_of_p_on_steam_2999_2999/",
-    "steam_sales": "sale_1627720",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ssvnhk/shuhei_yoshida_says_releasing_games_day_one_on_pc/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ssxq42/legacy_of_kain_1_2_remastered_50_1499/",
+    "steam_sales": "sale_3065800",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ssxf7c/ruiner_2_official_gameplay_trailer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/535502917902270762"
   }
 }
