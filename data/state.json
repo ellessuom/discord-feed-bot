@@ -1,11 +1,7 @@
 {
-  "lastRun": "2026-04-22T01:41:07.340Z",
+  "lastRun": "2026-04-22T06:48:08.751Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/9869/view/518618315048879125",
-        "postedAt": "2026-04-20T23:21:21.394Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/9869/view/518618315048879127",
         "postedAt": "2026-04-20T23:21:21.394Z"
@@ -401,6 +397,10 @@
       {
         "id": "https://store.steampowered.com/news/group/38204750/view/531003754000941140",
         "postedAt": "2026-04-22T01:41:07.340Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2739990/view/573787410484167580",
+        "postedAt": "2026-04-22T06:48:08.751Z"
       }
     ],
     "reddit_steamdeals": [
@@ -655,11 +655,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ss35re/save_50_on_silent_hill_f_on_steam/",
         "postedAt": "2026-04-21T23:18:34.169Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ssdose/save_32_on_fate_of_fire_kyvedy_guardiah_869_883/",
+        "postedAt": "2026-04-22T06:48:08.751Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/group/38204750/view/531003754000941140",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ss35re/save_50_on_silent_hill_f_on_steam/"
+    "steam_news": "https://store.steampowered.com/news/app/2739990/view/573787410484167580",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ssdose/save_32_on_fate_of_fire_kyvedy_guardiah_869_883/"
   }
 }
