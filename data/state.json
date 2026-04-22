@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-22T16:30:52.166Z",
+  "lastRun": "2026-04-22T17:26:46.378Z",
   "postedIds": {
     "steam_news": [
       {
@@ -819,6 +819,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1spnhv3/pragmata_is_one_of_capcoms_alltime_toprated_steam/",
         "postedAt": "2026-04-22T16:30:52.166Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ssrnv6/masters_of_albion_does_what_peter_molyneux/",
+        "postedAt": "2026-04-22T17:26:46.378Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sqth9k/medieval_machines_builder_out_on_steam/",
+        "postedAt": "2026-04-22T17:26:46.378Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sq8sur/surprise_dragon_ball_xenoverse_3_announcement/",
+        "postedAt": "2026-04-22T17:26:46.378Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1spzoqa/metal_slug_celebrates_30year_anniversary_with/",
+        "postedAt": "2026-04-22T17:26:46.378Z"
       }
     ],
     "steam_2073850": [
@@ -868,7 +884,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sspsiy/save_20_on_cargo_hunters_on_steam/",
     "steam_sales": "sale_1466060",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1spnhv3/pragmata_is_one_of_capcoms_alltime_toprated_steam/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1spzoqa/metal_slug_celebrates_30year_anniversary_with/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/535502917902270762"
   }
 }
