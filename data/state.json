@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-22T11:30:08.530Z",
+  "lastRun": "2026-04-22T12:31:52.408Z",
   "postedIds": {
     "steam_news": [
       {
@@ -668,10 +668,67 @@
         "id": "https://www.reddit.com/r/steamdeals/comments/1sshkyr/save_20_on_kats_trigger_on_steam/",
         "postedAt": "2026-04-22T10:36:36.500Z"
       }
+    ],
+    "steam_sales": [
+      {
+        "id": "sale_1091500",
+        "postedAt": "2026-04-22T12:31:52.251Z"
+      },
+      {
+        "id": "sale_1771300",
+        "postedAt": "2026-04-22T12:31:52.251Z"
+      },
+      {
+        "id": "sale_570940",
+        "postedAt": "2026-04-22T12:31:52.251Z"
+      },
+      {
+        "id": "sale_94174",
+        "postedAt": "2026-04-22T12:31:52.251Z"
+      }
+    ],
+    "reddit_gamingnews": [
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ssihg0/ruiner_2_official_gameplay_trailer/",
+        "postedAt": "2026-04-22T12:31:52.251Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ssd0kw/kingdom_come_deliverance_devs_are_donating_1_of/",
+        "postedAt": "2026-04-22T12:31:52.251Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1srtgl9/xbox_gamepass_now_costs_23_dollars/",
+        "postedAt": "2026-04-22T12:31:52.251Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1srnpl8/insider_gaming_assassins_creed_black_flag/",
+        "postedAt": "2026-04-22T12:31:52.251Z"
+      }
+    ],
+    "steam_2073850": [
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/570409712688824718",
+        "postedAt": "2026-04-22T12:31:52.251Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/570409712688824366",
+        "postedAt": "2026-04-22T12:31:52.251Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/531002485037335460",
+        "postedAt": "2026-04-22T12:31:52.408Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/512987452523152144",
+        "postedAt": "2026-04-22T12:31:52.408Z"
+      }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sshkyr/save_20_on_kats_trigger_on_steam/"
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sshkyr/save_20_on_kats_trigger_on_steam/",
+    "steam_sales": "sale_94174",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1srnpl8/insider_gaming_assassins_creed_black_flag/",
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/512987452523152144"
   }
 }
