@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-04-22T07:40:15.329Z",
+  "lastRun": "2026-04-22T08:44:22.052Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795673",
-        "postedAt": "2026-04-20T23:21:21.394Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795671",
-        "postedAt": "2026-04-20T23:21:21.394Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503564",
-        "postedAt": "2026-04-21T00:51:56.725Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537617",
-        "postedAt": "2026-04-21T00:51:56.725Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795682",
-        "postedAt": "2026-04-21T00:51:56.725Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503560",
         "postedAt": "2026-04-21T00:51:56.725Z"
@@ -401,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/app/578080/view/531003754000941170",
         "postedAt": "2026-04-22T07:40:15.329Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4218320/view/535507353628311784",
+        "postedAt": "2026-04-22T08:44:22.052Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4218320/view/535507353628311741",
+        "postedAt": "2026-04-22T08:44:22.052Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1450625/view/538885053334159559",
+        "postedAt": "2026-04-22T08:44:22.052Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073620/view/514115255398301795",
+        "postedAt": "2026-04-22T08:44:22.052Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2139460/view/497226756796710976",
+        "postedAt": "2026-04-22T08:44:22.052Z"
       }
     ],
     "reddit_steamdeals": [
@@ -659,11 +659,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ssdose/save_32_on_fate_of_fire_kyvedy_guardiah_869_883/",
         "postedAt": "2026-04-22T06:48:08.751Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sseual/save_67_on_lords_of_the_fallen_989/",
+        "postedAt": "2026-04-22T08:44:22.052Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/app/578080/view/531003754000941170",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ssdose/save_32_on_fate_of_fire_kyvedy_guardiah_869_883/"
+    "steam_news": "https://store.steampowered.com/news/app/2139460/view/497226756796710976",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sseual/save_67_on_lords_of_the_fallen_989/"
   }
 }
