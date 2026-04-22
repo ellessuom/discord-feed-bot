@@ -1,23 +1,7 @@
 {
-  "lastRun": "2026-04-22T09:39:49.398Z",
+  "lastRun": "2026-04-22T10:36:36.500Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/3081/view/560276612041409419",
-        "postedAt": "2026-04-21T01:40:46.962Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503566",
-        "postedAt": "2026-04-21T01:40:46.962Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795690",
-        "postedAt": "2026-04-21T03:13:17.806Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795692",
-        "postedAt": "2026-04-21T03:13:17.806Z"
-      },
       {
         "id": "https://store.steampowered.com/news/app/216150/view/524247815022445350",
         "postedAt": "2026-04-21T05:05:27.082Z"
@@ -401,6 +385,22 @@
       {
         "id": "https://store.steampowered.com/news/app/1909950/view/518618855026720848",
         "postedAt": "2026-04-22T09:39:49.398Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2139460/view/491596622545813710",
+        "postedAt": "2026-04-22T10:36:36.500Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/578080/view/531003754000941509",
+        "postedAt": "2026-04-22T10:36:36.500Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/454650/view/529877316042490524",
+        "postedAt": "2026-04-22T10:36:36.500Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/1794680/view/528750051218949235",
+        "postedAt": "2026-04-22T10:36:36.500Z"
       }
     ],
     "reddit_steamdeals": [
@@ -663,11 +663,15 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sseual/save_67_on_lords_of_the_fallen_989/",
         "postedAt": "2026-04-22T08:44:22.052Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sshkyr/save_20_on_kats_trigger_on_steam/",
+        "postedAt": "2026-04-22T10:36:36.500Z"
       }
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/app/1909950/view/518618855026720848",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sseual/save_67_on_lords_of_the_fallen_989/"
+    "steam_news": "https://store.steampowered.com/news/app/1794680/view/528750051218949235",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sshkyr/save_20_on_kats_trigger_on_steam/"
   }
 }
