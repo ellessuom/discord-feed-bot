@@ -1,11 +1,7 @@
 {
-  "lastRun": "2026-04-22T06:48:08.751Z",
+  "lastRun": "2026-04-22T07:40:15.329Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/9869/view/518618315048879127",
-        "postedAt": "2026-04-20T23:21:21.394Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/1850/view/506233417998795673",
         "postedAt": "2026-04-20T23:21:21.394Z"
@@ -401,6 +397,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2739990/view/573787410484167580",
         "postedAt": "2026-04-22T06:48:08.751Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/578080/view/531003754000941170",
+        "postedAt": "2026-04-22T07:40:15.329Z"
       }
     ],
     "reddit_steamdeals": [
@@ -663,7 +663,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/app/2739990/view/573787410484167580",
+    "steam_news": "https://store.steampowered.com/news/app/578080/view/531003754000941170",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ssdose/save_32_on_fate_of_fire_kyvedy_guardiah_869_883/"
   }
 }
