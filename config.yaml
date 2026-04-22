@@ -15,6 +15,10 @@ sources:
     name: THE FINALS
     enabled: true
     appid: 2073850
+  - id: steam_sales
+    type: steam_sales
+    name: Steam Sales
+    enabled: true
 settings:
   max_posts_per_run: 10
   max_items_per_source: 5
