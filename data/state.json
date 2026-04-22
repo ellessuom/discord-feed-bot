@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-22T14:40:28.473Z",
+  "lastRun": "2026-04-22T15:34:29.396Z",
   "postedIds": {
     "steam_news": [
       {
@@ -709,6 +709,14 @@
       {
         "id": "sale_374320",
         "postedAt": "2026-04-22T14:40:28.473Z"
+      },
+      {
+        "id": "sale_3949040",
+        "postedAt": "2026-04-22T15:34:29.396Z"
+      },
+      {
+        "id": "sale_124923",
+        "postedAt": "2026-04-22T15:34:29.396Z"
       }
     ],
     "reddit_gamingnews": [
@@ -759,6 +767,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sqimcz/windrose_sails_past_1_million_copies_sold_in_six/",
         "postedAt": "2026-04-22T14:40:28.473Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sqzsbd/playstation_to_require_age_verification_for/",
+        "postedAt": "2026-04-22T15:34:29.396Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sqo9dc/shuhei_yoshida_says_jim_ryan_fired_him_from/",
+        "postedAt": "2026-04-22T15:34:29.396Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sq3bjo/capcom_is_singlehandedly_carrying_aaa_gaming_6/",
+        "postedAt": "2026-04-22T15:34:29.396Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1spwlyf/playnix_launches_steam_machine_competitor_with/",
+        "postedAt": "2026-04-22T15:34:29.396Z"
       }
     ],
     "steam_2073850": [
@@ -807,8 +831,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sshkyr/save_20_on_kats_trigger_on_steam/",
-    "steam_sales": "sale_374320",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sqimcz/windrose_sails_past_1_million_copies_sold_in_six/",
+    "steam_sales": "sale_124923",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1spwlyf/playnix_launches_steam_machine_competitor_with/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/535502917902270762"
   }
 }
