@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-22T18:31:30.562Z",
+  "lastRun": "2026-04-22T19:34:34.367Z",
   "postedIds": {
     "steam_news": [
       {
@@ -671,6 +671,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sspsiy/save_20_on_cargo_hunters_on_steam/",
         "postedAt": "2026-04-22T16:30:52.166Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ssvkcy/tides_of_tomorrow_just_released_and_save_20_on/",
+        "postedAt": "2026-04-22T19:34:34.367Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ssvdhr/save_50_on_lies_of_p_on_steam_2999_2999/",
+        "postedAt": "2026-04-22T19:34:34.367Z"
       }
     ],
     "steam_sales": [
@@ -843,6 +851,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1spr3fg/resident_evil_requiem_mercenaries_songs_allegedly/",
         "postedAt": "2026-04-22T18:31:30.562Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ssvnhk/shuhei_yoshida_says_releasing_games_day_one_on_pc/",
+        "postedAt": "2026-04-22T19:34:34.367Z"
       }
     ],
     "steam_2073850": [
@@ -890,9 +902,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sspsiy/save_20_on_cargo_hunters_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ssvdhr/save_50_on_lies_of_p_on_steam_2999_2999/",
     "steam_sales": "sale_1466060",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1spr3fg/resident_evil_requiem_mercenaries_songs_allegedly/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ssvnhk/shuhei_yoshida_says_releasing_games_day_one_on_pc/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/535502917902270762"
   }
 }
