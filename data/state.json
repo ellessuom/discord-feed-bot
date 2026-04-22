@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-22T15:34:29.396Z",
+  "lastRun": "2026-04-22T16:30:52.166Z",
   "postedIds": {
     "steam_news": [
       {
@@ -667,6 +667,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sshkyr/save_20_on_kats_trigger_on_steam/",
         "postedAt": "2026-04-22T10:36:36.500Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sspsiy/save_20_on_cargo_hunters_on_steam/",
+        "postedAt": "2026-04-22T16:30:52.166Z"
       }
     ],
     "steam_sales": [
@@ -717,6 +721,22 @@
       {
         "id": "sale_124923",
         "postedAt": "2026-04-22T15:34:29.396Z"
+      },
+      {
+        "id": "sale_3165650",
+        "postedAt": "2026-04-22T16:30:52.166Z"
+      },
+      {
+        "id": "sale_261550",
+        "postedAt": "2026-04-22T16:30:52.166Z"
+      },
+      {
+        "id": "sale_1203620",
+        "postedAt": "2026-04-22T16:30:52.166Z"
+      },
+      {
+        "id": "sale_1466060",
+        "postedAt": "2026-04-22T16:30:52.166Z"
       }
     ],
     "reddit_gamingnews": [
@@ -783,6 +803,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1spwlyf/playnix_launches_steam_machine_competitor_with/",
         "postedAt": "2026-04-22T15:34:29.396Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sspbbr/nintendo_sued_by_players_who_say_they_should_get/",
+        "postedAt": "2026-04-22T16:30:52.166Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sqpqga/looking_for_squads_to_playtest_our_game_its_a/",
+        "postedAt": "2026-04-22T16:30:52.166Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1spy8ic/former_bioware_producer_mark_darrah_says_its/",
+        "postedAt": "2026-04-22T16:30:52.166Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1spnhv3/pragmata_is_one_of_capcoms_alltime_toprated_steam/",
+        "postedAt": "2026-04-22T16:30:52.166Z"
       }
     ],
     "steam_2073850": [
@@ -830,9 +866,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sshkyr/save_20_on_kats_trigger_on_steam/",
-    "steam_sales": "sale_124923",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1spwlyf/playnix_launches_steam_machine_competitor_with/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sspsiy/save_20_on_cargo_hunters_on_steam/",
+    "steam_sales": "sale_1466060",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1spnhv3/pragmata_is_one_of_capcoms_alltime_toprated_steam/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/535502917902270762"
   }
 }
