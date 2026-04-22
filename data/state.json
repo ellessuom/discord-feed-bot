@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-04-22T10:36:36.500Z",
+  "lastRun": "2026-04-22T11:30:08.530Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/app/216150/view/524247815022445350",
-        "postedAt": "2026-04-21T05:05:27.082Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/2507950/view/565906111136269578",
-        "postedAt": "2026-04-21T06:48:46.089Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6858187/view/719028498906219512",
-        "postedAt": "2026-04-21T06:48:46.089Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/4128580/view/576039212219892584",
-        "postedAt": "2026-04-21T06:48:46.089Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/394360/view/523121915115602736",
-        "postedAt": "2026-04-21T07:40:37.449Z"
-      },
       {
         "id": "https://store.steampowered.com/news/app/221100/view/782078896034022056",
         "postedAt": "2026-04-21T08:46:22.478Z"
@@ -401,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/app/1794680/view/528750051218949235",
         "postedAt": "2026-04-22T10:36:36.500Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38666666/view/531003754000941551",
+        "postedAt": "2026-04-22T11:30:08.530Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1850/view/538885053334159813",
+        "postedAt": "2026-04-22T11:30:08.530Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4218320/view/535507353628311978",
+        "postedAt": "2026-04-22T11:30:08.530Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/4218320/view/535507353628311976",
+        "postedAt": "2026-04-22T11:30:08.530Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
+        "postedAt": "2026-04-22T11:30:08.530Z"
       }
     ],
     "reddit_steamdeals": [
@@ -671,7 +671,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/app/1794680/view/528750051218949235",
+    "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sshkyr/save_20_on_kats_trigger_on_steam/"
   }
 }
