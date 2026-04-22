@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-04-21T23:18:34.169Z",
+  "lastRun": "2026-04-22T00:48:42.201Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701650",
-        "postedAt": "2026-04-20T21:22:27.641Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537605",
-        "postedAt": "2026-04-20T21:22:27.641Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701644",
-        "postedAt": "2026-04-20T21:22:27.641Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537603",
-        "postedAt": "2026-04-20T21:22:27.641Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701646",
-        "postedAt": "2026-04-20T22:21:46.484Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503549",
         "postedAt": "2026-04-20T22:21:46.484Z"
@@ -401,6 +381,26 @@
       {
         "id": "https://store.steampowered.com/news/app/2141910/view/786582495226233756",
         "postedAt": "2026-04-21T23:18:34.169Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38509069/view/520870654839357519",
+        "postedAt": "2026-04-22T00:48:42.201Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/1450625/view/538885053334159450",
+        "postedAt": "2026-04-22T00:48:42.201Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/6070552/view/512989355492507720",
+        "postedAt": "2026-04-22T00:48:42.201Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38204750/view/531003754000941138",
+        "postedAt": "2026-04-22T00:48:42.201Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/group/38509069/view/520870654839357511",
+        "postedAt": "2026-04-22T00:48:42.201Z"
       }
     ],
     "reddit_steamdeals": [
@@ -659,7 +659,7 @@
     ]
   },
   "lastSeen": {
-    "steam_news": "https://store.steampowered.com/news/app/2141910/view/786582495226233756",
+    "steam_news": "https://store.steampowered.com/news/group/38509069/view/520870654839357511",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ss35re/save_50_on_silent_hill_f_on_steam/"
   }
 }
