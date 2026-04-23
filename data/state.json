@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-23T16:40:45.731Z",
+  "lastRun": "2026-04-23T17:36:36.183Z",
   "postedIds": {
     "steam_news": [
       {
@@ -691,6 +691,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1stm384/save_33_on_eufloria_classic_on_steam/",
         "postedAt": "2026-04-23T15:41:44.329Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1stpdlc/save_80_on_the_saboteur_on_steam_199/",
+        "postedAt": "2026-04-23T17:36:36.183Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1stp6lr/save_100_on_8am_on_steam_free_until_april_27th/",
+        "postedAt": "2026-04-23T17:36:36.183Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1stp1yw/save_75_on_halflife_alyx_on_steam_historical_low/",
+        "postedAt": "2026-04-23T17:36:36.183Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1stozyl/save_85_on_little_nightmares_ii_on_steam_449_449/",
+        "postedAt": "2026-04-23T17:36:36.183Z"
       }
     ],
     "steam_sales": [
@@ -982,7 +998,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1stm384/save_33_on_eufloria_classic_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1stozyl/save_85_on_little_nightmares_ii_on_steam_449_449/",
     "steam_sales": "sale_3014080",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1stmxj4/doomblade/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
