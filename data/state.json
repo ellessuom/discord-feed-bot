@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-23T15:41:44.329Z",
+  "lastRun": "2026-04-23T16:40:45.731Z",
   "postedIds": {
     "steam_news": [
       {
@@ -785,6 +785,10 @@
       {
         "id": "sale_2162800",
         "postedAt": "2026-04-23T15:41:44.329Z"
+      },
+      {
+        "id": "sale_3014080",
+        "postedAt": "2026-04-23T16:40:45.731Z"
       }
     ],
     "reddit_gamingnews": [
@@ -919,6 +923,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1stcc02/dragon_ball_fighterz_goku_ss4_daima_character/",
         "postedAt": "2026-04-23T08:45:28.230Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1stmxj4/doomblade/",
+        "postedAt": "2026-04-23T16:40:45.731Z"
       }
     ],
     "steam_2073850": [
@@ -975,8 +983,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1stm384/save_33_on_eufloria_classic_on_steam/",
-    "steam_sales": "sale_2162800",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1stcc02/dragon_ball_fighterz_goku_ss4_daima_character/",
+    "steam_sales": "sale_3014080",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1stmxj4/doomblade/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
