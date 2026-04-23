@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-23T09:40:51.619Z",
+  "lastRun": "2026-04-23T10:37:38.784Z",
   "postedIds": {
     "steam_news": [
       {
@@ -949,6 +949,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/535502917902270762",
         "postedAt": "2026-04-22T14:40:28.473Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/503982156237767287",
+        "postedAt": "2026-04-23T10:37:38.784Z"
       }
     ]
   },
@@ -957,6 +961,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ssxq42/legacy_of_kain_1_2_remastered_50_1499/",
     "steam_sales": "sale_2634950",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1stcc02/dragon_ball_fighterz_goku_ss4_daima_character/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/535502917902270762"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767287"
   }
 }
