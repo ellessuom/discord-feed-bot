@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-23T17:36:36.183Z",
+  "lastRun": "2026-04-23T18:34:15.035Z",
   "postedIds": {
     "steam_news": [
       {
@@ -707,6 +707,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1stozyl/save_85_on_little_nightmares_ii_on_steam_449_449/",
         "postedAt": "2026-04-23T17:36:36.183Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1stq9nt/save_80_on_persona_5_royal_on_steam/",
+        "postedAt": "2026-04-23T18:34:15.035Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1stoxef/save_30_on_split_fiction_on_steam_3499_3499/",
+        "postedAt": "2026-04-23T18:34:15.035Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1stotec/save_20_on_dispatch_on_steam_2899_2999/",
+        "postedAt": "2026-04-23T18:34:15.035Z"
       }
     ],
     "steam_sales": [
@@ -805,6 +817,10 @@
       {
         "id": "sale_3014080",
         "postedAt": "2026-04-23T16:40:45.731Z"
+      },
+      {
+        "id": "sale_2840470",
+        "postedAt": "2026-04-23T18:34:15.035Z"
       }
     ],
     "reddit_gamingnews": [
@@ -943,6 +959,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1stmxj4/doomblade/",
         "postedAt": "2026-04-23T16:40:45.731Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1stqjx0/shuhei_yoshida_sees_gamings_future_as_indie_not/",
+        "postedAt": "2026-04-23T18:34:15.035Z"
       }
     ],
     "steam_2073850": [
@@ -998,9 +1018,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1stozyl/save_85_on_little_nightmares_ii_on_steam_449_449/",
-    "steam_sales": "sale_3014080",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1stmxj4/doomblade/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1stotec/save_20_on_dispatch_on_steam_2899_2999/",
+    "steam_sales": "sale_2840470",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1stqjx0/shuhei_yoshida_sees_gamings_future_as_indie_not/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
