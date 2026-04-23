@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-23T21:21:52.642Z",
+  "lastRun": "2026-04-23T22:20:57.871Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1015,6 +1015,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1stt9jk/gang_of_dragon_trailer_and_nagoshi_studios/",
         "postedAt": "2026-04-23T20:26:45.520Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1stx1oy/saros_launch_trailer_ps5_games/",
+        "postedAt": "2026-04-23T22:20:57.871Z"
       }
     ],
     "steam_2073850": [
@@ -1072,7 +1076,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1stt88f/save_65_on_asciill_on_steam/",
     "steam_sales": "sale_1874880",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1stt9jk/gang_of_dragon_trailer_and_nagoshi_studios/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1stx1oy/saros_launch_trailer_ps5_games/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
