@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-23T14:53:47.342Z",
+  "lastRun": "2026-04-23T15:41:44.329Z",
   "postedIds": {
     "steam_news": [
       {
@@ -687,6 +687,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1stjqni/save_100_on_nocturnal_now_free_base_price_1899/",
         "postedAt": "2026-04-23T14:53:47.342Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1stm384/save_33_on_eufloria_classic_on_steam/",
+        "postedAt": "2026-04-23T15:41:44.329Z"
       }
     ],
     "steam_sales": [
@@ -777,6 +781,10 @@
       {
         "id": "sale_2634950",
         "postedAt": "2026-04-23T09:40:51.619Z"
+      },
+      {
+        "id": "sale_2162800",
+        "postedAt": "2026-04-23T15:41:44.329Z"
       }
     ],
     "reddit_gamingnews": [
@@ -966,8 +974,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1stjqni/save_100_on_nocturnal_now_free_base_price_1899/",
-    "steam_sales": "sale_2634950",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1stm384/save_33_on_eufloria_classic_on_steam/",
+    "steam_sales": "sale_2162800",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1stcc02/dragon_ball_fighterz_goku_ss4_daima_character/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
