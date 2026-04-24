@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-24T18:21:57.217Z",
+  "lastRun": "2026-04-24T19:23:31.942Z",
   "postedIds": {
     "steam_news": [
       {
@@ -751,6 +751,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sun98u/save_20_on_go_ape_ship_799/",
         "postedAt": "2026-04-24T18:21:57.217Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1suolwm/save_75_on_super_retro_retry_074_new_historical/",
+        "postedAt": "2026-04-24T19:23:31.942Z"
       }
     ],
     "steam_sales": [
@@ -1158,7 +1162,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sun98u/save_20_on_go_ape_ship_799/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1suolwm/save_75_on_super_retro_retry_074_new_historical/",
     "steam_sales": "sale_1238840",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sundad/pragmata_hits_1_million_sales_capcoms_new_ip/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
