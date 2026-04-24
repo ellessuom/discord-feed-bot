@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-24T22:20:32.403Z",
+  "lastRun": "2026-04-24T23:20:19.421Z",
   "postedIds": {
     "steam_news": [
       {
@@ -905,6 +905,10 @@
       {
         "id": "sale_2668510",
         "postedAt": "2026-04-24T20:21:37.037Z"
+      },
+      {
+        "id": "sale_3059520",
+        "postedAt": "2026-04-24T23:20:19.421Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1127,6 +1131,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sutdxv/assassins_creed_black_flag_resynced_collectors/",
         "postedAt": "2026-04-24T22:20:32.403Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1suuhto/former_call_of_duty_dev_has_a_lead_role_on_tarkov/",
+        "postedAt": "2026-04-24T23:20:19.421Z"
       }
     ],
     "steam_2073850": [
@@ -1183,8 +1191,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sutvkt/save_50_on_red_dead_redemption_on_steam/",
-    "steam_sales": "sale_2668510",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sutdxv/assassins_creed_black_flag_resynced_collectors/",
+    "steam_sales": "sale_3059520",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1suuhto/former_call_of_duty_dev_has_a_lead_role_on_tarkov/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
