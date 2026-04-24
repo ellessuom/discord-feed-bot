@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-24T08:49:17.533Z",
+  "lastRun": "2026-04-24T10:38:28.935Z",
   "postedIds": {
     "steam_news": [
       {
@@ -873,6 +873,10 @@
       {
         "id": "sale_2914150",
         "postedAt": "2026-04-24T07:42:41.052Z"
+      },
+      {
+        "id": "sale_1238840",
+        "postedAt": "2026-04-24T10:38:28.935Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1055,6 +1059,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1su9cgn/just_cause_studio_working_on_unannounced_aaa_open/",
         "postedAt": "2026-04-24T08:49:17.533Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1subp8k/leaked_xbox_game_pass_starter_edition_looks_to/",
+        "postedAt": "2026-04-24T10:38:28.935Z"
       }
     ],
     "steam_2073850": [
@@ -1111,8 +1119,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1su7art/save_40_on_node_body_on_steam_developer/",
-    "steam_sales": "sale_2914150",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1su9cgn/just_cause_studio_working_on_unannounced_aaa_open/",
+    "steam_sales": "sale_1238840",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1subp8k/leaked_xbox_game_pass_starter_edition_looks_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
