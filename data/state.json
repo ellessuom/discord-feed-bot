@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-24T20:21:37.037Z",
+  "lastRun": "2026-04-24T21:22:29.830Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1115,6 +1115,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sundad/pragmata_hits_1_million_sales_capcoms_new_ip/",
         "postedAt": "2026-04-24T18:21:57.217Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sureu2/crimson_desert_update_adds_major_housing/",
+        "postedAt": "2026-04-24T21:22:29.830Z"
       }
     ],
     "steam_2073850": [
@@ -1172,7 +1176,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1suqglg/save_70_on_tactics_ogre_reborn_1499/",
     "steam_sales": "sale_2668510",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sundad/pragmata_hits_1_million_sales_capcoms_new_ip/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sureu2/crimson_desert_update_adds_major_housing/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
