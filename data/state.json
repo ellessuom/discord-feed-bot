@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-24T15:36:21.091Z",
+  "lastRun": "2026-04-24T16:27:31.384Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1083,6 +1083,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sug3xw/shuhei_yoshida_shares_why_releasing_firstparty/",
         "postedAt": "2026-04-24T14:39:53.472Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sukksm/diablo_4_is_bringing_back_a_classic_feature_fans/",
+        "postedAt": "2026-04-24T16:27:31.384Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sujpny/former_unknown_worlds_execs_withdraw_claim_that/",
+        "postedAt": "2026-04-24T16:27:31.384Z"
       }
     ],
     "steam_2073850": [
@@ -1140,7 +1148,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sui9od/save_85_on_little_nightmares_or_complete_edition/",
     "steam_sales": "sale_1238840",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sug3xw/shuhei_yoshida_shares_why_releasing_firstparty/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sujpny/former_unknown_worlds_execs_withdraw_claim_that/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
