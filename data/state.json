@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-24T16:27:31.384Z",
+  "lastRun": "2026-04-24T17:24:53.727Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1091,6 +1091,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sujpny/former_unknown_worlds_execs_withdraw_claim_that/",
         "postedAt": "2026-04-24T16:27:31.384Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sulo1g/after_shaking_steams_servers_with_baldurs_gate_3s/",
+        "postedAt": "2026-04-24T17:24:53.727Z"
       }
     ],
     "steam_2073850": [
@@ -1148,7 +1152,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sui9od/save_85_on_little_nightmares_or_complete_edition/",
     "steam_sales": "sale_1238840",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sujpny/former_unknown_worlds_execs_withdraw_claim_that/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sulo1g/after_shaking_steams_servers_with_baldurs_gate_3s/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
