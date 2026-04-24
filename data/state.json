@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-24T21:22:29.830Z",
+  "lastRun": "2026-04-24T22:20:32.403Z",
   "postedIds": {
     "steam_news": [
       {
@@ -759,6 +759,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1suqglg/save_70_on_tactics_ogre_reborn_1499/",
         "postedAt": "2026-04-24T20:21:37.037Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sutvkt/save_50_on_red_dead_redemption_on_steam/",
+        "postedAt": "2026-04-24T22:20:32.403Z"
       }
     ],
     "steam_sales": [
@@ -1119,6 +1123,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sureu2/crimson_desert_update_adds_major_housing/",
         "postedAt": "2026-04-24T21:22:29.830Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sutdxv/assassins_creed_black_flag_resynced_collectors/",
+        "postedAt": "2026-04-24T22:20:32.403Z"
       }
     ],
     "steam_2073850": [
@@ -1174,9 +1182,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1suqglg/save_70_on_tactics_ogre_reborn_1499/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sutvkt/save_50_on_red_dead_redemption_on_steam/",
     "steam_sales": "sale_2668510",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sureu2/crimson_desert_update_adds_major_housing/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sutdxv/assassins_creed_black_flag_resynced_collectors/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
