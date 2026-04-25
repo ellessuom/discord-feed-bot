@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-25T00:48:57.876Z",
+  "lastRun": "2026-04-25T03:11:27.688Z",
   "postedIds": {
     "steam_news": [
       {
@@ -913,6 +913,14 @@
       {
         "id": "sale_3059520",
         "postedAt": "2026-04-24T23:20:19.421Z"
+      },
+      {
+        "id": "sale_381210",
+        "postedAt": "2026-04-25T03:11:27.688Z"
+      },
+      {
+        "id": "sale_1238810",
+        "postedAt": "2026-04-25T03:11:27.688Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1195,7 +1203,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sux8it/steam_hexadel_119_usd_40_off/",
-    "steam_sales": "sale_3059520",
+    "steam_sales": "sale_1238810",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1suuhto/former_call_of_duty_dev_has_a_lead_role_on_tarkov/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
