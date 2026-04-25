@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-25T22:15:19.260Z",
+  "lastRun": "2026-04-25T23:17:53.199Z",
   "postedIds": {
     "steam_news": [
       {
@@ -775,6 +775,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1svlahs/save_75_on_hades_on_steam_624/",
         "postedAt": "2026-04-25T20:17:57.822Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1svpp71/save_80_on_paranormal_activity_the_lost_soul_will/",
+        "postedAt": "2026-04-25T23:17:53.199Z"
       }
     ],
     "steam_sales": [
@@ -1226,7 +1230,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1svlahs/save_75_on_hades_on_steam_624/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1svpp71/save_80_on_paranormal_activity_the_lost_soul_will/",
     "steam_sales": "sale_1238810",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1svomqf/ps4_and_ps5_drm_claims_spark_concern_over_30_day/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
