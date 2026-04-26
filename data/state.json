@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-26T06:47:09.121Z",
+  "lastRun": "2026-04-26T07:37:32.638Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1179,6 +1179,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1svyjr5/rumbral_launch_trailer_ps5_games/",
         "postedAt": "2026-04-26T06:47:09.121Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sw0wu7/assassins_creed_black_flag_resynced_is_already/",
+        "postedAt": "2026-04-26T07:37:32.638Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sw07rq/the_whispering_valley/",
+        "postedAt": "2026-04-26T07:37:32.638Z"
       }
     ],
     "steam_2073850": [
@@ -1236,7 +1244,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1svpp71/save_80_on_paranormal_activity_the_lost_soul_will/",
     "steam_sales": "sale_1238810",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1svyjr5/rumbral_launch_trailer_ps5_games/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sw07rq/the_whispering_valley/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
