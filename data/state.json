@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-26T12:24:09.721Z",
+  "lastRun": "2026-04-26T17:19:21.029Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1191,6 +1191,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sw07rq/the_whispering_valley/",
         "postedAt": "2026-04-26T07:37:32.638Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1swbytu/larian_wants_to_absolutely_demolish_steam_again/",
+        "postedAt": "2026-04-26T17:19:21.029Z"
       }
     ],
     "steam_2073850": [
@@ -1248,7 +1252,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1svpp71/save_80_on_paranormal_activity_the_lost_soul_will/",
     "steam_sales": "sale_526870",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sw07rq/the_whispering_valley/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1swbytu/larian_wants_to_absolutely_demolish_steam_again/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
