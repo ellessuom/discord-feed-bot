@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-26T21:16:49.989Z",
+  "lastRun": "2026-04-26T23:19:00.702Z",
   "postedIds": {
     "steam_news": [
       {
@@ -787,6 +787,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1swioxi/save_85_on_darksiders_ultimate_edition_on_steam/",
         "postedAt": "2026-04-26T21:16:49.989Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1swlv44/save_20_on_shapez_2_factory/",
+        "postedAt": "2026-04-26T23:19:00.702Z"
       }
     ],
     "steam_sales": [
@@ -1266,7 +1270,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1swioxi/save_85_on_darksiders_ultimate_edition_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1swlv44/save_20_on_shapez_2_factory/",
     "steam_sales": "sale_526870",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1swj13r/ea_sports_ufc_6_planned_for_june_release/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
