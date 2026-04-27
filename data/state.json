@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-27T17:35:49.389Z",
+  "lastRun": "2026-04-27T18:36:36.303Z",
   "postedIds": {
     "steam_news": [
       {
@@ -965,6 +965,14 @@
       {
         "id": "sale_4283360",
         "postedAt": "2026-04-27T17:35:49.389Z"
+      },
+      {
+        "id": "sale_2873660",
+        "postedAt": "2026-04-27T18:36:36.303Z"
+      },
+      {
+        "id": "sale_252490",
+        "postedAt": "2026-04-27T18:36:36.303Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1335,7 +1343,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sx9qkd/interfacex26_fake_os_steam_deals/",
-    "steam_sales": "sale_4283360",
+    "steam_sales": "sale_252490",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sx9gsn/steam_medieval_fest_top_10_upcoming_games_by/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
