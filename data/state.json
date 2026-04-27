@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-26T23:19:00.702Z",
+  "lastRun": "2026-04-27T03:15:48.424Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1215,6 +1215,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1swj13r/ea_sports_ufc_6_planned_for_june_release/",
         "postedAt": "2026-04-26T21:16:49.989Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1swqrdg/capcom_throws_resident_evil_party_featuring_geoff/",
+        "postedAt": "2026-04-27T03:15:48.424Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1swqae6/assassins_creed_hexe_loses_2nd_directorlevel/",
+        "postedAt": "2026-04-27T03:15:48.424Z"
       }
     ],
     "steam_2073850": [
@@ -1272,7 +1280,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1swlv44/save_20_on_shapez_2_factory/",
     "steam_sales": "sale_526870",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1swj13r/ea_sports_ufc_6_planned_for_june_release/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1swqae6/assassins_creed_hexe_loses_2nd_directorlevel/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
