@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-27T07:05:22.834Z",
+  "lastRun": "2026-04-27T09:00:02.887Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1231,6 +1231,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1swqae6/assassins_creed_hexe_loses_2nd_directorlevel/",
         "postedAt": "2026-04-27T03:15:48.424Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1swxuib/alien_isolation_2_will_use_unreal_engine_5_and/",
+        "postedAt": "2026-04-27T09:00:02.887Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1swxu3d/for_southeast_asia_new_price_changes_for_ps5_ps5/",
+        "postedAt": "2026-04-27T09:00:02.887Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1swx4nd/senior_devs_from_prince_of_persia_the_lost_crown/",
+        "postedAt": "2026-04-27T09:00:02.887Z"
       }
     ],
     "steam_2073850": [
@@ -1288,7 +1300,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1swuoq6/aethinion_10_off_449/",
     "steam_sales": "sale_526870",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1swqae6/assassins_creed_hexe_loses_2nd_directorlevel/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1swx4nd/senior_devs_from_prince_of_persia_the_lost_crown/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
