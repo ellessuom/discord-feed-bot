@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-27T09:56:40.048Z",
+  "lastRun": "2026-04-27T11:38:45.446Z",
   "postedIds": {
     "steam_news": [
       {
@@ -799,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1swuoq6/aethinion_10_off_449/",
         "postedAt": "2026-04-27T07:05:22.833Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sx0jvz/save_40_off_pixel_wizard/",
+        "postedAt": "2026-04-27T11:38:45.446Z"
       }
     ],
     "steam_sales": [
@@ -1302,7 +1306,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1swuoq6/aethinion_10_off_449/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sx0jvz/save_40_off_pixel_wizard/",
     "steam_sales": "sale_526870",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1swyjy9/assassins_creed_black_flag_resynced_producer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
