@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-27T12:43:42.726Z",
+  "lastRun": "2026-04-27T13:40:53.386Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1255,6 +1255,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sx16bl/assassins_creed_1_remake_to_follow_black_flag/",
         "postedAt": "2026-04-27T12:43:42.726Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sx2pti/bulletstorm_dev_people_can_fly_acquires_cooldown/",
+        "postedAt": "2026-04-27T13:40:53.386Z"
       }
     ],
     "steam_2073850": [
@@ -1312,7 +1316,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sx0jvz/save_40_off_pixel_wizard/",
     "steam_sales": "sale_526870",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sx16bl/assassins_creed_1_remake_to_follow_black_flag/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sx2pti/bulletstorm_dev_people_can_fly_acquires_cooldown/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
