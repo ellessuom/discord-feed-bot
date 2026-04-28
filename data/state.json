@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-28T00:56:44.262Z",
+  "lastRun": "2026-04-28T07:05:26.302Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,22 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1soxi19/the_mobius_machine_is_50_off_this_week_999/",
-        "postedAt": "2026-04-18T14:20:07.785Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1soxhlm/planetbase_is_50_off_this_week_749/",
-        "postedAt": "2026-04-18T14:20:07.785Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sox16c/save_70_on_hugepixel_collection_vol_1_on_steam/",
-        "postedAt": "2026-04-18T14:20:07.785Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sob8hz/my_game_zona_origin_pcvr_is_40_off_on_steam/",
-        "postedAt": "2026-04-18T14:20:07.785Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1so4kcv/save_82_on_mafia_trilogy_on_steam/",
         "postedAt": "2026-04-18T14:20:07.785Z"
       },
@@ -803,6 +787,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sxkll8/save_60_on_inscryption_799/",
         "postedAt": "2026-04-28T00:56:44.262Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sxsg6f/save_95_on_battlefield_4_on_steam/",
+        "postedAt": "2026-04-28T07:05:26.302Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sxsfdu/save_95_on_battlefield_1_on_steam/",
+        "postedAt": "2026-04-28T07:05:26.302Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sxs6yv/save_95_on_battlefield_hardline_on_steam_last/",
+        "postedAt": "2026-04-28T07:05:26.302Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sxs5wr/save_95_on_battlefield_3_on_steam_last_time_on/",
+        "postedAt": "2026-04-28T07:05:26.302Z"
       }
     ],
     "steam_sales": [
@@ -981,6 +981,10 @@
       {
         "id": "sale_2778610",
         "postedAt": "2026-04-28T00:56:44.262Z"
+      },
+      {
+        "id": "sale_3562120",
+        "postedAt": "2026-04-28T07:05:26.302Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1350,8 +1354,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sxkll8/save_60_on_inscryption_799/",
-    "steam_sales": "sale_2778610",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sxs5wr/save_95_on_battlefield_3_on_steam_last_time_on/",
+    "steam_sales": "sale_3562120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sx9gsn/steam_medieval_fest_top_10_upcoming_games_by/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
