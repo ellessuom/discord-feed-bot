@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-28T12:46:58.924Z",
+  "lastRun": "2026-04-28T15:55:52.617Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sni5aw/save_80_on_quantum_break_on_steam/",
-        "postedAt": "2026-04-18T15:18:51.206Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1snaiua/save_100_on_uncanny_tales_cold_road_on_steam/",
         "postedAt": "2026-04-18T15:18:51.206Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sxyhcx/save_20_on_caromble_for_launch_discount/",
         "postedAt": "2026-04-28T11:38:23.805Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sy19bz/konbini_simulator_80_off/",
+        "postedAt": "2026-04-28T15:55:52.617Z"
       }
     ],
     "steam_sales": [
@@ -993,6 +993,10 @@
       {
         "id": "sale_892970",
         "postedAt": "2026-04-28T10:47:55.936Z"
+      },
+      {
+        "id": "sale_3124540",
+        "postedAt": "2026-04-28T15:55:52.617Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1315,6 +1319,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sxz9wz/cod_movie_director_previously_said_playing_games/",
         "postedAt": "2026-04-28T12:46:58.924Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sy54dh/crimson_desert_is_so_successful_that_the_studio/",
+        "postedAt": "2026-04-28T15:55:52.617Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sy2hv0/valve_says_it_is_hard_at_work_on_steam_deck_2_but/",
+        "postedAt": "2026-04-28T15:55:52.617Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sy1ey5/despite_crimson_deserts_popularity_almost_80_of/",
+        "postedAt": "2026-04-28T15:55:52.617Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sy0jig/for_the_first_time_in_several_years_of/",
+        "postedAt": "2026-04-28T15:55:52.617Z"
       }
     ],
     "steam_2073850": [
@@ -1370,9 +1390,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sxyhcx/save_20_on_caromble_for_launch_discount/",
-    "steam_sales": "sale_892970",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sxz9wz/cod_movie_director_previously_said_playing_games/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sy19bz/konbini_simulator_80_off/",
+    "steam_sales": "sale_3124540",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sy0jig/for_the_first_time_in_several_years_of/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
