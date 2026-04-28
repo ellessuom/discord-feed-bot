@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-27T23:24:59.629Z",
+  "lastRun": "2026-04-28T00:56:44.262Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sond4m/save_90_on_control_ultimate_edition_on_steam_399/",
-        "postedAt": "2026-04-18T14:08:11.501Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1soxi19/the_mobius_machine_is_50_off_this_week_999/",
         "postedAt": "2026-04-18T14:20:07.785Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sxcw0e/30_off_curiosity_a_cat_climbing_game/",
         "postedAt": "2026-04-27T19:36:45.649Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sxkll8/save_60_on_inscryption_799/",
+        "postedAt": "2026-04-28T00:56:44.262Z"
       }
     ],
     "steam_sales": [
@@ -977,6 +977,10 @@
       {
         "id": "sale_3241660",
         "postedAt": "2026-04-27T23:24:59.629Z"
+      },
+      {
+        "id": "sale_2778610",
+        "postedAt": "2026-04-28T00:56:44.262Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1346,8 +1350,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sxcw0e/30_off_curiosity_a_cat_climbing_game/",
-    "steam_sales": "sale_3241660",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sxkll8/save_60_on_inscryption_799/",
+    "steam_sales": "sale_2778610",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sx9gsn/steam_medieval_fest_top_10_upcoming_games_by/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
