@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-28T10:47:55.936Z",
+  "lastRun": "2026-04-28T11:38:23.805Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sns8yh/aquarist_60_off_on_steam/",
-        "postedAt": "2026-04-18T15:18:51.206Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sni5aw/save_80_on_quantum_break_on_steam/",
         "postedAt": "2026-04-18T15:18:51.206Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sxsfvr/save_95_on_battlefield_v_on_steam/",
         "postedAt": "2026-04-28T08:58:42.165Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sxyhcx/save_20_on_caromble_for_launch_discount/",
+        "postedAt": "2026-04-28T11:38:23.805Z"
       }
     ],
     "steam_sales": [
@@ -1366,7 +1366,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sxsfvr/save_95_on_battlefield_v_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sxyhcx/save_20_on_caromble_for_launch_discount/",
     "steam_sales": "sale_892970",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sxxknp/the_wizards_behind_the_online_version_of_magic/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
