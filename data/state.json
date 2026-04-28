@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-28T07:05:26.302Z",
+  "lastRun": "2026-04-28T08:58:42.165Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,14 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1so4kcv/save_82_on_mafia_trilogy_on_steam/",
-        "postedAt": "2026-04-18T14:20:07.785Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1so9ibs/save_50_on_kotenok_on_steam/",
-        "postedAt": "2026-04-18T15:18:51.206Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sns8yh/aquarist_60_off_on_steam/",
         "postedAt": "2026-04-18T15:18:51.206Z"
       },
@@ -803,6 +795,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sxs5wr/save_95_on_battlefield_3_on_steam_last_time_on/",
         "postedAt": "2026-04-28T07:05:26.302Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sxsuz5/save_20_on_screamer_on_steam/",
+        "postedAt": "2026-04-28T08:58:42.165Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1sxsfvr/save_95_on_battlefield_v_on_steam/",
+        "postedAt": "2026-04-28T08:58:42.165Z"
       }
     ],
     "steam_sales": [
@@ -1354,7 +1354,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sxs5wr/save_95_on_battlefield_3_on_steam_last_time_on/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sxsfvr/save_95_on_battlefield_v_on_steam/",
     "steam_sales": "sale_3562120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sx9gsn/steam_medieval_fest_top_10_upcoming_games_by/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
