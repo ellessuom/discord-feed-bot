@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-28T15:55:52.617Z",
+  "lastRun": "2026-04-28T16:43:59.052Z",
   "postedIds": {
     "steam_news": [
       {
@@ -997,6 +997,10 @@
       {
         "id": "sale_3124540",
         "postedAt": "2026-04-28T15:55:52.617Z"
+      },
+      {
+        "id": "sale_3690030",
+        "postedAt": "2026-04-28T16:43:59.052Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1335,6 +1339,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sy0jig/for_the_first_time_in_several_years_of/",
         "postedAt": "2026-04-28T15:55:52.617Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sy1inj/ever_wondered_what_happened_to_star_foxs_puppets/",
+        "postedAt": "2026-04-28T16:43:59.052Z"
       }
     ],
     "steam_2073850": [
@@ -1391,8 +1399,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sy19bz/konbini_simulator_80_off/",
-    "steam_sales": "sale_3124540",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sy0jig/for_the_first_time_in_several_years_of/",
+    "steam_sales": "sale_3690030",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sy1inj/ever_wondered_what_happened_to_star_foxs_puppets/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
