@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-28T08:58:42.165Z",
+  "lastRun": "2026-04-28T10:47:55.936Z",
   "postedIds": {
     "steam_news": [
       {
@@ -985,6 +985,14 @@
       {
         "id": "sale_3562120",
         "postedAt": "2026-04-28T07:05:26.302Z"
+      },
+      {
+        "id": "sale_1238820",
+        "postedAt": "2026-04-28T10:47:55.936Z"
+      },
+      {
+        "id": "sale_892970",
+        "postedAt": "2026-04-28T10:47:55.936Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1299,6 +1307,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sx9gsn/steam_medieval_fest_top_10_upcoming_games_by/",
         "postedAt": "2026-04-27T17:35:49.389Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sxxknp/the_wizards_behind_the_online_version_of_magic/",
+        "postedAt": "2026-04-28T10:47:55.936Z"
       }
     ],
     "steam_2073850": [
@@ -1355,8 +1367,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sxsfvr/save_95_on_battlefield_v_on_steam/",
-    "steam_sales": "sale_3562120",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sx9gsn/steam_medieval_fest_top_10_upcoming_games_by/",
+    "steam_sales": "sale_892970",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sxxknp/the_wizards_behind_the_online_version_of_magic/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
