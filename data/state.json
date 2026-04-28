@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-28T11:38:23.805Z",
+  "lastRun": "2026-04-28T12:46:58.924Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1311,6 +1311,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sxxknp/the_wizards_behind_the_online_version_of_magic/",
         "postedAt": "2026-04-28T10:47:55.936Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sxz9wz/cod_movie_director_previously_said_playing_games/",
+        "postedAt": "2026-04-28T12:46:58.924Z"
       }
     ],
     "steam_2073850": [
@@ -1368,7 +1372,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sxyhcx/save_20_on_caromble_for_launch_discount/",
     "steam_sales": "sale_892970",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sxxknp/the_wizards_behind_the_online_version_of_magic/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sxz9wz/cod_movie_director_previously_said_playing_games/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
