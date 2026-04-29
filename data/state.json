@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-29T18:39:29.335Z",
+  "lastRun": "2026-04-29T19:37:16.988Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1017,6 +1017,10 @@
       {
         "id": "sale_1551360",
         "postedAt": "2026-04-29T18:39:29.335Z"
+      },
+      {
+        "id": "sale_1889810",
+        "postedAt": "2026-04-29T19:37:16.988Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1467,7 +1471,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sz3n4v/save_80_on_steinstern_spacewar_on_steam/",
-    "steam_sales": "sale_1551360",
+    "steam_sales": "sale_1889810",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sz49zr/your_house_on_wheels_in_the_apocalypse_survival/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
