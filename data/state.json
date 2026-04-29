@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-29T07:00:14.002Z",
+  "lastRun": "2026-04-29T07:50:14.323Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1371,6 +1371,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sypldi/ustwo_ceo_says_lowering_development_costs_is_now/",
         "postedAt": "2026-04-29T07:00:14.002Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sys0ep/was_playstations_controversial_new_drm_just_an/",
+        "postedAt": "2026-04-29T07:50:14.323Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1syrs19/please_have_faith_in_us_once_again_says_windrose/",
+        "postedAt": "2026-04-29T07:50:14.323Z"
       }
     ],
     "steam_2073850": [
@@ -1428,7 +1436,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sy78qo/70_historical_low_final_fantasy_xii_the_zodiac/",
     "steam_sales": "sale_585420",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sypldi/ustwo_ceo_says_lowering_development_costs_is_now/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1syrs19/please_have_faith_in_us_once_again_says_windrose/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
