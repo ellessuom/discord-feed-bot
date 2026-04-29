@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-29T14:52:11.260Z",
+  "lastRun": "2026-04-29T15:45:44.413Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1383,6 +1383,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1syygfh/write_warz_a_chaotic_party_game_perfect_for_game/",
         "postedAt": "2026-04-29T14:52:11.260Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sz1q0w/monument_valley_boss_says_it_was_too_romantic/",
+        "postedAt": "2026-04-29T15:45:44.413Z"
       }
     ],
     "steam_2073850": [
@@ -1440,7 +1444,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sy78qo/70_historical_low_final_fantasy_xii_the_zodiac/",
     "steam_sales": "sale_585420",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1syygfh/write_warz_a_chaotic_party_game_perfect_for_game/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sz1q0w/monument_valley_boss_says_it_was_too_romantic/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
