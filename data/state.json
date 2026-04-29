@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-29T17:37:19.196Z",
+  "lastRun": "2026-04-29T18:39:29.335Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1009,6 +1009,14 @@
       {
         "id": "sale_585420",
         "postedAt": "2026-04-29T07:00:14.001Z"
+      },
+      {
+        "id": "sale_1172620",
+        "postedAt": "2026-04-29T18:39:29.335Z"
+      },
+      {
+        "id": "sale_1551360",
+        "postedAt": "2026-04-29T18:39:29.335Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1391,6 +1399,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sz49k0/stealth_heist_game_thick_as_thieves_pricing_and/",
         "postedAt": "2026-04-29T17:37:19.196Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sz6tby/tiga_29_of_uk_games_studios_continue_to_face/",
+        "postedAt": "2026-04-29T18:39:29.335Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sz5wh7/blind_test_shows_gamers_prefer_nvidia_dlss_45/",
+        "postedAt": "2026-04-29T18:39:29.335Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sz49zr/your_house_on_wheels_in_the_apocalypse_survival/",
+        "postedAt": "2026-04-29T18:39:29.335Z"
       }
     ],
     "steam_2073850": [
@@ -1447,8 +1467,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sz3n4v/save_80_on_steinstern_spacewar_on_steam/",
-    "steam_sales": "sale_585420",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sz49k0/stealth_heist_game_thick_as_thieves_pricing_and/",
+    "steam_sales": "sale_1551360",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sz49zr/your_house_on_wheels_in_the_apocalypse_survival/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
