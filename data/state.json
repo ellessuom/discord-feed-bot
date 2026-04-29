@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-29T19:37:16.988Z",
+  "lastRun": "2026-04-29T20:32:12.889Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1415,6 +1415,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sz49zr/your_house_on_wheels_in_the_apocalypse_survival/",
         "postedAt": "2026-04-29T18:39:29.335Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1szak3w/nintendo_switch_2_user_bought_a_game_card_from/",
+        "postedAt": "2026-04-29T20:32:12.889Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sz9l7e/greedfall_studio_spiders_will_close_soon_its/",
+        "postedAt": "2026-04-29T20:32:12.889Z"
       }
     ],
     "steam_2073850": [
@@ -1472,7 +1480,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sz3n4v/save_80_on_steinstern_spacewar_on_steam/",
     "steam_sales": "sale_1889810",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sz49zr/your_house_on_wheels_in_the_apocalypse_survival/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sz9l7e/greedfall_studio_spiders_will_close_soon_its/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
