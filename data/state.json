@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-29T21:29:37.784Z",
+  "lastRun": "2026-04-29T23:24:56.648Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1029,10 +1029,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ssihg0/ruiner_2_official_gameplay_trailer/",
-        "postedAt": "2026-04-22T12:31:52.251Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ssd0kw/kingdom_come_deliverance_devs_are_donating_1_of/",
         "postedAt": "2026-04-22T12:31:52.251Z"
       },
@@ -1427,6 +1423,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sz9l7e/greedfall_studio_spiders_will_close_soon_its/",
         "postedAt": "2026-04-29T20:32:12.889Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1szearn/playstation_users_report_new_online_license/",
+        "postedAt": "2026-04-29T23:24:56.648Z"
       }
     ],
     "steam_2073850": [
@@ -1484,7 +1484,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1szb66u/save_90_on_röki_219/",
     "steam_sales": "sale_281990",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sz9l7e/greedfall_studio_spiders_will_close_soon_its/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1szearn/playstation_users_report_new_online_license/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
