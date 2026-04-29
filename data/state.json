@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-29T00:57:41.799Z",
+  "lastRun": "2026-04-29T07:00:14.002Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1001,6 +1001,14 @@
       {
         "id": "sale_3690030",
         "postedAt": "2026-04-28T16:43:59.052Z"
+      },
+      {
+        "id": "sale_1129580",
+        "postedAt": "2026-04-29T07:00:14.001Z"
+      },
+      {
+        "id": "sale_585420",
+        "postedAt": "2026-04-29T07:00:14.001Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1355,6 +1363,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1syjr1y/diablo_iv_lord_of_hatred_launch_trailer/",
         "postedAt": "2026-04-29T00:57:41.799Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1syq3la/conan_exiles_enhanced_geforce_game_ready_driver/",
+        "postedAt": "2026-04-29T07:00:14.002Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sypldi/ustwo_ceo_says_lowering_development_costs_is_now/",
+        "postedAt": "2026-04-29T07:00:14.002Z"
       }
     ],
     "steam_2073850": [
@@ -1411,8 +1427,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1sy78qo/70_historical_low_final_fantasy_xii_the_zodiac/",
-    "steam_sales": "sale_3690030",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1syjr1y/diablo_iv_lord_of_hatred_launch_trailer/",
+    "steam_sales": "sale_585420",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sypldi/ustwo_ceo_says_lowering_development_costs_is_now/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
