@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-30T05:14:22.020Z",
+  "lastRun": "2026-04-30T09:48:31.741Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1025,13 +1025,13 @@
       {
         "id": "sale_281990",
         "postedAt": "2026-04-29T21:29:37.784Z"
+      },
+      {
+        "id": "sale_2723430",
+        "postedAt": "2026-04-30T09:48:31.741Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1srtgl9/xbox_gamepass_now_costs_23_dollars/",
-        "postedAt": "2026-04-22T12:31:52.251Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1srnpl8/insider_gaming_assassins_creed_black_flag/",
         "postedAt": "2026-04-22T12:31:52.251Z"
@@ -1427,6 +1427,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1szl061/digital_bros_acquires_wuchang_fallen_feathers_ip/",
         "postedAt": "2026-04-30T05:14:22.020Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1szr9i6/sbox_makes_nearly_1_million_on_launch_day_and_yes/",
+        "postedAt": "2026-04-30T09:48:31.741Z"
       }
     ],
     "steam_2073850": [
@@ -1483,8 +1487,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1szb66u/save_90_on_röki_219/",
-    "steam_sales": "sale_281990",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1szl061/digital_bros_acquires_wuchang_fallen_feathers_ip/",
+    "steam_sales": "sale_2723430",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1szr9i6/sbox_makes_nearly_1_million_on_launch_day_and_yes/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
