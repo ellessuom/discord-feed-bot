@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-30T18:38:52.539Z",
+  "lastRun": "2026-04-30T19:37:06.464Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,14 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1snaigh/save_100_on_stickman_killing_zombie_on_steam/",
-        "postedAt": "2026-04-18T16:17:10.072Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sn6uc1/save_66_on_hugepixel_collection_vol_3_on_steam/",
-        "postedAt": "2026-04-18T16:17:10.072Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sn3mkd/save_91_on_axes_guns_itorah_x_orbital_bullet_on/",
         "postedAt": "2026-04-18T16:17:10.072Z"
       },
@@ -803,6 +795,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1szb66u/save_90_on_röki_219/",
         "postedAt": "2026-04-29T21:29:37.784Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t06b28/save_85_on_darksiders_warmastered_edition_299/",
+        "postedAt": "2026-04-30T19:37:06.464Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t05hef/save_25_on_coinsweeper_on_steam/",
+        "postedAt": "2026-04-30T19:37:06.464Z"
       }
     ],
     "steam_sales": [
@@ -1037,6 +1037,14 @@
       {
         "id": "sale_3438850",
         "postedAt": "2026-04-30T18:38:52.539Z"
+      },
+      {
+        "id": "sale_3596700",
+        "postedAt": "2026-04-30T19:37:06.464Z"
+      },
+      {
+        "id": "sale_3840230",
+        "postedAt": "2026-04-30T19:37:06.464Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1498,8 +1506,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1szb66u/save_90_on_röki_219/",
-    "steam_sales": "sale_3438850",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t05hef/save_25_on_coinsweeper_on_steam/",
+    "steam_sales": "sale_3840230",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t01v8m/oddsparks_an_automation_adventure/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
