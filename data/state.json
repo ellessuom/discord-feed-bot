@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-30T12:43:08.783Z",
+  "lastRun": "2026-04-30T14:49:14.878Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1029,6 +1029,10 @@
       {
         "id": "sale_2723430",
         "postedAt": "2026-04-30T09:48:31.741Z"
+      },
+      {
+        "id": "sale_3105440",
+        "postedAt": "2026-04-30T14:49:14.878Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1491,7 +1495,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1szb66u/save_90_on_röki_219/",
-    "steam_sales": "sale_2723430",
+    "steam_sales": "sale_3105440",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sztl6m/invincible_vs_developer_skybound_exits_thirdparty/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
