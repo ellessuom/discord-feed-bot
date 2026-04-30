@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-30T09:48:31.741Z",
+  "lastRun": "2026-04-30T10:41:03.205Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1481,6 +1481,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/503982156237767347",
         "postedAt": "2026-04-23T14:53:47.342Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/678497276169028052",
+        "postedAt": "2026-04-30T10:41:03.205Z"
       }
     ]
   },
@@ -1489,6 +1493,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1szb66u/save_90_on_röki_219/",
     "steam_sales": "sale_2723430",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1szr9i6/sbox_makes_nearly_1_million_on_launch_day_and_yes/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
