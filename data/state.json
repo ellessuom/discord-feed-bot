@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-30T11:36:06.328Z",
+  "lastRun": "2026-04-30T12:43:08.783Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1033,10 +1033,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ss27hq/dragon_ball_sparking_zero_super_limit_breaking/",
-        "postedAt": "2026-04-22T13:39:19.170Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1srk3hi/we_dont_chase_trends_miyamoto_explains_how/",
         "postedAt": "2026-04-22T13:39:19.170Z"
       },
@@ -1431,6 +1427,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sztclg/denuvo_responds_to_dayzero_drm_hypervisor_crack/",
         "postedAt": "2026-04-30T11:36:06.328Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1sztl6m/invincible_vs_developer_skybound_exits_thirdparty/",
+        "postedAt": "2026-04-30T12:43:08.783Z"
       }
     ],
     "steam_2073850": [
@@ -1492,7 +1492,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1szb66u/save_90_on_röki_219/",
     "steam_sales": "sale_2723430",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sztclg/denuvo_responds_to_dayzero_drm_hypervisor_crack/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1sztl6m/invincible_vs_developer_skybound_exits_thirdparty/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
