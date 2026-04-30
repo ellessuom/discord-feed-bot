@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-30T17:36:34.964Z",
+  "lastRun": "2026-04-30T18:38:52.539Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1033,6 +1033,10 @@
       {
         "id": "sale_3105440",
         "postedAt": "2026-04-30T14:49:14.878Z"
+      },
+      {
+        "id": "sale_3438850",
+        "postedAt": "2026-04-30T18:38:52.539Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1495,7 +1499,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1szb66u/save_90_on_röki_219/",
-    "steam_sales": "sale_3105440",
+    "steam_sales": "sale_3438850",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t01v8m/oddsparks_an_automation_adventure/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
