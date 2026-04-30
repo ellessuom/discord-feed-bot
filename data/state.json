@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-30T20:31:49.867Z",
+  "lastRun": "2026-04-30T21:27:11.360Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sn3mkd/save_91_on_axes_guns_itorah_x_orbital_bullet_on/",
-        "postedAt": "2026-04-18T16:17:10.072Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1smuu6g/car_mechanic_simulator_2021_is_80_off_on_steam/",
         "postedAt": "2026-04-18T16:17:10.072Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t05hef/save_25_on_coinsweeper_on_steam/",
         "postedAt": "2026-04-30T19:37:06.464Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t09i10/save_25_on_legend_of_the_coin_knight_on_steam/",
+        "postedAt": "2026-04-30T21:27:11.360Z"
       }
     ],
     "steam_sales": [
@@ -1514,7 +1514,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t05hef/save_25_on_coinsweeper_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t09i10/save_25_on_legend_of_the_coin_knight_on_steam/",
     "steam_sales": "sale_1458140",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t01v8m/oddsparks_an_automation_adventure/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
