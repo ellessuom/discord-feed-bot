@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-30T21:27:11.360Z",
+  "lastRun": "2026-04-30T22:24:40.887Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1057,10 +1057,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sri3aa/gta_6_company_boss_says_ai_can_be_used_for_evil/",
-        "postedAt": "2026-04-22T14:40:28.473Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1srab96/metro_2039_gameplay_teaser/",
         "postedAt": "2026-04-22T14:40:28.473Z"
       },
@@ -1455,6 +1451,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t01v8m/oddsparks_an_automation_adventure/",
         "postedAt": "2026-04-30T17:36:34.964Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t0a4ih/resident_evil_teaser_trailer_playstation/",
+        "postedAt": "2026-04-30T22:24:40.887Z"
       }
     ],
     "steam_2073850": [
@@ -1516,7 +1516,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t09i10/save_25_on_legend_of_the_coin_knight_on_steam/",
     "steam_sales": "sale_1458140",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t01v8m/oddsparks_an_automation_adventure/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0a4ih/resident_evil_teaser_trailer_playstation/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
