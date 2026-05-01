@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-01T17:27:43.016Z",
+  "lastRun": "2026-05-01T18:31:53.807Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1065,10 +1065,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ssrnv6/masters_of_albion_does_what_peter_molyneux/",
-        "postedAt": "2026-04-22T17:26:46.378Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sqth9k/medieval_machines_builder_out_on_steam/",
         "postedAt": "2026-04-22T17:26:46.378Z"
       },
@@ -1463,6 +1459,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t0zlsr/were_still_buying_consoles_mainly_for_their/",
         "postedAt": "2026-05-01T17:27:43.016Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t11o44/an_indie_horror_game_has_been_stuck_in_steam/",
+        "postedAt": "2026-05-01T18:31:53.807Z"
       }
     ],
     "steam_2073850": [
@@ -1524,7 +1524,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t0xe0w/save_75_on_dujanah_on_steam/",
     "steam_sales": "sale_3509230",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0zlsr/were_still_buying_consoles_mainly_for_their/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t11o44/an_indie_horror_game_has_been_stuck_in_steam/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
