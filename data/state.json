@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-01T19:32:57.237Z",
+  "lastRun": "2026-05-01T20:24:24.182Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sp43g2/save_50_on_atomfall_on_steam/",
-        "postedAt": "2026-04-18T18:20:29.473Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sp3qtb/save_30_on_satisfactory_on_steam/",
         "postedAt": "2026-04-18T18:20:29.473Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t12tao/save_90_on_ankora_lost_days_149/",
         "postedAt": "2026-05-01T19:32:57.237Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t14ar7/sale_40_on_the_bunker_notes_on_steam/",
+        "postedAt": "2026-05-01T20:24:24.182Z"
       }
     ],
     "steam_sales": [
@@ -1072,10 +1072,6 @@
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sqth9k/medieval_machines_builder_out_on_steam/",
-        "postedAt": "2026-04-22T17:26:46.378Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sq8sur/surprise_dragon_ball_xenoverse_3_announcement/",
         "postedAt": "2026-04-22T17:26:46.378Z"
@@ -1471,6 +1467,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t11o44/an_indie_horror_game_has_been_stuck_in_steam/",
         "postedAt": "2026-05-01T18:31:53.807Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t13m9t/lego_batman_legacy_of_the_dark_updated_pc_system/",
+        "postedAt": "2026-05-01T20:24:24.182Z"
       }
     ],
     "steam_2073850": [
@@ -1530,9 +1530,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t12tao/save_90_on_ankora_lost_days_149/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t14ar7/sale_40_on_the_bunker_notes_on_steam/",
     "steam_sales": "sale_4131790",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t11o44/an_indie_horror_game_has_been_stuck_in_steam/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t13m9t/lego_batman_legacy_of_the_dark_updated_pc_system/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
