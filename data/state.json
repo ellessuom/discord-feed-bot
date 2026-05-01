@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-01T16:27:16.364Z",
+  "lastRun": "2026-05-01T17:27:43.016Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1065,10 +1065,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1spnhv3/pragmata_is_one_of_capcoms_alltime_toprated_steam/",
-        "postedAt": "2026-04-22T16:30:52.166Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ssrnv6/masters_of_albion_does_what_peter_molyneux/",
         "postedAt": "2026-04-22T17:26:46.378Z"
       },
@@ -1463,6 +1459,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t0xts1/mini_motorways_invites_players_to_pick_new_city/",
         "postedAt": "2026-05-01T16:27:16.364Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t0zlsr/were_still_buying_consoles_mainly_for_their/",
+        "postedAt": "2026-05-01T17:27:43.016Z"
       }
     ],
     "steam_2073850": [
@@ -1524,7 +1524,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t0xe0w/save_75_on_dujanah_on_steam/",
     "steam_sales": "sale_3509230",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0xts1/mini_motorways_invites_players_to_pick_new_city/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0zlsr/were_still_buying_consoles_mainly_for_their/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
