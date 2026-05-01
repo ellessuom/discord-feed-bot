@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-01T03:15:59.594Z",
+  "lastRun": "2026-05-01T07:04:30.002Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1057,10 +1057,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sqzsbd/playstation_to_require_age_verification_for/",
-        "postedAt": "2026-04-22T15:34:29.396Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sqo9dc/shuhei_yoshida_says_jim_ryan_fired_him_from/",
         "postedAt": "2026-04-22T15:34:29.396Z"
       },
@@ -1455,6 +1451,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t0gjrj/xbox_mode_begins_rolling_out_to_players_on/",
         "postedAt": "2026-05-01T03:15:59.594Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t0k5q7/japanese_developer_says_they_dont_make_games_for/",
+        "postedAt": "2026-05-01T07:04:30.002Z"
       }
     ],
     "steam_2073850": [
@@ -1516,7 +1516,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t0erz4/save_60_on_onirism_on_steam/",
     "steam_sales": "sale_1458140",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0gjrj/xbox_mode_begins_rolling_out_to_players_on/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0k5q7/japanese_developer_says_they_dont_make_games_for/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
