@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-01T10:36:34.010Z",
+  "lastRun": "2026-05-01T11:30:26.939Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1061,10 +1061,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sspbbr/nintendo_sued_by_players_who_say_they_should_get/",
-        "postedAt": "2026-04-22T16:30:52.166Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sqpqga/looking_for_squads_to_playtest_our_game_its_a/",
         "postedAt": "2026-04-22T16:30:52.166Z"
       },
@@ -1459,6 +1455,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t0on1c/stealth_rpg_deserter_receives_a_playable_demo/",
         "postedAt": "2026-05-01T09:39:50.660Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t0q676/weekly_rgamingnews_discussion_what_game_you_will/",
+        "postedAt": "2026-05-01T11:30:26.939Z"
       }
     ],
     "steam_2073850": [
@@ -1520,7 +1520,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t0erz4/save_60_on_onirism_on_steam/",
     "steam_sales": "sale_3375780",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0on1c/stealth_rpg_deserter_receives_a_playable_demo/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0q676/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
