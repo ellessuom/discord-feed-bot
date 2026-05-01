@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-30T23:24:23.342Z",
+  "lastRun": "2026-05-01T01:01:41.809Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,14 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1smuu6g/car_mechanic_simulator_2021_is_80_off_on_steam/",
-        "postedAt": "2026-04-18T16:17:10.072Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sp25f1/save_60_on_the_world_ends_in_ohio_159/",
-        "postedAt": "2026-04-18T17:17:22.995Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1snsgi8/food_store_simulator_75_off/",
         "postedAt": "2026-04-18T17:17:22.995Z"
       },
@@ -803,6 +795,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t09i10/save_25_on_legend_of_the_coin_knight_on_steam/",
         "postedAt": "2026-04-30T21:27:11.360Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t0cph6/save_67_on_pacific_drive_989/",
+        "postedAt": "2026-05-01T01:01:41.809Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t0cjfk/save_75_on_star_wars_empire_at_war/",
+        "postedAt": "2026-05-01T01:01:41.809Z"
       }
     ],
     "steam_sales": [
@@ -1514,7 +1514,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t09i10/save_25_on_legend_of_the_coin_knight_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t0cjfk/save_75_on_star_wars_empire_at_war/",
     "steam_sales": "sale_1458140",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0c2cu/the_new_york_childrens_online_safety_act_will_ban/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
