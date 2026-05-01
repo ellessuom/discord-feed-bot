@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-01T18:31:53.807Z",
+  "lastRun": "2026-05-01T19:32:57.237Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1smvgxj/save_80_on_cyborg3003_on_steam/",
-        "postedAt": "2026-04-18T17:17:22.995Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sp43g2/save_50_on_atomfall_on_steam/",
         "postedAt": "2026-04-18T18:20:29.473Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t0xe0w/save_75_on_dujanah_on_steam/",
         "postedAt": "2026-05-01T16:27:16.364Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t12tao/save_90_on_ankora_lost_days_149/",
+        "postedAt": "2026-05-01T19:32:57.237Z"
       }
     ],
     "steam_sales": [
@@ -1061,6 +1061,14 @@
       {
         "id": "sale_3509230",
         "postedAt": "2026-05-01T14:31:10.620Z"
+      },
+      {
+        "id": "sale_3892270",
+        "postedAt": "2026-05-01T19:32:57.237Z"
+      },
+      {
+        "id": "sale_4131790",
+        "postedAt": "2026-05-01T19:32:57.237Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1522,8 +1530,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t0xe0w/save_75_on_dujanah_on_steam/",
-    "steam_sales": "sale_3509230",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t12tao/save_90_on_ankora_lost_days_149/",
+    "steam_sales": "sale_4131790",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t11o44/an_indie_horror_game_has_been_stuck_in_steam/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
