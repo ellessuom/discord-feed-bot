@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-01T20:24:24.182Z",
+  "lastRun": "2026-05-01T22:22:32.449Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1073,14 +1073,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sq8sur/surprise_dragon_ball_xenoverse_3_announcement/",
-        "postedAt": "2026-04-22T17:26:46.378Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1spzoqa/metal_slug_celebrates_30year_anniversary_with/",
-        "postedAt": "2026-04-22T17:26:46.378Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sq3cta/youtuber_reconstructs_nintendos_rare_first_arcade/",
         "postedAt": "2026-04-22T18:31:30.562Z"
       },
@@ -1471,6 +1463,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t13m9t/lego_batman_legacy_of_the_dark_updated_pc_system/",
         "postedAt": "2026-05-01T20:24:24.182Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t17kpx/how_openai_tore_apart_a_team_of_dota_2_pros/",
+        "postedAt": "2026-05-01T22:22:32.449Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t175yy/roblox_shares_plummet_18_as_child_safety_measures/",
+        "postedAt": "2026-05-01T22:22:32.449Z"
       }
     ],
     "steam_2073850": [
@@ -1532,7 +1532,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t14ar7/sale_40_on_the_bunker_notes_on_steam/",
     "steam_sales": "sale_4131790",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t13m9t/lego_batman_legacy_of_the_dark_updated_pc_system/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t175yy/roblox_shares_plummet_18_as_child_safety_measures/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
