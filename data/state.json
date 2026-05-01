@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-01T07:04:30.002Z",
+  "lastRun": "2026-05-01T08:47:37.320Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1057,14 +1057,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sqo9dc/shuhei_yoshida_says_jim_ryan_fired_him_from/",
-        "postedAt": "2026-04-22T15:34:29.396Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sq3bjo/capcom_is_singlehandedly_carrying_aaa_gaming_6/",
-        "postedAt": "2026-04-22T15:34:29.396Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1spwlyf/playnix_launches_steam_machine_competitor_with/",
         "postedAt": "2026-04-22T15:34:29.396Z"
       },
@@ -1455,6 +1447,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t0k5q7/japanese_developer_says_they_dont_make_games_for/",
         "postedAt": "2026-05-01T07:04:30.002Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t0nof0/diablo_iv_lord_of_hatred_launch_accolades_trailer/",
+        "postedAt": "2026-05-01T08:47:37.320Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t0n56j/shot_one_fighters_official_announcement_trailer/",
+        "postedAt": "2026-05-01T08:47:37.320Z"
       }
     ],
     "steam_2073850": [
@@ -1516,7 +1516,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t0erz4/save_60_on_onirism_on_steam/",
     "steam_sales": "sale_1458140",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0k5q7/japanese_developer_says_they_dont_make_games_for/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0n56j/shot_one_fighters_official_announcement_trailer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
