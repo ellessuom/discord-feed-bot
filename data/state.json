@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-01T01:01:41.809Z",
+  "lastRun": "2026-05-01T03:15:59.594Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1snsgi8/food_store_simulator_75_off/",
-        "postedAt": "2026-04-18T17:17:22.995Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1snsbea/pharmacy_simulator_70_off/",
         "postedAt": "2026-04-18T17:17:22.995Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t0cjfk/save_75_on_star_wars_empire_at_war/",
         "postedAt": "2026-05-01T01:01:41.809Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t0erz4/save_60_on_onirism_on_steam/",
+        "postedAt": "2026-05-01T03:15:59.594Z"
       }
     ],
     "steam_sales": [
@@ -1056,10 +1056,6 @@
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sqimcz/windrose_sails_past_1_million_copies_sold_in_six/",
-        "postedAt": "2026-04-22T14:40:28.473Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sqzsbd/playstation_to_require_age_verification_for/",
         "postedAt": "2026-04-22T15:34:29.396Z"
@@ -1455,6 +1451,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t0c2cu/the_new_york_childrens_online_safety_act_will_ban/",
         "postedAt": "2026-04-30T23:24:23.342Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t0gjrj/xbox_mode_begins_rolling_out_to_players_on/",
+        "postedAt": "2026-05-01T03:15:59.594Z"
       }
     ],
     "steam_2073850": [
@@ -1514,9 +1514,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t0cjfk/save_75_on_star_wars_empire_at_war/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t0erz4/save_60_on_onirism_on_steam/",
     "steam_sales": "sale_1458140",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0c2cu/the_new_york_childrens_online_safety_act_will_ban/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0gjrj/xbox_mode_begins_rolling_out_to_players_on/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
