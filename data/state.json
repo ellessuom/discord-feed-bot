@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-01T14:31:10.620Z",
+  "lastRun": "2026-05-01T16:27:16.364Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1snbsa8/save_10_on_stickman_3d_tennis_deluxe/",
-        "postedAt": "2026-04-18T17:17:22.995Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1smvgxj/save_80_on_cyborg3003_on_steam/",
         "postedAt": "2026-04-18T17:17:22.995Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t0uejg/mini_tank_mayhem_a_td_x_deckbuilder_21_off/",
         "postedAt": "2026-05-01T14:31:10.620Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t0xe0w/save_75_on_dujanah_on_steam/",
+        "postedAt": "2026-05-01T16:27:16.364Z"
       }
     ],
     "steam_sales": [
@@ -1064,10 +1064,6 @@
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1spy8ic/former_bioware_producer_mark_darrah_says_its/",
-        "postedAt": "2026-04-22T16:30:52.166Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1spnhv3/pragmata_is_one_of_capcoms_alltime_toprated_steam/",
         "postedAt": "2026-04-22T16:30:52.166Z"
@@ -1463,6 +1459,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t0ufoq/far_far_west_is_steams_latest_indie_success_story/",
         "postedAt": "2026-05-01T14:31:10.620Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t0xts1/mini_motorways_invites_players_to_pick_new_city/",
+        "postedAt": "2026-05-01T16:27:16.364Z"
       }
     ],
     "steam_2073850": [
@@ -1522,9 +1522,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t0uejg/mini_tank_mayhem_a_td_x_deckbuilder_21_off/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t0xe0w/save_75_on_dujanah_on_steam/",
     "steam_sales": "sale_3509230",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0ufoq/far_far_west_is_steams_latest_indie_success_story/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t0xts1/mini_motorways_invites_players_to_pick_new_city/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
