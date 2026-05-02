@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-02T01:41:20.491Z",
+  "lastRun": "2026-05-02T06:48:34.324Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1081,10 +1081,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1spr3fg/resident_evil_requiem_mercenaries_songs_allegedly/",
-        "postedAt": "2026-04-22T18:31:30.562Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ssvnhk/shuhei_yoshida_says_releasing_games_day_one_on_pc/",
         "postedAt": "2026-04-22T19:34:34.367Z"
       },
@@ -1479,6 +1475,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t1br64/saros_accolades_trailer_ps5_games/",
         "postedAt": "2026-05-02T01:41:20.491Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t1i9kh/hogwarts_legacy/",
+        "postedAt": "2026-05-02T06:48:34.324Z"
       }
     ],
     "steam_2073850": [
@@ -1540,7 +1540,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t14ar7/sale_40_on_the_bunker_notes_on_steam/",
     "steam_sales": "sale_3794610",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t1br64/saros_accolades_trailer_ps5_games/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t1i9kh/hogwarts_legacy/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
