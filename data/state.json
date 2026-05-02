@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-02T20:17:46.951Z",
+  "lastRun": "2026-05-02T21:19:27.482Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sp3qtb/save_30_on_satisfactory_on_steam/",
-        "postedAt": "2026-04-18T18:20:29.473Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sp3pr0/save_50_on_valheim_on_steam/",
         "postedAt": "2026-04-18T18:20:29.473Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t14ar7/sale_40_on_the_bunker_notes_on_steam/",
         "postedAt": "2026-05-01T20:24:24.182Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t20pme/save_90_on_toem_a_photo_adventure_195_new/",
+        "postedAt": "2026-05-02T21:19:27.482Z"
       }
     ],
     "steam_sales": [
@@ -1542,7 +1542,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t14ar7/sale_40_on_the_bunker_notes_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t20pme/save_90_on_toem_a_photo_adventure_195_new/",
     "steam_sales": "sale_1774580",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t1zsk0/halo_2_and_3_remakes_in_active_development/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
