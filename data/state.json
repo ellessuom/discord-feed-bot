@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-02T06:48:34.324Z",
+  "lastRun": "2026-05-02T15:21:21.901Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1077,6 +1077,10 @@
       {
         "id": "sale_3794610",
         "postedAt": "2026-05-02T00:54:54.899Z"
+      },
+      {
+        "id": "sale_1774580",
+        "postedAt": "2026-05-02T15:21:21.901Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1539,7 +1543,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t14ar7/sale_40_on_the_bunker_notes_on_steam/",
-    "steam_sales": "sale_3794610",
+    "steam_sales": "sale_1774580",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t1i9kh/hogwarts_legacy/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
