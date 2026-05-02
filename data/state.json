@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-02T15:21:21.901Z",
+  "lastRun": "2026-05-02T18:25:39.876Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1085,10 +1085,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ssvnhk/shuhei_yoshida_says_releasing_games_day_one_on_pc/",
-        "postedAt": "2026-04-22T19:34:34.367Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ssxf7c/ruiner_2_official_gameplay_trailer/",
         "postedAt": "2026-04-22T21:23:15.987Z"
       },
@@ -1483,6 +1479,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t1i9kh/hogwarts_legacy/",
         "postedAt": "2026-05-02T06:48:34.324Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t1w03j/krafton_q1_revenue_up_569_to_931m_driven_by/",
+        "postedAt": "2026-05-02T18:25:39.876Z"
       }
     ],
     "steam_2073850": [
@@ -1544,7 +1544,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t14ar7/sale_40_on_the_bunker_notes_on_steam/",
     "steam_sales": "sale_1774580",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t1i9kh/hogwarts_legacy/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t1w03j/krafton_q1_revenue_up_569_to_931m_driven_by/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
