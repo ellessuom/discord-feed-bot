@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-03T18:25:46.412Z",
+  "lastRun": "2026-05-03T20:18:54.307Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1089,13 +1089,13 @@
       {
         "id": "sale_2842040",
         "postedAt": "2026-05-03T18:25:46.412Z"
+      },
+      {
+        "id": "sale_1237950",
+        "postedAt": "2026-05-03T20:18:54.307Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sttn6t/we_are_xbox_xbox_wire/",
-        "postedAt": "2026-04-23T20:26:45.520Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1stt9jk/gang_of_dragon_trailer_and_nagoshi_studios/",
         "postedAt": "2026-04-23T20:26:45.520Z"
@@ -1491,6 +1491,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t2qoc7/mindseye_ceo_apparently_found_time_to_vibe_code/",
         "postedAt": "2026-05-03T17:21:48.283Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t2vlhy/more_rockstar_games_remasters_could_be_on_the_way/",
+        "postedAt": "2026-05-03T20:18:54.307Z"
       }
     ],
     "steam_2073850": [
@@ -1551,8 +1555,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t2rcxr/save_75_on_star_wars_outlaws_historical_low/",
-    "steam_sales": "sale_2842040",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t2qoc7/mindseye_ceo_apparently_found_time_to_vibe_code/",
+    "steam_sales": "sale_1237950",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t2vlhy/more_rockstar_games_remasters_could_be_on_the_way/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
