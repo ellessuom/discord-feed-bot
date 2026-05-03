@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-03T06:59:55.167Z",
+  "lastRun": "2026-05-03T10:26:21.664Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1085,14 +1085,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1st7nfe/microsoft_is_considering_doing_a_customizable/",
-        "postedAt": "2026-04-23T05:06:56.274Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1stcc02/dragon_ball_fighterz_goku_ss4_daima_character/",
-        "postedAt": "2026-04-23T08:45:28.230Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1stmxj4/doomblade/",
         "postedAt": "2026-04-23T16:40:45.731Z"
       },
@@ -1483,6 +1475,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t2cc3w/the_shore_enhanced_edition_launch_trailer_ps5/",
         "postedAt": "2026-05-03T06:59:55.167Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t2h533/capcom_teases_that_pragmata_might_have_a_future/",
+        "postedAt": "2026-05-03T10:26:21.664Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t2gybz/former_nintendo_exec_reveals_why_it_stopped/",
+        "postedAt": "2026-05-03T10:26:21.664Z"
       }
     ],
     "steam_2073850": [
@@ -1544,7 +1544,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t20pme/save_90_on_toem_a_photo_adventure_195_new/",
     "steam_sales": "sale_1774580",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t2cc3w/the_shore_enhanced_edition_launch_trailer_ps5/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t2gybz/former_nintendo_exec_reveals_why_it_stopped/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
