@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-03T12:26:57.454Z",
+  "lastRun": "2026-05-03T16:21:58.012Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1085,10 +1085,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1stsyz1/assassins_creed_black_flag_resynced_world/",
-        "postedAt": "2026-04-23T19:35:01.590Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1strg0o/forza_horizon_5_sold_5_million_copies_on_ps5/",
         "postedAt": "2026-04-23T19:35:01.590Z"
       },
@@ -1483,6 +1479,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t2j4er/taketwo_interactives_strauss_zelnick_on_gta_6/",
         "postedAt": "2026-05-03T12:26:57.454Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t2odn2/pacman_to_get_a_new_cartoon_series_pacmansnack/",
+        "postedAt": "2026-05-03T16:21:58.012Z"
       }
     ],
     "steam_2073850": [
@@ -1544,7 +1544,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t20pme/save_90_on_toem_a_photo_adventure_195_new/",
     "steam_sales": "sale_1774580",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t2j4er/taketwo_interactives_strauss_zelnick_on_gta_6/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t2odn2/pacman_to_get_a_new_cartoon_series_pacmansnack/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
