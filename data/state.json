@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-03T16:21:58.012Z",
+  "lastRun": "2026-05-03T17:21:48.283Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sp3pr0/save_50_on_valheim_on_steam/",
-        "postedAt": "2026-04-18T18:20:29.473Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sp3o5f/save_90_on_alan_wake_on_steam/",
         "postedAt": "2026-04-18T18:20:29.473Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t20pme/save_90_on_toem_a_photo_adventure_195_new/",
         "postedAt": "2026-05-02T21:19:27.482Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t2rcxr/save_75_on_star_wars_outlaws_historical_low/",
+        "postedAt": "2026-05-03T17:21:48.283Z"
       }
     ],
     "steam_sales": [
@@ -1081,13 +1081,13 @@
       {
         "id": "sale_1774580",
         "postedAt": "2026-05-02T15:21:21.901Z"
+      },
+      {
+        "id": "sale_4197610",
+        "postedAt": "2026-05-03T17:21:48.283Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1strg0o/forza_horizon_5_sold_5_million_copies_on_ps5/",
-        "postedAt": "2026-04-23T19:35:01.590Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sttn6t/we_are_xbox_xbox_wire/",
         "postedAt": "2026-04-23T20:26:45.520Z"
@@ -1483,6 +1483,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t2odn2/pacman_to_get_a_new_cartoon_series_pacmansnack/",
         "postedAt": "2026-05-03T16:21:58.012Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t2qoc7/mindseye_ceo_apparently_found_time_to_vibe_code/",
+        "postedAt": "2026-05-03T17:21:48.283Z"
       }
     ],
     "steam_2073850": [
@@ -1542,9 +1546,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t20pme/save_90_on_toem_a_photo_adventure_195_new/",
-    "steam_sales": "sale_1774580",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t2odn2/pacman_to_get_a_new_cartoon_series_pacmansnack/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t2rcxr/save_75_on_star_wars_outlaws_historical_low/",
+    "steam_sales": "sale_4197610",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t2qoc7/mindseye_ceo_apparently_found_time_to_vibe_code/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
