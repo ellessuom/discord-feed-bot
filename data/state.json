@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-03T10:26:21.664Z",
+  "lastRun": "2026-05-03T11:19:31.683Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1085,10 +1085,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1stmxj4/doomblade/",
-        "postedAt": "2026-04-23T16:40:45.731Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1stqjx0/shuhei_yoshida_sees_gamings_future_as_indie_not/",
         "postedAt": "2026-04-23T18:34:15.035Z"
       },
@@ -1483,6 +1479,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t2gybz/former_nintendo_exec_reveals_why_it_stopped/",
         "postedAt": "2026-05-03T10:26:21.664Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t2i0e9/former_ubisoft_halifax_workers_launch_independent/",
+        "postedAt": "2026-05-03T11:19:31.683Z"
       }
     ],
     "steam_2073850": [
@@ -1544,7 +1544,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t20pme/save_90_on_toem_a_photo_adventure_195_new/",
     "steam_sales": "sale_1774580",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t2gybz/former_nintendo_exec_reveals_why_it_stopped/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t2i0e9/former_ubisoft_halifax_workers_launch_independent/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
