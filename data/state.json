@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-04T14:52:06.881Z",
+  "lastRun": "2026-05-04T15:48:22.044Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1093,6 +1093,14 @@
       {
         "id": "sale_1237950",
         "postedAt": "2026-05-03T20:18:54.307Z"
+      },
+      {
+        "id": "sale_1364780",
+        "postedAt": "2026-05-04T15:48:22.044Z"
+      },
+      {
+        "id": "sale_4244510",
+        "postedAt": "2026-05-04T15:48:22.044Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1555,7 +1563,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t2rcxr/save_75_on_star_wars_outlaws_historical_low/",
-    "steam_sales": "sale_1237950",
+    "steam_sales": "sale_4244510",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t3jb5d/return_of_the_killer_app_an_upcoming_7th_guest/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
