@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-04T20:36:10.813Z",
+  "lastRun": "2026-05-04T22:26:50.053Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1117,10 +1117,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sugu8z/wyldheart_reveal_trailer/",
-        "postedAt": "2026-04-24T14:39:53.472Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sug3xw/shuhei_yoshida_shares_why_releasing_firstparty/",
         "postedAt": "2026-04-24T14:39:53.472Z"
       },
@@ -1515,6 +1511,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t3t3kr/gamestop_stock_sinks_after_surprise_ebay_takeover/",
         "postedAt": "2026-05-04T20:36:10.813Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t3wb60/into_the_grid_the_argentinian_cyberpunk_indie/",
+        "postedAt": "2026-05-04T22:26:50.053Z"
       }
     ],
     "steam_2073850": [
@@ -1576,7 +1576,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t3peyk/save_70_on_hyper_light_drifter_on_steam/",
     "steam_sales": "sale_427410",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t3t3kr/gamestop_stock_sinks_after_surprise_ebay_takeover/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t3wb60/into_the_grid_the_argentinian_cyberpunk_indie/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
