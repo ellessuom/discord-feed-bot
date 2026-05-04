@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-04T03:16:51.521Z",
+  "lastRun": "2026-05-04T07:14:24.467Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1097,10 +1097,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1stx1oy/saros_launch_trailer_ps5_games/",
-        "postedAt": "2026-04-23T22:20:57.871Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1su25ht/assassins_creed_black_flag_resynced_official_game/",
         "postedAt": "2026-04-24T03:14:07.994Z"
       },
@@ -1495,6 +1491,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t353p3/gamestop_makes_555bn_takeover_offer_for_ebay/",
         "postedAt": "2026-05-04T03:16:51.521Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t38gws/marvel_tōkon_fighting_souls_fighting_avengers/",
+        "postedAt": "2026-05-04T07:14:24.467Z"
       }
     ],
     "steam_2073850": [
@@ -1556,7 +1556,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t2rcxr/save_75_on_star_wars_outlaws_historical_low/",
     "steam_sales": "sale_1237950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t353p3/gamestop_makes_555bn_takeover_offer_for_ebay/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t38gws/marvel_tōkon_fighting_souls_fighting_avengers/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
