@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-04T19:38:49.174Z",
+  "lastRun": "2026-05-04T20:36:10.813Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1109,17 +1109,13 @@
       {
         "id": "sale_220200",
         "postedAt": "2026-05-04T19:38:49.174Z"
+      },
+      {
+        "id": "sale_427410",
+        "postedAt": "2026-05-04T20:36:10.813Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1subp8k/leaked_xbox_game_pass_starter_edition_looks_to/",
-        "postedAt": "2026-04-24T10:38:28.935Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sucfvn/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-04-24T11:31:09.371Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sugu8z/wyldheart_reveal_trailer/",
         "postedAt": "2026-04-24T14:39:53.472Z"
@@ -1511,6 +1507,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t3m1tu/resident_evil_requiem_producer_responds_to_dlss_5/",
         "postedAt": "2026-05-04T16:40:51.152Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t3thjj/into_the_grid_the_argentinian_cyberpunk_indie/",
+        "postedAt": "2026-05-04T20:36:10.813Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t3t3kr/gamestop_stock_sinks_after_surprise_ebay_takeover/",
+        "postedAt": "2026-05-04T20:36:10.813Z"
       }
     ],
     "steam_2073850": [
@@ -1571,8 +1575,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t3peyk/save_70_on_hyper_light_drifter_on_steam/",
-    "steam_sales": "sale_220200",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t3m1tu/resident_evil_requiem_producer_responds_to_dlss_5/",
+    "steam_sales": "sale_427410",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t3t3kr/gamestop_stock_sinks_after_surprise_ebay_takeover/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
