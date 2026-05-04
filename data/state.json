@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-04T18:42:01.134Z",
+  "lastRun": "2026-05-04T19:38:49.174Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1105,6 +1105,10 @@
       {
         "id": "sale_1086940",
         "postedAt": "2026-05-04T17:37:51.690Z"
+      },
+      {
+        "id": "sale_220200",
+        "postedAt": "2026-05-04T19:38:49.174Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1567,7 +1571,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t3peyk/save_70_on_hyper_light_drifter_on_steam/",
-    "steam_sales": "sale_1086940",
+    "steam_sales": "sale_220200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t3m1tu/resident_evil_requiem_producer_responds_to_dlss_5/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
