@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-05T03:14:18.408Z",
+  "lastRun": "2026-05-05T05:10:25.529Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1117,14 +1117,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sulo1g/after_shaking_steams_servers_with_baldurs_gate_3s/",
-        "postedAt": "2026-04-24T17:24:53.727Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sundad/pragmata_hits_1_million_sales_capcoms_new_ip/",
-        "postedAt": "2026-04-24T18:21:57.217Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sureu2/crimson_desert_update_adds_major_housing/",
         "postedAt": "2026-04-24T21:22:29.830Z"
       },
@@ -1515,6 +1507,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t437z1/randy_pitchford_says_gearbox_has_a_firm_noai/",
         "postedAt": "2026-05-05T03:14:18.408Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t43umv/former_elder_scrolls_online_boss_describes_tango/",
+        "postedAt": "2026-05-05T05:10:25.529Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t43tek/nintendo_announces_switch_2_pokémon_pokopia_bundle/",
+        "postedAt": "2026-05-05T05:10:25.529Z"
       }
     ],
     "steam_2073850": [
@@ -1576,7 +1576,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t3y2re/save_40_on_dice_of_kalma_on_steam/",
     "steam_sales": "sale_427410",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t437z1/randy_pitchford_says_gearbox_has_a_firm_noai/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t43tek/nintendo_announces_switch_2_pokémon_pokopia_bundle/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
