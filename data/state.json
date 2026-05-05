@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-05T20:31:35.296Z",
+  "lastRun": "2026-05-05T22:26:26.078Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1spskyv/steam_gladiator_command_399_20/",
-        "postedAt": "2026-04-19T13:31:46.714Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1spxax0/metro_franchise_sale_90_off/",
         "postedAt": "2026-04-19T16:17:08.586Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t4obnh/save_85_on_moonlighter_299/",
         "postedAt": "2026-05-05T18:40:25.460Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t4uhps/tale_of_ren_is_50_off_during_the_spring_sale/",
+        "postedAt": "2026-05-05T22:26:26.078Z"
       }
     ],
     "steam_sales": [
@@ -1140,18 +1140,6 @@
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1swqrdg/capcom_throws_resident_evil_party_featuring_geoff/",
-        "postedAt": "2026-04-27T03:15:48.424Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1swqae6/assassins_creed_hexe_loses_2nd_directorlevel/",
-        "postedAt": "2026-04-27T03:15:48.424Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1swxuib/alien_isolation_2_will_use_unreal_engine_5_and/",
-        "postedAt": "2026-04-27T09:00:02.887Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1swxu3d/for_southeast_asia_new_price_changes_for_ps5_ps5/",
         "postedAt": "2026-04-27T09:00:02.887Z"
@@ -1539,6 +1527,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t4r6ch/wii_u_failed_due_to_slow_launch_of_exclusives/",
         "postedAt": "2026-05-05T20:31:35.296Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t4u8fh/007_first_light_dev_explains_why_it_delayed_the/",
+        "postedAt": "2026-05-05T22:26:26.078Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t4tp05/microsoft_may_not_have_enough_xbox_stock_for_gta/",
+        "postedAt": "2026-05-05T22:26:26.078Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t4tjo1/3_devs_almost_went_bankrupt_spent_3_years_making/",
+        "postedAt": "2026-05-05T22:26:26.078Z"
       }
     ],
     "steam_2073850": [
@@ -1598,9 +1598,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t4obnh/save_85_on_moonlighter_299/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t4uhps/tale_of_ren_is_50_off_during_the_spring_sale/",
     "steam_sales": "sale_739630",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t4r6ch/wii_u_failed_due_to_slow_launch_of_exclusives/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t4tjo1/3_devs_almost_went_bankrupt_spent_3_years_making/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
