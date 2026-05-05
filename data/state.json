@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-05T05:10:25.529Z",
+  "lastRun": "2026-05-05T06:56:57.467Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sph4aq/save_80_on_total_war_shogun_2_on_steam/",
-        "postedAt": "2026-04-19T03:13:03.987Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1spfxg6/save_70_on_hugepixel_collection_vol_2_on_steam/",
         "postedAt": "2026-04-19T03:13:03.987Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t3y2re/save_40_on_dice_of_kalma_on_steam/",
         "postedAt": "2026-05-04T23:24:17.708Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t47eu8/river_drift_playtest_is_live_now/",
+        "postedAt": "2026-05-05T06:56:57.467Z"
       }
     ],
     "steam_sales": [
@@ -1116,10 +1116,6 @@
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sureu2/crimson_desert_update_adds_major_housing/",
-        "postedAt": "2026-04-24T21:22:29.830Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sutdxv/assassins_creed_black_flag_resynced_collectors/",
         "postedAt": "2026-04-24T22:20:32.403Z"
@@ -1515,6 +1511,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t43tek/nintendo_announces_switch_2_pokémon_pokopia_bundle/",
         "postedAt": "2026-05-05T05:10:25.529Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t47rr6/overcome_your_fears_caretaker/",
+        "postedAt": "2026-05-05T06:56:57.467Z"
       }
     ],
     "steam_2073850": [
@@ -1574,9 +1574,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t3y2re/save_40_on_dice_of_kalma_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t47eu8/river_drift_playtest_is_live_now/",
     "steam_sales": "sale_427410",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t43tek/nintendo_announces_switch_2_pokémon_pokopia_bundle/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t47rr6/overcome_your_fears_caretaker/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
