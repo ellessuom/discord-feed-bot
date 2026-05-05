@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-05T00:53:26.699Z",
+  "lastRun": "2026-05-05T03:14:18.408Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1117,10 +1117,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sujpny/former_unknown_worlds_execs_withdraw_claim_that/",
-        "postedAt": "2026-04-24T16:27:31.384Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sulo1g/after_shaking_steams_servers_with_baldurs_gate_3s/",
         "postedAt": "2026-04-24T17:24:53.727Z"
       },
@@ -1515,6 +1511,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t3zrb6/millions_of_gamers_may_be_entitled_to_sony_credit/",
         "postedAt": "2026-05-05T00:53:26.699Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t437z1/randy_pitchford_says_gearbox_has_a_firm_noai/",
+        "postedAt": "2026-05-05T03:14:18.408Z"
       }
     ],
     "steam_2073850": [
@@ -1576,7 +1576,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t3y2re/save_40_on_dice_of_kalma_on_steam/",
     "steam_sales": "sale_427410",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t3zrb6/millions_of_gamers_may_be_entitled_to_sony_credit/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t437z1/randy_pitchford_says_gearbox_has_a_firm_noai/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
