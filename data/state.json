@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-05T11:33:24.684Z",
+  "lastRun": "2026-05-05T12:36:05.891Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1121,14 +1121,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sv1i6c/delta_force_official_legendary_appearance_trailer/",
-        "postedAt": "2026-04-25T04:55:31.079Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1svawew/assassins_creed_black_flag_resynced_doesnt_bother/",
-        "postedAt": "2026-04-25T13:34:10.174Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1svlpbu/new_assassins_creed_creative_lead_has_allegedly/",
         "postedAt": "2026-04-25T20:17:57.822Z"
       },
@@ -1519,6 +1511,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t4ckkj/rockstar_should_raise_gta_6s_price_for_good_of/",
         "postedAt": "2026-05-05T11:33:24.684Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t4e3fe/age_after_age_gameplay_reveal_trailer/",
+        "postedAt": "2026-05-05T12:36:05.891Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t4dqxf/785m_psn_digital_games_settlement_2026_check/",
+        "postedAt": "2026-05-05T12:36:05.891Z"
       }
     ],
     "steam_2073850": [
@@ -1580,7 +1580,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t47tsp/save_80_on_thunder_wolves_199/",
     "steam_sales": "sale_3681010",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t4ckkj/rockstar_should_raise_gta_6s_price_for_good_of/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t4dqxf/785m_psn_digital_games_settlement_2026_check/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
