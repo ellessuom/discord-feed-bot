@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-05T07:45:52.694Z",
+  "lastRun": "2026-05-05T08:54:05.107Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1121,10 +1121,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sutdxv/assassins_creed_black_flag_resynced_collectors/",
-        "postedAt": "2026-04-24T22:20:32.403Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1suuhto/former_call_of_duty_dev_has_a_lead_role_on_tarkov/",
         "postedAt": "2026-04-24T23:20:19.421Z"
       },
@@ -1519,6 +1515,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t47rr6/overcome_your_fears_caretaker/",
         "postedAt": "2026-05-05T06:56:57.467Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t49jih/valves_new_controller_sells_out_instantly/",
+        "postedAt": "2026-05-05T08:54:05.107Z"
       }
     ],
     "steam_2073850": [
@@ -1580,7 +1580,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t47tsp/save_80_on_thunder_wolves_199/",
     "steam_sales": "sale_3681010",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t47rr6/overcome_your_fears_caretaker/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t49jih/valves_new_controller_sells_out_instantly/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
