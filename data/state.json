@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-05T22:26:26.078Z",
+  "lastRun": "2026-05-05T23:23:44.890Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1141,14 +1141,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1swxu3d/for_southeast_asia_new_price_changes_for_ps5_ps5/",
-        "postedAt": "2026-04-27T09:00:02.887Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1swx4nd/senior_devs_from_prince_of_persia_the_lost_crown/",
-        "postedAt": "2026-04-27T09:00:02.887Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1swyjy9/assassins_creed_black_flag_resynced_producer/",
         "postedAt": "2026-04-27T09:56:40.048Z"
       },
@@ -1539,6 +1531,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t4tjo1/3_devs_almost_went_bankrupt_spent_3_years_making/",
         "postedAt": "2026-05-05T22:26:26.078Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t4vr50/microsoft_copilot_will_no_longer_come_to_consoles/",
+        "postedAt": "2026-05-05T23:23:44.890Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t4viuy/assassins_creed_black_flag_resynced_enemies_adapt/",
+        "postedAt": "2026-05-05T23:23:44.890Z"
       }
     ],
     "steam_2073850": [
@@ -1600,7 +1600,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t4uhps/tale_of_ren_is_50_off_during_the_spring_sale/",
     "steam_sales": "sale_739630",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t4tjo1/3_devs_almost_went_bankrupt_spent_3_years_making/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t4viuy/assassins_creed_black_flag_resynced_enemies_adapt/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
