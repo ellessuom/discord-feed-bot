@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-05T18:40:25.460Z",
+  "lastRun": "2026-05-05T20:31:35.296Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1133,13 +1133,13 @@
       {
         "id": "sale_440900",
         "postedAt": "2026-05-05T18:40:25.460Z"
+      },
+      {
+        "id": "sale_739630",
+        "postedAt": "2026-05-05T20:31:35.296Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1swj13r/ea_sports_ufc_6_planned_for_june_release/",
-        "postedAt": "2026-04-26T21:16:49.989Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1swqrdg/capcom_throws_resident_evil_party_featuring_geoff/",
         "postedAt": "2026-04-27T03:15:48.424Z"
@@ -1535,6 +1535,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t4mtkb/battlefield_6_season_3_trailer_showcases_classic/",
         "postedAt": "2026-05-05T18:40:25.460Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t4r6ch/wii_u_failed_due_to_slow_launch_of_exclusives/",
+        "postedAt": "2026-05-05T20:31:35.296Z"
       }
     ],
     "steam_2073850": [
@@ -1595,8 +1599,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t4obnh/save_85_on_moonlighter_299/",
-    "steam_sales": "sale_440900",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t4mtkb/battlefield_6_season_3_trailer_showcases_classic/",
+    "steam_sales": "sale_739630",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t4r6ch/wii_u_failed_due_to_slow_launch_of_exclusives/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
