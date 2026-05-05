@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-04T23:24:17.708Z",
+  "lastRun": "2026-05-05T00:53:26.699Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1117,10 +1117,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sukksm/diablo_4_is_bringing_back_a_classic_feature_fans/",
-        "postedAt": "2026-04-24T16:27:31.384Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sujpny/former_unknown_worlds_execs_withdraw_claim_that/",
         "postedAt": "2026-04-24T16:27:31.384Z"
       },
@@ -1515,6 +1511,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t3x4at/taketwo_ceo_says_console_players_are_core/",
         "postedAt": "2026-05-04T23:24:17.708Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t3zrb6/millions_of_gamers_may_be_entitled_to_sony_credit/",
+        "postedAt": "2026-05-05T00:53:26.699Z"
       }
     ],
     "steam_2073850": [
@@ -1576,7 +1576,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t3y2re/save_40_on_dice_of_kalma_on_steam/",
     "steam_sales": "sale_427410",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t3x4at/taketwo_ceo_says_console_players_are_core/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t3zrb6/millions_of_gamers_may_be_entitled_to_sony_credit/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
