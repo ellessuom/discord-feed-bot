@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-05T12:36:05.891Z",
+  "lastRun": "2026-05-05T15:44:00.429Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1117,25 +1117,13 @@
       {
         "id": "sale_3681010",
         "postedAt": "2026-05-05T07:45:52.694Z"
+      },
+      {
+        "id": "sale_3242950",
+        "postedAt": "2026-05-05T15:44:00.429Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1svlpbu/new_assassins_creed_creative_lead_has_allegedly/",
-        "postedAt": "2026-04-25T20:17:57.822Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1svomqf/ps4_and_ps5_drm_claims_spark_concern_over_30_day/",
-        "postedAt": "2026-04-25T22:15:19.260Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1svyjr5/rumbral_launch_trailer_ps5_games/",
-        "postedAt": "2026-04-26T06:47:09.121Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sw0wu7/assassins_creed_black_flag_resynced_is_already/",
-        "postedAt": "2026-04-26T07:37:32.638Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sw07rq/the_whispering_valley/",
         "postedAt": "2026-04-26T07:37:32.638Z"
@@ -1519,6 +1507,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t4dqxf/785m_psn_digital_games_settlement_2026_check/",
         "postedAt": "2026-05-05T12:36:05.891Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t4iskf/dishonored_fans_hit_respawn_on_hope_for_a_third/",
+        "postedAt": "2026-05-05T15:44:00.429Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t4ihgl/a_new_report_suggests_halos_battle_royale/",
+        "postedAt": "2026-05-05T15:44:00.429Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t4g0ce/wizards_of_the_coast_declines_to_recognize_game/",
+        "postedAt": "2026-05-05T15:44:00.429Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t4fe61/xbox_reportedly_made_667_million_from_ps5_game/",
+        "postedAt": "2026-05-05T15:44:00.429Z"
       }
     ],
     "steam_2073850": [
@@ -1579,8 +1583,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t47tsp/save_80_on_thunder_wolves_199/",
-    "steam_sales": "sale_3681010",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t4dqxf/785m_psn_digital_games_settlement_2026_check/",
+    "steam_sales": "sale_3242950",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t4fe61/xbox_reportedly_made_667_million_from_ps5_game/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
