@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-05T06:56:57.467Z",
+  "lastRun": "2026-05-05T07:45:52.694Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1spfxg6/save_70_on_hugepixel_collection_vol_2_on_steam/",
-        "postedAt": "2026-04-19T03:13:03.987Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1spj9mb/save_35_on_manor_lords_on_steam/",
         "postedAt": "2026-04-19T05:06:36.418Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t47eu8/river_drift_playtest_is_live_now/",
         "postedAt": "2026-05-05T06:56:57.467Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t47tsp/save_80_on_thunder_wolves_199/",
+        "postedAt": "2026-05-05T07:45:52.694Z"
       }
     ],
     "steam_sales": [
@@ -1113,6 +1113,10 @@
       {
         "id": "sale_427410",
         "postedAt": "2026-05-04T20:36:10.813Z"
+      },
+      {
+        "id": "sale_3681010",
+        "postedAt": "2026-05-05T07:45:52.694Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1574,8 +1578,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t47eu8/river_drift_playtest_is_live_now/",
-    "steam_sales": "sale_427410",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t47tsp/save_80_on_thunder_wolves_199/",
+    "steam_sales": "sale_3681010",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t47rr6/overcome_your_fears_caretaker/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
