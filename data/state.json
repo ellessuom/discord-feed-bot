@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-06T17:37:46.605Z",
+  "lastRun": "2026-05-06T18:43:13.834Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sqj1gz/save_90_on_green_hell_on_steam_249_209/",
-        "postedAt": "2026-04-20T08:54:46.106Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sql9jq/save_10_on_all_hail_the_orb_on_steam/",
         "postedAt": "2026-04-20T10:40:34.166Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t5g3kq/save_60_on_six_seals_on_steam_159/",
         "postedAt": "2026-05-06T16:42:19.247Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t5k4cp/dev_save_90_on_box_zombies_149/",
+        "postedAt": "2026-05-06T18:43:13.834Z"
       }
     ],
     "steam_sales": [
@@ -1140,10 +1140,6 @@
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sy54dh/crimson_desert_is_so_successful_that_the_studio/",
-        "postedAt": "2026-04-28T15:55:52.617Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sy2hv0/valve_says_it_is_hard_at_work_on_steam_deck_2_but/",
         "postedAt": "2026-04-28T15:55:52.617Z"
@@ -1539,6 +1535,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t5ipzc/pc_gamers_buy_way_more_games_that_cost_less_than/",
         "postedAt": "2026-05-06T17:37:46.605Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t5kw1p/poor_start_for_ps5_exclusive_saros_as_first_sales/",
+        "postedAt": "2026-05-06T18:43:13.834Z"
       }
     ],
     "steam_2073850": [
@@ -1598,9 +1598,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t5g3kq/save_60_on_six_seals_on_steam_159/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t5k4cp/dev_save_90_on_box_zombies_149/",
     "steam_sales": "sale_739630",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t5ipzc/pc_gamers_buy_way_more_games_that_cost_less_than/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t5kw1p/poor_start_for_ps5_exclusive_saros_as_first_sales/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
