@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-06T21:29:34.193Z",
+  "lastRun": "2026-05-06T22:22:47.285Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sqvm6b/squad_tactics_heist_rpg_cyber_knights_flashpoint/",
-        "postedAt": "2026-04-20T17:28:33.001Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sqx5t1/save_75_on_road_96_on_steam_499_499/",
         "postedAt": "2026-04-20T18:29:04.220Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t5n1va/save_75_on_freakout_extreme_freeride_249/",
         "postedAt": "2026-05-06T19:38:44.384Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t5qvbi/save_80_on_mortal_kombat_1_on_steam_10/",
+        "postedAt": "2026-05-06T22:22:47.285Z"
       }
     ],
     "steam_sales": [
@@ -1141,17 +1141,13 @@
       {
         "id": "sale_548430",
         "postedAt": "2026-05-06T19:38:44.384Z"
+      },
+      {
+        "id": "sale_3672400",
+        "postedAt": "2026-05-06T22:22:47.285Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sy1inj/ever_wondered_what_happened_to_star_foxs_puppets/",
-        "postedAt": "2026-04-28T16:43:59.052Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sy7oih/the_blood_of_dawnwalker_release_date_set_for/",
-        "postedAt": "2026-04-28T17:38:28.089Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sye6f5/the_people_in_control_would_be_mad_not_to/",
         "postedAt": "2026-04-28T21:29:23.127Z"
@@ -1543,6 +1539,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t5qf7w/007_first_light_wont_include_a_new_game_but/",
         "postedAt": "2026-05-06T21:29:34.193Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t5rco1/nintendo_of_america_this_is_miyamoto_in_just_a/",
+        "postedAt": "2026-05-06T22:22:47.285Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t5qwv8/valve_says_steam_controller_sold_out_faster_than/",
+        "postedAt": "2026-05-06T22:22:47.285Z"
       }
     ],
     "steam_2073850": [
@@ -1602,9 +1606,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t5n1va/save_75_on_freakout_extreme_freeride_249/",
-    "steam_sales": "sale_548430",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t5qf7w/007_first_light_wont_include_a_new_game_but/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t5qvbi/save_80_on_mortal_kombat_1_on_steam_10/",
+    "steam_sales": "sale_3672400",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t5qwv8/valve_says_steam_controller_sold_out_faster_than/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
