@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-05T23:23:44.890Z",
+  "lastRun": "2026-05-06T07:05:59.972Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1141,14 +1141,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1swyjy9/assassins_creed_black_flag_resynced_producer/",
-        "postedAt": "2026-04-27T09:56:40.048Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sx16bl/assassins_creed_1_remake_to_follow_black_flag/",
-        "postedAt": "2026-04-27T12:43:42.726Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sx2pti/bulletstorm_dev_people_can_fly_acquires_cooldown/",
         "postedAt": "2026-04-27T13:40:53.386Z"
       },
@@ -1539,6 +1531,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t4viuy/assassins_creed_black_flag_resynced_enemies_adapt/",
         "postedAt": "2026-05-05T23:23:44.890Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t54inb/remedys_new_ceo_personally_vouches_for_control/",
+        "postedAt": "2026-05-06T07:05:59.972Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t53s8j/fbc_firebreak_is_not_shutting_down_remedy_says/",
+        "postedAt": "2026-05-06T07:05:59.972Z"
       }
     ],
     "steam_2073850": [
@@ -1600,7 +1600,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t4uhps/tale_of_ren_is_50_off_during_the_spring_sale/",
     "steam_sales": "sale_739630",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t4viuy/assassins_creed_black_flag_resynced_enemies_adapt/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t53s8j/fbc_firebreak_is_not_shutting_down_remedy_says/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
