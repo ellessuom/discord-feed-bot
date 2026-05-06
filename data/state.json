@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-06T07:05:59.972Z",
+  "lastRun": "2026-05-06T09:56:22.445Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1141,10 +1141,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sx2pti/bulletstorm_dev_people_can_fly_acquires_cooldown/",
-        "postedAt": "2026-04-27T13:40:53.386Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sx45ho/assassins_creed_hexe_loses_50_developers_as_game/",
         "postedAt": "2026-04-27T14:51:01.945Z"
       },
@@ -1539,6 +1535,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t53s8j/fbc_firebreak_is_not_shutting_down_remedy_says/",
         "postedAt": "2026-05-06T07:05:59.972Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t57mcf/dishonored_hope_for_a_third_game_spark_on_internet/",
+        "postedAt": "2026-05-06T09:56:22.445Z"
       }
     ],
     "steam_2073850": [
@@ -1600,7 +1600,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t4uhps/tale_of_ren_is_50_off_during_the_spring_sale/",
     "steam_sales": "sale_739630",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t53s8j/fbc_firebreak_is_not_shutting_down_remedy_says/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t57mcf/dishonored_hope_for_a_third_game_spark_on_internet/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
