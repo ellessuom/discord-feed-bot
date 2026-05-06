@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-06T16:42:19.247Z",
+  "lastRun": "2026-05-06T17:37:46.605Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1141,10 +1141,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sxz9wz/cod_movie_director_previously_said_playing_games/",
-        "postedAt": "2026-04-28T12:46:58.924Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sy54dh/crimson_desert_is_so_successful_that_the_studio/",
         "postedAt": "2026-04-28T15:55:52.617Z"
       },
@@ -1539,6 +1535,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t5gg7l/dying_light_franchise_director_steps_down_after/",
         "postedAt": "2026-05-06T16:42:19.247Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t5ipzc/pc_gamers_buy_way_more_games_that_cost_less_than/",
+        "postedAt": "2026-05-06T17:37:46.605Z"
       }
     ],
     "steam_2073850": [
@@ -1600,7 +1600,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t5g3kq/save_60_on_six_seals_on_steam_159/",
     "steam_sales": "sale_739630",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t5gg7l/dying_light_franchise_director_steps_down_after/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t5ipzc/pc_gamers_buy_way_more_games_that_cost_less_than/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
