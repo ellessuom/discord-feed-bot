@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-06T18:43:13.834Z",
+  "lastRun": "2026-05-06T19:38:44.384Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sql9jq/save_10_on_all_hail_the_orb_on_steam/",
-        "postedAt": "2026-04-20T10:40:34.166Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sqvm6b/squad_tactics_heist_rpg_cyber_knights_flashpoint/",
         "postedAt": "2026-04-20T17:28:33.001Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t5k4cp/dev_save_90_on_box_zombies_149/",
         "postedAt": "2026-05-06T18:43:13.834Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t5n1va/save_75_on_freakout_extreme_freeride_249/",
+        "postedAt": "2026-05-06T19:38:44.384Z"
       }
     ],
     "steam_sales": [
@@ -1137,17 +1137,13 @@
       {
         "id": "sale_739630",
         "postedAt": "2026-05-05T20:31:35.296Z"
+      },
+      {
+        "id": "sale_548430",
+        "postedAt": "2026-05-06T19:38:44.384Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sy2hv0/valve_says_it_is_hard_at_work_on_steam_deck_2_but/",
-        "postedAt": "2026-04-28T15:55:52.617Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sy1ey5/despite_crimson_deserts_popularity_almost_80_of/",
-        "postedAt": "2026-04-28T15:55:52.617Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sy0jig/for_the_first_time_in_several_years_of/",
         "postedAt": "2026-04-28T15:55:52.617Z"
@@ -1539,6 +1535,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t5kw1p/poor_start_for_ps5_exclusive_saros_as_first_sales/",
         "postedAt": "2026-05-06T18:43:13.834Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t5n0qp/ea_boasts_record_year_thanks_to_battlefield_6_and/",
+        "postedAt": "2026-05-06T19:38:44.384Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t5mz9p/io_interactive_says_project_fantasy_is/",
+        "postedAt": "2026-05-06T19:38:44.384Z"
       }
     ],
     "steam_2073850": [
@@ -1598,9 +1602,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t5k4cp/dev_save_90_on_box_zombies_149/",
-    "steam_sales": "sale_739630",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t5kw1p/poor_start_for_ps5_exclusive_saros_as_first_sales/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t5n1va/save_75_on_freakout_extreme_freeride_249/",
+    "steam_sales": "sale_548430",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t5mz9p/io_interactive_says_project_fantasy_is/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
