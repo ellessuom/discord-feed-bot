@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-06T22:22:47.285Z",
+  "lastRun": "2026-05-07T03:16:57.914Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1149,10 +1149,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sye6f5/the_people_in_control_would_be_mad_not_to/",
-        "postedAt": "2026-04-28T21:29:23.127Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1syjr1y/diablo_iv_lord_of_hatred_launch_trailer/",
         "postedAt": "2026-04-29T00:57:41.799Z"
       },
@@ -1547,6 +1543,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t5qwv8/valve_says_steam_controller_sold_out_faster_than/",
         "postedAt": "2026-05-06T22:22:47.285Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t5xo2w/star_fox_direct_562026/",
+        "postedAt": "2026-05-07T03:16:57.914Z"
       }
     ],
     "steam_2073850": [
@@ -1608,7 +1608,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t5qvbi/save_80_on_mortal_kombat_1_on_steam_10/",
     "steam_sales": "sale_3672400",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t5qwv8/valve_says_steam_controller_sold_out_faster_than/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t5xo2w/star_fox_direct_562026/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
