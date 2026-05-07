@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-07T12:48:59.253Z",
+  "lastRun": "2026-05-07T15:02:40.959Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sqx5t1/save_75_on_road_96_on_steam_499_499/",
-        "postedAt": "2026-04-20T18:29:04.220Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sqwze0/save_80_on_kingdom_come_deliverance_on_steam_599/",
         "postedAt": "2026-04-20T18:29:04.220Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t5qvbi/save_80_on_mortal_kombat_1_on_steam_10/",
         "postedAt": "2026-05-06T22:22:47.285Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t6cigx/save_30_on_the_lion_gambles_everything_he_owns/",
+        "postedAt": "2026-05-07T15:02:40.959Z"
       }
     ],
     "steam_sales": [
@@ -1153,13 +1153,13 @@
       {
         "id": "sale_557569",
         "postedAt": "2026-05-07T07:11:24.793Z"
+      },
+      {
+        "id": "sale_3110760",
+        "postedAt": "2026-05-07T15:02:40.959Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sz1q0w/monument_valley_boss_says_it_was_too_romantic/",
-        "postedAt": "2026-04-29T15:45:44.413Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sz49k0/stealth_heist_game_thick_as_thieves_pricing_and/",
         "postedAt": "2026-04-29T17:37:19.196Z"
@@ -1555,6 +1555,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t68ct1/62_of_hardcore_players_no_longer_buy_fullprice/",
         "postedAt": "2026-05-07T12:48:59.253Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t6d31p/the_sinking_city_2_official_gameplay_reveal/",
+        "postedAt": "2026-05-07T15:02:40.959Z"
       }
     ],
     "steam_2073850": [
@@ -1618,9 +1622,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t5qvbi/save_80_on_mortal_kombat_1_on_steam_10/",
-    "steam_sales": "sale_557569",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t68ct1/62_of_hardcore_players_no_longer_buy_fullprice/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6cigx/save_30_on_the_lion_gambles_everything_he_owns/",
+    "steam_sales": "sale_3110760",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t6d31p/the_sinking_city_2_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
