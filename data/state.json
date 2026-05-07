@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-07T20:33:32.079Z",
+  "lastRun": "2026-05-07T21:26:07.643Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1173,18 +1173,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1szearn/playstation_users_report_new_online_license/",
-        "postedAt": "2026-04-29T23:24:56.648Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1szl061/digital_bros_acquires_wuchang_fallen_feathers_ip/",
-        "postedAt": "2026-04-30T05:14:22.020Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1szr9i6/sbox_makes_nearly_1_million_on_launch_day_and_yes/",
-        "postedAt": "2026-04-30T09:48:31.741Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sztclg/denuvo_responds_to_dayzero_drm_hypervisor_crack/",
         "postedAt": "2026-04-30T11:36:06.328Z"
       },
@@ -1571,6 +1559,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t6jx9s/aliens_fireteam_elite_2_announced_for_pc_ps5_and/",
         "postedAt": "2026-05-07T19:36:30.171Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t6mycc/crimson_desert_dev_explains_how_its_able_to/",
+        "postedAt": "2026-05-07T21:26:07.643Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t6mv76/leaked_assets_indicate_we_might_be_heading_to/",
+        "postedAt": "2026-05-07T21:26:07.643Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t6i7x6/are_you_ready_to_take_on_the_challenge/",
+        "postedAt": "2026-05-07T21:26:07.643Z"
       }
     ],
     "steam_2073850": [
@@ -1636,7 +1636,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6hhye/save_67_on_uncharted_legacy_of_thieves_collection/",
     "steam_sales": "sale_311210",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t6jx9s/aliens_fireteam_elite_2_announced_for_pc_ps5_and/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t6i7x6/are_you_ready_to_take_on_the_challenge/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
