@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-07T11:39:23.616Z",
+  "lastRun": "2026-05-07T12:48:59.253Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1157,14 +1157,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1syrs19/please_have_faith_in_us_once_again_says_windrose/",
-        "postedAt": "2026-04-29T07:50:14.323Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1syygfh/write_warz_a_chaotic_party_game_perfect_for_game/",
-        "postedAt": "2026-04-29T14:52:11.260Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sz1q0w/monument_valley_boss_says_it_was_too_romantic/",
         "postedAt": "2026-04-29T15:45:44.413Z"
       },
@@ -1555,6 +1547,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t66y3e/ps5_accessory_quietly_discontinued_barely_anyone/",
         "postedAt": "2026-05-07T11:39:23.615Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t68nqe/civilization_7_is_profitable_says_taketwo_ceo/",
+        "postedAt": "2026-05-07T12:48:59.253Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t68ct1/62_of_hardcore_players_no_longer_buy_fullprice/",
+        "postedAt": "2026-05-07T12:48:59.253Z"
       }
     ],
     "steam_2073850": [
@@ -1620,7 +1620,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t5qvbi/save_80_on_mortal_kombat_1_on_steam_10/",
     "steam_sales": "sale_557569",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t66y3e/ps5_accessory_quietly_discontinued_barely_anyone/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t68ct1/62_of_hardcore_players_no_longer_buy_fullprice/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
