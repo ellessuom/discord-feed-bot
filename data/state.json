@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-07T17:38:37.686Z",
+  "lastRun": "2026-05-07T18:43:27.731Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1161,13 +1161,13 @@
       {
         "id": "sale_2582320",
         "postedAt": "2026-05-07T16:41:18.355Z"
+      },
+      {
+        "id": "sale_1659420",
+        "postedAt": "2026-05-07T18:43:27.731Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sz5wh7/blind_test_shows_gamers_prefer_nvidia_dlss_45/",
-        "postedAt": "2026-04-29T18:39:29.335Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sz49zr/your_house_on_wheels_in_the_apocalypse_survival/",
         "postedAt": "2026-04-29T18:39:29.335Z"
@@ -1563,6 +1563,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t6dg6a/arranger_a_rolepuzzling_adventure/",
         "postedAt": "2026-05-07T16:41:18.355Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t6ipmn/aegis_tiburon_is_comming_to_the_game_star_citizen/",
+        "postedAt": "2026-05-07T18:43:27.731Z"
       }
     ],
     "steam_2073850": [
@@ -1627,8 +1631,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6hhye/save_67_on_uncharted_legacy_of_thieves_collection/",
-    "steam_sales": "sale_2582320",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t6dg6a/arranger_a_rolepuzzling_adventure/",
+    "steam_sales": "sale_1659420",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t6ipmn/aegis_tiburon_is_comming_to_the_game_star_citizen/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
