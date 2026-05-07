@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-07T15:02:40.959Z",
+  "lastRun": "2026-05-07T16:41:18.355Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1157,17 +1157,13 @@
       {
         "id": "sale_3110760",
         "postedAt": "2026-05-07T15:02:40.959Z"
+      },
+      {
+        "id": "sale_2582320",
+        "postedAt": "2026-05-07T16:41:18.355Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sz49k0/stealth_heist_game_thick_as_thieves_pricing_and/",
-        "postedAt": "2026-04-29T17:37:19.196Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sz6tby/tiga_29_of_uk_games_studios_continue_to_face/",
-        "postedAt": "2026-04-29T18:39:29.335Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sz5wh7/blind_test_shows_gamers_prefer_nvidia_dlss_45/",
         "postedAt": "2026-04-29T18:39:29.335Z"
@@ -1559,6 +1555,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t6d31p/the_sinking_city_2_official_gameplay_reveal/",
         "postedAt": "2026-05-07T15:02:40.959Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t6dgwx/trash_goblin/",
+        "postedAt": "2026-05-07T16:41:18.355Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t6dg6a/arranger_a_rolepuzzling_adventure/",
+        "postedAt": "2026-05-07T16:41:18.355Z"
       }
     ],
     "steam_2073850": [
@@ -1623,8 +1627,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6cigx/save_30_on_the_lion_gambles_everything_he_owns/",
-    "steam_sales": "sale_3110760",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t6d31p/the_sinking_city_2_official_gameplay_reveal/",
+    "steam_sales": "sale_2582320",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t6dg6a/arranger_a_rolepuzzling_adventure/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
