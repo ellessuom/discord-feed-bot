@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-07T10:48:40.911Z",
+  "lastRun": "2026-05-07T11:39:23.616Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1157,10 +1157,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sys0ep/was_playstations_controversial_new_drm_just_an/",
-        "postedAt": "2026-04-29T07:50:14.323Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1syrs19/please_have_faith_in_us_once_again_says_windrose/",
         "postedAt": "2026-04-29T07:50:14.323Z"
       },
@@ -1555,6 +1551,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t66952/bioshock_4_delay_deeply_disappointed_taketwo_ceo/",
         "postedAt": "2026-05-07T10:48:40.911Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t66y3e/ps5_accessory_quietly_discontinued_barely_anyone/",
+        "postedAt": "2026-05-07T11:39:23.615Z"
       }
     ],
     "steam_2073850": [
@@ -1620,7 +1620,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t5qvbi/save_80_on_mortal_kombat_1_on_steam_10/",
     "steam_sales": "sale_557569",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t66952/bioshock_4_delay_deeply_disappointed_taketwo_ceo/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t66y3e/ps5_accessory_quietly_discontinued_barely_anyone/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
