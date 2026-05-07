@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-07T09:02:48.996Z",
+  "lastRun": "2026-05-07T10:48:40.911Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1157,10 +1157,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sypldi/ustwo_ceo_says_lowering_development_costs_is_now/",
-        "postedAt": "2026-04-29T07:00:14.002Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1sys0ep/was_playstations_controversial_new_drm_just_an/",
         "postedAt": "2026-04-29T07:50:14.323Z"
       },
@@ -1555,6 +1551,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t64n58/pragmata_sales_top_two_million_in_16_days/",
         "postedAt": "2026-05-07T09:02:48.996Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t66952/bioshock_4_delay_deeply_disappointed_taketwo_ceo/",
+        "postedAt": "2026-05-07T10:48:40.911Z"
       }
     ],
     "steam_2073850": [
@@ -1609,6 +1609,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/678497276169028052",
         "postedAt": "2026-04-30T10:41:03.205Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/678497909513126620",
+        "postedAt": "2026-05-07T10:48:40.911Z"
       }
     ]
   },
@@ -1616,7 +1620,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t5qvbi/save_80_on_mortal_kombat_1_on_steam_10/",
     "steam_sales": "sale_557569",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t64n58/pragmata_sales_top_two_million_in_16_days/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t66952/bioshock_4_delay_deeply_disappointed_taketwo_ceo/",
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
