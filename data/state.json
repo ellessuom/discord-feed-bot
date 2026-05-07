@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-07T18:43:27.731Z",
+  "lastRun": "2026-05-07T19:36:30.171Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1169,18 +1169,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sz49zr/your_house_on_wheels_in_the_apocalypse_survival/",
-        "postedAt": "2026-04-29T18:39:29.335Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1szak3w/nintendo_switch_2_user_bought_a_game_card_from/",
-        "postedAt": "2026-04-29T20:32:12.889Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1sz9l7e/greedfall_studio_spiders_will_close_soon_its/",
-        "postedAt": "2026-04-29T20:32:12.889Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1szearn/playstation_users_report_new_online_license/",
         "postedAt": "2026-04-29T23:24:56.648Z"
       },
@@ -1567,6 +1555,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t6ipmn/aegis_tiburon_is_comming_to_the_game_star_citizen/",
         "postedAt": "2026-05-07T18:43:27.731Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t6kbik/im_working_on_a_2d_coop_game_about_four_fluffy/",
+        "postedAt": "2026-05-07T19:36:30.171Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t6jxp6/the_allnew_xbox_achievement_update_is_rolling_out/",
+        "postedAt": "2026-05-07T19:36:30.171Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t6jx9s/aliens_fireteam_elite_2_announced_for_pc_ps5_and/",
+        "postedAt": "2026-05-07T19:36:30.171Z"
       }
     ],
     "steam_2073850": [
@@ -1632,7 +1632,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6hhye/save_67_on_uncharted_legacy_of_thieves_collection/",
     "steam_sales": "sale_1659420",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t6ipmn/aegis_tiburon_is_comming_to_the_game_star_citizen/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t6jx9s/aliens_fireteam_elite_2_announced_for_pc_ps5_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
