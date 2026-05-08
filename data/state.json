@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-08T15:39:14.125Z",
+  "lastRun": "2026-05-08T16:38:16.505Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1193,10 +1193,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t0xts1/mini_motorways_invites_players_to_pick_new_city/",
-        "postedAt": "2026-05-01T16:27:16.364Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t0zlsr/were_still_buying_consoles_mainly_for_their/",
         "postedAt": "2026-05-01T17:27:43.016Z"
       },
@@ -1591,6 +1587,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t78jrw/sekiro_no_defeat_premieres_september_4_in_japan/",
         "postedAt": "2026-05-08T14:42:39.551Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t7cx7h/ps5_sales_drop_almost_50_as_sony_discusses_ai/",
+        "postedAt": "2026-05-08T16:38:16.505Z"
       }
     ],
     "steam_2073850": [
@@ -1656,7 +1656,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6viqn/save_70_on_prototype_on_steam_599_599/",
     "steam_sales": "sale_2000950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t78jrw/sekiro_no_defeat_premieres_september_4_in_japan/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t7cx7h/ps5_sales_drop_almost_50_as_sony_discusses_ai/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
