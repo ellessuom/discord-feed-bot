@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-08T13:40:35.939Z",
+  "lastRun": "2026-05-08T14:42:39.551Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1177,22 +1177,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t0n56j/shot_one_fighters_official_announcement_trailer/",
-        "postedAt": "2026-05-01T08:47:37.320Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t0on1c/stealth_rpg_deserter_receives_a_playable_demo/",
-        "postedAt": "2026-05-01T09:39:50.660Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t0q676/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-05-01T11:30:26.939Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t0ufoq/far_far_west_is_steams_latest_indie_success_story/",
-        "postedAt": "2026-05-01T14:31:10.620Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t0xts1/mini_motorways_invites_players_to_pick_new_city/",
         "postedAt": "2026-05-01T16:27:16.364Z"
       },
@@ -1575,6 +1559,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t76ukv/ps6_launch_timing_remains_undecided_as_memory/",
         "postedAt": "2026-05-08T13:40:35.939Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t78rvq/sony_playstation_chiefs_detail_ai_vision_amid/",
+        "postedAt": "2026-05-08T14:42:39.551Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t78n8f/assassins_creed_black_flag_resynced_accessibility/",
+        "postedAt": "2026-05-08T14:42:39.551Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t78mrf/andy_serkis_says_he_doesnt_see_a_difference/",
+        "postedAt": "2026-05-08T14:42:39.551Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t78jrw/sekiro_no_defeat_premieres_september_4_in_japan/",
+        "postedAt": "2026-05-08T14:42:39.551Z"
       }
     ],
     "steam_2073850": [
@@ -1640,7 +1640,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6viqn/save_70_on_prototype_on_steam_599_599/",
     "steam_sales": "sale_3526710",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t76ukv/ps6_launch_timing_remains_undecided_as_memory/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t78jrw/sekiro_no_defeat_premieres_september_4_in_japan/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
