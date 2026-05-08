@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-08T00:57:32.115Z",
+  "lastRun": "2026-05-08T03:13:39.272Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sqwt2j/save_75_on_dark_souls_ii_on_steam/",
-        "postedAt": "2026-04-20T18:29:04.220Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sqwcxg/save_100_on_sentience_the_androids_tale_limited/",
         "postedAt": "2026-04-20T18:29:04.220Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t6oaeo/save_63_on_conquer_lands_on_steam_295/",
         "postedAt": "2026-05-07T22:28:29.181Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t6viqn/save_70_on_prototype_on_steam_599_599/",
+        "postedAt": "2026-05-08T03:13:39.272Z"
       }
     ],
     "steam_sales": [
@@ -1634,7 +1634,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6oaeo/save_63_on_conquer_lands_on_steam_295/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6viqn/save_70_on_prototype_on_steam_599_599/",
     "steam_sales": "sale_311210",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t6rxxb/stranger_than_heaven_cast_story_reveal_trailer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
