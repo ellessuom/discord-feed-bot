@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-08T11:36:26.324Z",
+  "lastRun": "2026-05-08T12:40:29.016Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1169,6 +1169,10 @@
       {
         "id": "sale_311210",
         "postedAt": "2026-05-07T20:33:32.079Z"
+      },
+      {
+        "id": "sale_3526710",
+        "postedAt": "2026-05-08T12:40:29.016Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1635,7 +1639,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6viqn/save_70_on_prototype_on_steam_599_599/",
-    "steam_sales": "sale_311210",
+    "steam_sales": "sale_3526710",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t74ke1/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
