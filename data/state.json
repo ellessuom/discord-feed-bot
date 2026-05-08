@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-08T10:38:40.341Z",
+  "lastRun": "2026-05-08T11:36:26.324Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1173,10 +1173,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t0gjrj/xbox_mode_begins_rolling_out_to_players_on/",
-        "postedAt": "2026-05-01T03:15:59.594Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t0k5q7/japanese_developer_says_they_dont_make_games_for/",
         "postedAt": "2026-05-01T07:04:30.002Z"
       },
@@ -1571,6 +1567,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t734fc/one_mad_modder_got_the_entirety_of_the_elder/",
         "postedAt": "2026-05-08T10:38:40.341Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t74ke1/weekly_rgamingnews_discussion_what_game_you_will/",
+        "postedAt": "2026-05-08T11:36:26.324Z"
       }
     ],
     "steam_2073850": [
@@ -1636,7 +1636,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6viqn/save_70_on_prototype_on_steam_599_599/",
     "steam_sales": "sale_311210",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t734fc/one_mad_modder_got_the_entirety_of_the_elder/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t74ke1/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
