@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-08T03:13:39.272Z",
+  "lastRun": "2026-05-08T05:06:49.576Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1173,10 +1173,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t013w7/valve_chief_gabe_newell_saw_todays_consoles/",
-        "postedAt": "2026-04-30T16:38:16.907Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t02tn6/sony_patent_reveals_ai_that_learns_how_you_play/",
         "postedAt": "2026-04-30T17:36:34.964Z"
       },
@@ -1571,6 +1567,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t6rxxb/stranger_than_heaven_cast_story_reveal_trailer/",
         "postedAt": "2026-05-08T00:57:32.115Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t6wuc0/cwa_canada_president_calls_on_government_to/",
+        "postedAt": "2026-05-08T05:06:49.576Z"
       }
     ],
     "steam_2073850": [
@@ -1636,7 +1636,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6viqn/save_70_on_prototype_on_steam_599_599/",
     "steam_sales": "sale_311210",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t6rxxb/stranger_than_heaven_cast_story_reveal_trailer/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t6wuc0/cwa_canada_president_calls_on_government_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
