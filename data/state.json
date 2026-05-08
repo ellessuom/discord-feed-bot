@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-08T08:40:54.399Z",
+  "lastRun": "2026-05-08T10:38:40.341Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1173,10 +1173,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t0c2cu/the_new_york_childrens_online_safety_act_will_ban/",
-        "postedAt": "2026-04-30T23:24:23.342Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t0gjrj/xbox_mode_begins_rolling_out_to_players_on/",
         "postedAt": "2026-05-01T03:15:59.594Z"
       },
@@ -1571,6 +1567,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t715pn/nintendo_switch_2_price_increases_starting_this/",
         "postedAt": "2026-05-08T08:40:54.399Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t734fc/one_mad_modder_got_the_entirety_of_the_elder/",
+        "postedAt": "2026-05-08T10:38:40.341Z"
       }
     ],
     "steam_2073850": [
@@ -1636,7 +1636,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6viqn/save_70_on_prototype_on_steam_599_599/",
     "steam_sales": "sale_311210",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t715pn/nintendo_switch_2_price_increases_starting_this/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t734fc/one_mad_modder_got_the_entirety_of_the_elder/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
