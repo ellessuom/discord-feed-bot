@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-08T16:38:16.505Z",
+  "lastRun": "2026-05-08T21:27:46.157Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1193,10 +1193,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t0zlsr/were_still_buying_consoles_mainly_for_their/",
-        "postedAt": "2026-05-01T17:27:43.016Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t11o44/an_indie_horror_game_has_been_stuck_in_steam/",
         "postedAt": "2026-05-01T18:31:53.807Z"
       },
@@ -1591,6 +1587,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t7cx7h/ps5_sales_drop_almost_50_as_sony_discusses_ai/",
         "postedAt": "2026-05-08T16:38:16.505Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t7k1e8/nintendo_is_raising_switch_2_prices_worldwide/",
+        "postedAt": "2026-05-08T21:27:46.157Z"
       }
     ],
     "steam_2073850": [
@@ -1656,7 +1656,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6viqn/save_70_on_prototype_on_steam_599_599/",
     "steam_sales": "sale_2000950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t7cx7h/ps5_sales_drop_almost_50_as_sony_discusses_ai/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t7k1e8/nintendo_is_raising_switch_2_prices_worldwide/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
