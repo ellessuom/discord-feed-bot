@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-08T12:40:29.016Z",
+  "lastRun": "2026-05-08T13:40:35.939Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1177,14 +1177,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t0k5q7/japanese_developer_says_they_dont_make_games_for/",
-        "postedAt": "2026-05-01T07:04:30.002Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t0nof0/diablo_iv_lord_of_hatred_launch_accolades_trailer/",
-        "postedAt": "2026-05-01T08:47:37.320Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t0n56j/shot_one_fighters_official_announcement_trailer/",
         "postedAt": "2026-05-01T08:47:37.320Z"
       },
@@ -1575,6 +1567,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t74ke1/weekly_rgamingnews_discussion_what_game_you_will/",
         "postedAt": "2026-05-08T11:36:26.324Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t779pe/playstation_shares_plans_to_use_ai_to_increase/",
+        "postedAt": "2026-05-08T13:40:35.939Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t76ukv/ps6_launch_timing_remains_undecided_as_memory/",
+        "postedAt": "2026-05-08T13:40:35.939Z"
       }
     ],
     "steam_2073850": [
@@ -1640,7 +1640,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6viqn/save_70_on_prototype_on_steam_599_599/",
     "steam_sales": "sale_3526710",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t74ke1/weekly_rgamingnews_discussion_what_game_you_will/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t76ukv/ps6_launch_timing_remains_undecided_as_memory/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
