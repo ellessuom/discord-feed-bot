@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-09T06:52:23.096Z",
+  "lastRun": "2026-05-09T07:39:13.620Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sqwcxg/save_100_on_sentience_the_androids_tale_limited/",
-        "postedAt": "2026-04-20T18:29:04.220Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sqxzw2/save_50_on_dark_souls_iii_on_steam/",
         "postedAt": "2026-04-20T19:30:23.370Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t6viqn/save_70_on_prototype_on_steam_599_599/",
         "postedAt": "2026-05-08T03:13:39.272Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t7xgew/save_80_on_heart_of_eternity_on_steam_159/",
+        "postedAt": "2026-05-09T07:39:13.620Z"
       }
     ],
     "steam_sales": [
@@ -1192,10 +1192,6 @@
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t17kpx/how_openai_tore_apart_a_team_of_dota_2_pros/",
-        "postedAt": "2026-05-01T22:22:32.449Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t175yy/roblox_shares_plummet_18_as_child_safety_measures/",
         "postedAt": "2026-05-01T22:22:32.449Z"
@@ -1591,6 +1587,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t7x25t/nintendo_switch_2_is_getting_a_50_price_hike_in/",
         "postedAt": "2026-05-09T06:52:23.096Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t7n8hg/what_if_oldschool_gtastyle_freedom_was_combined/",
+        "postedAt": "2026-05-09T07:39:13.620Z"
       }
     ],
     "steam_2073850": [
@@ -1654,9 +1654,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t6viqn/save_70_on_prototype_on_steam_599_599/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t7xgew/save_80_on_heart_of_eternity_on_steam_159/",
     "steam_sales": "sale_2000950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t7x25t/nintendo_switch_2_is_getting_a_50_price_hike_in/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t7n8hg/what_if_oldschool_gtastyle_freedom_was_combined/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
