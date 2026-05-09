@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-09T13:35:52.619Z",
+  "lastRun": "2026-05-09T14:29:24.852Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1193,10 +1193,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t1i9kh/hogwarts_legacy/",
-        "postedAt": "2026-05-02T06:48:34.324Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t1w03j/krafton_q1_revenue_up_569_to_931m_driven_by/",
         "postedAt": "2026-05-02T18:25:39.876Z"
       },
@@ -1591,6 +1587,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t84rd0/i_spent_my_babys_nap_times_building_a/",
         "postedAt": "2026-05-09T13:35:52.619Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t867jk/007_first_light_wont_feature_path_tracing_support/",
+        "postedAt": "2026-05-09T14:29:24.852Z"
       }
     ],
     "steam_2073850": [
@@ -1656,7 +1656,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t7xgew/save_80_on_heart_of_eternity_on_steam_159/",
     "steam_sales": "sale_2000950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t84rd0/i_spent_my_babys_nap_times_building_a/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t867jk/007_first_light_wont_feature_path_tracing_support/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
