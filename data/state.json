@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-09T20:20:13.188Z",
+  "lastRun": "2026-05-09T21:20:54.236Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1193,10 +1193,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t1zsk0/halo_2_and_3_remakes_in_active_development/",
-        "postedAt": "2026-05-02T20:17:46.951Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t27te9/sony_increases_prices_for_refurbished_ps5_slims/",
         "postedAt": "2026-05-03T01:43:02.585Z"
       },
@@ -1591,6 +1587,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t8givi/valves_gabe_newell_always_understood_what_steam/",
         "postedAt": "2026-05-09T20:20:13.188Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t8ndvc/new_resident_evil_requiem_dlc_is_getting_mixed/",
+        "postedAt": "2026-05-09T21:20:54.236Z"
       }
     ],
     "steam_2073850": [
@@ -1656,7 +1656,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t7xgew/save_80_on_heart_of_eternity_on_steam_159/",
     "steam_sales": "sale_2000950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t8givi/valves_gabe_newell_always_understood_what_steam/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t8ndvc/new_resident_evil_requiem_dlc_is_getting_mixed/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
