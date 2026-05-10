@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-10T21:22:09.733Z",
+  "lastRun": "2026-05-10T22:21:26.638Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1193,10 +1193,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t2vlhy/more_rockstar_games_remasters_could_be_on_the_way/",
-        "postedAt": "2026-05-03T20:18:54.307Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t353p3/gamestop_makes_555bn_takeover_offer_for_ebay/",
         "postedAt": "2026-05-04T03:16:51.521Z"
       },
@@ -1591,6 +1587,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t9iktx/forza_horizon_6_leak_reportedly_drops_155_gb_of/",
         "postedAt": "2026-05-10T21:22:09.733Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t9k9mz/epic_says_ai_wont_replace_jobs_but_increase/",
+        "postedAt": "2026-05-10T22:21:26.638Z"
       }
     ],
     "steam_2073850": [
@@ -1656,7 +1656,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t9elr0/save_80_on_momodora_reverie_under_the_moonlight/",
     "steam_sales": "sale_2000950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t9iktx/forza_horizon_6_leak_reportedly_drops_155_gb_of/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t9k9mz/epic_says_ai_wont_replace_jobs_but_increase/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
