@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-10T17:25:06.850Z",
+  "lastRun": "2026-05-10T18:27:14.804Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sr9o8o/save_80_on_kingdom_come_deliverance/",
-        "postedAt": "2026-04-21T01:40:46.962Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1srkt1k/save_50_on_the_hive_on_steam/",
         "postedAt": "2026-04-21T11:31:23.817Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t9cp4i/save_60_on_colony_ship_daily_deal_historical_low/",
         "postedAt": "2026-05-10T17:25:06.850Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t9elr0/save_80_on_momodora_reverie_under_the_moonlight/",
+        "postedAt": "2026-05-10T18:27:14.804Z"
       }
     ],
     "steam_sales": [
@@ -1192,10 +1192,6 @@
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t2j4er/taketwo_interactives_strauss_zelnick_on_gta_6/",
-        "postedAt": "2026-05-03T12:26:57.454Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t2odn2/pacman_to_get_a_new_cartoon_series_pacmansnack/",
         "postedAt": "2026-05-03T16:21:58.012Z"
@@ -1591,6 +1587,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t97a2i/sony_isnt_bailing_on_marathon_despite_bungies/",
         "postedAt": "2026-05-10T14:30:34.461Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t9dh0m/dlss_5_gamers_prefer_original_visuals_many_await/",
+        "postedAt": "2026-05-10T18:27:14.804Z"
       }
     ],
     "steam_2073850": [
@@ -1654,9 +1654,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t9cp4i/save_60_on_colony_ship_daily_deal_historical_low/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t9elr0/save_80_on_momodora_reverie_under_the_moonlight/",
     "steam_sales": "sale_2000950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t97a2i/sony_isnt_bailing_on_marathon_despite_bungies/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t9dh0m/dlss_5_gamers_prefer_original_visuals_many_await/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
