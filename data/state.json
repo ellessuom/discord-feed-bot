@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-10T15:26:13.044Z",
+  "lastRun": "2026-05-10T17:25:06.850Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sr4dml/save_50_on_dark_souls_ii_scholar_of_the_first_sin/",
-        "postedAt": "2026-04-20T22:21:46.484Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sr9o8o/save_80_on_kingdom_come_deliverance/",
         "postedAt": "2026-04-21T01:40:46.962Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t98wbq/save_20_on_lumberjacked_on_steam_399/",
         "postedAt": "2026-05-10T15:26:13.044Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1t9cp4i/save_60_on_colony_ship_daily_deal_historical_low/",
+        "postedAt": "2026-05-10T17:25:06.850Z"
       }
     ],
     "steam_sales": [
@@ -1654,7 +1654,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t98wbq/save_20_on_lumberjacked_on_steam_399/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t9cp4i/save_60_on_colony_ship_daily_deal_historical_low/",
     "steam_sales": "sale_2000950",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t97a2i/sony_isnt_bailing_on_marathon_despite_bungies/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
