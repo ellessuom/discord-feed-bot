@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-10T18:27:14.804Z",
+  "lastRun": "2026-05-10T21:22:09.733Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1193,14 +1193,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t2odn2/pacman_to_get_a_new_cartoon_series_pacmansnack/",
-        "postedAt": "2026-05-03T16:21:58.012Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t2qoc7/mindseye_ceo_apparently_found_time_to_vibe_code/",
-        "postedAt": "2026-05-03T17:21:48.283Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t2vlhy/more_rockstar_games_remasters_could_be_on_the_way/",
         "postedAt": "2026-05-03T20:18:54.307Z"
       },
@@ -1591,6 +1583,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t9dh0m/dlss_5_gamers_prefer_original_visuals_many_await/",
         "postedAt": "2026-05-10T18:27:14.804Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t9iqpg/original_star_fox_artist_says_the_character/",
+        "postedAt": "2026-05-10T21:22:09.733Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t9iktx/forza_horizon_6_leak_reportedly_drops_155_gb_of/",
+        "postedAt": "2026-05-10T21:22:09.733Z"
       }
     ],
     "steam_2073850": [
@@ -1656,7 +1656,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t9elr0/save_80_on_momodora_reverie_under_the_moonlight/",
     "steam_sales": "sale_2000950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t9dh0m/dlss_5_gamers_prefer_original_visuals_many_await/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t9iktx/forza_horizon_6_leak_reportedly_drops_155_gb_of/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
