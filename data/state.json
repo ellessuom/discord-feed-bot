@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-11T19:37:53.294Z",
+  "lastRun": "2026-05-11T20:41:14.280Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ssdose/save_32_on_fate_of_fire_kyvedy_guardiah_869_883/",
-        "postedAt": "2026-04-22T06:48:08.751Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sseual/save_67_on_lords_of_the_fallen_989/",
         "postedAt": "2026-04-22T08:44:22.052Z"
       },
@@ -803,13 +799,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ta9tpg/steam_nine_nights_to_exposure_50_off/",
         "postedAt": "2026-05-11T19:37:53.294Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ta9nqi/save_55_on_you_shouldnt_be_here_089_dev/",
+        "postedAt": "2026-05-11T20:41:14.280Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_570940",
-        "postedAt": "2026-04-22T12:31:52.251Z"
-      },
       {
         "id": "sale_94174",
         "postedAt": "2026-04-22T12:31:52.251Z"
@@ -1205,6 +1201,10 @@
       {
         "id": "sale_1809540",
         "postedAt": "2026-05-11T19:37:53.293Z"
+      },
+      {
+        "id": "sale_1620730",
+        "postedAt": "2026-05-11T20:41:14.280Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1670,8 +1670,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ta9tpg/steam_nine_nights_to_exposure_50_off/",
-    "steam_sales": "sale_1809540",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ta9nqi/save_55_on_you_shouldnt_be_here_089_dev/",
+    "steam_sales": "sale_1620730",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ta6ohk/the_next_stellar_blade_probably_wont_be_ps5/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
