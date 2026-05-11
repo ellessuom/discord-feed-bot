@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-11T20:41:14.280Z",
+  "lastRun": "2026-05-11T21:34:56.006Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sseual/save_67_on_lords_of_the_fallen_989/",
-        "postedAt": "2026-04-22T08:44:22.052Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sshkyr/save_20_on_kats_trigger_on_steam/",
         "postedAt": "2026-04-22T10:36:36.500Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ta9nqi/save_55_on_you_shouldnt_be_here_089_dev/",
         "postedAt": "2026-05-11T20:41:14.280Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tagebf/save_85_on_devil_may_cry_hd_collection_on_steam/",
+        "postedAt": "2026-05-11T21:34:56.006Z"
       }
     ],
     "steam_sales": [
@@ -1670,7 +1670,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ta9nqi/save_55_on_you_shouldnt_be_here_089_dev/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tagebf/save_85_on_devil_may_cry_hd_collection_on_steam/",
     "steam_sales": "sale_1620730",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ta6ohk/the_next_stellar_blade_probably_wont_be_ps5/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
