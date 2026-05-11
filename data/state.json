@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-11T11:11:08.005Z",
+  "lastRun": "2026-05-11T15:10:26.674Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1srkt1k/save_50_on_the_hive_on_steam/",
-        "postedAt": "2026-04-21T11:31:23.817Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1srorww/save_60_on_diplomacy_is_not_an_option_on_steam/",
         "postedAt": "2026-04-21T14:41:32.190Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t9elr0/save_80_on_momodora_reverie_under_the_moonlight/",
         "postedAt": "2026-05-10T18:27:14.804Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ta5e1t/save_75_on_slay_the_spire_on_steam_624/",
+        "postedAt": "2026-05-11T15:10:26.674Z"
       }
     ],
     "steam_sales": [
@@ -1193,18 +1193,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t3jhpc/warhorse_studios_responds_to_lord_of_the_rings/",
-        "postedAt": "2026-05-04T14:52:06.881Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t3jb5d/return_of_the_killer_app_an_upcoming_7th_guest/",
-        "postedAt": "2026-05-04T14:52:06.881Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t3m1tu/resident_evil_requiem_producer_responds_to_dlss_5/",
-        "postedAt": "2026-05-04T16:40:51.152Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t3thjj/into_the_grid_the_argentinian_cyberpunk_indie/",
         "postedAt": "2026-05-04T20:36:10.813Z"
       },
@@ -1591,6 +1579,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t9zuv8/lego_batman_the_dark_knight_has_been_fully/",
         "postedAt": "2026-05-11T11:11:08.005Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ta4vsn/kids_as_young_as_8_are_groomed_into_cybercrime/",
+        "postedAt": "2026-05-11T15:10:26.674Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ta38i1/vintage_disneylike_shooter_mouse_pi_for_hire/",
+        "postedAt": "2026-05-11T15:10:26.674Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ta37km/xbox_game_pass_and_discord_building_on_our/",
+        "postedAt": "2026-05-11T15:10:26.674Z"
       }
     ],
     "steam_2073850": [
@@ -1654,9 +1654,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t9elr0/save_80_on_momodora_reverie_under_the_moonlight/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ta5e1t/save_75_on_slay_the_spire_on_steam_624/",
     "steam_sales": "sale_2000950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t9zuv8/lego_batman_the_dark_knight_has_been_fully/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ta37km/xbox_game_pass_and_discord_building_on_our/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
