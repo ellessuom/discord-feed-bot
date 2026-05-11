@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-11T07:26:31.214Z",
+  "lastRun": "2026-05-11T11:11:08.005Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1193,10 +1193,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t3jj1s/shigeru_miyamoto_thinks_zelda_2_was_sort_of_a/",
-        "postedAt": "2026-05-04T14:52:06.881Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t3jhpc/warhorse_studios_responds_to_lord_of_the_rings/",
         "postedAt": "2026-05-04T14:52:06.881Z"
       },
@@ -1591,6 +1587,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t9vwrx/fallout_cocreator_tim_cain_once_proposed_a/",
         "postedAt": "2026-05-11T07:26:31.214Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1t9zuv8/lego_batman_the_dark_knight_has_been_fully/",
+        "postedAt": "2026-05-11T11:11:08.005Z"
       }
     ],
     "steam_2073850": [
@@ -1656,7 +1656,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1t9elr0/save_80_on_momodora_reverie_under_the_moonlight/",
     "steam_sales": "sale_2000950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t9vwrx/fallout_cocreator_tim_cain_once_proposed_a/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1t9zuv8/lego_batman_the_dark_knight_has_been_fully/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
