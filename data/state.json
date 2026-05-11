@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-11T15:10:26.674Z",
+  "lastRun": "2026-05-11T17:01:24.611Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1srorww/save_60_on_diplomacy_is_not_an_option_on_steam/",
-        "postedAt": "2026-04-21T14:41:32.190Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1srpznf/save_20_on_enshrouded_on_steam_2399_2399/",
         "postedAt": "2026-04-21T15:35:56.535Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ta5e1t/save_75_on_slay_the_spire_on_steam_624/",
         "postedAt": "2026-05-11T15:10:26.674Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ta6wpk/save_90_on_eldest_souls_199/",
+        "postedAt": "2026-05-11T17:01:24.611Z"
       }
     ],
     "steam_sales": [
@@ -1192,14 +1192,6 @@
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t3thjj/into_the_grid_the_argentinian_cyberpunk_indie/",
-        "postedAt": "2026-05-04T20:36:10.813Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t3t3kr/gamestop_stock_sinks_after_surprise_ebay_takeover/",
-        "postedAt": "2026-05-04T20:36:10.813Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t3wb60/into_the_grid_the_argentinian_cyberpunk_indie/",
         "postedAt": "2026-05-04T22:26:50.053Z"
@@ -1591,6 +1583,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ta37km/xbox_game_pass_and_discord_building_on_our/",
         "postedAt": "2026-05-11T15:10:26.674Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ta908s/ps3_emulator_github_is_flooded_with_ai_code_devs/",
+        "postedAt": "2026-05-11T17:01:24.611Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ta6ohk/the_next_stellar_blade_probably_wont_be_ps5/",
+        "postedAt": "2026-05-11T17:01:24.611Z"
       }
     ],
     "steam_2073850": [
@@ -1654,9 +1654,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ta5e1t/save_75_on_slay_the_spire_on_steam_624/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ta6wpk/save_90_on_eldest_souls_199/",
     "steam_sales": "sale_2000950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ta37km/xbox_game_pass_and_discord_building_on_our/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ta6ohk/the_next_stellar_blade_probably_wont_be_ps5/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
