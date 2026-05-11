@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-11T17:01:24.611Z",
+  "lastRun": "2026-05-11T18:46:33.846Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,22 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1srpznf/save_20_on_enshrouded_on_steam_2399_2399/",
-        "postedAt": "2026-04-21T15:35:56.535Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1srrnkm/save_50_on_medieval_dynasty_on_steam/",
-        "postedAt": "2026-04-21T16:30:57.849Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1srtywc/save_75_on_perception_heart_and_mind_on_steam_099/",
-        "postedAt": "2026-04-21T17:28:09.047Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1srvzep/save_20_on_marathon_on_steam/",
-        "postedAt": "2026-04-21T18:31:55.625Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1srvl32/save_85_on_1428_shadows_over_silesia_299/",
         "postedAt": "2026-04-21T18:31:55.625Z"
       },
@@ -803,6 +787,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ta6wpk/save_90_on_eldest_souls_199/",
         "postedAt": "2026-05-11T17:01:24.611Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1taaqs2/my_game_sector_zero_is_20_off_till_23rd_may_319/",
+        "postedAt": "2026-05-11T18:46:33.846Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1taa6ya/save_50_on_kingdom_come_deliverance_ii_royal/",
+        "postedAt": "2026-05-11T18:46:33.846Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1taa4yi/save_75_on_red_dead_redemption_2_on_steam/",
+        "postedAt": "2026-05-11T18:46:33.846Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ta9wtx/save_75_on_subnautica_on_steam/",
+        "postedAt": "2026-05-11T18:46:33.846Z"
       }
     ],
     "steam_sales": [
@@ -1189,6 +1189,18 @@
       {
         "id": "sale_2000950",
         "postedAt": "2026-05-08T15:39:14.125Z"
+      },
+      {
+        "id": "sale_264710",
+        "postedAt": "2026-05-11T18:46:33.846Z"
+      },
+      {
+        "id": "sale_848450",
+        "postedAt": "2026-05-11T18:46:33.846Z"
+      },
+      {
+        "id": "sale_2535950",
+        "postedAt": "2026-05-11T18:46:33.846Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1654,8 +1666,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ta6wpk/save_90_on_eldest_souls_199/",
-    "steam_sales": "sale_2000950",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ta9wtx/save_75_on_subnautica_on_steam/",
+    "steam_sales": "sale_2535950",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ta6ohk/the_next_stellar_blade_probably_wont_be_ps5/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
