@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-12T20:39:09.647Z",
+  "lastRun": "2026-05-12T21:33:44.729Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,14 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1stm384/save_33_on_eufloria_classic_on_steam/",
-        "postedAt": "2026-04-23T15:41:44.329Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1stpdlc/save_80_on_the_saboteur_on_steam_199/",
-        "postedAt": "2026-04-23T17:36:36.183Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1stp6lr/save_100_on_8am_on_steam_free_until_april_27th/",
         "postedAt": "2026-04-23T17:36:36.183Z"
       },
@@ -803,6 +795,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tbdysm/save_70_on_deep_rock_galactic_on_steam/",
         "postedAt": "2026-05-12T20:39:09.647Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tbf0hd/save_90_on_killing_floor_2_on_steam_2999_299/",
+        "postedAt": "2026-05-12T21:33:44.729Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tbe20j/save_25_on_tiny_bookshop_on_steam_1999_1499/",
+        "postedAt": "2026-05-12T21:33:44.729Z"
       }
     ],
     "steam_sales": [
@@ -1670,7 +1670,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tbdysm/save_70_on_deep_rock_galactic_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tbe20j/save_25_on_tiny_bookshop_on_steam_1999_1499/",
     "steam_sales": "sale_601150",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tb7ons/segas_super_game_canceled_but_reboots_of_classic/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
