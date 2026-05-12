@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-12T10:53:45.410Z",
+  "lastRun": "2026-05-12T11:42:46.301Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t47rr6/overcome_your_fears_caretaker/",
-        "postedAt": "2026-05-05T06:56:57.467Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t49jih/valves_new_controller_sells_out_instantly/",
         "postedAt": "2026-05-05T08:54:05.107Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tax37z/gamesir_officially_launches_the_pc_version_of_its/",
         "postedAt": "2026-05-12T10:53:45.410Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tayzho/ebay_rejects_gamestops_takeover_bid_and_says/",
+        "postedAt": "2026-05-12T11:42:46.301Z"
       }
     ],
     "steam_2073850": [
@@ -1672,7 +1672,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1taun3d/save_80_on_veranoia_nightmare_of_case_37_on_steam/",
     "steam_sales": "sale_601150",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tax37z/gamesir_officially_launches_the_pc_version_of_its/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tayzho/ebay_rejects_gamestops_takeover_bid_and_says/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
