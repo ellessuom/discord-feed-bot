@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-11T23:25:10.980Z",
+  "lastRun": "2026-05-12T05:20:49.847Z",
   "postedIds": {
     "steam_news": [
       {
@@ -807,10 +807,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_94174",
-        "postedAt": "2026-04-22T12:31:52.251Z"
-      },
-      {
         "id": "sale_1144200",
         "postedAt": "2026-04-22T13:39:19.170Z"
       },
@@ -1205,13 +1201,13 @@
       {
         "id": "sale_1620730",
         "postedAt": "2026-05-11T20:41:14.280Z"
+      },
+      {
+        "id": "sale_601150",
+        "postedAt": "2026-05-12T05:20:49.847Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t437z1/randy_pitchford_says_gearbox_has_a_firm_noai/",
-        "postedAt": "2026-05-05T03:14:18.408Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t43umv/former_elder_scrolls_online_boss_describes_tango/",
         "postedAt": "2026-05-05T05:10:25.529Z"
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tajfzt/star_fox_prologue_nintendo_switch_2/",
         "postedAt": "2026-05-11T23:25:10.980Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1taprpq/hyrule_warriors_age_of_imprisonment_mineru/",
+        "postedAt": "2026-05-12T05:20:49.847Z"
       }
     ],
     "steam_2073850": [
@@ -1671,8 +1671,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tagebf/save_85_on_devil_may_cry_hd_collection_on_steam/",
-    "steam_sales": "sale_1620730",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tajfzt/star_fox_prologue_nintendo_switch_2/",
+    "steam_sales": "sale_601150",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1taprpq/hyrule_warriors_age_of_imprisonment_mineru/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
