@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-12T16:51:20.132Z",
+  "lastRun": "2026-05-12T17:45:59.419Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t4dqxf/785m_psn_digital_games_settlement_2026_check/",
-        "postedAt": "2026-05-05T12:36:05.891Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t4iskf/dishonored_fans_hit_respawn_on_hope_for_a_third/",
         "postedAt": "2026-05-05T15:44:00.429Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tb5kl7/snk_announces_new_studio_lead_by_tekken_veteran/",
         "postedAt": "2026-05-12T16:51:20.132Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tb7ons/segas_super_game_canceled_but_reboots_of_classic/",
+        "postedAt": "2026-05-12T17:45:59.419Z"
       }
     ],
     "steam_2073850": [
@@ -1672,7 +1672,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tb2btz/save_30_on_horse_runner_dx_on_steam_349_349/",
     "steam_sales": "sale_601150",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tb5kl7/snk_announces_new_studio_lead_by_tekken_veteran/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tb7ons/segas_super_game_canceled_but_reboots_of_classic/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
