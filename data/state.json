@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-12T09:07:15.546Z",
+  "lastRun": "2026-05-12T10:53:45.410Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t43tek/nintendo_announces_switch_2_pokémon_pokopia_bundle/",
-        "postedAt": "2026-05-05T05:10:25.529Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t47rr6/overcome_your_fears_caretaker/",
         "postedAt": "2026-05-05T06:56:57.467Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tavq00/wwe_champ_cody_rhodes_says_nintendo_sent_him_a/",
         "postedAt": "2026-05-12T09:07:15.546Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tax37z/gamesir_officially_launches_the_pc_version_of_its/",
+        "postedAt": "2026-05-12T10:53:45.410Z"
       }
     ],
     "steam_2073850": [
@@ -1672,7 +1672,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1taun3d/save_80_on_veranoia_nightmare_of_case_37_on_steam/",
     "steam_sales": "sale_601150",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tavq00/wwe_champ_cody_rhodes_says_nintendo_sent_him_a/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tax37z/gamesir_officially_launches_the_pc_version_of_its/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
