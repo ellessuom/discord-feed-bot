@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-12T07:10:00.244Z",
+  "lastRun": "2026-05-12T09:07:15.546Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sspsiy/save_20_on_cargo_hunters_on_steam/",
-        "postedAt": "2026-04-22T16:30:52.166Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ssvkcy/tides_of_tomorrow_just_released_and_save_20_on/",
         "postedAt": "2026-04-22T19:34:34.367Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tasivz/save_85_on_dmc_devil_may_cry_449_new_historical/",
         "postedAt": "2026-05-12T07:10:00.244Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1taun3d/save_80_on_veranoia_nightmare_of_case_37_on_steam/",
+        "postedAt": "2026-05-12T09:07:15.546Z"
       }
     ],
     "steam_sales": [
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t43umv/former_elder_scrolls_online_boss_describes_tango/",
-        "postedAt": "2026-05-05T05:10:25.529Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t43tek/nintendo_announces_switch_2_pokémon_pokopia_bundle/",
         "postedAt": "2026-05-05T05:10:25.529Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1taprpq/hyrule_warriors_age_of_imprisonment_mineru/",
         "postedAt": "2026-05-12T05:20:49.847Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tavq00/wwe_champ_cody_rhodes_says_nintendo_sent_him_a/",
+        "postedAt": "2026-05-12T09:07:15.546Z"
       }
     ],
     "steam_2073850": [
@@ -1670,9 +1670,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tasivz/save_85_on_dmc_devil_may_cry_449_new_historical/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1taun3d/save_80_on_veranoia_nightmare_of_case_37_on_steam/",
     "steam_sales": "sale_601150",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1taprpq/hyrule_warriors_age_of_imprisonment_mineru/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tavq00/wwe_champ_cody_rhodes_says_nintendo_sent_him_a/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
