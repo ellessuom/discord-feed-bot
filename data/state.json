@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-12T11:42:46.301Z",
+  "lastRun": "2026-05-12T15:07:51.860Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ssvkcy/tides_of_tomorrow_just_released_and_save_20_on/",
-        "postedAt": "2026-04-22T19:34:34.367Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ssvdhr/save_50_on_lies_of_p_on_steam_2999_2999/",
         "postedAt": "2026-04-22T19:34:34.367Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1taun3d/save_80_on_veranoia_nightmare_of_case_37_on_steam/",
         "postedAt": "2026-05-12T09:07:15.546Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tb2btz/save_30_on_horse_runner_dx_on_steam_349_349/",
+        "postedAt": "2026-05-12T15:07:51.860Z"
       }
     ],
     "steam_sales": [
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t49jih/valves_new_controller_sells_out_instantly/",
-        "postedAt": "2026-05-05T08:54:05.107Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t4ckkj/rockstar_should_raise_gta_6s_price_for_good_of/",
         "postedAt": "2026-05-05T11:33:24.684Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tayzho/ebay_rejects_gamestops_takeover_bid_and_says/",
         "postedAt": "2026-05-12T11:42:46.301Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tb418p/after_forza_horizon_6_subnautica_2_has_reportedly/",
+        "postedAt": "2026-05-12T15:07:51.860Z"
       }
     ],
     "steam_2073850": [
@@ -1670,9 +1670,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1taun3d/save_80_on_veranoia_nightmare_of_case_37_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tb2btz/save_30_on_horse_runner_dx_on_steam_349_349/",
     "steam_sales": "sale_601150",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tayzho/ebay_rejects_gamestops_takeover_bid_and_says/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tb418p/after_forza_horizon_6_subnautica_2_has_reportedly/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
