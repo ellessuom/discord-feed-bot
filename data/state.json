@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-12T19:37:04.411Z",
+  "lastRun": "2026-05-12T20:39:09.647Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1stjqni/save_100_on_nocturnal_now_free_base_price_1899/",
-        "postedAt": "2026-04-23T14:53:47.342Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1stm384/save_33_on_eufloria_classic_on_steam/",
         "postedAt": "2026-04-23T15:41:44.329Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tbb3d2/save_50_on_tiny_on_steam_its_049/",
         "postedAt": "2026-05-12T19:37:04.411Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tbdysm/save_70_on_deep_rock_galactic_on_steam/",
+        "postedAt": "2026-05-12T20:39:09.647Z"
       }
     ],
     "steam_sales": [
@@ -1670,7 +1670,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tbb3d2/save_50_on_tiny_on_steam_its_049/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tbdysm/save_70_on_deep_rock_galactic_on_steam/",
     "steam_sales": "sale_601150",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tb7ons/segas_super_game_canceled_but_reboots_of_classic/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
