@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-12T21:33:44.729Z",
+  "lastRun": "2026-05-13T03:17:07.840Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t4iskf/dishonored_fans_hit_respawn_on_hope_for_a_third/",
-        "postedAt": "2026-05-05T15:44:00.429Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t4ihgl/a_new_report_suggests_halos_battle_royale/",
         "postedAt": "2026-05-05T15:44:00.429Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tb7ons/segas_super_game_canceled_but_reboots_of_classic/",
         "postedAt": "2026-05-12T17:45:59.419Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tbmwqh/iron_nest_heavy_turret_simulator_has_won_the/",
+        "postedAt": "2026-05-13T03:17:07.840Z"
       }
     ],
     "steam_2073850": [
@@ -1672,7 +1672,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tbe20j/save_25_on_tiny_bookshop_on_steam_1999_1499/",
     "steam_sales": "sale_601150",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tb7ons/segas_super_game_canceled_but_reboots_of_classic/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tbmwqh/iron_nest_heavy_turret_simulator_has_won_the/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
