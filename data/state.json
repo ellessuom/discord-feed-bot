@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-13T22:32:25.777Z",
+  "lastRun": "2026-05-13T23:30:03.677Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t4tjo1/3_devs_almost_went_bankrupt_spent_3_years_making/",
-        "postedAt": "2026-05-05T22:26:26.078Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t4vr50/microsoft_copilot_will_no_longer_come_to_consoles/",
         "postedAt": "2026-05-05T23:23:44.890Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tbzy1o/the_passion_fueling_the_4th_map_and_beyond_zombus/",
         "postedAt": "2026-05-13T16:54:43.522Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tcg5hs/resident_evil_requiem_and_pragmata_help_capcom_to/",
+        "postedAt": "2026-05-13T23:30:03.677Z"
       }
     ],
     "steam_2073850": [
@@ -1672,7 +1672,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tce6n6/save_60_on_doom_i_doom_ii/",
     "steam_sales": "sale_1783560",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tbzy1o/the_passion_fueling_the_4th_map_and_beyond_zombus/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tcg5hs/resident_evil_requiem_and_pragmata_help_capcom_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
