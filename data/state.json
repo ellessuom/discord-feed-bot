@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-13T15:08:18.372Z",
+  "lastRun": "2026-05-13T16:54:43.522Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,22 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t4mtkb/battlefield_6_season_3_trailer_showcases_classic/",
-        "postedAt": "2026-05-05T18:40:25.460Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t4r6ch/wii_u_failed_due_to_slow_launch_of_exclusives/",
-        "postedAt": "2026-05-05T20:31:35.296Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t4u8fh/007_first_light_dev_explains_why_it_delayed_the/",
-        "postedAt": "2026-05-05T22:26:26.078Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t4tp05/microsoft_may_not_have_enough_xbox_stock_for_gta/",
-        "postedAt": "2026-05-05T22:26:26.078Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t4tjo1/3_devs_almost_went_bankrupt_spent_3_years_making/",
         "postedAt": "2026-05-05T22:26:26.078Z"
       },
@@ -1607,6 +1591,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tc1eq7/nihon_falcom_reports_1227_yearonyear_operating/",
         "postedAt": "2026-05-13T15:08:18.372Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tc4fmr/this_citysmashing_monster_sim_is_the_first_game/",
+        "postedAt": "2026-05-13T16:54:43.522Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tc3p5a/playstation_plus_game_catalog_for_may_star_wars/",
+        "postedAt": "2026-05-13T16:54:43.522Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tc2i6d/deadzone_rogue_2_announce_trailer/",
+        "postedAt": "2026-05-13T16:54:43.522Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tbzy1o/the_passion_fueling_the_4th_map_and_beyond_zombus/",
+        "postedAt": "2026-05-13T16:54:43.522Z"
       }
     ],
     "steam_2073850": [
@@ -1672,7 +1672,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tbe20j/save_25_on_tiny_bookshop_on_steam_1999_1499/",
     "steam_sales": "sale_329050",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tc1eq7/nihon_falcom_reports_1227_yearonyear_operating/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tbzy1o/the_passion_fueling_the_4th_map_and_beyond_zombus/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
