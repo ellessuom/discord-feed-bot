@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-13T17:46:53.828Z",
+  "lastRun": "2026-05-13T18:47:21.808Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1stp1yw/save_75_on_halflife_alyx_on_steam_historical_low/",
-        "postedAt": "2026-04-23T17:36:36.183Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1stozyl/save_85_on_little_nightmares_ii_on_steam_449_449/",
         "postedAt": "2026-04-23T17:36:36.183Z"
       },
@@ -803,13 +799,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tc6yte/save_20_for_the_launch_of_vultures_scavengers_of/",
         "postedAt": "2026-05-13T17:46:53.828Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tc8pk4/save_90_on_doom_on_steam/",
+        "postedAt": "2026-05-13T18:47:21.808Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1044720",
-        "postedAt": "2026-04-22T13:39:19.170Z"
-      },
       {
         "id": "sale_2138330",
         "postedAt": "2026-04-22T13:39:19.170Z"
@@ -1205,6 +1201,10 @@
       {
         "id": "sale_329050",
         "postedAt": "2026-05-13T13:49:24.492Z"
+      },
+      {
+        "id": "sale_979110",
+        "postedAt": "2026-05-13T18:47:21.808Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1670,8 +1670,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tc6yte/save_20_for_the_launch_of_vultures_scavengers_of/",
-    "steam_sales": "sale_329050",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tc8pk4/save_90_on_doom_on_steam/",
+    "steam_sales": "sale_979110",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tbzy1o/the_passion_fueling_the_4th_map_and_beyond_zombus/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
