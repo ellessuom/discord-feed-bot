@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-14T01:01:58.548Z",
+  "lastRun": "2026-05-14T03:15:38.886Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t4vr50/microsoft_copilot_will_no_longer_come_to_consoles/",
-        "postedAt": "2026-05-05T23:23:44.890Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t4viuy/assassins_creed_black_flag_resynced_enemies_adapt/",
         "postedAt": "2026-05-05T23:23:44.890Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tcg5hs/resident_evil_requiem_and_pragmata_help_capcom_to/",
         "postedAt": "2026-05-13T23:30:03.677Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tclkwy/saros_had_a_lukewarm_start_with_300000_sold_in_2/",
+        "postedAt": "2026-05-14T03:15:38.886Z"
       }
     ],
     "steam_2073850": [
@@ -1672,7 +1672,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tcipvu/conquer_lands_on_steam_099/",
     "steam_sales": "sale_1783560",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tcg5hs/resident_evil_requiem_and_pragmata_help_capcom_to/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tclkwy/saros_had_a_lukewarm_start_with_300000_sold_in_2/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
