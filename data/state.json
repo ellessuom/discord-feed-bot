@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-14T17:40:06.101Z",
+  "lastRun": "2026-05-14T18:45:25.393Z",
   "postedIds": {
     "steam_news": [
       {
@@ -807,14 +807,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_124923",
-        "postedAt": "2026-04-22T15:34:29.396Z"
-      },
-      {
-        "id": "sale_3165650",
-        "postedAt": "2026-04-22T16:30:52.166Z"
-      },
-      {
         "id": "sale_261550",
         "postedAt": "2026-04-22T16:30:52.166Z"
       },
@@ -1205,6 +1197,14 @@
       {
         "id": "sale_2479810",
         "postedAt": "2026-05-14T17:40:06.101Z"
+      },
+      {
+        "id": "sale_379720",
+        "postedAt": "2026-05-14T18:45:25.393Z"
+      },
+      {
+        "id": "sale_413150",
+        "postedAt": "2026-05-14T18:45:25.393Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1675,7 +1675,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1td4gsx/save_73_on_kerbal_space_program_complete_edition/",
-    "steam_sales": "sale_2479810",
+    "steam_sales": "sale_413150",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1td4ttx/sony_has_helped_fund_over_120_projects_this/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
