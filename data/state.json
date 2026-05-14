@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-14T05:24:14.469Z",
+  "lastRun": "2026-05-14T07:11:35.449Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,14 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1stotec/save_20_on_dispatch_on_steam_2899_2999/",
-        "postedAt": "2026-04-23T18:34:15.035Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1stu1rz/save_80_on_alice_madness_returns_on_steam/",
-        "postedAt": "2026-04-23T20:26:45.520Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sttr9h/save_70_on_octopath_traveler_1799_new_historical/",
         "postedAt": "2026-04-23T20:26:45.520Z"
       },
@@ -803,6 +795,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tcngmt/save_upto_85_on_ubisoft_titles/",
         "postedAt": "2026-05-14T05:24:14.469Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tcpuhc/save_53_on_apex_ascent_on_steam/",
+        "postedAt": "2026-05-14T07:11:35.449Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tcpu3h/save_67_on_doom_the_dark_ages_on_steam/",
+        "postedAt": "2026-05-14T07:11:35.449Z"
       }
     ],
     "steam_sales": [
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t4viuy/assassins_creed_black_flag_resynced_enemies_adapt/",
-        "postedAt": "2026-05-05T23:23:44.890Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t54inb/remedys_new_ceo_personally_vouches_for_control/",
         "postedAt": "2026-05-06T07:05:59.972Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tclkwy/saros_had_a_lukewarm_start_with_300000_sold_in_2/",
         "postedAt": "2026-05-14T03:15:38.886Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tcpgzi/sony_still_hasnt_fixed_the_security_issue_that/",
+        "postedAt": "2026-05-14T07:11:35.449Z"
       }
     ],
     "steam_2073850": [
@@ -1670,9 +1670,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tcngmt/save_upto_85_on_ubisoft_titles/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tcpu3h/save_67_on_doom_the_dark_ages_on_steam/",
     "steam_sales": "sale_1783560",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tclkwy/saros_had_a_lukewarm_start_with_300000_sold_in_2/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tcpgzi/sony_still_hasnt_fixed_the_security_issue_that/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
