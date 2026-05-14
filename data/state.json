@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-14T16:49:13.059Z",
+  "lastRun": "2026-05-14T17:40:06.101Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,14 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sui9od/save_85_on_little_nightmares_or_complete_edition/",
-        "postedAt": "2026-04-24T15:36:21.091Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sun98u/save_20_on_go_ape_ship_799/",
-        "postedAt": "2026-04-24T18:21:57.217Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1suolwm/save_75_on_super_retro_retry_074_new_historical/",
         "postedAt": "2026-04-24T19:23:31.942Z"
       },
@@ -803,13 +795,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1td32jm/my_indie_game_mycosis_is_70_off_on_steam_made/",
         "postedAt": "2026-05-14T16:49:13.059Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1td5c70/save_50_on_stardew_valley_1499_to_750/",
+        "postedAt": "2026-05-14T17:40:06.101Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1td4gsx/save_73_on_kerbal_space_program_complete_edition/",
+        "postedAt": "2026-05-14T17:40:06.101Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3949040",
-        "postedAt": "2026-04-22T15:34:29.396Z"
-      },
       {
         "id": "sale_124923",
         "postedAt": "2026-04-22T15:34:29.396Z"
@@ -1205,13 +1201,13 @@
       {
         "id": "sale_2253100",
         "postedAt": "2026-05-14T16:49:13.059Z"
+      },
+      {
+        "id": "sale_2479810",
+        "postedAt": "2026-05-14T17:40:06.101Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t5mz9p/io_interactive_says_project_fantasy_is/",
-        "postedAt": "2026-05-06T19:38:44.384Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t5qf7w/007_first_light_wont_include_a_new_game_but/",
         "postedAt": "2026-05-06T21:29:34.193Z"
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1td2fb7/sunderfolk_standard_edition/",
         "postedAt": "2026-05-14T16:49:13.059Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1td4ttx/sony_has_helped_fund_over_120_projects_this/",
+        "postedAt": "2026-05-14T17:40:06.101Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1td32jm/my_indie_game_mycosis_is_70_off_on_steam_made/",
-    "steam_sales": "sale_2253100",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1td2fb7/sunderfolk_standard_edition/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1td4gsx/save_73_on_kerbal_space_program_complete_edition/",
+    "steam_sales": "sale_2479810",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1td4ttx/sony_has_helped_fund_over_120_projects_this/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
