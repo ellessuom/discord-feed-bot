@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-14T09:05:24.883Z",
+  "lastRun": "2026-05-14T10:53:28.484Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t53s8j/fbc_firebreak_is_not_shutting_down_remedy_says/",
-        "postedAt": "2026-05-06T07:05:59.972Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t57mcf/dishonored_hope_for_a_third_game_spark_on_internet/",
         "postedAt": "2026-05-06T09:56:22.445Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tcqpu7/virtual_boy_nintendo_classics_may_2026_game/",
         "postedAt": "2026-05-14T09:05:24.883Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tct2g0/gta_6_preorder_date_has_allegedly_leaked_via_best/",
+        "postedAt": "2026-05-14T10:53:28.484Z"
       }
     ],
     "steam_2073850": [
@@ -1665,6 +1665,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/678497909513126620",
         "postedAt": "2026-05-07T10:48:40.911Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/668365445444665836",
+        "postedAt": "2026-05-14T10:53:28.484Z"
       }
     ]
   },
@@ -1672,7 +1676,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tcrydu/save_80_on_naild_099/",
     "steam_sales": "sale_1783560",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tcqpu7/virtual_boy_nintendo_classics_may_2026_game/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tct2g0/gta_6_preorder_date_has_allegedly_leaked_via_best/",
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
