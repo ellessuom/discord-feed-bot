@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-14T20:36:40.047Z",
+  "lastRun": "2026-05-14T21:31:47.218Z",
   "postedIds": {
     "steam_news": [
       {
@@ -807,10 +807,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1203620",
-        "postedAt": "2026-04-22T16:30:52.166Z"
-      },
-      {
         "id": "sale_1466060",
         "postedAt": "2026-04-22T16:30:52.166Z"
       },
@@ -1205,6 +1201,10 @@
       {
         "id": "sale_1663850",
         "postedAt": "2026-05-14T20:36:40.047Z"
+      },
+      {
+        "id": "sale_1604030",
+        "postedAt": "2026-05-14T21:31:47.218Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1675,7 +1675,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1td4gsx/save_73_on_kerbal_space_program_complete_edition/",
-    "steam_sales": "sale_1663850",
+    "steam_sales": "sale_1604030",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tdafue/capcom_looking_to_nurture_dead_rising_franchise/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
