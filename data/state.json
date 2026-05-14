@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-14T21:31:47.218Z",
+  "lastRun": "2026-05-14T22:29:52.851Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1suolwm/save_75_on_super_retro_retry_074_new_historical/",
-        "postedAt": "2026-04-24T19:23:31.942Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1suqglg/save_70_on_tactics_ogre_reborn_1499/",
         "postedAt": "2026-04-24T20:21:37.037Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1td4gsx/save_73_on_kerbal_space_program_complete_edition/",
         "postedAt": "2026-05-14T17:40:06.101Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tdd2id/save_100_on_terrors_to_unveil_limited_offer/",
+        "postedAt": "2026-05-14T22:29:52.851Z"
       }
     ],
     "steam_sales": [
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t5rco1/nintendo_of_america_this_is_miyamoto_in_just_a/",
-        "postedAt": "2026-05-06T22:22:47.285Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t5qwv8/valve_says_steam_controller_sold_out_faster_than/",
         "postedAt": "2026-05-06T22:22:47.285Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tdafue/capcom_looking_to_nurture_dead_rising_franchise/",
         "postedAt": "2026-05-14T20:36:40.047Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tdcnt2/we_announced_kingfish_a_2player_asymmetric_coop/",
+        "postedAt": "2026-05-14T22:29:52.851Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1td4gsx/save_73_on_kerbal_space_program_complete_edition/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tdd2id/save_100_on_terrors_to_unveil_limited_offer/",
     "steam_sales": "sale_1604030",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tdafue/capcom_looking_to_nurture_dead_rising_franchise/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tdcnt2/we_announced_kingfish_a_2player_asymmetric_coop/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
