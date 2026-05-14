@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-13T23:30:03.677Z",
+  "lastRun": "2026-05-14T01:01:58.548Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1stq9nt/save_80_on_persona_5_royal_on_steam/",
-        "postedAt": "2026-04-23T18:34:15.035Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1stoxef/save_30_on_split_fiction_on_steam_3499_3499/",
         "postedAt": "2026-04-23T18:34:15.035Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tce6n6/save_60_on_doom_i_doom_ii/",
         "postedAt": "2026-05-13T22:32:25.777Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tcipvu/conquer_lands_on_steam_099/",
+        "postedAt": "2026-05-14T01:01:58.548Z"
       }
     ],
     "steam_sales": [
@@ -1670,7 +1670,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tce6n6/save_60_on_doom_i_doom_ii/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tcipvu/conquer_lands_on_steam_099/",
     "steam_sales": "sale_1783560",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tcg5hs/resident_evil_requiem_and_pragmata_help_capcom_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
