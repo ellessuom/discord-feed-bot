@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-14T14:58:14.301Z",
+  "lastRun": "2026-05-14T15:56:01.323Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1su7art/save_40_on_node_body_on_steam_developer/",
-        "postedAt": "2026-04-24T06:49:27.608Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1suf8kn/save_51_49c_usd_captain_sharkbait_voyage_for/",
         "postedAt": "2026-04-24T13:38:32.013Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tcz3wz/save_75_on_watch_dogs/",
         "postedAt": "2026-05-14T14:58:14.301Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1td1ero/save_40_on_kings_blade_on_steam_539/",
+        "postedAt": "2026-05-14T15:56:01.323Z"
       }
     ],
     "steam_sales": [
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t5gg7l/dying_light_franchise_director_steps_down_after/",
-        "postedAt": "2026-05-06T16:42:19.247Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t5ipzc/pc_gamers_buy_way_more_games_that_cost_less_than/",
         "postedAt": "2026-05-06T17:37:46.605Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tcywyb/sea_of_thieves_drama_explained_as_prominent/",
         "postedAt": "2026-05-14T14:58:14.301Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1td2cdn/new_xbox_controller_for_cloud_gaming_leaks_per/",
+        "postedAt": "2026-05-14T15:56:01.323Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tcz3wz/save_75_on_watch_dogs/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1td1ero/save_40_on_kings_blade_on_steam_539/",
     "steam_sales": "sale_1783560",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tcywyb/sea_of_thieves_drama_explained_as_prominent/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1td2cdn/new_xbox_controller_for_cloud_gaming_leaks_per/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
