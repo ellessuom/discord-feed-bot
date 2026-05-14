@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-14T15:56:01.323Z",
+  "lastRun": "2026-05-14T16:49:13.059Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1suf8kn/save_51_49c_usd_captain_sharkbait_voyage_for/",
-        "postedAt": "2026-04-24T13:38:32.013Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sui9od/save_85_on_little_nightmares_or_complete_edition/",
         "postedAt": "2026-04-24T15:36:21.091Z"
       },
@@ -803,13 +799,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1td1ero/save_40_on_kings_blade_on_steam_539/",
         "postedAt": "2026-05-14T15:56:01.323Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1td32jm/my_indie_game_mycosis_is_70_off_on_steam_made/",
+        "postedAt": "2026-05-14T16:49:13.059Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_374320",
-        "postedAt": "2026-04-22T14:40:28.473Z"
-      },
       {
         "id": "sale_3949040",
         "postedAt": "2026-04-22T15:34:29.396Z"
@@ -1205,21 +1201,13 @@
       {
         "id": "sale_1783560",
         "postedAt": "2026-05-13T20:40:37.917Z"
+      },
+      {
+        "id": "sale_2253100",
+        "postedAt": "2026-05-14T16:49:13.059Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t5ipzc/pc_gamers_buy_way_more_games_that_cost_less_than/",
-        "postedAt": "2026-05-06T17:37:46.605Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t5kw1p/poor_start_for_ps5_exclusive_saros_as_first_sales/",
-        "postedAt": "2026-05-06T18:43:13.834Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t5n0qp/ea_boasts_record_year_thanks_to_battlefield_6_and/",
-        "postedAt": "2026-05-06T19:38:44.384Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t5mz9p/io_interactive_says_project_fantasy_is/",
         "postedAt": "2026-05-06T19:38:44.384Z"
@@ -1607,6 +1595,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1td2cdn/new_xbox_controller_for_cloud_gaming_leaks_per/",
         "postedAt": "2026-05-14T15:56:01.323Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1td2tsk/assassins_creed_black_flag_resynced_has_a/",
+        "postedAt": "2026-05-14T16:49:13.059Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1td2g4q/the_telltale_batman_shadows_edition/",
+        "postedAt": "2026-05-14T16:49:13.059Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1td2fb7/sunderfolk_standard_edition/",
+        "postedAt": "2026-05-14T16:49:13.059Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1td1ero/save_40_on_kings_blade_on_steam_539/",
-    "steam_sales": "sale_1783560",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1td2cdn/new_xbox_controller_for_cloud_gaming_leaks_per/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1td32jm/my_indie_game_mycosis_is_70_off_on_steam_made/",
+    "steam_sales": "sale_2253100",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1td2fb7/sunderfolk_standard_edition/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
