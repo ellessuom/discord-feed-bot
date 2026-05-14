@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-14T10:53:28.484Z",
+  "lastRun": "2026-05-14T13:41:45.103Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1stt88f/save_65_on_asciill_on_steam/",
-        "postedAt": "2026-04-23T20:26:45.520Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1storcv/save_80_on_persona_5_royal_on_steamnew_historical/",
         "postedAt": "2026-04-24T05:08:34.639Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tcrydu/save_80_on_naild_099/",
         "postedAt": "2026-05-14T09:05:24.883Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tcy5fn/save_upto_80_on_red_dead_redemption_2_ultimate/",
+        "postedAt": "2026-05-14T13:41:45.103Z"
       }
     ],
     "steam_sales": [
@@ -1209,14 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t57mcf/dishonored_hope_for_a_third_game_spark_on_internet/",
-        "postedAt": "2026-05-06T09:56:22.445Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t5bmfn/the_demo_for_the_recipe_for_life_a_horror/",
-        "postedAt": "2026-05-06T12:48:13.311Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t5ats8/an_apex_legends_streamer_played_on_a_unicycle_to/",
         "postedAt": "2026-05-06T12:48:13.311Z"
       },
@@ -1607,6 +1599,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tct2g0/gta_6_preorder_date_has_allegedly_leaked_via_best/",
         "postedAt": "2026-05-14T10:53:28.484Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tcx820/amazon_has_cancelled_the_lord_of_the_rings_mmo/",
+        "postedAt": "2026-05-14T13:41:45.103Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tcx79u/subnautica_2_dev_responds_to_pirates_leaking_the/",
+        "postedAt": "2026-05-14T13:41:45.103Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tcrydu/save_80_on_naild_099/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tcy5fn/save_upto_80_on_red_dead_redemption_2_ultimate/",
     "steam_sales": "sale_1783560",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tct2g0/gta_6_preorder_date_has_allegedly_leaked_via_best/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tcx79u/subnautica_2_dev_responds_to_pirates_leaking_the/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
