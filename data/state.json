@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-15T16:42:17.961Z",
+  "lastRun": "2026-05-15T17:37:03.031Z",
   "postedIds": {
     "steam_news": [
       {
@@ -807,10 +807,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1627720",
-        "postedAt": "2026-04-22T20:25:55.839Z"
-      },
-      {
         "id": "sale_3065800",
         "postedAt": "2026-04-22T21:23:15.986Z"
       },
@@ -1205,6 +1201,10 @@
       {
         "id": "sale_1229490",
         "postedAt": "2026-05-15T00:59:30.354Z"
+      },
+      {
+        "id": "sale_2091020",
+        "postedAt": "2026-05-15T17:37:03.031Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1675,7 +1675,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1te1oz7/the_phoenix_rising_trilogy_is_on_sale_today_is/",
-    "steam_sales": "sale_1229490",
+    "steam_sales": "sale_2091020",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tdz56t/out_now_on_nintendo_switch_jump_in_and_survive/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
