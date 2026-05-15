@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-15T20:32:02.522Z",
+  "lastRun": "2026-05-15T21:27:37.127Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,14 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t6dgwx/trash_goblin/",
-        "postedAt": "2026-05-07T16:41:18.355Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t6dg6a/arranger_a_rolepuzzling_adventure/",
-        "postedAt": "2026-05-07T16:41:18.355Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t6ipmn/aegis_tiburon_is_comming_to_the_game_star_citizen/",
         "postedAt": "2026-05-07T18:43:27.731Z"
       },
@@ -1607,6 +1599,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1te7cc3/marathons_new_pve_mode_is_an_economic_disaster/",
         "postedAt": "2026-05-15T20:32:02.522Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1te8it5/playstation_has_started_revealing_public_player/",
+        "postedAt": "2026-05-15T21:27:37.127Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1te8hhn/forza_horizon_6_immediately_beats_its/",
+        "postedAt": "2026-05-15T21:27:37.127Z"
       }
     ],
     "steam_2073850": [
@@ -1676,7 +1676,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1te53ry/save_32_on_flufftopia_fluffmazing_edition_339_339/",
     "steam_sales": "sale_2091020",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1te7cc3/marathons_new_pve_mode_is_an_economic_disaster/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1te8hhn/forza_horizon_6_immediately_beats_its/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
