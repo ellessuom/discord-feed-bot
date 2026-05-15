@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-14T23:24:46.596Z",
+  "lastRun": "2026-05-15T00:59:30.354Z",
   "postedIds": {
     "steam_news": [
       {
@@ -807,10 +807,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1466060",
-        "postedAt": "2026-04-22T16:30:52.166Z"
-      },
-      {
         "id": "sale_1627720",
         "postedAt": "2026-04-22T20:25:55.839Z"
       },
@@ -1205,6 +1201,10 @@
       {
         "id": "sale_1604030",
         "postedAt": "2026-05-14T21:31:47.218Z"
+      },
+      {
+        "id": "sale_1229490",
+        "postedAt": "2026-05-15T00:59:30.354Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1675,7 +1675,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tdd2id/save_100_on_terrors_to_unveil_limited_offer/",
-    "steam_sales": "sale_1604030",
+    "steam_sales": "sale_1229490",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tddoxv/hell_let_loose_vietnam_release_date_announcement/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
