@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-15T05:25:25.108Z",
+  "lastRun": "2026-05-15T07:18:39.430Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,14 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1suqglg/save_70_on_tactics_ogre_reborn_1499/",
-        "postedAt": "2026-04-24T20:21:37.037Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sutvkt/save_50_on_red_dead_redemption_on_steam/",
-        "postedAt": "2026-04-24T22:20:32.403Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sux8it/steam_hexadel_119_usd_40_off/",
         "postedAt": "2026-04-25T00:48:57.876Z"
       },
@@ -803,6 +795,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tdd2id/save_100_on_terrors_to_unveil_limited_offer/",
         "postedAt": "2026-05-14T22:29:52.851Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tdmzqc/save_75_on_truck_simulators_euro_american/",
+        "postedAt": "2026-05-15T07:18:39.430Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tdmwgo/save_80_on_dying_light_definitive_10th/",
+        "postedAt": "2026-05-15T07:18:39.430Z"
       }
     ],
     "steam_sales": [
@@ -1674,7 +1674,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tdd2id/save_100_on_terrors_to_unveil_limited_offer/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tdmwgo/save_80_on_dying_light_definitive_10th/",
     "steam_sales": "sale_1229490",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tdkl3f/this_is_still_very_insane_to_see_halo_campaign/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
