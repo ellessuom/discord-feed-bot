@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-16T05:12:00.565Z",
+  "lastRun": "2026-05-16T06:55:48.703Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,18 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1swlv44/save_20_on_shapez_2_factory/",
-        "postedAt": "2026-04-26T23:19:00.702Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1swtw8d/save_85_on_iron_harvest_449/",
-        "postedAt": "2026-04-27T05:12:13.367Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1swuoq6/aethinion_10_off_449/",
-        "postedAt": "2026-04-27T07:05:22.833Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sx0jvz/save_40_off_pixel_wizard/",
         "postedAt": "2026-04-27T11:38:45.446Z"
       },
@@ -803,6 +791,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tejyav/save_75_on_still_wakes_the_deep/",
         "postedAt": "2026-05-16T05:12:00.565Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tekpqn/save_75_on_world_war_z/",
+        "postedAt": "2026-05-16T06:55:48.703Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tekfoh/steam_sprites_honor_749_644_25_off/",
+        "postedAt": "2026-05-16T06:55:48.703Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tek5o7/save_90_on_killing_floor_1_2_coop_game/",
+        "postedAt": "2026-05-16T06:55:48.703Z"
       }
     ],
     "steam_sales": [
@@ -1674,7 +1674,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tejyav/save_75_on_still_wakes_the_deep/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tek5o7/save_90_on_killing_floor_1_2_coop_game/",
     "steam_sales": "sale_4069520",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tej2nq/yoshi_and_the_mysterious_book_an_appetite_for/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
