@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-16T06:55:48.703Z",
+  "lastRun": "2026-05-16T07:41:20.540Z",
   "postedIds": {
     "steam_news": [
       {
@@ -807,10 +807,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_376282",
-        "postedAt": "2026-04-22T22:21:28.233Z"
-      },
-      {
         "id": "sale_934700",
         "postedAt": "2026-04-23T09:40:51.619Z"
       },
@@ -1205,6 +1201,10 @@
       {
         "id": "sale_4069520",
         "postedAt": "2026-05-16T05:12:00.565Z"
+      },
+      {
+        "id": "sale_4466620",
+        "postedAt": "2026-05-16T07:41:20.540Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1675,7 +1675,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tek5o7/save_90_on_killing_floor_1_2_coop_game/",
-    "steam_sales": "sale_4069520",
+    "steam_sales": "sale_4466620",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tej2nq/yoshi_and_the_mysterious_book_an_appetite_for/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
