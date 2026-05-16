@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-16T12:30:36.708Z",
+  "lastRun": "2026-05-16T13:36:03.755Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t6mycc/crimson_desert_dev_explains_how_its_able_to/",
-        "postedAt": "2026-05-07T21:26:07.643Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t6mv76/leaked_assets_indicate_we_might_be_heading_to/",
         "postedAt": "2026-05-07T21:26:07.643Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1terjtg/aliens_fireteam_elite_2_is_real_and_this_time_you/",
         "postedAt": "2026-05-16T12:30:36.708Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tetq93/subnautica_2_devs_are_trying_to_push_players/",
+        "postedAt": "2026-05-16T13:36:03.755Z"
       }
     ],
     "steam_2073850": [
@@ -1676,7 +1676,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tek5o7/save_90_on_killing_floor_1_2_coop_game/",
     "steam_sales": "sale_227300",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1terjtg/aliens_fireteam_elite_2_is_real_and_this_time_you/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tetq93/subnautica_2_devs_are_trying_to_push_players/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
