@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-16T19:29:45.630Z",
+  "lastRun": "2026-05-16T21:21:40.142Z",
   "postedIds": {
     "steam_news": [
       {
@@ -807,10 +807,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1158310",
-        "postedAt": "2026-04-23T09:40:51.619Z"
-      },
-      {
         "id": "sale_2634950",
         "postedAt": "2026-04-23T09:40:51.619Z"
       },
@@ -1205,6 +1201,10 @@
       {
         "id": "sale_227300",
         "postedAt": "2026-05-16T11:26:43.953Z"
+      },
+      {
+        "id": "sale_768200",
+        "postedAt": "2026-05-16T21:21:40.142Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1675,7 +1675,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tf2wfz/save_89_on_sizeable_079/",
-    "steam_sales": "sale_227300",
+    "steam_sales": "sale_768200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tev2uk/second_streamer_review_with_a_big_audience_thanks/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
