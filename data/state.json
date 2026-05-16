@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-16T16:25:12.201Z",
+  "lastRun": "2026-05-16T19:29:45.630Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sx71ie/save_30_on_bioframe_outpost_on_steam/",
-        "postedAt": "2026-04-27T15:40:33.449Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sx9qkd/interfacex26_fake_os_steam_deals/",
         "postedAt": "2026-04-27T17:35:49.389Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tey0qv/save_30_on_chicos_rebound_559/",
         "postedAt": "2026-05-16T16:25:12.201Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tf2wfz/save_89_on_sizeable_079/",
+        "postedAt": "2026-05-16T19:29:45.630Z"
       }
     ],
     "steam_sales": [
@@ -1674,7 +1674,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tey0qv/save_30_on_chicos_rebound_559/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tf2wfz/save_89_on_sizeable_079/",
     "steam_sales": "sale_227300",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tev2uk/second_streamer_review_with_a_big_audience_thanks/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
