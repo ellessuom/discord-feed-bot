@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-16T13:36:03.755Z",
+  "lastRun": "2026-05-16T16:25:12.201Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sx0jvz/save_40_off_pixel_wizard/",
-        "postedAt": "2026-04-27T11:38:45.446Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sx71ie/save_30_on_bioframe_outpost_on_steam/",
         "postedAt": "2026-04-27T15:40:33.449Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tek5o7/save_90_on_killing_floor_1_2_coop_game/",
         "postedAt": "2026-05-16T06:55:48.703Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tey0qv/save_30_on_chicos_rebound_559/",
+        "postedAt": "2026-05-16T16:25:12.201Z"
       }
     ],
     "steam_sales": [
@@ -1209,14 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t6mv76/leaked_assets_indicate_we_might_be_heading_to/",
-        "postedAt": "2026-05-07T21:26:07.643Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t6i7x6/are_you_ready_to_take_on_the_challenge/",
-        "postedAt": "2026-05-07T21:26:07.643Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t6srfz/gta_online_confirms_major_summer_update_and_it/",
         "postedAt": "2026-05-08T00:57:32.115Z"
       },
@@ -1607,6 +1599,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tetq93/subnautica_2_devs_are_trying_to_push_players/",
         "postedAt": "2026-05-16T13:36:03.755Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tew0fz/never_knew_how_to_get_into_dd_or_tired_of/",
+        "postedAt": "2026-05-16T16:25:12.201Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tev2uk/second_streamer_review_with_a_big_audience_thanks/",
+        "postedAt": "2026-05-16T16:25:12.201Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tek5o7/save_90_on_killing_floor_1_2_coop_game/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tey0qv/save_30_on_chicos_rebound_559/",
     "steam_sales": "sale_227300",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tetq93/subnautica_2_devs_are_trying_to_push_players/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tev2uk/second_streamer_review_with_a_big_audience_thanks/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
