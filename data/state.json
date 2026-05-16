@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-15T21:27:37.127Z",
+  "lastRun": "2026-05-16T05:12:00.565Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1swioxi/save_85_on_darksiders_ultimate_edition_on_steam/",
-        "postedAt": "2026-04-26T21:16:49.989Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1swlv44/save_20_on_shapez_2_factory/",
         "postedAt": "2026-04-26T23:19:00.702Z"
       },
@@ -803,13 +799,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1te53ry/save_32_on_flufftopia_fluffmazing_edition_339_339/",
         "postedAt": "2026-05-15T18:41:32.296Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tejyav/save_75_on_still_wakes_the_deep/",
+        "postedAt": "2026-05-16T05:12:00.565Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3065800",
-        "postedAt": "2026-04-22T21:23:15.986Z"
-      },
       {
         "id": "sale_376282",
         "postedAt": "2026-04-22T22:21:28.233Z"
@@ -1205,13 +1201,13 @@
       {
         "id": "sale_2091020",
         "postedAt": "2026-05-15T17:37:03.031Z"
+      },
+      {
+        "id": "sale_4069520",
+        "postedAt": "2026-05-16T05:12:00.565Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t6ipmn/aegis_tiburon_is_comming_to_the_game_star_citizen/",
-        "postedAt": "2026-05-07T18:43:27.731Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t6kbik/im_working_on_a_2d_coop_game_about_four_fluffy/",
         "postedAt": "2026-05-07T19:36:30.171Z"
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1te8hhn/forza_horizon_6_immediately_beats_its/",
         "postedAt": "2026-05-15T21:27:37.127Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tej2nq/yoshi_and_the_mysterious_book_an_appetite_for/",
+        "postedAt": "2026-05-16T05:12:00.565Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1te53ry/save_32_on_flufftopia_fluffmazing_edition_339_339/",
-    "steam_sales": "sale_2091020",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1te8hhn/forza_horizon_6_immediately_beats_its/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tejyav/save_75_on_still_wakes_the_deep/",
+    "steam_sales": "sale_4069520",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tej2nq/yoshi_and_the_mysterious_book_an_appetite_for/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
