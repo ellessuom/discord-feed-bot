@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-17T13:36:24.527Z",
+  "lastRun": "2026-05-17T14:36:02.820Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sxcw0e/30_off_curiosity_a_cat_climbing_game/",
-        "postedAt": "2026-04-27T19:36:45.649Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sxkll8/save_60_on_inscryption_799/",
         "postedAt": "2026-04-28T00:56:44.262Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tflgc8/save_21_on_your_mom/",
         "postedAt": "2026-05-17T10:35:31.686Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tfqtep/save_75_on_the_blood_mage_049/",
+        "postedAt": "2026-05-17T14:36:02.820Z"
       }
     ],
     "steam_sales": [
@@ -1674,7 +1674,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tflgc8/save_21_on_your_mom/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tfqtep/save_75_on_the_blood_mage_049/",
     "steam_sales": "sale_2119830",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tfojuq/subnautica_2_explodes_out_of_the_airlock_with_2/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
