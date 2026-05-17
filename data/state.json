@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-17T03:17:02.244Z",
+  "lastRun": "2026-05-17T05:24:13.045Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sx9qkd/interfacex26_fake_os_steam_deals/",
-        "postedAt": "2026-04-27T17:35:49.389Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sxd59k/save_90_on_crystar_195_new_historical_low/",
         "postedAt": "2026-04-27T19:36:45.649Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tf2wfz/save_89_on_sizeable_079/",
         "postedAt": "2026-05-16T19:29:45.630Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tffqp6/save_55_on_v_rising/",
+        "postedAt": "2026-05-17T05:24:13.045Z"
       }
     ],
     "steam_sales": [
@@ -1674,7 +1674,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tf2wfz/save_89_on_sizeable_079/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tffqp6/save_55_on_v_rising/",
     "steam_sales": "sale_3643170",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tf93ne/tbg_now_has_a_free_1hour_demo_on_steam/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
