@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-17T05:24:13.045Z",
+  "lastRun": "2026-05-17T10:35:31.686Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sxd59k/save_90_on_crystar_195_new_historical_low/",
-        "postedAt": "2026-04-27T19:36:45.649Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sxcw0e/30_off_curiosity_a_cat_climbing_game/",
         "postedAt": "2026-04-27T19:36:45.649Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tffqp6/save_55_on_v_rising/",
         "postedAt": "2026-05-17T05:24:13.045Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tflgc8/save_21_on_your_mom/",
+        "postedAt": "2026-05-17T10:35:31.686Z"
       }
     ],
     "steam_sales": [
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t6rxxb/stranger_than_heaven_cast_story_reveal_trailer/",
-        "postedAt": "2026-05-08T00:57:32.115Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t6wuc0/cwa_canada_president_calls_on_government_to/",
         "postedAt": "2026-05-08T05:06:49.576Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tf93ne/tbg_now_has_a_free_1hour_demo_on_steam/",
         "postedAt": "2026-05-17T01:02:58.882Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tfls0t/intergalactic_the_heretic_prophet_is_couple_of/",
+        "postedAt": "2026-05-17T10:35:31.686Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tffqp6/save_55_on_v_rising/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tflgc8/save_21_on_your_mom/",
     "steam_sales": "sale_3643170",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tf93ne/tbg_now_has_a_free_1hour_demo_on_steam/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tfls0t/intergalactic_the_heretic_prophet_is_couple_of/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
