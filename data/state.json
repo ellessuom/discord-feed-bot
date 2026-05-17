@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-17T17:26:25.208Z",
+  "lastRun": "2026-05-17T18:29:36.073Z",
   "postedIds": {
     "steam_news": [
       {
@@ -807,10 +807,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2840470",
-        "postedAt": "2026-04-23T18:34:15.035Z"
-      },
-      {
         "id": "sale_1687950",
         "postedAt": "2026-04-23T19:35:01.590Z"
       },
@@ -1205,6 +1201,10 @@
       {
         "id": "sale_250760",
         "postedAt": "2026-05-17T15:28:05.805Z"
+      },
+      {
+        "id": "sale_1216320",
+        "postedAt": "2026-05-17T18:29:36.073Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1675,7 +1675,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tfuvgr/save_90_on_sniper_ghost_warrior_contracts_299/",
-    "steam_sales": "sale_250760",
+    "steam_sales": "sale_1216320",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tfojuq/subnautica_2_explodes_out_of_the_airlock_with_2/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
