@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-17T01:02:58.882Z",
+  "lastRun": "2026-05-17T03:17:02.244Z",
   "postedIds": {
     "steam_news": [
       {
@@ -807,10 +807,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2634950",
-        "postedAt": "2026-04-23T09:40:51.619Z"
-      },
-      {
         "id": "sale_2162800",
         "postedAt": "2026-04-23T15:41:44.329Z"
       },
@@ -1205,6 +1201,10 @@
       {
         "id": "sale_768200",
         "postedAt": "2026-05-16T21:21:40.142Z"
+      },
+      {
+        "id": "sale_3643170",
+        "postedAt": "2026-05-17T03:17:02.244Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1675,7 +1675,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tf2wfz/save_89_on_sizeable_079/",
-    "steam_sales": "sale_768200",
+    "steam_sales": "sale_3643170",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tf93ne/tbg_now_has_a_free_1hour_demo_on_steam/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
