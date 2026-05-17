@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-17T20:22:48.633Z",
+  "lastRun": "2026-05-17T21:23:34.410Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sxs5wr/save_95_on_battlefield_3_on_steam_last_time_on/",
-        "postedAt": "2026-04-28T07:05:26.302Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sxsuz5/save_20_on_screamer_on_steam/",
         "postedAt": "2026-04-28T08:58:42.165Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tfzgyd/save_90_on_homefront_the_revolution_on_steam/",
         "postedAt": "2026-05-17T20:22:48.633Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tg1wf4/save_80_on_hitman_world_of_assassination_on_steam/",
+        "postedAt": "2026-05-17T21:23:34.410Z"
       }
     ],
     "steam_sales": [
@@ -1674,7 +1674,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tfzgyd/save_90_on_homefront_the_revolution_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tg1wf4/save_80_on_hitman_world_of_assassination_on_steam/",
     "steam_sales": "sale_3527290",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tfojuq/subnautica_2_explodes_out_of_the_airlock_with_2/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
