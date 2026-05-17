@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-17T15:28:05.805Z",
+  "lastRun": "2026-05-17T16:26:18.728Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sxkll8/save_60_on_inscryption_799/",
-        "postedAt": "2026-04-28T00:56:44.262Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sxsg6f/save_95_on_battlefield_4_on_steam/",
         "postedAt": "2026-04-28T07:05:26.302Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tfqtep/save_75_on_the_blood_mage_049/",
         "postedAt": "2026-05-17T14:36:02.820Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tftw4a/save_52_on_shovel_knight_treasure_trove_on_steam/",
+        "postedAt": "2026-05-17T16:26:18.728Z"
       }
     ],
     "steam_sales": [
@@ -1674,7 +1674,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tfqtep/save_75_on_the_blood_mage_049/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tftw4a/save_52_on_shovel_knight_treasure_trove_on_steam/",
     "steam_sales": "sale_250760",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tfojuq/subnautica_2_explodes_out_of_the_airlock_with_2/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
