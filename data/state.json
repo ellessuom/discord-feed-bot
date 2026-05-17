@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-17T10:35:31.686Z",
+  "lastRun": "2026-05-17T12:29:46.145Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,14 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t6wuc0/cwa_canada_president_calls_on_government_to/",
-        "postedAt": "2026-05-08T05:06:49.576Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t6zqtx/resident_evil_requiem_leon_must_die_forever/",
-        "postedAt": "2026-05-08T06:45:45.603Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t70q14/hell_is_us_confirmed_for_nintendo_switch_2/",
         "postedAt": "2026-05-08T07:38:32.341Z"
       },
@@ -1607,6 +1599,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tfls0t/intergalactic_the_heretic_prophet_is_couple_of/",
         "postedAt": "2026-05-17T10:35:31.686Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tfnbsu/gta_6_preorders_may_begin_this_week_best_buy_leak/",
+        "postedAt": "2026-05-17T12:29:46.145Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tfn4s7/as_terraria_turns_15_relogic_confirms_crossplay/",
+        "postedAt": "2026-05-17T12:29:46.145Z"
       }
     ],
     "steam_2073850": [
@@ -1676,7 +1676,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tflgc8/save_21_on_your_mom/",
     "steam_sales": "sale_3643170",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tfls0t/intergalactic_the_heretic_prophet_is_couple_of/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tfn4s7/as_terraria_turns_15_relogic_confirms_crossplay/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
