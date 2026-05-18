@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-18T21:32:45.801Z",
+  "lastRun": "2026-05-18T22:26:47.394Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t0cph6/save_67_on_pacific_drive_989/",
-        "postedAt": "2026-05-01T01:01:41.809Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t0cjfk/save_75_on_star_wars_empire_at_war/",
         "postedAt": "2026-05-01T01:01:41.809Z"
       },
@@ -803,13 +799,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1th0ya0/bioshock_remastered_75_499/",
         "postedAt": "2026-05-18T21:32:45.801Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1th2xab/save_93_on_big_byz_wars_on_steam/",
+        "postedAt": "2026-05-18T22:26:47.394Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1903340",
-        "postedAt": "2026-04-23T19:35:01.590Z"
-      },
       {
         "id": "sale_2592160",
         "postedAt": "2026-04-23T19:35:01.590Z"
@@ -1205,13 +1201,13 @@
       {
         "id": "sale_4078200",
         "postedAt": "2026-05-18T18:45:16.293Z"
+      },
+      {
+        "id": "sale_2753970",
+        "postedAt": "2026-05-18T22:26:47.394Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t78rvq/sony_playstation_chiefs_detail_ai_vision_amid/",
-        "postedAt": "2026-05-08T14:42:39.551Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t78n8f/assassins_creed_black_flag_resynced_accessibility/",
         "postedAt": "2026-05-08T14:42:39.551Z"
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tgpzle/assassins_creed_hexe_allegedly_features_female/",
         "postedAt": "2026-05-18T17:05:09.532Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1th2uiq/xbox_director_guy_richards_were_going_to_keep/",
+        "postedAt": "2026-05-18T22:26:47.394Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1th0ya0/bioshock_remastered_75_499/",
-    "steam_sales": "sale_4078200",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tgpzle/assassins_creed_hexe_allegedly_features_female/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1th2xab/save_93_on_big_byz_wars_on_steam/",
+    "steam_sales": "sale_2753970",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1th2uiq/xbox_director_guy_richards_were_going_to_keep/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
