@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-18T05:31:16.256Z",
+  "lastRun": "2026-05-18T07:37:33.903Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,14 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t70ovm/ps5_shipments_top_937_million/",
-        "postedAt": "2026-05-08T07:38:32.341Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t715pn/nintendo_switch_2_price_increases_starting_this/",
-        "postedAt": "2026-05-08T08:40:54.399Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t734fc/one_mad_modder_got_the_entirety_of_the_elder/",
         "postedAt": "2026-05-08T10:38:40.341Z"
       },
@@ -1607,6 +1599,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tfojuq/subnautica_2_explodes_out_of_the_airlock_with_2/",
         "postedAt": "2026-05-17T13:36:24.527Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tgdi1z/subnautica_2s_nokilling_ethos_will_be_a_continued/",
+        "postedAt": "2026-05-18T07:37:33.903Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tgdgfr/sonys_big_ps5_exclusive_of_2025_has_its_last_big/",
+        "postedAt": "2026-05-18T07:37:33.903Z"
       }
     ],
     "steam_2073850": [
@@ -1676,7 +1676,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tgcwp7/save_62_on_warspace_on_steam/",
     "steam_sales": "sale_3527290",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tfojuq/subnautica_2_explodes_out_of_the_airlock_with_2/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tgdgfr/sonys_big_ps5_exclusive_of_2025_has_its_last_big/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
