@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-18T09:23:21.847Z",
+  "lastRun": "2026-05-18T11:27:29.131Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1sxyhcx/save_20_on_caromble_for_launch_discount/",
-        "postedAt": "2026-04-28T11:38:23.805Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1sy19bz/konbini_simulator_80_off/",
         "postedAt": "2026-04-28T15:55:52.617Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tgfhmb/save_30_on_the_lion_gambles_everything_he_owns_069/",
         "postedAt": "2026-05-18T09:23:21.847Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tgi1hh/free_gbc_game_skelost/",
+        "postedAt": "2026-05-18T11:27:29.131Z"
       }
     ],
     "steam_sales": [
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t734fc/one_mad_modder_got_the_entirety_of_the_elder/",
-        "postedAt": "2026-05-08T10:38:40.341Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t74ke1/weekly_rgamingnews_discussion_what_game_you_will/",
         "postedAt": "2026-05-08T11:36:26.324Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tgdgfr/sonys_big_ps5_exclusive_of_2025_has_its_last_big/",
         "postedAt": "2026-05-18T07:37:33.903Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tgio35/atari_ceo_wants_the_company_to_become_the_best/",
+        "postedAt": "2026-05-18T11:27:29.131Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tgfhmb/save_30_on_the_lion_gambles_everything_he_owns_069/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tgi1hh/free_gbc_game_skelost/",
     "steam_sales": "sale_3527290",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tgdgfr/sonys_big_ps5_exclusive_of_2025_has_its_last_big/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tgio35/atari_ceo_wants_the_company_to_become_the_best/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
