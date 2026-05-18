@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-18T22:26:47.394Z",
+  "lastRun": "2026-05-18T23:29:02.640Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t0cjfk/save_75_on_star_wars_empire_at_war/",
-        "postedAt": "2026-05-01T01:01:41.809Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t0erz4/save_60_on_onirism_on_steam/",
         "postedAt": "2026-05-01T03:15:59.594Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1th2xab/save_93_on_big_byz_wars_on_steam/",
         "postedAt": "2026-05-18T22:26:47.394Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1th42x4/save_33_on_berry_bury_berry_535_new_historic_low/",
+        "postedAt": "2026-05-18T23:29:02.640Z"
       }
     ],
     "steam_sales": [
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t78n8f/assassins_creed_black_flag_resynced_accessibility/",
-        "postedAt": "2026-05-08T14:42:39.551Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t78mrf/andy_serkis_says_he_doesnt_see_a_difference/",
         "postedAt": "2026-05-08T14:42:39.551Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1th2uiq/xbox_director_guy_richards_were_going_to_keep/",
         "postedAt": "2026-05-18T22:26:47.394Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1th4akr/lego_batman_legacy_of_the_dark_knight_official/",
+        "postedAt": "2026-05-18T23:29:02.640Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1th2xab/save_93_on_big_byz_wars_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1th42x4/save_33_on_berry_bury_berry_535_new_historic_low/",
     "steam_sales": "sale_2753970",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1th2uiq/xbox_director_guy_richards_were_going_to_keep/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1th4akr/lego_batman_legacy_of_the_dark_knight_official/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
