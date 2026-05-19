@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-19T11:11:00.433Z",
+  "lastRun": "2026-05-19T15:13:48.232Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t0uejg/mini_tank_mayhem_a_td_x_deckbuilder_21_off/",
-        "postedAt": "2026-05-01T14:31:10.620Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t0xe0w/save_75_on_dujanah_on_steam/",
         "postedAt": "2026-05-01T16:27:16.364Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1th7ya7/save_40_on_kaamos_puzzle_roguelike_on_steam/",
         "postedAt": "2026-05-19T03:17:35.520Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1thoulw/save_77_on_sonucido_the_mage_183_183_historical/",
+        "postedAt": "2026-05-19T15:13:48.232Z"
       }
     ],
     "steam_sales": [
@@ -1674,7 +1674,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1th7ya7/save_40_on_kaamos_puzzle_roguelike_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1thoulw/save_77_on_sonucido_the_mage_183_183_historical/",
     "steam_sales": "sale_2753970",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1thj0l3/its_official_steam_decrees_bullet_heaven_the_name/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
