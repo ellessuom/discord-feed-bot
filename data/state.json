@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-19T15:13:48.232Z",
+  "lastRun": "2026-05-19T17:05:32.151Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,14 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t0xe0w/save_75_on_dujanah_on_steam/",
-        "postedAt": "2026-05-01T16:27:16.364Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t12tao/save_90_on_ankora_lost_days_149/",
-        "postedAt": "2026-05-01T19:32:57.237Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t14ar7/sale_40_on_the_bunker_notes_on_steam/",
         "postedAt": "2026-05-01T20:24:24.182Z"
       },
@@ -803,6 +795,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1thoulw/save_77_on_sonucido_the_mage_183_183_historical/",
         "postedAt": "2026-05-19T15:13:48.232Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1thriqv/steam_anomaly_404_47920_off/",
+        "postedAt": "2026-05-19T17:05:32.151Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1threbw/save_89_on_faery_legends_of_avalon_079/",
+        "postedAt": "2026-05-19T17:05:32.151Z"
       }
     ],
     "steam_sales": [
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t7n8hg/what_if_oldschool_gtastyle_freedom_was_combined/",
-        "postedAt": "2026-05-09T07:39:13.620Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t7z9tt/what_do_you_think_about_the_idea_of_portals_that/",
         "postedAt": "2026-05-09T08:40:07.719Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1thj0l3/its_official_steam_decrees_bullet_heaven_the_name/",
         "postedAt": "2026-05-19T11:11:00.433Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1thrjrj/cozy_bugcatching_game_kabuto_park_coming_to/",
+        "postedAt": "2026-05-19T17:05:32.151Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1thoulw/save_77_on_sonucido_the_mage_183_183_historical/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1threbw/save_89_on_faery_legends_of_avalon_079/",
     "steam_sales": "sale_2753970",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1thj0l3/its_official_steam_decrees_bullet_heaven_the_name/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1thrjrj/cozy_bugcatching_game_kabuto_park_coming_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
