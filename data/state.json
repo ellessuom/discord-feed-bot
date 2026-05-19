@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-19T05:29:17.103Z",
+  "lastRun": "2026-05-19T09:21:00.613Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,14 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t7cx7h/ps5_sales_drop_almost_50_as_sony_discusses_ai/",
-        "postedAt": "2026-05-08T16:38:16.505Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t7k1e8/nintendo_is_raising_switch_2_prices_worldwide/",
-        "postedAt": "2026-05-08T21:27:46.157Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t7v394/forza_horizon_6_official_launch_trailer/",
         "postedAt": "2026-05-09T05:11:15.464Z"
       },
@@ -1607,6 +1599,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1thbccf/port_specialist_virtuos_wants_to_take_on_two/",
         "postedAt": "2026-05-19T05:29:17.103Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1thg9st/lego_batman_legacy_of_the_dark_knight_was/",
+        "postedAt": "2026-05-19T09:21:00.613Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1thg7f6/gta_6_was_supposed_to_launch_in_spring_2025/",
+        "postedAt": "2026-05-19T09:21:00.613Z"
       }
     ],
     "steam_2073850": [
@@ -1676,7 +1676,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1th7ya7/save_40_on_kaamos_puzzle_roguelike_on_steam/",
     "steam_sales": "sale_2753970",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1thbccf/port_specialist_virtuos_wants_to_take_on_two/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1thg7f6/gta_6_was_supposed_to_launch_in_spring_2025/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
