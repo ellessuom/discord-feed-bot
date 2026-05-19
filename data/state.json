@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-19T18:45:44.380Z",
+  "lastRun": "2026-05-19T19:38:54.719Z",
   "postedIds": {
     "steam_news": [
       {
@@ -807,10 +807,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2001120",
-        "postedAt": "2026-04-23T20:26:45.520Z"
-      },
-      {
         "id": "sale_1874880",
         "postedAt": "2026-04-23T21:21:52.642Z"
       },
@@ -1205,17 +1201,13 @@
       {
         "id": "sale_3542380",
         "postedAt": "2026-05-19T18:45:44.380Z"
+      },
+      {
+        "id": "sale_1718460",
+        "postedAt": "2026-05-19T19:38:54.719Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t7z9tt/what_do_you_think_about_the_idea_of_portals_that/",
-        "postedAt": "2026-05-09T08:40:07.719Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t84rd0/i_spent_my_babys_nap_times_building_a/",
-        "postedAt": "2026-05-09T13:35:52.619Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t867jk/007_first_light_wont_feature_path_tracing_support/",
         "postedAt": "2026-05-09T14:29:24.852Z"
@@ -1607,6 +1599,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1thrjrj/cozy_bugcatching_game_kabuto_park_coming_to/",
         "postedAt": "2026-05-19T17:05:32.151Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1thxdgg/xbox_begs_fans_for_feedback_gets_brutal_verdict/",
+        "postedAt": "2026-05-19T19:38:54.719Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1thx57i/far_far_west_publisher_says_we_dont_work_with/",
+        "postedAt": "2026-05-19T19:38:54.719Z"
       }
     ],
     "steam_2073850": [
@@ -1675,8 +1675,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1thtljp/save_90_on_call_of_juarez_gunslinger_on_steam/",
-    "steam_sales": "sale_3542380",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1thrjrj/cozy_bugcatching_game_kabuto_park_coming_to/",
+    "steam_sales": "sale_1718460",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1thx57i/far_far_west_publisher_says_we_dont_work_with/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
