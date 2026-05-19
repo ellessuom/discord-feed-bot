@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-19T17:05:32.151Z",
+  "lastRun": "2026-05-19T18:45:44.380Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t14ar7/sale_40_on_the_bunker_notes_on_steam/",
-        "postedAt": "2026-05-01T20:24:24.182Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t20pme/save_90_on_toem_a_photo_adventure_195_new/",
         "postedAt": "2026-05-02T21:19:27.482Z"
       },
@@ -803,13 +799,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1threbw/save_89_on_faery_legends_of_avalon_079/",
         "postedAt": "2026-05-19T17:05:32.151Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1thtljp/save_90_on_call_of_juarez_gunslinger_on_steam/",
+        "postedAt": "2026-05-19T18:45:44.380Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2592160",
-        "postedAt": "2026-04-23T19:35:01.590Z"
-      },
       {
         "id": "sale_2001120",
         "postedAt": "2026-04-23T20:26:45.520Z"
@@ -1205,6 +1201,10 @@
       {
         "id": "sale_2753970",
         "postedAt": "2026-05-18T22:26:47.394Z"
+      },
+      {
+        "id": "sale_3542380",
+        "postedAt": "2026-05-19T18:45:44.380Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1674,8 +1674,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1threbw/save_89_on_faery_legends_of_avalon_079/",
-    "steam_sales": "sale_2753970",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1thtljp/save_90_on_call_of_juarez_gunslinger_on_steam/",
+    "steam_sales": "sale_3542380",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1thrjrj/cozy_bugcatching_game_kabuto_park_coming_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
