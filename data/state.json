@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-19T21:37:05.684Z",
+  "lastRun": "2026-05-19T23:31:09.657Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t3nu14/save_75_on_blasted_dice_on_steam_historical_low/",
-        "postedAt": "2026-05-04T17:37:51.690Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t3ntds/save_75_on_kerbal_space_program/",
         "postedAt": "2026-05-04T17:37:51.690Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ti0bz7/terminator_2d_no_fate_30_off_offer_ends_may_27th/",
         "postedAt": "2026-05-19T21:37:05.684Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ti3fpq/save_100_on_dino_running_from_a_furry/",
+        "postedAt": "2026-05-19T23:31:09.657Z"
       }
     ],
     "steam_sales": [
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t87qxi/control_resonant_will_be_xbox_play_anywhere/",
-        "postedAt": "2026-05-09T15:24:59.472Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t8givi/valves_gabe_newell_always_understood_what_steam/",
         "postedAt": "2026-05-09T20:20:13.188Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1thzf76/tethergeist_released_on_steam_and_nintendo_switch/",
         "postedAt": "2026-05-19T20:41:15.743Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ti3dzw/assassins_creed_black_flag_resynced_an_interview/",
+        "postedAt": "2026-05-19T23:31:09.657Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ti0bz7/terminator_2d_no_fate_30_off_offer_ends_may_27th/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ti3fpq/save_100_on_dino_running_from_a_furry/",
     "steam_sales": "sale_1718460",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1thzf76/tethergeist_released_on_steam_and_nintendo_switch/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ti3dzw/assassins_creed_black_flag_resynced_an_interview/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
