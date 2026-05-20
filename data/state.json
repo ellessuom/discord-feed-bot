@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-20T17:13:00.873Z",
+  "lastRun": "2026-05-20T18:57:00.266Z",
   "postedIds": {
     "steam_news": [
       {
@@ -807,14 +807,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2914150",
-        "postedAt": "2026-04-24T07:42:41.052Z"
-      },
-      {
-        "id": "sale_1238840",
-        "postedAt": "2026-04-24T10:38:28.935Z"
-      },
-      {
         "id": "sale_2668510",
         "postedAt": "2026-04-24T20:21:37.037Z"
       },
@@ -1205,17 +1197,17 @@
       {
         "id": "sale_1206070",
         "postedAt": "2026-05-20T17:13:00.873Z"
+      },
+      {
+        "id": "sale_2183900",
+        "postedAt": "2026-05-20T18:57:00.266Z"
+      },
+      {
+        "id": "sale_1332010",
+        "postedAt": "2026-05-20T18:57:00.266Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t9dh0m/dlss_5_gamers_prefer_original_visuals_many_await/",
-        "postedAt": "2026-05-10T18:27:14.804Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t9iqpg/original_star_fox_artist_says_the_character/",
-        "postedAt": "2026-05-10T21:22:09.733Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t9iktx/forza_horizon_6_leak_reportedly_drops_155_gb_of/",
         "postedAt": "2026-05-10T21:22:09.733Z"
@@ -1607,6 +1599,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tijk8d/iowa_man_sues_nintendo_after_being_denied_pokémon/",
         "postedAt": "2026-05-20T13:05:14.613Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1titmq2/for_several_years_now_i_have_been_singlehandedly/",
+        "postedAt": "2026-05-20T18:57:00.266Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tisxz0/subnautica_2s_eula_is_so_severe_that_even_this/",
+        "postedAt": "2026-05-20T18:57:00.266Z"
       }
     ],
     "steam_2073850": [
@@ -1675,8 +1675,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tir7kf/save_10_on_phonopolis_1979_launch_sale/",
-    "steam_sales": "sale_1206070",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tijk8d/iowa_man_sues_nintendo_after_being_denied_pokémon/",
+    "steam_sales": "sale_1332010",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tisxz0/subnautica_2s_eula_is_so_severe_that_even_this/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
