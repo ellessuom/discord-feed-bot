@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-19T23:31:09.657Z",
+  "lastRun": "2026-05-20T03:17:32.262Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t8givi/valves_gabe_newell_always_understood_what_steam/",
-        "postedAt": "2026-05-09T20:20:13.188Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t8ndvc/new_resident_evil_requiem_dlc_is_getting_mixed/",
         "postedAt": "2026-05-09T21:20:54.236Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ti3dzw/assassins_creed_black_flag_resynced_an_interview/",
         "postedAt": "2026-05-19T23:31:09.657Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ti6q6v/we_learned_our_lesson_the_witcher_4_and_cyberpunk/",
+        "postedAt": "2026-05-20T03:17:32.262Z"
       }
     ],
     "steam_2073850": [
@@ -1676,7 +1676,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ti3fpq/save_100_on_dino_running_from_a_furry/",
     "steam_sales": "sale_1718460",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ti3dzw/assassins_creed_black_flag_resynced_an_interview/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ti6q6v/we_learned_our_lesson_the_witcher_4_and_cyberpunk/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
