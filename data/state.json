@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-20T07:25:58.950Z",
+  "lastRun": "2026-05-20T09:18:35.671Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t8w17z/nobody_believes_blizzard_meant_to_give_diablo_4/",
-        "postedAt": "2026-05-10T05:19:23.912Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t92i8e/absent_a_left_4_dead_3_modders_have_just_turned/",
         "postedAt": "2026-05-10T10:32:15.723Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ticevq/its_been_wrong_for_20_years_rdr2s_arthur_morgan/",
         "postedAt": "2026-05-20T07:25:58.950Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tifrxj/gaming_is_more_expensive_than_ever_not_only_have/",
+        "postedAt": "2026-05-20T09:18:35.671Z"
       }
     ],
     "steam_2073850": [
@@ -1676,7 +1676,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ti3fpq/save_100_on_dino_running_from_a_furry/",
     "steam_sales": "sale_1718460",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ticevq/its_been_wrong_for_20_years_rdr2s_arthur_morgan/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tifrxj/gaming_is_more_expensive_than_ever_not_only_have/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
