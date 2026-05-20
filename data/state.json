@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-20T09:18:35.671Z",
+  "lastRun": "2026-05-20T11:08:42.484Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t3ntds/save_75_on_kerbal_space_program/",
-        "postedAt": "2026-05-04T17:37:51.690Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t3peyk/save_70_on_hyper_light_drifter_on_steam/",
         "postedAt": "2026-05-04T18:42:01.134Z"
       },
@@ -803,13 +799,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ti3fpq/save_100_on_dino_running_from_a_furry/",
         "postedAt": "2026-05-19T23:31:09.657Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tih73f/save_85_on_maneater/",
+        "postedAt": "2026-05-20T11:08:42.484Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1874880",
-        "postedAt": "2026-04-23T21:21:52.642Z"
-      },
       {
         "id": "sale_2161700",
         "postedAt": "2026-04-24T05:08:34.639Z"
@@ -1205,17 +1201,13 @@
       {
         "id": "sale_1718460",
         "postedAt": "2026-05-19T19:38:54.719Z"
+      },
+      {
+        "id": "sale_1940340",
+        "postedAt": "2026-05-20T11:08:42.484Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t92i8e/absent_a_left_4_dead_3_modders_have_just_turned/",
-        "postedAt": "2026-05-10T10:32:15.723Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t988do/ea_headquarters_being_raided_by_protesters_over/",
-        "postedAt": "2026-05-10T14:30:34.461Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t97a2i/sony_isnt_bailing_on_marathon_despite_bungies/",
         "postedAt": "2026-05-10T14:30:34.461Z"
@@ -1607,6 +1599,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tifrxj/gaming_is_more_expensive_than_ever_not_only_have/",
         "postedAt": "2026-05-20T09:18:35.671Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tiglo4/returnal_director_founds_new_game_studio_to/",
+        "postedAt": "2026-05-20T11:08:42.484Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tige3c/warhorse_confirms_new_kingdom_come_and_lord_of/",
+        "postedAt": "2026-05-20T11:08:42.484Z"
       }
     ],
     "steam_2073850": [
@@ -1674,9 +1674,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ti3fpq/save_100_on_dino_running_from_a_furry/",
-    "steam_sales": "sale_1718460",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tifrxj/gaming_is_more_expensive_than_ever_not_only_have/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tih73f/save_85_on_maneater/",
+    "steam_sales": "sale_1940340",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tige3c/warhorse_confirms_new_kingdom_come_and_lord_of/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
