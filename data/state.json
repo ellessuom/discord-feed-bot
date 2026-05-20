@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-20T13:05:14.613Z",
+  "lastRun": "2026-05-20T17:13:00.873Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t3peyk/save_70_on_hyper_light_drifter_on_steam/",
-        "postedAt": "2026-05-04T18:42:01.134Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t3y2re/save_40_on_dice_of_kalma_on_steam/",
         "postedAt": "2026-05-04T23:24:17.708Z"
       },
@@ -803,13 +799,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tih73f/save_85_on_maneater/",
         "postedAt": "2026-05-20T11:08:42.484Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tir7kf/save_10_on_phonopolis_1979_launch_sale/",
+        "postedAt": "2026-05-20T17:13:00.873Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2161700",
-        "postedAt": "2026-04-24T05:08:34.639Z"
-      },
       {
         "id": "sale_2914150",
         "postedAt": "2026-04-24T07:42:41.052Z"
@@ -1205,6 +1201,10 @@
       {
         "id": "sale_1940340",
         "postedAt": "2026-05-20T11:08:42.484Z"
+      },
+      {
+        "id": "sale_1206070",
+        "postedAt": "2026-05-20T17:13:00.873Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1674,8 +1674,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tih73f/save_85_on_maneater/",
-    "steam_sales": "sale_1940340",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tir7kf/save_10_on_phonopolis_1979_launch_sale/",
+    "steam_sales": "sale_1206070",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tijk8d/iowa_man_sues_nintendo_after_being_denied_pokémon/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
