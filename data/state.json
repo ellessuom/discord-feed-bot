@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-20T03:17:32.262Z",
+  "lastRun": "2026-05-20T07:25:58.950Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,14 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t8ndvc/new_resident_evil_requiem_dlc_is_getting_mixed/",
-        "postedAt": "2026-05-09T21:20:54.236Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t8ng77/unlike_concord_sony_is_sticking_by_marathon_and/",
-        "postedAt": "2026-05-09T22:20:32.726Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t8w17z/nobody_believes_blizzard_meant_to_give_diablo_4/",
         "postedAt": "2026-05-10T05:19:23.912Z"
       },
@@ -1607,6 +1599,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ti6q6v/we_learned_our_lesson_the_witcher_4_and_cyberpunk/",
         "postedAt": "2026-05-20T03:17:32.262Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tidq5g/darksiders_warmastered_edition_ps5_upgrade_is/",
+        "postedAt": "2026-05-20T07:25:58.950Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ticevq/its_been_wrong_for_20_years_rdr2s_arthur_morgan/",
+        "postedAt": "2026-05-20T07:25:58.950Z"
       }
     ],
     "steam_2073850": [
@@ -1676,7 +1676,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ti3fpq/save_100_on_dino_running_from_a_furry/",
     "steam_sales": "sale_1718460",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ti6q6v/we_learned_our_lesson_the_witcher_4_and_cyberpunk/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ticevq/its_been_wrong_for_20_years_rdr2s_arthur_morgan/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
