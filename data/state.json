@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-20T21:39:24.980Z",
+  "lastRun": "2026-05-20T22:36:20.479Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t9k9mz/epic_says_ai_wont_replace_jobs_but_increase/",
-        "postedAt": "2026-05-10T22:21:26.638Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t9ni1l/lego_batman_legacy_of_the_dark_knight_official/",
         "postedAt": "2026-05-11T01:01:40.732Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tizcmg/switch_2_was_the_bestselling_hardware_in_both/",
         "postedAt": "2026-05-20T21:39:24.980Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tj0z71/an_81yearold_grandma_streaming_minecraft_to_pay/",
+        "postedAt": "2026-05-20T22:36:20.479Z"
       }
     ],
     "steam_2073850": [
@@ -1676,7 +1676,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tir7kf/save_10_on_phonopolis_1979_launch_sale/",
     "steam_sales": "sale_1332010",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tizcmg/switch_2_was_the_bestselling_hardware_in_both/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tj0z71/an_81yearold_grandma_streaming_minecraft_to_pay/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
