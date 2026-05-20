@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-20T18:57:00.266Z",
+  "lastRun": "2026-05-20T21:39:24.980Z",
   "postedIds": {
     "steam_news": [
       {
@@ -1209,10 +1209,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t9iktx/forza_horizon_6_leak_reportedly_drops_155_gb_of/",
-        "postedAt": "2026-05-10T21:22:09.733Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t9k9mz/epic_says_ai_wont_replace_jobs_but_increase/",
         "postedAt": "2026-05-10T22:21:26.638Z"
       },
@@ -1607,6 +1603,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tisxz0/subnautica_2s_eula_is_so_severe_that_even_this/",
         "postedAt": "2026-05-20T18:57:00.266Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tizcmg/switch_2_was_the_bestselling_hardware_in_both/",
+        "postedAt": "2026-05-20T21:39:24.980Z"
       }
     ],
     "steam_2073850": [
@@ -1676,7 +1676,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tir7kf/save_10_on_phonopolis_1979_launch_sale/",
     "steam_sales": "sale_1332010",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tisxz0/subnautica_2s_eula_is_so_severe_that_even_this/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tizcmg/switch_2_was_the_bestselling_hardware_in_both/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
