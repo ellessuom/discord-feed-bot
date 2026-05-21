@@ -1,51 +1,7 @@
 {
-  "lastRun": "2026-05-21T05:32:59.049Z",
+  "lastRun": "2026-05-21T11:11:41.857Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/app/221100/view/782078896034022056",
-        "postedAt": "2026-04-21T08:46:22.478Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/42342144/view/671740703438537639",
-        "postedAt": "2026-04-21T09:39:01.094Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/1771300/view/578291011170599750",
-        "postedAt": "2026-04-21T09:39:01.094Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/42342144/view/671740703438537637",
-        "postedAt": "2026-04-21T09:39:01.094Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157403035",
-        "postedAt": "2026-04-21T09:39:01.094Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130767",
-        "postedAt": "2026-04-21T09:39:01.094Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701702",
-        "postedAt": "2026-04-21T10:36:25.219Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130781",
-        "postedAt": "2026-04-21T10:36:25.219Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130779",
-        "postedAt": "2026-04-21T10:36:25.219Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503584",
-        "postedAt": "2026-04-21T10:36:25.219Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503586",
-        "postedAt": "2026-04-21T10:36:25.219Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701708",
         "postedAt": "2026-04-21T11:31:23.817Z"
@@ -1209,10 +1165,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t9pc7k/tiktoktinderlike_gaming_experience_may_15th/",
-        "postedAt": "2026-05-11T03:18:39.935Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t9vwrx/fallout_cocreator_tim_cain_once_proposed_a/",
         "postedAt": "2026-05-11T07:26:31.214Z"
       },
@@ -1607,6 +1559,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tj2hv6/remain_at_your_desk_preview_a_new_york_solo_devs/",
         "postedAt": "2026-05-20T23:33:20.893Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tjgmrp/ubisoft_has_reduced_its_headcount_by_over_1000/",
+        "postedAt": "2026-05-21T11:11:41.856Z"
       }
     ],
     "steam_2073850": [
@@ -1669,6 +1625,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/668365445444665836",
         "postedAt": "2026-05-14T10:53:28.484Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/680750978144665841",
+        "postedAt": "2026-05-21T11:11:41.857Z"
       }
     ]
   },
@@ -1676,7 +1636,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tja2s2/save_75_for_journey_on_steam_374_349/",
     "steam_sales": "sale_1332010",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tj2hv6/remain_at_your_desk_preview_a_new_york_solo_devs/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tjgmrp/ubisoft_has_reduced_its_headcount_by_over_1000/",
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
 }
