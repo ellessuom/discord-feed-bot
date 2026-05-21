@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-05-21T19:38:13.634Z",
+  "lastRun": "2026-05-21T20:42:17.109Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701871",
-        "postedAt": "2026-04-21T20:24:08.177Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795883",
-        "postedAt": "2026-04-21T20:24:08.177Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537781",
-        "postedAt": "2026-04-21T20:24:08.177Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701869",
-        "postedAt": "2026-04-21T20:24:08.177Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795881",
-        "postedAt": "2026-04-21T20:24:08.177Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701877",
         "postedAt": "2026-04-21T21:20:52.815Z"
@@ -180,10 +160,6 @@
       }
     ],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t5g3kq/save_60_on_six_seals_on_steam_159/",
-        "postedAt": "2026-05-06T16:42:19.247Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t5k4cp/dev_save_90_on_box_zombies_149/",
         "postedAt": "2026-05-06T18:43:13.834Z"
@@ -579,13 +555,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tjtzgv/chorus_90_249/",
         "postedAt": "2026-05-21T19:38:13.634Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tjwjd7/save_25_off_diablo_ii_resurrected_infernal/",
+        "postedAt": "2026-05-21T20:42:17.109Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4283360",
-        "postedAt": "2026-04-27T17:35:49.389Z"
-      },
       {
         "id": "sale_2873660",
         "postedAt": "2026-04-27T18:36:36.303Z"
@@ -981,13 +957,13 @@
       {
         "id": "sale_1933000",
         "postedAt": "2026-05-21T19:38:13.634Z"
+      },
+      {
+        "id": "sale_1304930",
+        "postedAt": "2026-05-21T20:42:17.109Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tak1v6/lies_of_p_sequel_enters_fullscale_development/",
-        "postedAt": "2026-05-11T23:25:10.980Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tak0vj/forza_horizon_6_devs_threaten_franchise_wide_bans/",
         "postedAt": "2026-05-11T23:25:10.980Z"
@@ -1383,6 +1359,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tjoqix/insider_says_ubisoft_is_testing_gen_ai_in_far_cry/",
         "postedAt": "2026-05-21T17:01:30.164Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tjvr9e/elder_scrolls_competitor_fatekeeper_coming_to/",
+        "postedAt": "2026-05-21T20:42:17.109Z"
       }
     ],
     "steam_2073850": [
@@ -1454,9 +1434,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tjtzgv/chorus_90_249/",
-    "steam_sales": "sale_1933000",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tjoqix/insider_says_ubisoft_is_testing_gen_ai_in_far_cry/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tjwjd7/save_25_off_diablo_ii_resurrected_infernal/",
+    "steam_sales": "sale_1304930",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tjvr9e/elder_scrolls_competitor_fatekeeper_coming_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
 }
