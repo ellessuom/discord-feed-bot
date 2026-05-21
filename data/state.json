@@ -1,47 +1,7 @@
 {
-  "lastRun": "2026-05-21T15:14:35.729Z",
+  "lastRun": "2026-05-21T17:01:30.164Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701778",
-        "postedAt": "2026-04-21T15:35:56.535Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701780",
-        "postedAt": "2026-04-21T15:35:56.535Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/718735/view/637963704478991338",
-        "postedAt": "2026-04-21T15:35:56.535Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/934700/view/498347586726396994",
-        "postedAt": "2026-04-21T15:35:56.535Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/306130/view/622201107537462140",
-        "postedAt": "2026-04-21T15:35:56.535Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6858187/view/719028498906219644",
-        "postedAt": "2026-04-21T16:30:57.849Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157403141",
-        "postedAt": "2026-04-21T16:30:57.849Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38666666/view/685251502317503689",
-        "postedAt": "2026-04-21T16:30:57.849Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537732",
-        "postedAt": "2026-04-21T16:30:57.849Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/3265700/view/685251502317503562",
-        "postedAt": "2026-04-21T16:30:57.849Z"
-      },
       {
         "id": "https://store.steampowered.com/news/app/1934680/view/690881000795799823",
         "postedAt": "2026-04-21T17:28:09.047Z"
@@ -280,14 +240,6 @@
       }
     ],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t4kkct/steam_curve_games_publisher_sale_up_to_90_off_for/",
-        "postedAt": "2026-05-05T16:40:56.993Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t4jud1/save_30_on_exmaster_zombie_on_steam/",
-        "postedAt": "2026-05-05T16:40:56.993Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t4obnh/save_85_on_moonlighter_299/",
         "postedAt": "2026-05-05T18:40:25.460Z"
@@ -679,6 +631,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tja2s2/save_75_for_journey_on_steam_374_349/",
         "postedAt": "2026-05-21T05:32:59.049Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tjpnrj/save_85_on_total_war_warhammer_iii_on_steam/",
+        "postedAt": "2026-05-21T17:01:30.164Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tjphjt/save_100_on_warhammer_40000_gladius_relics_of_war/",
+        "postedAt": "2026-05-21T17:01:30.164Z"
       }
     ],
     "steam_sales": [
@@ -1085,22 +1045,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ta38i1/vintage_disneylike_shooter_mouse_pi_for_hire/",
-        "postedAt": "2026-05-11T15:10:26.674Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ta37km/xbox_game_pass_and_discord_building_on_our/",
-        "postedAt": "2026-05-11T15:10:26.674Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ta908s/ps3_emulator_github_is_flooded_with_ai_code_devs/",
-        "postedAt": "2026-05-11T17:01:24.611Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ta6ohk/the_next_stellar_blade_probably_wont_be_ps5/",
-        "postedAt": "2026-05-11T17:01:24.611Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tak1v6/lies_of_p_sequel_enters_fullscale_development/",
         "postedAt": "2026-05-11T23:25:10.980Z"
       },
@@ -1483,6 +1427,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tjkwwx/10_lowbudget_games_that_made_millions/",
         "postedAt": "2026-05-21T15:14:35.729Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tjq2rc/playstations_mysterious_dynamic_pricing/",
+        "postedAt": "2026-05-21T17:01:30.164Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tjp0ke/over_the_year_ubisoft_lost_more_than_13_billion/",
+        "postedAt": "2026-05-21T17:01:30.164Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tjor1z/star_wars_fate_of_the_old_republic_will_be_under/",
+        "postedAt": "2026-05-21T17:01:30.164Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tjoqix/insider_says_ubisoft_is_testing_gen_ai_in_far_cry/",
+        "postedAt": "2026-05-21T17:01:30.164Z"
       }
     ],
     "steam_2073850": [
@@ -1554,9 +1514,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tja2s2/save_75_for_journey_on_steam_374_349/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tjphjt/save_100_on_warhammer_40000_gladius_relics_of_war/",
     "steam_sales": "sale_4351410",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tjkwwx/10_lowbudget_games_that_made_millions/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tjoqix/insider_says_ubisoft_is_testing_gen_ai_in_far_cry/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
 }
