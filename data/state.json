@@ -1,23 +1,7 @@
 {
-  "lastRun": "2026-05-21T21:36:55.842Z",
+  "lastRun": "2026-05-21T22:34:38.374Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/1450625/view/506233417998795890",
-        "postedAt": "2026-04-21T22:20:15.858Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1850/view/506233417998795888",
-        "postedAt": "2026-04-21T22:20:15.858Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503751",
-        "postedAt": "2026-04-21T22:20:15.858Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503753",
-        "postedAt": "2026-04-21T22:20:15.858Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/1850/view/538885053334159369",
         "postedAt": "2026-04-21T23:18:34.169Z"
@@ -148,10 +132,6 @@
       }
     ],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t5n1va/save_75_on_freakout_extreme_freeride_249/",
-        "postedAt": "2026-05-06T19:38:44.384Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t5qvbi/save_80_on_mortal_kombat_1_on_steam_10/",
         "postedAt": "2026-05-06T22:22:47.285Z"
@@ -547,13 +527,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tjxo5g/save_80_on_aquanox_aquanox_2_159/",
         "postedAt": "2026-05-21T21:36:55.842Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tjz0z5/save_75_on_subnautica_below_zero_on_steam_749/",
+        "postedAt": "2026-05-21T22:34:38.374Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2873660",
-        "postedAt": "2026-04-27T18:36:36.303Z"
-      },
       {
         "id": "sale_252490",
         "postedAt": "2026-04-27T18:36:36.303Z"
@@ -949,13 +929,13 @@
       {
         "id": "sale_1304930",
         "postedAt": "2026-05-21T20:42:17.109Z"
+      },
+      {
+        "id": "sale_2186680",
+        "postedAt": "2026-05-21T22:34:38.374Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tak0vj/forza_horizon_6_devs_threaten_franchise_wide_bans/",
-        "postedAt": "2026-05-11T23:25:10.980Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tajfzt/star_fox_prologue_nintendo_switch_2/",
         "postedAt": "2026-05-11T23:25:10.980Z"
@@ -1351,6 +1331,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tjvr9e/elder_scrolls_competitor_fatekeeper_coming_to/",
         "postedAt": "2026-05-21T20:42:17.109Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tjzhqf/tethergeist_launch_trailer_precision_platformer/",
+        "postedAt": "2026-05-21T22:34:38.374Z"
       }
     ],
     "steam_2073850": [
@@ -1422,9 +1406,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tjxo5g/save_80_on_aquanox_aquanox_2_159/",
-    "steam_sales": "sale_1304930",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tjvr9e/elder_scrolls_competitor_fatekeeper_coming_to/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tjz0z5/save_75_on_subnautica_below_zero_on_steam_749/",
+    "steam_sales": "sale_2186680",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tjzhqf/tethergeist_launch_trailer_precision_platformer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
 }
