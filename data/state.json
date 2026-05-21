@@ -1,27 +1,7 @@
 {
-  "lastRun": "2026-05-21T18:46:29.918Z",
+  "lastRun": "2026-05-21T19:38:13.634Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537779",
-        "postedAt": "2026-04-21T19:33:19.584Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6858187/view/719028498906219682",
-        "postedAt": "2026-04-21T19:33:19.584Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/1286830/view/526499614836130725",
-        "postedAt": "2026-04-21T19:33:19.584Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157403170",
-        "postedAt": "2026-04-21T19:33:19.584Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157403172",
-        "postedAt": "2026-04-21T19:33:19.584Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701871",
         "postedAt": "2026-04-21T20:24:08.177Z"
@@ -200,14 +180,6 @@
       }
     ],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t4uhps/tale_of_ren_is_50_off_during_the_spring_sale/",
-        "postedAt": "2026-05-05T22:26:26.078Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t5gb10/save_40_on_abracookingdabra_on_steam/",
-        "postedAt": "2026-05-06T16:42:19.247Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t5g3kq/save_60_on_six_seals_on_steam_159/",
         "postedAt": "2026-05-06T16:42:19.247Z"
@@ -599,17 +571,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tjqvmj/save_100_on_car_mechanic_simulator_2018_on_steam/",
         "postedAt": "2026-05-21T18:46:29.918Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tju3bo/saints_row_the_third_remastered_90_299/",
+        "postedAt": "2026-05-21T19:38:13.634Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tjtzgv/chorus_90_249/",
+        "postedAt": "2026-05-21T19:38:13.634Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1238810",
-        "postedAt": "2026-04-25T03:11:27.688Z"
-      },
-      {
-        "id": "sale_526870",
-        "postedAt": "2026-04-26T12:24:09.721Z"
-      },
       {
         "id": "sale_4283360",
         "postedAt": "2026-04-27T17:35:49.389Z"
@@ -1001,6 +973,14 @@
       {
         "id": "sale_1142710",
         "postedAt": "2026-05-21T18:46:29.918Z"
+      },
+      {
+        "id": "sale_1361210",
+        "postedAt": "2026-05-21T19:38:13.634Z"
+      },
+      {
+        "id": "sale_1933000",
+        "postedAt": "2026-05-21T19:38:13.634Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1474,8 +1454,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tjqvmj/save_100_on_car_mechanic_simulator_2018_on_steam/",
-    "steam_sales": "sale_1142710",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tjtzgv/chorus_90_249/",
+    "steam_sales": "sale_1933000",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tjoqix/insider_says_ubisoft_is_testing_gen_ai_in_far_cry/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
