@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-21T03:18:18.392Z",
+  "lastRun": "2026-05-21T05:32:59.049Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,10 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t47tsp/save_80_on_thunder_wolves_199/",
-        "postedAt": "2026-05-05T07:45:52.694Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t4kkct/steam_curve_games_publisher_sale_up_to_90_off_for/",
         "postedAt": "2026-05-05T16:40:56.993Z"
       },
@@ -803,6 +799,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tj6hof/save_50_on_stray_on_steam_historical_low/",
         "postedAt": "2026-05-21T03:18:18.392Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tja2s2/save_75_for_journey_on_steam_374_349/",
+        "postedAt": "2026-05-21T05:32:59.049Z"
       }
     ],
     "steam_sales": [
@@ -1674,7 +1674,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tj6hof/save_50_on_stray_on_steam_historical_low/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tja2s2/save_75_for_journey_on_steam_374_349/",
     "steam_sales": "sale_1332010",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tj2hv6/remain_at_your_desk_preview_a_new_york_solo_devs/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
