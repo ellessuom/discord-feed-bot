@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-20T23:33:20.893Z",
+  "lastRun": "2026-05-21T03:18:18.392Z",
   "postedIds": {
     "steam_news": [
       {
@@ -405,14 +405,6 @@
     ],
     "reddit_steamdeals": [
       {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t3y2re/save_40_on_dice_of_kalma_on_steam/",
-        "postedAt": "2026-05-04T23:24:17.708Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t47eu8/river_drift_playtest_is_live_now/",
-        "postedAt": "2026-05-05T06:56:57.467Z"
-      },
-      {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t47tsp/save_80_on_thunder_wolves_199/",
         "postedAt": "2026-05-05T07:45:52.694Z"
       },
@@ -803,6 +795,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tir7kf/save_10_on_phonopolis_1979_launch_sale/",
         "postedAt": "2026-05-20T17:13:00.873Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tj6ljx/save_70_on_warhammer_40000_space_marine_2_on/",
+        "postedAt": "2026-05-21T03:18:18.392Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tj6hof/save_50_on_stray_on_steam_historical_low/",
+        "postedAt": "2026-05-21T03:18:18.392Z"
       }
     ],
     "steam_sales": [
@@ -1674,7 +1674,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tir7kf/save_10_on_phonopolis_1979_launch_sale/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tj6hof/save_50_on_stray_on_steam_historical_low/",
     "steam_sales": "sale_1332010",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tj2hv6/remain_at_your_desk_preview_a_new_york_solo_devs/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
