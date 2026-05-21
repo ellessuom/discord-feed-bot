@@ -1,47 +1,7 @@
 {
-  "lastRun": "2026-05-21T13:20:21.268Z",
+  "lastRun": "2026-05-21T15:14:35.729Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157403051",
-        "postedAt": "2026-04-21T13:39:58.574Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/685251502317503608",
-        "postedAt": "2026-04-21T13:39:58.574Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/3693985/view/493848518157403047",
-        "postedAt": "2026-04-21T13:39:58.574Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/553850/view/623327006824596290",
-        "postedAt": "2026-04-21T13:39:58.574Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/2221490/view/493848518157402335",
-        "postedAt": "2026-04-21T13:39:58.574Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/3024040/view/520868751871052310",
-        "postedAt": "2026-04-21T14:41:32.190Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701721",
-        "postedAt": "2026-04-21T14:41:32.190Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/2213700/view/760686795020043141",
-        "postedAt": "2026-04-21T14:41:32.190Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/379430/view/671740703438537662",
-        "postedAt": "2026-04-21T14:41:32.190Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/3679080/view/755057297411015356",
-        "postedAt": "2026-04-21T14:41:32.190Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701778",
         "postedAt": "2026-04-21T15:35:56.535Z"
@@ -723,10 +683,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2668510",
-        "postedAt": "2026-04-24T20:21:37.037Z"
-      },
-      {
         "id": "sale_3059520",
         "postedAt": "2026-04-24T23:20:19.421Z"
       },
@@ -1121,17 +1077,13 @@
       {
         "id": "sale_1332010",
         "postedAt": "2026-05-20T18:57:00.266Z"
+      },
+      {
+        "id": "sale_4351410",
+        "postedAt": "2026-05-21T15:14:35.729Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t9zuv8/lego_batman_the_dark_knight_has_been_fully/",
-        "postedAt": "2026-05-11T11:11:08.005Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ta4vsn/kids_as_young_as_8_are_groomed_into_cybercrime/",
-        "postedAt": "2026-05-11T15:10:26.674Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ta38i1/vintage_disneylike_shooter_mouse_pi_for_hire/",
         "postedAt": "2026-05-11T15:10:26.674Z"
@@ -1523,6 +1475,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tjk5af/with_a_straight_face_valve_insists_counterstrike/",
         "postedAt": "2026-05-21T13:20:21.268Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tjmwvk/ubisoft_working_on_new_assassins_creed_far_cry/",
+        "postedAt": "2026-05-21T15:14:35.729Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tjkwwx/10_lowbudget_games_that_made_millions/",
+        "postedAt": "2026-05-21T15:14:35.729Z"
       }
     ],
     "steam_2073850": [
@@ -1595,8 +1555,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tja2s2/save_75_for_journey_on_steam_374_349/",
-    "steam_sales": "sale_1332010",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tjk5af/with_a_straight_face_valve_insists_counterstrike/",
+    "steam_sales": "sale_4351410",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tjkwwx/10_lowbudget_games_that_made_millions/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
 }
