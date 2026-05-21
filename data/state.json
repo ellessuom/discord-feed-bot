@@ -1,47 +1,7 @@
 {
-  "lastRun": "2026-05-21T11:11:41.857Z",
+  "lastRun": "2026-05-21T13:20:21.268Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701708",
-        "postedAt": "2026-04-21T11:31:23.817Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701706",
-        "postedAt": "2026-04-21T11:31:23.817Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/42342144/view/671740703438537645",
-        "postedAt": "2026-04-21T11:31:23.817Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/4218320/view/526499614836130788",
-        "postedAt": "2026-04-21T11:31:23.817Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701704",
-        "postedAt": "2026-04-21T11:31:23.817Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6858187/view/719028498906219542",
-        "postedAt": "2026-04-21T12:33:23.433Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/737042897415701713",
-        "postedAt": "2026-04-21T12:33:23.433Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/42342144/view/671740703438537653",
-        "postedAt": "2026-04-21T12:33:23.433Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/671740703438537651",
-        "postedAt": "2026-04-21T12:33:23.433Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/1158310/view/552395313313219181",
-        "postedAt": "2026-04-21T12:33:23.433Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/3693985/view/493848518157403051",
         "postedAt": "2026-04-21T13:39:58.574Z"
@@ -1165,10 +1125,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1t9vwrx/fallout_cocreator_tim_cain_once_proposed_a/",
-        "postedAt": "2026-05-11T07:26:31.214Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1t9zuv8/lego_batman_the_dark_knight_has_been_fully/",
         "postedAt": "2026-05-11T11:11:08.005Z"
       },
@@ -1563,6 +1519,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tjgmrp/ubisoft_has_reduced_its_headcount_by_over_1000/",
         "postedAt": "2026-05-21T11:11:41.856Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tjk5af/with_a_straight_face_valve_insists_counterstrike/",
+        "postedAt": "2026-05-21T13:20:21.268Z"
       }
     ],
     "steam_2073850": [
@@ -1636,7 +1596,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tja2s2/save_75_for_journey_on_steam_374_349/",
     "steam_sales": "sale_1332010",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tjgmrp/ubisoft_has_reduced_its_headcount_by_over_1000/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tjk5af/with_a_straight_face_valve_insists_counterstrike/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
 }
