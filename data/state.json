@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-22T22:27:52.618Z",
+  "lastRun": "2026-05-22T23:30:12.185Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3562120",
-        "postedAt": "2026-04-28T07:05:26.302Z"
-      },
-      {
         "id": "sale_1238820",
         "postedAt": "2026-04-28T10:47:55.936Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_2432860",
         "postedAt": "2026-05-22T20:41:38.049Z"
+      },
+      {
+        "id": "sale_632470",
+        "postedAt": "2026-05-22T23:30:12.185Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1254,7 +1254,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tktovh/my_game_pain_party_is_50_249_off_on_steam/",
-    "steam_sales": "sale_2432860",
+    "steam_sales": "sale_632470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tkxoip/a_journeys_end_launches_its_landing_page/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/512987452523152144"
   }
