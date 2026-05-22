@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-22T03:18:24.590Z",
+  "lastRun": "2026-05-22T05:29:24.264Z",
   "postedIds": {
     "steam_news": [
       {
@@ -80,10 +80,6 @@
       }
     ],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t5qvbi/save_80_on_mortal_kombat_1_on_steam_10/",
-        "postedAt": "2026-05-06T22:22:47.285Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t6cigx/save_30_on_the_lion_gambles_everything_he_owns/",
         "postedAt": "2026-05-07T15:02:40.959Z"
@@ -479,6 +475,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tjz0z5/save_75_on_subnautica_below_zero_on_steam_749/",
         "postedAt": "2026-05-21T22:34:38.374Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tk7ro2/save_89_on_frostpunk_goty_edition/",
+        "postedAt": "2026-05-22T05:29:24.264Z"
       }
     ],
     "steam_sales": [
@@ -1354,7 +1354,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tjz0z5/save_75_on_subnautica_below_zero_on_steam_749/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tk7ro2/save_89_on_frostpunk_goty_edition/",
     "steam_sales": "sale_632360",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tk3tbr/assassins_creed_black_flag_star_matt_ryan_says/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
