@@ -1,19 +1,7 @@
 {
-  "lastRun": "2026-05-22T01:04:22.373Z",
+  "lastRun": "2026-05-22T03:18:24.590Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/512989355492507724",
-        "postedAt": "2026-04-22T01:41:07.340Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/512989355492507722",
-        "postedAt": "2026-04-22T01:41:07.340Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/531003754000941140",
-        "postedAt": "2026-04-22T01:41:07.340Z"
-      },
       {
         "id": "https://store.steampowered.com/news/app/2739990/view/573787410484167580",
         "postedAt": "2026-04-22T06:48:08.751Z"
@@ -897,14 +885,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1taprpq/hyrule_warriors_age_of_imprisonment_mineru/",
-        "postedAt": "2026-05-12T05:20:49.847Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tavq00/wwe_champ_cody_rhodes_says_nintendo_sent_him_a/",
-        "postedAt": "2026-05-12T09:07:15.546Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tax37z/gamesir_officially_launches_the_pc_version_of_its/",
         "postedAt": "2026-05-12T10:53:45.410Z"
       },
@@ -1295,6 +1275,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tk334a/end_of_an_era_for_bungie_means_layoffs_and_no/",
         "postedAt": "2026-05-22T01:04:22.373Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tk3xsh/red_dead_redemption_2_overtakes_wii_sports_in/",
+        "postedAt": "2026-05-22T03:18:24.590Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tk3tbr/assassins_creed_black_flag_star_matt_ryan_says/",
+        "postedAt": "2026-05-22T03:18:24.590Z"
       }
     ],
     "steam_2073850": [
@@ -1368,7 +1356,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tjz0z5/save_75_on_subnautica_below_zero_on_steam_749/",
     "steam_sales": "sale_632360",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tk334a/end_of_an_era_for_bungie_means_layoffs_and_no/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tk3tbr/assassins_creed_black_flag_star_matt_ryan_says/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
 }
