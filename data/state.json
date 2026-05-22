@@ -1,35 +1,7 @@
 {
-  "lastRun": "2026-05-22T09:16:26.629Z",
+  "lastRun": "2026-05-22T11:08:28.919Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/4218320/view/535507353628311848",
-        "postedAt": "2026-04-22T09:39:49.398Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/3693985/view/521996554745151816",
-        "postedAt": "2026-04-22T09:39:49.398Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/1909950/view/518618855026720848",
-        "postedAt": "2026-04-22T09:39:49.398Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/2139460/view/491596622545813710",
-        "postedAt": "2026-04-22T10:36:36.500Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/578080/view/531003754000941509",
-        "postedAt": "2026-04-22T10:36:36.500Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/454650/view/529877316042490524",
-        "postedAt": "2026-04-22T10:36:36.500Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/1794680/view/528750051218949235",
-        "postedAt": "2026-04-22T10:36:36.500Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/38666666/view/531003754000941551",
         "postedAt": "2026-04-22T11:30:08.530Z"
@@ -857,10 +829,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tb418p/after_forza_horizon_6_subnautica_2_has_reportedly/",
-        "postedAt": "2026-05-12T15:07:51.860Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tb6ilf/sony_says_supporting_ps5_devs_is_a_big_investment/",
         "postedAt": "2026-05-12T16:51:20.132Z"
       },
@@ -1255,6 +1223,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tkc3bx/down_in_bermuda/",
         "postedAt": "2026-05-22T09:16:26.629Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tkfl1m/weekly_rgamingnews_discussion_what_game_you_will/",
+        "postedAt": "2026-05-22T11:08:28.919Z"
       }
     ],
     "steam_2073850": [
@@ -1328,7 +1300,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tk7ro2/save_89_on_frostpunk_goty_edition/",
     "steam_sales": "sale_632360",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tkc3bx/down_in_bermuda/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tkfl1m/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
 }
