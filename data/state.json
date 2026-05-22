@@ -1,47 +1,7 @@
 {
-  "lastRun": "2026-05-21T22:34:38.374Z",
+  "lastRun": "2026-05-22T01:04:22.373Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/1850/view/538885053334159369",
-        "postedAt": "2026-04-21T23:18:34.169Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/512989355492507655",
-        "postedAt": "2026-04-21T23:18:34.169Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/216150/view/524248354559885313",
-        "postedAt": "2026-04-21T23:18:34.169Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1450625/view/538885053334159363",
-        "postedAt": "2026-04-21T23:18:34.169Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/2141910/view/786582495226233756",
-        "postedAt": "2026-04-21T23:18:34.169Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/520870654839357519",
-        "postedAt": "2026-04-22T00:48:42.201Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1450625/view/538885053334159450",
-        "postedAt": "2026-04-22T00:48:42.201Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/6070552/view/512989355492507720",
-        "postedAt": "2026-04-22T00:48:42.201Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38204750/view/531003754000941138",
-        "postedAt": "2026-04-22T00:48:42.201Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/38509069/view/520870654839357511",
-        "postedAt": "2026-04-22T00:48:42.201Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/6070552/view/512989355492507724",
         "postedAt": "2026-04-22T01:41:07.340Z"
@@ -535,10 +495,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_252490",
-        "postedAt": "2026-04-27T18:36:36.303Z"
-      },
-      {
         "id": "sale_3241660",
         "postedAt": "2026-04-27T23:24:59.629Z"
       },
@@ -933,13 +889,13 @@
       {
         "id": "sale_2186680",
         "postedAt": "2026-05-21T22:34:38.374Z"
+      },
+      {
+        "id": "sale_632360",
+        "postedAt": "2026-05-22T01:04:22.373Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tajfzt/star_fox_prologue_nintendo_switch_2/",
-        "postedAt": "2026-05-11T23:25:10.980Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1taprpq/hyrule_warriors_age_of_imprisonment_mineru/",
         "postedAt": "2026-05-12T05:20:49.847Z"
@@ -1335,6 +1291,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tjzhqf/tethergeist_launch_trailer_precision_platformer/",
         "postedAt": "2026-05-21T22:34:38.374Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tk334a/end_of_an_era_for_bungie_means_layoffs_and_no/",
+        "postedAt": "2026-05-22T01:04:22.373Z"
       }
     ],
     "steam_2073850": [
@@ -1407,8 +1367,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tjz0z5/save_75_on_subnautica_below_zero_on_steam_749/",
-    "steam_sales": "sale_2186680",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tjzhqf/tethergeist_launch_trailer_precision_platformer/",
+    "steam_sales": "sale_632360",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tk334a/end_of_an_era_for_bungie_means_layoffs_and_no/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
 }
