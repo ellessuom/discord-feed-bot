@@ -1,28 +1,7 @@
 {
-  "lastRun": "2026-05-22T11:08:28.919Z",
+  "lastRun": "2026-05-22T13:01:21.348Z",
   "postedIds": {
-    "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/group/38666666/view/531003754000941551",
-        "postedAt": "2026-04-22T11:30:08.530Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1850/view/538885053334159813",
-        "postedAt": "2026-04-22T11:30:08.530Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/4218320/view/535507353628311978",
-        "postedAt": "2026-04-22T11:30:08.530Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/4218320/view/535507353628311976",
-        "postedAt": "2026-04-22T11:30:08.530Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-        "postedAt": "2026-04-22T11:30:08.530Z"
-      }
-    ],
+    "steam_news": [],
     "reddit_steamdeals": [
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t6cigx/save_30_on_the_lion_gambles_everything_he_owns/",
@@ -829,18 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tb6ilf/sony_says_supporting_ps5_devs_is_a_big_investment/",
-        "postedAt": "2026-05-12T16:51:20.132Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tb5kl7/snk_announces_new_studio_lead_by_tekken_veteran/",
-        "postedAt": "2026-05-12T16:51:20.132Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tb7ons/segas_super_game_canceled_but_reboots_of_classic/",
-        "postedAt": "2026-05-12T17:45:59.419Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tbmwqh/iron_nest_heavy_turret_simulator_has_won_the/",
         "postedAt": "2026-05-13T03:17:07.840Z"
       },
@@ -1227,25 +1194,21 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tkfl1m/weekly_rgamingnews_discussion_what_game_you_will/",
         "postedAt": "2026-05-22T11:08:28.919Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tki23o/new_call_of_duty_studio_heads_we_are_just_as/",
+        "postedAt": "2026-05-22T13:01:21.347Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tkh4xz/taketwo_plans_to_release_29_titles_through_fy2029/",
+        "postedAt": "2026-05-22T13:01:21.348Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tkg9t1/launched_the_first_public_playtest_of_a_dark/",
+        "postedAt": "2026-05-22T13:01:21.348Z"
       }
     ],
     "steam_2073850": [
-      {
-        "id": "https://store.steampowered.com/news/app/2073850/view/570409712688824718",
-        "postedAt": "2026-04-22T12:31:52.251Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/2073850/view/570409712688824366",
-        "postedAt": "2026-04-22T12:31:52.251Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/2073850/view/531002485037335460",
-        "postedAt": "2026-04-22T12:31:52.408Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/2073850/view/512987452523152144",
-        "postedAt": "2026-04-22T12:31:52.408Z"
-      },
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/519741583516500148",
         "postedAt": "2026-04-22T13:39:19.170Z"
@@ -1293,6 +1256,22 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/680750978144665841",
         "postedAt": "2026-05-21T11:11:41.857Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/570409712688824718",
+        "postedAt": "2026-05-22T13:01:21.348Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/570409712688824366",
+        "postedAt": "2026-05-22T13:01:21.348Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/531002485037335460",
+        "postedAt": "2026-05-22T13:01:21.348Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/512987452523152144",
+        "postedAt": "2026-05-22T13:01:21.348Z"
       }
     ]
   },
@@ -1300,7 +1279,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tk7ro2/save_89_on_frostpunk_goty_edition/",
     "steam_sales": "sale_632360",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tkfl1m/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tkg9t1/launched_the_first_public_playtest_of_a_dark/",
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/512987452523152144"
   }
 }
