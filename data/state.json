@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-22T17:40:01.511Z",
+  "lastRun": "2026-05-22T18:44:45.984Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t6oaeo/save_63_on_conquer_lands_on_steam_295/",
-        "postedAt": "2026-05-07T22:28:29.181Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t6viqn/save_70_on_prototype_on_steam_599_599/",
         "postedAt": "2026-05-08T03:13:39.272Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tkoy7y/save_100_on_bunny_guys_free/",
         "postedAt": "2026-05-22T17:40:01.511Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tkrw4x/save_70_on_bru_boegie_episode_1_get_da_milk_149/",
+        "postedAt": "2026-05-22T18:44:45.984Z"
       }
     ],
     "steam_sales": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tbo0qe/final_fantasy_7_rebirth_director_naoki_hamaguchi/",
-        "postedAt": "2026-05-13T05:24:23.654Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tbubhz/japanese_man_arrested_after_threatening_to_blow/",
-        "postedAt": "2026-05-13T10:57:13.922Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tc1g6j/one_of_bioshocks_directors_has_been_questioning/",
         "postedAt": "2026-05-13T15:08:18.372Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tkjdrw/io_interactive_and_amazon_mgm_studios_unveil_the/",
         "postedAt": "2026-05-22T15:09:50.559Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tkruae/yes_fable_is_still_coming_to_ps5_despite_xboxs/",
+        "postedAt": "2026-05-22T18:44:45.984Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tkr8lt/valve_remains_silent_as_racist_plantation_sim/",
+        "postedAt": "2026-05-22T18:44:45.984Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tkoy7y/save_100_on_bunny_guys_free/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tkrw4x/save_70_on_bru_boegie_episode_1_get_da_milk_149/",
     "steam_sales": "sale_632360",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tkjdrw/io_interactive_and_amazon_mgm_studios_unveil_the/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tkr8lt/valve_remains_silent_as_racist_plantation_sim/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/512987452523152144"
   }
 }
