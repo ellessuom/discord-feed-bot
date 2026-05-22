@@ -1,35 +1,7 @@
 {
-  "lastRun": "2026-05-22T05:29:24.264Z",
+  "lastRun": "2026-05-22T09:16:26.629Z",
   "postedIds": {
     "steam_news": [
-      {
-        "id": "https://store.steampowered.com/news/app/2739990/view/573787410484167580",
-        "postedAt": "2026-04-22T06:48:08.751Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/578080/view/531003754000941170",
-        "postedAt": "2026-04-22T07:40:15.329Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/4218320/view/535507353628311784",
-        "postedAt": "2026-04-22T08:44:22.052Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/4218320/view/535507353628311741",
-        "postedAt": "2026-04-22T08:44:22.052Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/group/1450625/view/538885053334159559",
-        "postedAt": "2026-04-22T08:44:22.052Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/2073620/view/514115255398301795",
-        "postedAt": "2026-04-22T08:44:22.052Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/2139460/view/497226756796710976",
-        "postedAt": "2026-04-22T08:44:22.052Z"
-      },
       {
         "id": "https://store.steampowered.com/news/group/4218320/view/535507353628311848",
         "postedAt": "2026-04-22T09:39:49.398Z"
@@ -885,14 +857,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tax37z/gamesir_officially_launches_the_pc_version_of_its/",
-        "postedAt": "2026-05-12T10:53:45.410Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tayzho/ebay_rejects_gamestops_takeover_bid_and_says/",
-        "postedAt": "2026-05-12T11:42:46.301Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tb418p/after_forza_horizon_6_subnautica_2_has_reportedly/",
         "postedAt": "2026-05-12T15:07:51.860Z"
       },
@@ -1283,6 +1247,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tk3tbr/assassins_creed_black_flag_star_matt_ryan_says/",
         "postedAt": "2026-05-22T03:18:24.590Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tkc45c/tomb_raider_iiii_remastered_starring_lara_croft/",
+        "postedAt": "2026-05-22T09:16:26.629Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tkc3bx/down_in_bermuda/",
+        "postedAt": "2026-05-22T09:16:26.629Z"
       }
     ],
     "steam_2073850": [
@@ -1356,7 +1328,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tk7ro2/save_89_on_frostpunk_goty_edition/",
     "steam_sales": "sale_632360",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tk3tbr/assassins_creed_black_flag_star_matt_ryan_says/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tkc3bx/down_in_bermuda/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
 }
