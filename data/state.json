@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-23T10:35:42.854Z",
+  "lastRun": "2026-05-23T11:30:41.296Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tclkwy/saros_had_a_lukewarm_start_with_300000_sold_in_2/",
-        "postedAt": "2026-05-14T03:15:38.886Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tcpgzi/sony_still_hasnt_fixed_the_security_issue_that/",
         "postedAt": "2026-05-14T07:11:35.449Z"
       },
@@ -1206,13 +1202,13 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tlcfuo/i_recently_launched_my_arctic_survival_open_demo/",
         "postedAt": "2026-05-23T10:35:42.854Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tld45i/almost_all_of_bungie_reportedly_didnt_know/",
+        "postedAt": "2026-05-23T11:30:41.296Z"
       }
     ],
     "steam_2073850": [
-      {
-        "id": "https://store.steampowered.com/news/app/2073850/view/503982156237767287",
-        "postedAt": "2026-04-23T10:37:38.784Z"
-      },
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/503982156237767347",
         "postedAt": "2026-04-23T14:53:47.342Z"
@@ -1248,6 +1244,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/512987452523152144",
         "postedAt": "2026-05-22T13:01:21.348Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/503982156237767287",
+        "postedAt": "2026-05-23T11:30:41.296Z"
       }
     ]
   },
@@ -1255,7 +1255,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tlab3t/save_50_on_outer_wilds_on_steam/",
     "steam_sales": "sale_2747330",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tlcfuo/i_recently_launched_my_arctic_survival_open_demo/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/512987452523152144"
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tld45i/almost_all_of_bungie_reportedly_didnt_know/",
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767287"
   }
 }
