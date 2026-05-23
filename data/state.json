@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-23T01:01:12.176Z",
+  "lastRun": "2026-05-23T03:15:02.943Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t7xgew/save_80_on_heart_of_eternity_on_steam_159/",
-        "postedAt": "2026-05-09T07:39:13.620Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t8oixb/save_80_on_heavens_vault_499_historical_low/",
         "postedAt": "2026-05-09T22:20:32.726Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tktovh/my_game_pain_party_is_50_249_off_on_steam/",
         "postedAt": "2026-05-22T20:41:38.049Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tl30xs/save_89_on_witchaven_i_ii_bundle_on_steam_will_be/",
+        "postedAt": "2026-05-23T03:15:02.943Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1238820",
-        "postedAt": "2026-04-28T10:47:55.936Z"
-      },
       {
         "id": "sale_892970",
         "postedAt": "2026-04-28T10:47:55.936Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_632470",
         "postedAt": "2026-05-22T23:30:12.185Z"
+      },
+      {
+        "id": "sale_2747330",
+        "postedAt": "2026-05-23T03:15:02.943Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1253,8 +1253,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tktovh/my_game_pain_party_is_50_249_off_on_steam/",
-    "steam_sales": "sale_632470",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tl30xs/save_89_on_witchaven_i_ii_bundle_on_steam_will_be/",
+    "steam_sales": "sale_2747330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tl0prv/clive_barkers_hellraiser_revival_genesis/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/512987452523152144"
   }
