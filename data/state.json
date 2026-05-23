@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-23T12:29:45.175Z",
+  "lastRun": "2026-05-23T13:36:25.050Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t98wbq/save_20_on_lumberjacked_on_steam_399/",
-        "postedAt": "2026-05-10T15:26:13.044Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t9cp4i/save_60_on_colony_ship_daily_deal_historical_low/",
         "postedAt": "2026-05-10T17:25:06.850Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tlab3t/save_50_on_outer_wilds_on_steam/",
         "postedAt": "2026-05-23T08:49:13.534Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tlfjzg/save_65_on_daisy_flies_to_the_moon_174/",
+        "postedAt": "2026-05-23T13:36:25.050Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tcqpu7/virtual_boy_nintendo_classics_may_2026_game/",
-        "postedAt": "2026-05-14T09:05:24.883Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tct2g0/gta_6_preorder_date_has_allegedly_leaked_via_best/",
         "postedAt": "2026-05-14T10:53:28.484Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tlee8m/released_a_coop_simulator_where_running_a/",
         "postedAt": "2026-05-23T12:29:45.175Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tlfbr3/microsoft_pays_250_million_to_end_lawsuit_over/",
+        "postedAt": "2026-05-23T13:36:25.050Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tlab3t/save_50_on_outer_wilds_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tlfjzg/save_65_on_daisy_flies_to_the_moon_174/",
     "steam_sales": "sale_2747330",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tlee8m/released_a_coop_simulator_where_running_a/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tlfbr3/microsoft_pays_250_million_to_end_lawsuit_over/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767287"
   }
 }
