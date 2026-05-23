@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-23T07:05:08.512Z",
+  "lastRun": "2026-05-23T08:49:13.534Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1t90z7w/save_85_on_akimbot_299/",
-        "postedAt": "2026-05-10T08:44:01.915Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1t98wbq/save_20_on_lumberjacked_on_steam_399/",
         "postedAt": "2026-05-10T15:26:13.044Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tl5t3p/developer_here_spherebuddie_64_available_for_299/",
         "postedAt": "2026-05-23T05:21:30.767Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tlab3t/save_50_on_outer_wilds_on_steam/",
+        "postedAt": "2026-05-23T08:49:13.534Z"
       }
     ],
     "steam_sales": [
@@ -1253,7 +1253,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tl5t3p/developer_here_spherebuddie_64_available_for_299/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tlab3t/save_50_on_outer_wilds_on_steam/",
     "steam_sales": "sale_2747330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tl8lh4/riot_responds_to_vanguard_bricking_claims_we/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/512987452523152144"
