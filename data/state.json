@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-23T21:22:59.858Z",
+  "lastRun": "2026-05-23T22:22:21.548Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,14 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_892970",
-        "postedAt": "2026-04-28T10:47:55.936Z"
-      },
-      {
-        "id": "sale_3124540",
-        "postedAt": "2026-04-28T15:55:52.617Z"
-      },
-      {
         "id": "sale_3690030",
         "postedAt": "2026-04-28T16:43:59.052Z"
       },
@@ -804,6 +796,14 @@
       {
         "id": "sale_2747330",
         "postedAt": "2026-05-23T03:15:02.943Z"
+      },
+      {
+        "id": "sale_246620",
+        "postedAt": "2026-05-23T22:22:21.548Z"
+      },
+      {
+        "id": "sale_1966720",
+        "postedAt": "2026-05-23T22:22:21.548Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1254,7 +1254,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tlfjzg/save_65_on_daisy_flies_to_the_moon_174/",
-    "steam_sales": "sale_2747330",
+    "steam_sales": "sale_1966720",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tlrs7j/forza_horizon_6_sells_49_million_copies_despite/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
