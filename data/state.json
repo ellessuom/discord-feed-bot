@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-23T13:36:25.050Z",
+  "lastRun": "2026-05-23T15:30:00.926Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1210,10 +1210,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/503982156237767347",
-        "postedAt": "2026-04-23T14:53:47.342Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/678497276169028052",
         "postedAt": "2026-04-30T10:41:03.205Z"
       },
@@ -1248,6 +1244,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/503982156237767287",
         "postedAt": "2026-05-23T11:30:41.296Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/503982156237767347",
+        "postedAt": "2026-05-23T15:30:00.926Z"
       }
     ]
   },
@@ -1256,6 +1256,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tlfjzg/save_65_on_daisy_flies_to_the_moon_174/",
     "steam_sales": "sale_2747330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tlfbr3/microsoft_pays_250_million_to_end_lawsuit_over/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767287"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
