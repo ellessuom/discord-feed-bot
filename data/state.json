@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-23T11:30:41.296Z",
+  "lastRun": "2026-05-23T12:29:45.175Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tcpgzi/sony_still_hasnt_fixed_the_security_issue_that/",
-        "postedAt": "2026-05-14T07:11:35.449Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tcqpu7/virtual_boy_nintendo_classics_may_2026_game/",
         "postedAt": "2026-05-14T09:05:24.883Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tld45i/almost_all_of_bungie_reportedly_didnt_know/",
         "postedAt": "2026-05-23T11:30:41.296Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tlee8m/released_a_coop_simulator_where_running_a/",
+        "postedAt": "2026-05-23T12:29:45.175Z"
       }
     ],
     "steam_2073850": [
@@ -1255,7 +1255,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tlab3t/save_50_on_outer_wilds_on_steam/",
     "steam_sales": "sale_2747330",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tld45i/almost_all_of_bungie_reportedly_didnt_know/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tlee8m/released_a_coop_simulator_where_running_a/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767287"
   }
 }
