@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-24T19:34:07.374Z",
+  "lastRun": "2026-05-24T20:26:27.414Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1td2tsk/assassins_creed_black_flag_resynced_has_a/",
-        "postedAt": "2026-05-14T16:49:13.059Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1td2g4q/the_telltale_batman_shadows_edition/",
-        "postedAt": "2026-05-14T16:49:13.059Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1td2fb7/sunderfolk_standard_edition/",
         "postedAt": "2026-05-14T16:49:13.059Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tmkd6k/bungie_reportedly_allowed_destiny_2_devs_to_keep/",
         "postedAt": "2026-05-24T19:34:07.374Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tmmazv/lego_batman_legacy_of_the_dark_knight_mayhem_dlc/",
+        "postedAt": "2026-05-24T20:26:27.414Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tmm3as/dishonored_cocreators_were_working_on_thief_4_and/",
+        "postedAt": "2026-05-24T20:26:27.414Z"
       }
     ],
     "steam_2073850": [
@@ -1255,7 +1255,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tml1dw/save_70_on_planet_zoo_on_steam_1544_cad_dlc/",
     "steam_sales": "sale_699130",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tmkd6k/bungie_reportedly_allowed_destiny_2_devs_to_keep/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tmm3as/dishonored_cocreators_were_working_on_thief_4_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
