@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-24T18:30:11.453Z",
+  "lastRun": "2026-05-24T19:34:07.374Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1taaqs2/my_game_sector_zero_is_20_off_till_23rd_may_319/",
-        "postedAt": "2026-05-11T18:46:33.846Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1taa6ya/save_50_on_kingdom_come_deliverance_ii_royal/",
         "postedAt": "2026-05-11T18:46:33.846Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tmapww/save_10_on_the_house_always_wins_629/",
         "postedAt": "2026-05-24T12:33:04.166Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tml1dw/save_70_on_planet_zoo_on_steam_1544_cad_dlc/",
+        "postedAt": "2026-05-24T19:34:07.374Z"
       }
     ],
     "steam_sales": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tcywyb/sea_of_thieves_drama_explained_as_prominent/",
-        "postedAt": "2026-05-14T14:58:14.301Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1td2cdn/new_xbox_controller_for_cloud_gaming_leaks_per/",
-        "postedAt": "2026-05-14T15:56:01.323Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1td2tsk/assassins_creed_black_flag_resynced_has_a/",
         "postedAt": "2026-05-14T16:49:13.059Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tmjuxa/star_citizen_has_reached_1_billion_in_funding/",
         "postedAt": "2026-05-24T18:30:11.453Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tmkegx/kingdom_hearts_cloud_demos_removed_from_nintendo/",
+        "postedAt": "2026-05-24T19:34:07.374Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tmkd6k/bungie_reportedly_allowed_destiny_2_devs_to_keep/",
+        "postedAt": "2026-05-24T19:34:07.374Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tmapww/save_10_on_the_house_always_wins_629/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tml1dw/save_70_on_planet_zoo_on_steam_1544_cad_dlc/",
     "steam_sales": "sale_699130",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tmjuxa/star_citizen_has_reached_1_billion_in_funding/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tmkd6k/bungie_reportedly_allowed_destiny_2_devs_to_keep/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
