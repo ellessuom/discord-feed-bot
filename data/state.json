@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-05-24T20:26:27.414Z",
+  "lastRun": "2026-05-24T21:23:58.778Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1taa6ya/save_50_on_kingdom_come_deliverance_ii_royal/",
-        "postedAt": "2026-05-11T18:46:33.846Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1taa4yi/save_75_on_red_dead_redemption_2_on_steam/",
-        "postedAt": "2026-05-11T18:46:33.846Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ta9wtx/save_75_on_subnautica_on_steam/",
         "postedAt": "2026-05-11T18:46:33.846Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tml1dw/save_70_on_planet_zoo_on_steam_1544_cad_dlc/",
         "postedAt": "2026-05-24T19:34:07.374Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tmo195/developer_of_toyful_wonderworld_here_the_game_is/",
+        "postedAt": "2026-05-24T21:23:58.778Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tmnyqn/my_kings_field_inspired_dungeon_crawler_is_40_off/",
+        "postedAt": "2026-05-24T21:23:58.778Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1td2fb7/sunderfolk_standard_edition/",
-        "postedAt": "2026-05-14T16:49:13.059Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1td4ttx/sony_has_helped_fund_over_120_projects_this/",
         "postedAt": "2026-05-14T17:40:06.101Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tmm3as/dishonored_cocreators_were_working_on_thief_4_and/",
         "postedAt": "2026-05-24T20:26:27.414Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tmnncr/canada_is_imposing_a_15_tax_on_streaming_services/",
+        "postedAt": "2026-05-24T21:23:58.778Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tml1dw/save_70_on_planet_zoo_on_steam_1544_cad_dlc/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tmnyqn/my_kings_field_inspired_dungeon_crawler_is_40_off/",
     "steam_sales": "sale_699130",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tmm3as/dishonored_cocreators_were_working_on_thief_4_and/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tmnncr/canada_is_imposing_a_15_tax_on_streaming_services/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
