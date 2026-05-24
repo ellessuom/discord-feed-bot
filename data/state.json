@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-24T21:23:58.778Z",
+  "lastRun": "2026-05-24T22:25:06.544Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ta9wtx/save_75_on_subnautica_on_steam/",
-        "postedAt": "2026-05-11T18:46:33.846Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tacjjx/save_85_on_devil_may_cry_5_historical_low/",
         "postedAt": "2026-05-11T19:37:53.293Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tmnyqn/my_kings_field_inspired_dungeon_crawler_is_40_off/",
         "postedAt": "2026-05-24T21:23:58.778Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tmp60a/save_80_on_back_to_modern_world_fantasy_hero_on/",
+        "postedAt": "2026-05-24T22:25:06.544Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_585420",
-        "postedAt": "2026-04-29T07:00:14.001Z"
-      },
       {
         "id": "sale_1172620",
         "postedAt": "2026-04-29T18:39:29.335Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_699130",
         "postedAt": "2026-05-24T11:33:30.422Z"
+      },
+      {
+        "id": "sale_1147923",
+        "postedAt": "2026-05-24T22:25:06.544Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1253,8 +1253,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tmnyqn/my_kings_field_inspired_dungeon_crawler_is_40_off/",
-    "steam_sales": "sale_699130",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tmp60a/save_80_on_back_to_modern_world_fantasy_hero_on/",
+    "steam_sales": "sale_1147923",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tmnncr/canada_is_imposing_a_15_tax_on_streaming_services/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
