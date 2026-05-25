@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-25T22:28:17.498Z",
+  "lastRun": "2026-05-25T23:30:15.813Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3414580",
-        "postedAt": "2026-04-30T20:31:49.867Z"
-      },
-      {
         "id": "sale_1458140",
         "postedAt": "2026-04-30T20:31:49.867Z"
       },
@@ -804,25 +800,13 @@
       {
         "id": "sale_2784470",
         "postedAt": "2026-05-25T20:36:37.697Z"
+      },
+      {
+        "id": "sale_1222140",
+        "postedAt": "2026-05-25T23:30:15.813Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tddoxv/hell_let_loose_vietnam_release_date_announcement/",
-        "postedAt": "2026-05-14T23:24:46.596Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tdkl3f/this_is_still_very_insane_to_see_halo_campaign/",
-        "postedAt": "2026-05-15T05:25:25.108Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tdsw0e/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-05-15T11:42:43.598Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tdsum1/star_citizen_alpha_48_tactical_strike/",
-        "postedAt": "2026-05-15T11:42:43.598Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tdu9u5/game_consoles_are_pricing_themselves_out_of/",
         "postedAt": "2026-05-15T12:47:01.519Z"
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tnlilb/paralives_launch_trailer/",
         "postedAt": "2026-05-25T21:31:04.283Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tnp0fa/dying_light_the_beast_is_very_strong_proof_that/",
+        "postedAt": "2026-05-25T23:30:15.813Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tnoijj/007_first_light_star_patrick_gibson_says_i_think/",
+        "postedAt": "2026-05-25T23:30:15.813Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tnob38/system_shock_2_25th_anniversary_remaster_gets_new/",
+        "postedAt": "2026-05-25T23:30:15.813Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tnoauw/nintendo_avoids_the_ai_race_and_investors_are/",
+        "postedAt": "2026-05-25T23:30:15.813Z"
       }
     ],
     "steam_2073850": [
@@ -1254,8 +1254,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tnn393/save_60_on_no_mans_sky/",
-    "steam_sales": "sale_2784470",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tnlilb/paralives_launch_trailer/",
+    "steam_sales": "sale_1222140",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tnoauw/nintendo_avoids_the_ai_race_and_investors_are/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
