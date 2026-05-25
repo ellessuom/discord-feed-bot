@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-25T01:06:54.493Z",
+  "lastRun": "2026-05-25T15:10:09.142Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1172620",
-        "postedAt": "2026-04-29T18:39:29.335Z"
-      },
-      {
         "id": "sale_1551360",
         "postedAt": "2026-04-29T18:39:29.335Z"
       },
@@ -804,13 +800,13 @@
       {
         "id": "sale_1147923",
         "postedAt": "2026-05-24T22:25:06.544Z"
+      },
+      {
+        "id": "sale_4630570",
+        "postedAt": "2026-05-25T15:10:09.142Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tdafue/capcom_looking_to_nurture_dead_rising_franchise/",
-        "postedAt": "2026-05-14T20:36:40.047Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tdcnt2/we_announced_kingfish_a_2player_asymmetric_coop/",
         "postedAt": "2026-05-14T22:29:52.851Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tmt0hs/forza_horizon_6_speeds_into_steams_top_5_most/",
         "postedAt": "2026-05-25T01:06:54.493Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tn93j5/why_the_uks_video_games_industry_faces_an/",
+        "postedAt": "2026-05-25T15:10:09.142Z"
       }
     ],
     "steam_2073850": [
@@ -1254,8 +1254,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tmp60a/save_80_on_back_to_modern_world_fantasy_hero_on/",
-    "steam_sales": "sale_1147923",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tmt0hs/forza_horizon_6_speeds_into_steams_top_5_most/",
+    "steam_sales": "sale_4630570",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tn93j5/why_the_uks_video_games_industry_faces_an/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
