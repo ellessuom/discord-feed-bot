@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-25T21:31:04.283Z",
+  "lastRun": "2026-05-25T22:28:17.498Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tagebf/save_85_on_devil_may_cry_hd_collection_on_steam/",
-        "postedAt": "2026-05-11T21:34:56.006Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tasivz/save_85_on_dmc_devil_may_cry_449_new_historical/",
         "postedAt": "2026-05-12T07:10:00.244Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tnjr6q/save_77_on_robo_pose_on_steam_068/",
         "postedAt": "2026-05-25T20:36:37.697Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tnn393/save_60_on_no_mans_sky/",
+        "postedAt": "2026-05-25T22:28:17.498Z"
       }
     ],
     "steam_sales": [
@@ -1253,7 +1253,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tnjr6q/save_77_on_robo_pose_on_steam_068/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tnn393/save_60_on_no_mans_sky/",
     "steam_sales": "sale_2784470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tnlilb/paralives_launch_trailer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
