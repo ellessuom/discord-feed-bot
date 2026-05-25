@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-25T20:36:37.697Z",
+  "lastRun": "2026-05-25T21:31:04.283Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tdcnt2/we_announced_kingfish_a_2player_asymmetric_coop/",
-        "postedAt": "2026-05-14T22:29:52.851Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tddoxv/hell_let_loose_vietnam_release_date_announcement/",
         "postedAt": "2026-05-14T23:24:46.596Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tn93j5/why_the_uks_video_games_industry_faces_an/",
         "postedAt": "2026-05-25T15:10:09.142Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tnlilb/paralives_launch_trailer/",
+        "postedAt": "2026-05-25T21:31:04.283Z"
       }
     ],
     "steam_2073850": [
@@ -1255,7 +1255,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tnjr6q/save_77_on_robo_pose_on_steam_068/",
     "steam_sales": "sale_2784470",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tn93j5/why_the_uks_video_games_industry_faces_an/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tnlilb/paralives_launch_trailer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
