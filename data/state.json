@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-26T03:17:56.546Z",
+  "lastRun": "2026-05-26T07:25:16.908Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tdyhn4/new_transformers_game_is_allegedly_in_development/",
-        "postedAt": "2026-05-15T14:55:03.725Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tdx97x/subnautica_2_sells_2_million_in_12_hours_with/",
         "postedAt": "2026-05-15T14:55:03.725Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tnpgp3/grab_mind_scanners_for_1/",
         "postedAt": "2026-05-26T01:02:27.250Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tnz0b0/tekken_8_yujiro_hanma_teaser/",
+        "postedAt": "2026-05-26T07:25:16.908Z"
       }
     ],
     "steam_2073850": [
@@ -1255,7 +1255,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tns44i/save_90_on_freedom_fighters/",
     "steam_sales": "sale_3009300",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tnpgp3/grab_mind_scanners_for_1/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tnz0b0/tekken_8_yujiro_hanma_teaser/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
