@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-05-26T13:13:06.633Z",
+  "lastRun": "2026-05-26T15:10:48.202Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tcipvu/conquer_lands_on_steam_099/",
-        "postedAt": "2026-05-14T01:01:58.548Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tcngmt/save_upto_85_on_ubisoft_titles/",
-        "postedAt": "2026-05-14T05:24:14.469Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tcpuhc/save_53_on_apex_ascent_on_steam/",
-        "postedAt": "2026-05-14T07:11:35.449Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tcpu3h/save_67_on_doom_the_dark_ages_on_steam/",
-        "postedAt": "2026-05-14T07:11:35.449Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tcrydu/save_80_on_naild_099/",
         "postedAt": "2026-05-14T09:05:24.883Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1to128d/tomb_raider_series_on_sale_8090/",
         "postedAt": "2026-05-26T13:13:06.633Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1to1akl/save_70_on_bendy_and_the_ink_machine_on_steam/",
+        "postedAt": "2026-05-26T15:10:48.202Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1to16re/save_75_on_tom_clancys_splinter_cell_on_steam/",
+        "postedAt": "2026-05-26T15:10:48.202Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1to16jy/save_20_on_clair_obscur_expedition_33_on_steam/",
+        "postedAt": "2026-05-26T15:10:48.202Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1to169h/save_70_on_grand_theft_auto_iv_the_complete/",
+        "postedAt": "2026-05-26T15:10:48.202Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3509230",
-        "postedAt": "2026-05-01T14:31:10.620Z"
-      },
       {
         "id": "sale_3892270",
         "postedAt": "2026-05-01T19:32:57.237Z"
@@ -804,13 +800,13 @@
       {
         "id": "sale_1805320",
         "postedAt": "2026-05-26T13:13:06.633Z"
+      },
+      {
+        "id": "sale_817628",
+        "postedAt": "2026-05-26T15:10:48.202Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1te8it5/playstation_has_started_revealing_public_player/",
-        "postedAt": "2026-05-15T21:27:37.127Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1te8hhn/forza_horizon_6_immediately_beats_its/",
         "postedAt": "2026-05-15T21:27:37.127Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tnzmj9/therusted_officialtrailer/",
         "postedAt": "2026-05-26T09:22:27.684Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1to7f74/chinese_gpu_maker_sells_out_over_30000_gaming/",
+        "postedAt": "2026-05-26T15:10:48.202Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1to128d/tomb_raider_series_on_sale_8090/",
-    "steam_sales": "sale_1805320",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tnzmj9/therusted_officialtrailer/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1to169h/save_70_on_grand_theft_auto_iv_the_complete/",
+    "steam_sales": "sale_817628",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1to7f74/chinese_gpu_maker_sells_out_over_30000_gaming/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
