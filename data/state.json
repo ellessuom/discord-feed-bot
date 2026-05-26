@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-05-26T07:25:16.908Z",
+  "lastRun": "2026-05-26T09:22:27.684Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tb9ipa/save_90_on_skull_and_bones_on_steam_historical_low/",
-        "postedAt": "2026-05-12T18:45:41.286Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tbb3d2/save_50_on_tiny_on_steam_its_049/",
-        "postedAt": "2026-05-12T19:37:04.411Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tbdysm/save_70_on_deep_rock_galactic_on_steam/",
-        "postedAt": "2026-05-12T20:39:09.647Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tbf0hd/save_90_on_killing_floor_2_on_steam_2999_299/",
-        "postedAt": "2026-05-12T21:33:44.729Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tbe20j/save_25_on_tiny_bookshop_on_steam_1999_1499/",
         "postedAt": "2026-05-12T21:33:44.729Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tns44i/save_90_on_freedom_fighters/",
         "postedAt": "2026-05-26T03:17:56.546Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1to1a4c/save_85_on_tekken_7_on_steam/",
+        "postedAt": "2026-05-26T09:22:27.684Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1to176o/save_80_on_ultimate_marvel_vs_capcom_3_on_steam/",
+        "postedAt": "2026-05-26T09:22:27.684Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1to1632/save_50_on_grand_theft_auto_v_enhanced_on_steam/",
+        "postedAt": "2026-05-26T09:22:27.684Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1to15cv/save_75_on_max_payne_2_the_fall_of_max_payne_on/",
+        "postedAt": "2026-05-26T09:22:27.684Z"
       }
     ],
     "steam_sales": [
@@ -808,18 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tdx97x/subnautica_2_sells_2_million_in_12_hours_with/",
-        "postedAt": "2026-05-15T14:55:03.725Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tdz56t/out_now_on_nintendo_switch_jump_in_and_survive/",
-        "postedAt": "2026-05-15T15:47:59.194Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1te7cc3/marathons_new_pve_mode_is_an_economic_disaster/",
-        "postedAt": "2026-05-15T20:32:02.522Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1te8it5/playstation_has_started_revealing_public_player/",
         "postedAt": "2026-05-15T21:27:37.127Z"
       },
@@ -1206,6 +1194,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tnz0b0/tekken_8_yujiro_hanma_teaser/",
         "postedAt": "2026-05-26T07:25:16.908Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tnzpln/unreal_engine_6_is_coming_in_2028_aims_to/",
+        "postedAt": "2026-05-26T09:22:27.684Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tnzpap/steamos_still_faces_questions_as_california/",
+        "postedAt": "2026-05-26T09:22:27.684Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tnzmj9/therusted_officialtrailer/",
+        "postedAt": "2026-05-26T09:22:27.684Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tns44i/save_90_on_freedom_fighters/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1to15cv/save_75_on_max_payne_2_the_fall_of_max_payne_on/",
     "steam_sales": "sale_3009300",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tnz0b0/tekken_8_yujiro_hanma_teaser/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tnzmj9/therusted_officialtrailer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
