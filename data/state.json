@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-26T01:02:27.250Z",
+  "lastRun": "2026-05-26T03:17:56.546Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tb2btz/save_30_on_horse_runner_dx_on_steam_349_349/",
-        "postedAt": "2026-05-12T15:07:51.860Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tb9ipa/save_90_on_skull_and_bones_on_steam_historical_low/",
         "postedAt": "2026-05-12T18:45:41.286Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tnpnf6/save_90_on_deus_ex_mankind_divided_on_steam/",
         "postedAt": "2026-05-26T01:02:27.250Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tns44i/save_90_on_freedom_fighters/",
+        "postedAt": "2026-05-26T03:17:56.546Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1458140",
-        "postedAt": "2026-04-30T20:31:49.867Z"
-      },
       {
         "id": "sale_3375780",
         "postedAt": "2026-05-01T10:36:34.010Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1222140",
         "postedAt": "2026-05-25T23:30:15.813Z"
+      },
+      {
+        "id": "sale_3009300",
+        "postedAt": "2026-05-26T03:17:56.546Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1253,8 +1253,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tnpnf6/save_90_on_deus_ex_mankind_divided_on_steam/",
-    "steam_sales": "sale_1222140",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tns44i/save_90_on_freedom_fighters/",
+    "steam_sales": "sale_3009300",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tnpgp3/grab_mind_scanners_for_1/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
