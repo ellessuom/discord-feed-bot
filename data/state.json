@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-05-26T15:10:48.202Z",
+  "lastRun": "2026-05-26T17:12:55.626Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tcrydu/save_80_on_naild_099/",
-        "postedAt": "2026-05-14T09:05:24.883Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tcy5fn/save_upto_80_on_red_dead_redemption_2_ultimate/",
-        "postedAt": "2026-05-14T13:41:45.103Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tcz3wz/save_75_on_watch_dogs/",
-        "postedAt": "2026-05-14T14:58:14.301Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1td1ero/save_40_on_kings_blade_on_steam_539/",
         "postedAt": "2026-05-14T15:56:01.323Z"
@@ -402,13 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1to169h/save_70_on_grand_theft_auto_iv_the_complete/",
         "postedAt": "2026-05-26T15:10:48.202Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1to1ag3/save_75_on_amnesia_the_dark_descent_on_steam/",
+        "postedAt": "2026-05-26T17:12:55.626Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1to1563/save_85_on_ranch_simulator_build_hunt_farm_on/",
+        "postedAt": "2026-05-26T17:12:55.626Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1to150f/save_80_on_detroit_become_human_on_steam/",
+        "postedAt": "2026-05-26T17:12:55.626Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3892270",
-        "postedAt": "2026-05-01T19:32:57.237Z"
-      },
       {
         "id": "sale_4131790",
         "postedAt": "2026-05-01T19:32:57.237Z"
@@ -804,13 +800,13 @@
       {
         "id": "sale_817628",
         "postedAt": "2026-05-26T15:10:48.202Z"
+      },
+      {
+        "id": "sale_1119730",
+        "postedAt": "2026-05-26T17:12:55.626Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1te8hhn/forza_horizon_6_immediately_beats_its/",
-        "postedAt": "2026-05-15T21:27:37.127Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tej2nq/yoshi_and_the_mysterious_book_an_appetite_for/",
         "postedAt": "2026-05-16T05:12:00.565Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1to7f74/chinese_gpu_maker_sells_out_over_30000_gaming/",
         "postedAt": "2026-05-26T15:10:48.202Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1toc7pz/007_first_light_producer_addresses_pressure_of/",
+        "postedAt": "2026-05-26T17:12:55.626Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1to169h/save_70_on_grand_theft_auto_iv_the_complete/",
-    "steam_sales": "sale_817628",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1to7f74/chinese_gpu_maker_sells_out_over_30000_gaming/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1to150f/save_80_on_detroit_become_human_on_steam/",
+    "steam_sales": "sale_1119730",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1toc7pz/007_first_light_producer_addresses_pressure_of/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
