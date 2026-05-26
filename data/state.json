@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-05-26T17:12:55.626Z",
+  "lastRun": "2026-05-26T18:56:28.489Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1td1ero/save_40_on_kings_blade_on_steam_539/",
-        "postedAt": "2026-05-14T15:56:01.323Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1td32jm/my_indie_game_mycosis_is_70_off_on_steam_made/",
-        "postedAt": "2026-05-14T16:49:13.059Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1td5c70/save_50_on_stardew_valley_1499_to_750/",
         "postedAt": "2026-05-14T17:40:06.101Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1to150f/save_80_on_detroit_become_human_on_steam/",
         "postedAt": "2026-05-26T17:12:55.626Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1todiw8/save_80_on_jojos_bizarre_adventure_allstar_battle/",
+        "postedAt": "2026-05-26T18:56:28.489Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1todi94/save_50_on_stray_on_steam/",
+        "postedAt": "2026-05-26T18:56:28.489Z"
       }
     ],
     "steam_sales": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tej2nq/yoshi_and_the_mysterious_book_an_appetite_for/",
-        "postedAt": "2026-05-16T05:12:00.565Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tepx4j/sure_seems_like_subnautica_2s_developers_are/",
-        "postedAt": "2026-05-16T10:32:36.098Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tepwsv/lego_confirms_the_legend_of_zelda_great_deku_tree/",
         "postedAt": "2026-05-16T10:32:36.098Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1toc7pz/007_first_light_producer_addresses_pressure_of/",
         "postedAt": "2026-05-26T17:12:55.626Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1toghiq/dragon_quest_creator_yuji_horii_confirms_new/",
+        "postedAt": "2026-05-26T18:56:28.489Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1togh98/playstation_plus_monthly_games_for_june_grounded/",
+        "postedAt": "2026-05-26T18:56:28.489Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1to150f/save_80_on_detroit_become_human_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1todi94/save_50_on_stray_on_steam/",
     "steam_sales": "sale_1119730",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1toc7pz/007_first_light_producer_addresses_pressure_of/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1togh98/playstation_plus_monthly_games_for_june_grounded/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
