@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-26T18:56:28.489Z",
+  "lastRun": "2026-05-26T20:46:09.580Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1td5c70/save_50_on_stardew_valley_1499_to_750/",
-        "postedAt": "2026-05-14T17:40:06.101Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1td4gsx/save_73_on_kerbal_space_program_complete_edition/",
         "postedAt": "2026-05-14T17:40:06.101Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1todi94/save_50_on_stray_on_steam/",
         "postedAt": "2026-05-26T18:56:28.489Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1toilkf/save_50_on_metal_gear_solid_master_collection_vol/",
+        "postedAt": "2026-05-26T20:46:09.580Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4131790",
-        "postedAt": "2026-05-01T19:32:57.237Z"
-      },
       {
         "id": "sale_394360",
         "postedAt": "2026-05-02T00:54:54.899Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1119730",
         "postedAt": "2026-05-26T17:12:55.626Z"
+      },
+      {
+        "id": "sale_12210",
+        "postedAt": "2026-05-26T20:46:09.580Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1253,8 +1253,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1todi94/save_50_on_stray_on_steam/",
-    "steam_sales": "sale_1119730",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1toilkf/save_50_on_metal_gear_solid_master_collection_vol/",
+    "steam_sales": "sale_12210",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1togh98/playstation_plus_monthly_games_for_june_grounded/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
