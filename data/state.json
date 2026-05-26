@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-05-25T23:30:15.813Z",
+  "lastRun": "2026-05-26T01:02:27.250Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tasivz/save_85_on_dmc_devil_may_cry_449_new_historical/",
-        "postedAt": "2026-05-12T07:10:00.244Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1taun3d/save_80_on_veranoia_nightmare_of_case_37_on_steam/",
-        "postedAt": "2026-05-12T09:07:15.546Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tb2btz/save_30_on_horse_runner_dx_on_steam_349_349/",
         "postedAt": "2026-05-12T15:07:51.860Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tnn393/save_60_on_no_mans_sky/",
         "postedAt": "2026-05-25T22:28:17.498Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tnpp7d/save_90_on_deus_ex_human_revolution/",
+        "postedAt": "2026-05-26T01:02:27.250Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tnpnf6/save_90_on_deus_ex_mankind_divided_on_steam/",
+        "postedAt": "2026-05-26T01:02:27.250Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tdu9u5/game_consoles_are_pricing_themselves_out_of/",
-        "postedAt": "2026-05-15T12:47:01.519Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tdyhn4/new_transformers_game_is_allegedly_in_development/",
         "postedAt": "2026-05-15T14:55:03.725Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tnoauw/nintendo_avoids_the_ai_race_and_investors_are/",
         "postedAt": "2026-05-25T23:30:15.813Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tnpgp3/grab_mind_scanners_for_1/",
+        "postedAt": "2026-05-26T01:02:27.250Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tnn393/save_60_on_no_mans_sky/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tnpnf6/save_90_on_deus_ex_mankind_divided_on_steam/",
     "steam_sales": "sale_1222140",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tnoauw/nintendo_avoids_the_ai_race_and_investors_are/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tnpgp3/grab_mind_scanners_for_1/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
