@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-05-26T21:37:10.201Z",
+  "lastRun": "2026-05-26T23:30:33.904Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tdd2id/save_100_on_terrors_to_unveil_limited_offer/",
-        "postedAt": "2026-05-14T22:29:52.851Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tdmzqc/save_75_on_truck_simulators_euro_american/",
-        "postedAt": "2026-05-15T07:18:39.430Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tdmwgo/save_80_on_dying_light_definitive_10th/",
         "postedAt": "2026-05-15T07:18:39.430Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tok5up/save_85_on_gone_home_on_steam/",
         "postedAt": "2026-05-26T21:37:10.201Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tomum3/save_85_on_the_surge_2_premium_edition/",
+        "postedAt": "2026-05-26T23:30:33.904Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tomtln/save_80_on_the_surge_augmented_edition/",
+        "postedAt": "2026-05-26T23:30:33.904Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4197610",
-        "postedAt": "2026-05-03T17:21:48.283Z"
-      },
       {
         "id": "sale_2842040",
         "postedAt": "2026-05-03T18:25:46.412Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2982610",
         "postedAt": "2026-05-26T21:37:10.201Z"
+      },
+      {
+        "id": "sale_1623730",
+        "postedAt": "2026-05-26T23:30:33.904Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1253,8 +1253,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tok5up/save_85_on_gone_home_on_steam/",
-    "steam_sales": "sale_2982610",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tomtln/save_80_on_the_surge_augmented_edition/",
+    "steam_sales": "sale_1623730",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1toktmy/destruction_allstars_delisted_and_servers/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
