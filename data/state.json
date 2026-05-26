@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-26T20:46:09.580Z",
+  "lastRun": "2026-05-26T21:37:10.201Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1td4gsx/save_73_on_kerbal_space_program_complete_edition/",
-        "postedAt": "2026-05-14T17:40:06.101Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tdd2id/save_100_on_terrors_to_unveil_limited_offer/",
         "postedAt": "2026-05-14T22:29:52.851Z"
@@ -402,21 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1toilkf/save_50_on_metal_gear_solid_master_collection_vol/",
         "postedAt": "2026-05-26T20:46:09.580Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tok5up/save_85_on_gone_home_on_steam/",
+        "postedAt": "2026-05-26T21:37:10.201Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_394360",
-        "postedAt": "2026-05-02T00:54:54.899Z"
-      },
-      {
-        "id": "sale_3794610",
-        "postedAt": "2026-05-02T00:54:54.899Z"
-      },
-      {
-        "id": "sale_1774580",
-        "postedAt": "2026-05-02T15:21:21.901Z"
-      },
       {
         "id": "sale_4197610",
         "postedAt": "2026-05-03T17:21:48.283Z"
@@ -804,13 +792,21 @@
       {
         "id": "sale_12210",
         "postedAt": "2026-05-26T20:46:09.580Z"
+      },
+      {
+        "id": "sale_2261430",
+        "postedAt": "2026-05-26T21:37:10.201Z"
+      },
+      {
+        "id": "sale_3159330",
+        "postedAt": "2026-05-26T21:37:10.201Z"
+      },
+      {
+        "id": "sale_2982610",
+        "postedAt": "2026-05-26T21:37:10.201Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tepwsv/lego_confirms_the_legend_of_zelda_great_deku_tree/",
-        "postedAt": "2026-05-16T10:32:36.098Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1terjtg/aliens_fireteam_elite_2_is_real_and_this_time_you/",
         "postedAt": "2026-05-16T12:30:36.708Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1togh98/playstation_plus_monthly_games_for_june_grounded/",
         "postedAt": "2026-05-26T18:56:28.489Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1toktmy/destruction_allstars_delisted_and_servers/",
+        "postedAt": "2026-05-26T21:37:10.201Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1toilkf/save_50_on_metal_gear_solid_master_collection_vol/",
-    "steam_sales": "sale_12210",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1togh98/playstation_plus_monthly_games_for_june_grounded/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tok5up/save_85_on_gone_home_on_steam/",
+    "steam_sales": "sale_2982610",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1toktmy/destruction_allstars_delisted_and_servers/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
