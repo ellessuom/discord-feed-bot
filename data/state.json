@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-05-27T17:13:46.366Z",
+  "lastRun": "2026-05-27T18:56:28.383Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1te53ry/save_32_on_flufftopia_fluffmazing_edition_339_339/",
-        "postedAt": "2026-05-15T18:41:32.296Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tejyav/save_75_on_still_wakes_the_deep/",
-        "postedAt": "2026-05-16T05:12:00.565Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tekpqn/save_75_on_world_war_z/",
         "postedAt": "2026-05-16T06:55:48.703Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tp9w3y/city_climber_is_80_off_till_6th_june_099/",
         "postedAt": "2026-05-27T17:13:46.366Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tpet2f/save_60_on_diplomacy_is_not_an_option_on_steam/",
+        "postedAt": "2026-05-27T18:56:28.383Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tpcdxa/save_50_on_kingdom_come_deliverance_ii_on_steam/",
+        "postedAt": "2026-05-27T18:56:28.383Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tgdi1z/subnautica_2s_nokilling_ethos_will_be_a_continued/",
-        "postedAt": "2026-05-18T07:37:33.903Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tgdgfr/sonys_big_ps5_exclusive_of_2025_has_its_last_big/",
-        "postedAt": "2026-05-18T07:37:33.903Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tgio35/atari_ceo_wants_the_company_to_become_the_best/",
-        "postedAt": "2026-05-18T11:27:29.131Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tglk7s/kadokawa_cites_excessive_reliance_on_the_isekai/",
-        "postedAt": "2026-05-18T13:27:26.599Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tgl6eg/sony_sued_by_gamers_over_allegedly_pocketing/",
         "postedAt": "2026-05-18T13:27:26.599Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tpa52d/square_enix_celebrates_dragon_quest_day_with_xii/",
         "postedAt": "2026-05-27T17:13:46.366Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tpefpr/the_steam_decks_price_has_increased_from_549_to/",
+        "postedAt": "2026-05-27T18:56:28.383Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tpef2u/what_xbox_players_are_asking_the_top_request/",
+        "postedAt": "2026-05-27T18:56:28.383Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tpdzx7/oo7_first_light_becomes_the_highest_rated_io/",
+        "postedAt": "2026-05-27T18:56:28.383Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tpccw8/lcs_spring_2026_records_record_low_viewership/",
+        "postedAt": "2026-05-27T18:56:28.383Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tp9w3y/city_climber_is_80_off_till_6th_june_099/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tpcdxa/save_50_on_kingdom_come_deliverance_ii_on_steam/",
     "steam_sales": "sale_2175540",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tpa52d/square_enix_celebrates_dragon_quest_day_with_xii/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tpccw8/lcs_spring_2026_records_record_low_viewership/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
