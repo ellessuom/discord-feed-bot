@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-26T23:30:33.904Z",
+  "lastRun": "2026-05-27T01:05:45.373Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1terjtg/aliens_fireteam_elite_2_is_real_and_this_time_you/",
-        "postedAt": "2026-05-16T12:30:36.708Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tetq93/subnautica_2_devs_are_trying_to_push_players/",
         "postedAt": "2026-05-16T13:36:03.755Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1toktmy/destruction_allstars_delisted_and_servers/",
         "postedAt": "2026-05-26T21:37:10.201Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tooj9i/season_2_cinematic_trailer_marathon/",
+        "postedAt": "2026-05-27T01:05:45.373Z"
       }
     ],
     "steam_2073850": [
@@ -1255,7 +1255,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tomtln/save_80_on_the_surge_augmented_edition/",
     "steam_sales": "sale_1623730",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1toktmy/destruction_allstars_delisted_and_servers/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tooj9i/season_2_cinematic_trailer_marathon/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
