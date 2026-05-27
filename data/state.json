@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-27T05:37:03.041Z",
+  "lastRun": "2026-05-27T07:38:39.482Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tew0fz/never_knew_how_to_get_into_dd_or_tired_of/",
-        "postedAt": "2026-05-16T16:25:12.201Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tev2uk/second_streamer_review_with_a_big_audience_thanks/",
-        "postedAt": "2026-05-16T16:25:12.201Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tf93ne/tbg_now_has_a_free_1hour_demo_on_steam/",
         "postedAt": "2026-05-17T01:02:58.882Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tothm8/diablo_4_lead_marcin_undak_says_small_teams/",
         "postedAt": "2026-05-27T05:37:03.041Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1toy3zt/exforza_horizon_creative_directors_new_aaa/",
+        "postedAt": "2026-05-27T07:38:39.482Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1toy3i0/resident_evil_requiem_gets_free_postlaunch_demo/",
+        "postedAt": "2026-05-27T07:38:39.482Z"
       }
     ],
     "steam_2073850": [
@@ -1255,7 +1255,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tovpgw/save_50_on_there_is_no_game_wrong_dimension_on/",
     "steam_sales": "sale_2499860",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tothm8/diablo_4_lead_marcin_undak_says_small_teams/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1toy3i0/resident_evil_requiem_gets_free_postlaunch_demo/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
