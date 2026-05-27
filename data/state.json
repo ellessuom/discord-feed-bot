@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-27T18:56:28.383Z",
+  "lastRun": "2026-05-27T19:46:01.624Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tgl6eg/sony_sued_by_gamers_over_allegedly_pocketing/",
-        "postedAt": "2026-05-18T13:27:26.599Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tgpzle/assassins_creed_hexe_allegedly_features_female/",
-        "postedAt": "2026-05-18T17:05:09.532Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1th2uiq/xbox_director_guy_richards_were_going_to_keep/",
         "postedAt": "2026-05-18T22:26:47.394Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tpccw8/lcs_spring_2026_records_record_low_viewership/",
         "postedAt": "2026-05-27T18:56:28.383Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tpfcql/pokémon_franchise_surpasses_515_million_games/",
+        "postedAt": "2026-05-27T19:46:01.624Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tpci53/maseylia_echoes_of_the_past_a_3d_metroidvania/",
+        "postedAt": "2026-05-27T19:46:01.624Z"
       }
     ],
     "steam_2073850": [
@@ -1255,7 +1255,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tpcdxa/save_50_on_kingdom_come_deliverance_ii_on_steam/",
     "steam_sales": "sale_2175540",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tpccw8/lcs_spring_2026_records_record_low_viewership/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tpci53/maseylia_echoes_of_the_past_a_3d_metroidvania/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
