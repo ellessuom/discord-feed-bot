@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-27T20:49:32.929Z",
+  "lastRun": "2026-05-27T22:37:40.115Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_427410",
-        "postedAt": "2026-05-04T20:36:10.813Z"
-      },
-      {
         "id": "sale_3681010",
         "postedAt": "2026-05-05T07:45:52.694Z"
       },
@@ -804,13 +800,13 @@
       {
         "id": "sale_1771300",
         "postedAt": "2026-05-27T20:49:32.929Z"
+      },
+      {
+        "id": "sale_1569580",
+        "postedAt": "2026-05-27T22:37:40.115Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1th2uiq/xbox_director_guy_richards_were_going_to_keep/",
-        "postedAt": "2026-05-18T22:26:47.394Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1th4akr/lego_batman_legacy_of_the_dark_knight_official/",
         "postedAt": "2026-05-18T23:29:02.640Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tpci53/maseylia_echoes_of_the_past_a_3d_metroidvania/",
         "postedAt": "2026-05-27T19:46:01.624Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tpjwji/james_bond_game_007_first_light_launches/",
+        "postedAt": "2026-05-27T22:37:40.115Z"
       }
     ],
     "steam_2073850": [
@@ -1254,8 +1254,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tpgssq/save_50_on_assassins_creeds_shadows_on_steam/",
-    "steam_sales": "sale_1771300",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tpci53/maseylia_echoes_of_the_past_a_3d_metroidvania/",
+    "steam_sales": "sale_1569580",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tpjwji/james_bond_game_007_first_light_launches/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
