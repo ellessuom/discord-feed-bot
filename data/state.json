@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-05-27T15:14:57.651Z",
+  "lastRun": "2026-05-27T17:13:46.366Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tdpuai/save_20_on_island_market_simulator_on_steam/",
-        "postedAt": "2026-05-15T09:14:16.986Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tdujri/save_85_on_far_cry_5_on_steam/",
-        "postedAt": "2026-05-15T12:47:01.519Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tdugsn/save_80_on_far_cry_4_on_steam/",
-        "postedAt": "2026-05-15T12:47:01.519Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1te1oz7/the_phoenix_rising_trilogy_is_on_sale_today_is/",
-        "postedAt": "2026-05-15T16:42:17.961Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1te53ry/save_32_on_flufftopia_fluffmazing_edition_339_339/",
         "postedAt": "2026-05-15T18:41:32.296Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tovpgw/save_50_on_there_is_no_game_wrong_dimension_on/",
         "postedAt": "2026-05-27T05:37:03.041Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tpby0f/save_90_on_bridge_constructor_portal_on_steam/",
+        "postedAt": "2026-05-27T17:13:46.366Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tpbxh5/save_69_on_gtfo_on_steam/",
+        "postedAt": "2026-05-27T17:13:46.366Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tpbx9z/save_67_on_payday_the_heist_on_steam/",
+        "postedAt": "2026-05-27T17:13:46.366Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tp9w3y/city_climber_is_80_off_till_6th_june_099/",
+        "postedAt": "2026-05-27T17:13:46.366Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1364780",
-        "postedAt": "2026-05-04T15:48:22.044Z"
-      },
       {
         "id": "sale_4244510",
         "postedAt": "2026-05-04T15:48:22.044Z"
@@ -804,13 +800,13 @@
       {
         "id": "sale_2495100",
         "postedAt": "2026-05-27T15:14:57.651Z"
+      },
+      {
+        "id": "sale_2175540",
+        "postedAt": "2026-05-27T17:13:46.366Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tfojuq/subnautica_2_explodes_out_of_the_airlock_with_2/",
-        "postedAt": "2026-05-17T13:36:24.527Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tgdi1z/subnautica_2s_nokilling_ethos_will_be_a_continued/",
         "postedAt": "2026-05-18T07:37:33.903Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tp35hf/pokemon_x_target_30th_anniversary_collection_is/",
         "postedAt": "2026-05-27T13:24:19.247Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tpa52d/square_enix_celebrates_dragon_quest_day_with_xii/",
+        "postedAt": "2026-05-27T17:13:46.366Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tovpgw/save_50_on_there_is_no_game_wrong_dimension_on/",
-    "steam_sales": "sale_2495100",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tp35hf/pokemon_x_target_30th_anniversary_collection_is/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tp9w3y/city_climber_is_80_off_till_6th_june_099/",
+    "steam_sales": "sale_2175540",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tpa52d/square_enix_celebrates_dragon_quest_day_with_xii/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
