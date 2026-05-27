@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-27T01:05:45.373Z",
+  "lastRun": "2026-05-27T05:37:03.041Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tdmwgo/save_80_on_dying_light_definitive_10th/",
-        "postedAt": "2026-05-15T07:18:39.430Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tdpuai/save_20_on_island_market_simulator_on_steam/",
         "postedAt": "2026-05-15T09:14:16.986Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tomtln/save_80_on_the_surge_augmented_edition/",
         "postedAt": "2026-05-26T23:30:33.904Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tovpgw/save_50_on_there_is_no_game_wrong_dimension_on/",
+        "postedAt": "2026-05-27T05:37:03.041Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2842040",
-        "postedAt": "2026-05-03T18:25:46.412Z"
-      },
       {
         "id": "sale_1237950",
         "postedAt": "2026-05-03T20:18:54.307Z"
@@ -804,13 +800,13 @@
       {
         "id": "sale_1623730",
         "postedAt": "2026-05-26T23:30:33.904Z"
+      },
+      {
+        "id": "sale_2499860",
+        "postedAt": "2026-05-27T05:37:03.041Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tetq93/subnautica_2_devs_are_trying_to_push_players/",
-        "postedAt": "2026-05-16T13:36:03.755Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tew0fz/never_knew_how_to_get_into_dd_or_tired_of/",
         "postedAt": "2026-05-16T16:25:12.201Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tooj9i/season_2_cinematic_trailer_marathon/",
         "postedAt": "2026-05-27T01:05:45.373Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tothm8/diablo_4_lead_marcin_undak_says_small_teams/",
+        "postedAt": "2026-05-27T05:37:03.041Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tomtln/save_80_on_the_surge_augmented_edition/",
-    "steam_sales": "sale_1623730",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tooj9i/season_2_cinematic_trailer_marathon/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tovpgw/save_50_on_there_is_no_game_wrong_dimension_on/",
+    "steam_sales": "sale_2499860",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tothm8/diablo_4_lead_marcin_undak_says_small_teams/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
