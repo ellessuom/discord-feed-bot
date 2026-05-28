@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-05-28T22:37:10.678Z",
+  "lastRun": "2026-05-28T23:34:07.509Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1thz4d7/steam_ratalorica_34930_off/",
-        "postedAt": "2026-05-19T20:41:15.743Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ti0bz7/terminator_2d_no_fate_30_off_offer_ends_may_27th/",
-        "postedAt": "2026-05-19T21:37:05.684Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ti3fpq/save_100_on_dino_running_from_a_furry/",
-        "postedAt": "2026-05-19T23:31:09.657Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tih73f/save_85_on_maneater/",
-        "postedAt": "2026-05-20T11:08:42.484Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tir7kf/save_10_on_phonopolis_1979_launch_sale/",
         "postedAt": "2026-05-20T17:13:00.873Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tqhxya/save_80_on_my_time_at_portia_on_steam/",
         "postedAt": "2026-05-28T22:37:10.678Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqiii0/save_50_on_powerwash_simulator_on_steam/",
+        "postedAt": "2026-05-28T23:34:07.509Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqhy95/save_65_on_forager_on_steam/",
+        "postedAt": "2026-05-28T23:34:07.509Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqgdyr/save_40_on_chants_of_sennaar_on_steam/",
+        "postedAt": "2026-05-28T23:34:07.509Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqdxxg/save_90_on_middleearth_the_shadow_bundle_on_steam/",
+        "postedAt": "2026-05-28T23:34:07.509Z"
       }
     ],
     "steam_sales": [
@@ -808,18 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tifrxj/gaming_is_more_expensive_than_ever_not_only_have/",
-        "postedAt": "2026-05-20T09:18:35.671Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tiglo4/returnal_director_founds_new_game_studio_to/",
-        "postedAt": "2026-05-20T11:08:42.484Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tige3c/warhorse_confirms_new_kingdom_come_and_lord_of/",
-        "postedAt": "2026-05-20T11:08:42.484Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tijk8d/iowa_man_sues_nintendo_after_being_denied_pokémon/",
         "postedAt": "2026-05-20T13:05:14.613Z"
       },
@@ -1206,6 +1194,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tqigew/xbox_game_pass_price_cut_is_working_ceo_says/",
         "postedAt": "2026-05-28T22:37:10.678Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tqka1w/call_of_duty_modern_warfare_4_reveal_trailer/",
+        "postedAt": "2026-05-28T23:34:07.509Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tqk24s/steam_deck_sells_out_in_north_america_within_24/",
+        "postedAt": "2026-05-28T23:34:07.509Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tqj0go/rockstar_developers_go_public_with_first_union/",
+        "postedAt": "2026-05-28T23:34:07.509Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tqhxya/save_80_on_my_time_at_portia_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tqdxxg/save_90_on_middleearth_the_shadow_bundle_on_steam/",
     "steam_sales": "sale_626153",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tqigew/xbox_game_pass_price_cut_is_working_ceo_says/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tqj0go/rockstar_developers_go_public_with_first_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
