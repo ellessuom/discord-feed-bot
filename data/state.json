@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-05-28T03:20:21.714Z",
+  "lastRun": "2026-05-28T05:32:34.519Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tffqp6/save_55_on_v_rising/",
-        "postedAt": "2026-05-17T05:24:13.045Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tflgc8/save_21_on_your_mom/",
-        "postedAt": "2026-05-17T10:35:31.686Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tfqtep/save_75_on_the_blood_mage_049/",
         "postedAt": "2026-05-17T14:36:02.820Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tppvii/food_store_simulator_steam_80_off_079/",
         "postedAt": "2026-05-28T03:20:21.714Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tps70o/save_80_on_dead_island_2_on_steam/",
+        "postedAt": "2026-05-28T05:32:34.519Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tprxw6/save_90_on_arctico_on_steam/",
+        "postedAt": "2026-05-28T05:32:34.519Z"
       }
     ],
     "steam_sales": [
@@ -1253,7 +1253,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tppvii/food_store_simulator_steam_80_off_079/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tprxw6/save_90_on_arctico_on_steam/",
     "steam_sales": "sale_990080",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tpn4s6/og_halo_artist_says_campaign_evolveds_visuals/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
