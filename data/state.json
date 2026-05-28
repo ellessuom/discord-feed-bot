@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-28T13:27:55.640Z",
+  "lastRun": "2026-05-28T15:17:47.152Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3242950",
-        "postedAt": "2026-05-05T15:44:00.429Z"
-      },
-      {
         "id": "sale_3404260",
         "postedAt": "2026-05-05T16:40:56.993Z"
       },
@@ -804,17 +800,13 @@
       {
         "id": "sale_990080",
         "postedAt": "2026-05-28T03:20:21.714Z"
+      },
+      {
+        "id": "sale_3198890",
+        "postedAt": "2026-05-28T15:17:47.152Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1thg7f6/gta_6_was_supposed_to_launch_in_spring_2025/",
-        "postedAt": "2026-05-19T09:21:00.613Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1thj1tb/star_wars_the_old_republic_director_james_ohlen/",
-        "postedAt": "2026-05-19T11:11:00.433Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1thj0l3/its_official_steam_decrees_bullet_heaven_the_name/",
         "postedAt": "2026-05-19T11:11:00.433Z"
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tpznbc/no_mans_sky_the_swarm_trailer/",
         "postedAt": "2026-05-28T11:20:25.863Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tq4l74/nintendo_president_suggests_company_does_not_want/",
+        "postedAt": "2026-05-28T15:17:47.152Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tq3qaz/fortnites_global_ios_return_reportedly_reaches/",
+        "postedAt": "2026-05-28T15:17:47.152Z"
       }
     ],
     "steam_2073850": [
@@ -1258,8 +1258,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tq0u44/save_40_on_blue_prince_on_steam/",
-    "steam_sales": "sale_990080",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tpznbc/no_mans_sky_the_swarm_trailer/",
+    "steam_sales": "sale_3198890",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tq3qaz/fortnites_global_ios_return_reportedly_reaches/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
