@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-05-28T21:44:10.656Z",
+  "lastRun": "2026-05-28T22:37:10.678Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1thoulw/save_77_on_sonucido_the_mage_183_183_historical/",
-        "postedAt": "2026-05-19T15:13:48.232Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1thriqv/steam_anomaly_404_47920_off/",
-        "postedAt": "2026-05-19T17:05:32.151Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1threbw/save_89_on_faery_legends_of_avalon_079/",
-        "postedAt": "2026-05-19T17:05:32.151Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1thtljp/save_90_on_call_of_juarez_gunslinger_on_steam/",
-        "postedAt": "2026-05-19T18:45:44.380Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1thz4d7/steam_ratalorica_34930_off/",
         "postedAt": "2026-05-19T20:41:15.743Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tqaako/save_85_on_just_cause_3_on_steam/",
         "postedAt": "2026-05-28T21:44:10.656Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqijiw/save_40_on_return_of_the_obra_dinn/",
+        "postedAt": "2026-05-28T22:37:10.678Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqiixh/save_15_on_powerwash_simulator_2_on_steam/",
+        "postedAt": "2026-05-28T22:37:10.678Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqhyk6/save_60_on_unpacking_on_steam/",
+        "postedAt": "2026-05-28T22:37:10.678Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqhxya/save_80_on_my_time_at_portia_on_steam/",
+        "postedAt": "2026-05-28T22:37:10.678Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_548430",
-        "postedAt": "2026-05-06T19:38:44.384Z"
-      },
       {
         "id": "sale_3672400",
         "postedAt": "2026-05-06T22:22:47.285Z"
@@ -804,13 +800,13 @@
       {
         "id": "sale_489830",
         "postedAt": "2026-05-28T20:53:45.809Z"
+      },
+      {
+        "id": "sale_626153",
+        "postedAt": "2026-05-28T22:37:10.678Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ticevq/its_been_wrong_for_20_years_rdr2s_arthur_morgan/",
-        "postedAt": "2026-05-20T07:25:58.950Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tifrxj/gaming_is_more_expensive_than_ever_not_only_have/",
         "postedAt": "2026-05-20T09:18:35.671Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tqhgn2/xbox_ceo_asha_sharma_warns_tough_decisions_are/",
         "postedAt": "2026-05-28T21:44:10.656Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tqigew/xbox_game_pass_price_cut_is_working_ceo_says/",
+        "postedAt": "2026-05-28T22:37:10.678Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tqaako/save_85_on_just_cause_3_on_steam/",
-    "steam_sales": "sale_489830",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tqhgn2/xbox_ceo_asha_sharma_warns_tough_decisions_are/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tqhxya/save_80_on_my_time_at_portia_on_steam/",
+    "steam_sales": "sale_626153",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tqigew/xbox_game_pass_price_cut_is_working_ceo_says/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
