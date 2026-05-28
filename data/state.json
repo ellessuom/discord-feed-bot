@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-05-28T00:59:18.375Z",
+  "lastRun": "2026-05-28T03:20:21.714Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tey0qv/save_30_on_chicos_rebound_559/",
-        "postedAt": "2026-05-16T16:25:12.201Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tf2wfz/save_89_on_sizeable_079/",
-        "postedAt": "2026-05-16T19:29:45.630Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tffqp6/save_55_on_v_rising/",
         "postedAt": "2026-05-17T05:24:13.045Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tpmjal/steam_food_store_simulator_80_off_079/",
         "postedAt": "2026-05-28T00:59:18.375Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tppxue/aquarist_steam_60_off/",
+        "postedAt": "2026-05-28T03:20:21.714Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tppvii/food_store_simulator_steam_80_off_079/",
+        "postedAt": "2026-05-28T03:20:21.714Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3681010",
-        "postedAt": "2026-05-05T07:45:52.694Z"
-      },
       {
         "id": "sale_3242950",
         "postedAt": "2026-05-05T15:44:00.429Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1569580",
         "postedAt": "2026-05-27T22:37:40.115Z"
+      },
+      {
+        "id": "sale_990080",
+        "postedAt": "2026-05-28T03:20:21.714Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1253,8 +1253,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tpmjal/steam_food_store_simulator_80_off_079/",
-    "steam_sales": "sale_1569580",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tppvii/food_store_simulator_steam_80_off_079/",
+    "steam_sales": "sale_990080",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tpn4s6/og_halo_artist_says_campaign_evolveds_visuals/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
