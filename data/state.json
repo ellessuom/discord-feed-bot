@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-05-28T20:53:45.809Z",
+  "lastRun": "2026-05-28T21:44:10.656Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1th0ya0/bioshock_remastered_75_499/",
-        "postedAt": "2026-05-18T21:32:45.801Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1th2xab/save_93_on_big_byz_wars_on_steam/",
-        "postedAt": "2026-05-18T22:26:47.394Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1th42x4/save_33_on_berry_bury_berry_535_new_historic_low/",
-        "postedAt": "2026-05-18T23:29:02.640Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1th7ya7/save_40_on_kaamos_puzzle_roguelike_on_steam/",
-        "postedAt": "2026-05-19T03:17:35.520Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1thoulw/save_77_on_sonucido_the_mage_183_183_historical/",
         "postedAt": "2026-05-19T15:13:48.232Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tqaatn/save_90_on_just_cause_2_on_steam/",
         "postedAt": "2026-05-28T20:53:45.809Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqdyju/save_66_on_just_cause_collection_on_steam/",
+        "postedAt": "2026-05-28T21:44:10.656Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqb8sk/my_game_zona_project_x_vr_is_75_off_on_steam/",
+        "postedAt": "2026-05-28T21:44:10.656Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqaftn/save_30_on_retrowave_on_steam/",
+        "postedAt": "2026-05-28T21:44:10.656Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqaako/save_85_on_just_cause_3_on_steam/",
+        "postedAt": "2026-05-28T21:44:10.656Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tidq5g/darksiders_warmastered_edition_ps5_upgrade_is/",
-        "postedAt": "2026-05-20T07:25:58.950Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ticevq/its_been_wrong_for_20_years_rdr2s_arthur_morgan/",
         "postedAt": "2026-05-20T07:25:58.950Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tqd04o/persona_6_protagonist_and_release_date_reportedly/",
         "postedAt": "2026-05-28T20:53:45.809Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tqhgn2/xbox_ceo_asha_sharma_warns_tough_decisions_are/",
+        "postedAt": "2026-05-28T21:44:10.656Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tqaatn/save_90_on_just_cause_2_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tqaako/save_85_on_just_cause_3_on_steam/",
     "steam_sales": "sale_489830",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tqd04o/persona_6_protagonist_and_release_date_reportedly/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tqhgn2/xbox_ceo_asha_sharma_warns_tough_decisions_are/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
