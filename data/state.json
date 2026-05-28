@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-05-28T15:17:47.152Z",
+  "lastRun": "2026-05-28T17:24:33.599Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tg0e6u/save_90_on_primal_carnage_extinction_on_steam/",
-        "postedAt": "2026-05-17T20:22:48.633Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tfzgyd/save_90_on_homefront_the_revolution_on_steam/",
-        "postedAt": "2026-05-17T20:22:48.633Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tg1wf4/save_80_on_hitman_world_of_assassination_on_steam/",
-        "postedAt": "2026-05-17T21:23:34.410Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tgcwp7/save_62_on_warspace_on_steam/",
-        "postedAt": "2026-05-18T05:31:16.256Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tgfhmb/save_30_on_the_lion_gambles_everything_he_owns_069/",
         "postedAt": "2026-05-18T09:23:21.847Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tq0u44/save_40_on_blue_prince_on_steam/",
         "postedAt": "2026-05-28T13:27:55.640Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqa6g6/the_room_series_sale_1234/",
+        "postedAt": "2026-05-28T17:24:33.599Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqa4jw/save_40_on_passpartout_2_the_lost_artist_on_steam/",
+        "postedAt": "2026-05-28T17:24:33.599Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tq9a74/save_100_on_drift86_on_steam/",
+        "postedAt": "2026-05-28T17:24:33.599Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tq6qsk/save_87_on_wigmund_on_steam/",
+        "postedAt": "2026-05-28T17:24:33.599Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3404260",
-        "postedAt": "2026-05-05T16:40:56.993Z"
-      },
-      {
-        "id": "sale_2830030",
-        "postedAt": "2026-05-05T16:40:56.993Z"
-      },
       {
         "id": "sale_440900",
         "postedAt": "2026-05-05T18:40:25.460Z"
@@ -804,25 +796,17 @@
       {
         "id": "sale_3198890",
         "postedAt": "2026-05-28T15:17:47.152Z"
+      },
+      {
+        "id": "sale_3583210",
+        "postedAt": "2026-05-28T17:24:33.599Z"
+      },
+      {
+        "id": "sale_2904040",
+        "postedAt": "2026-05-28T17:24:33.599Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1thj0l3/its_official_steam_decrees_bullet_heaven_the_name/",
-        "postedAt": "2026-05-19T11:11:00.433Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1thrjrj/cozy_bugcatching_game_kabuto_park_coming_to/",
-        "postedAt": "2026-05-19T17:05:32.151Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1thxdgg/xbox_begs_fans_for_feedback_gets_brutal_verdict/",
-        "postedAt": "2026-05-19T19:38:54.719Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1thx57i/far_far_west_publisher_says_we_dont_work_with/",
-        "postedAt": "2026-05-19T19:38:54.719Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1thzf76/tethergeist_released_on_steam_and_nintendo_switch/",
         "postedAt": "2026-05-19T20:41:15.743Z"
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tq3qaz/fortnites_global_ios_return_reportedly_reaches/",
         "postedAt": "2026-05-28T15:17:47.152Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tq9oxx/lonestar/",
+        "postedAt": "2026-05-28T17:24:33.599Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tq9oau/calico/",
+        "postedAt": "2026-05-28T17:24:33.599Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tq8ed7/gta_6_developers_announce_rockstar_games_union/",
+        "postedAt": "2026-05-28T17:24:33.599Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tq7s2m/call_of_duty_modern_warfare_4_will_be_the_first/",
+        "postedAt": "2026-05-28T17:24:33.599Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tq0u44/save_40_on_blue_prince_on_steam/",
-    "steam_sales": "sale_3198890",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tq3qaz/fortnites_global_ios_return_reportedly_reaches/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tq6qsk/save_87_on_wigmund_on_steam/",
+    "steam_sales": "sale_2904040",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tq7s2m/call_of_duty_modern_warfare_4_will_be_the_first/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
