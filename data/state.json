@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-29T13:19:47.620Z",
+  "lastRun": "2026-05-29T15:14:58.890Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tjkwwx/10_lowbudget_games_that_made_millions/",
-        "postedAt": "2026-05-21T15:14:35.729Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tjq2rc/playstations_mysterious_dynamic_pricing/",
         "postedAt": "2026-05-21T17:01:30.164Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tr0bjb/atre_dominance_wars_official_release_date_trailer/",
         "postedAt": "2026-05-29T13:19:47.619Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tr3bj4/taketwo_ceo_says_former_rockstar_employees_have/",
+        "postedAt": "2026-05-29T15:14:58.890Z"
       }
     ],
     "steam_2073850": [
@@ -1259,7 +1259,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tqpte1/save_85_on_car_mechanic_simulator_2021_on_steam/",
     "steam_sales": "sale_1943950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tr0bjb/atre_dominance_wars_official_release_date_trailer/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tr3bj4/taketwo_ceo_says_former_rockstar_employees_have/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
