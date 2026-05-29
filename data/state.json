@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-29T20:54:54.264Z",
+  "lastRun": "2026-05-29T21:40:15.140Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tjqvmj/save_100_on_car_mechanic_simulator_2018_on_steam/",
-        "postedAt": "2026-05-21T18:46:29.918Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tju3bo/saints_row_the_third_remastered_90_299/",
         "postedAt": "2026-05-21T19:38:13.634Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tr8zpv/save_75_on_gang_beasts_on_steam/",
         "postedAt": "2026-05-29T19:00:57.924Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1trfngp/when_will_ets2_go_on_sale_again/",
+        "postedAt": "2026-05-29T21:40:15.140Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tr8zpv/save_75_on_gang_beasts_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1trfngp/when_will_ets2_go_on_sale_again/",
     "steam_sales": "sale_1588213",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1trczem/helldivers_2s_longawaited_dlss_update_appears/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
