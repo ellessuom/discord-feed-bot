@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-29T07:32:26.443Z",
+  "lastRun": "2026-05-29T09:21:28.384Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tj6hof/save_50_on_stray_on_steam_historical_low/",
-        "postedAt": "2026-05-21T03:18:18.392Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tja2s2/save_75_for_journey_on_steam_374_349/",
         "postedAt": "2026-05-21T05:32:59.049Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tqgcdr/save_50_on_ready_or_not_on_steam/",
         "postedAt": "2026-05-29T03:18:44.351Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tqpte1/save_85_on_car_mechanic_simulator_2021_on_steam/",
+        "postedAt": "2026-05-29T09:21:28.384Z"
       }
     ],
     "steam_sales": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tj0z71/an_81yearold_grandma_streaming_minecraft_to_pay/",
-        "postedAt": "2026-05-20T22:36:20.479Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tj2hv6/remain_at_your_desk_preview_a_new_york_solo_devs/",
-        "postedAt": "2026-05-20T23:33:20.893Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tjgmrp/ubisoft_has_reduced_its_headcount_by_over_1000/",
         "postedAt": "2026-05-21T11:11:41.856Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tqsbsn/its_actually_been_pretty_smooth_infinity_ward_on/",
         "postedAt": "2026-05-29T07:32:26.443Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tqvggv/my_little_puppy_launch_trailer_ps5_games/",
+        "postedAt": "2026-05-29T09:21:28.384Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tqux3k/arc_raiders_wins_nordic_game_of_the_year_at_the/",
+        "postedAt": "2026-05-29T09:21:28.384Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tqgcdr/save_50_on_ready_or_not_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tqpte1/save_85_on_car_mechanic_simulator_2021_on_steam/",
     "steam_sales": "sale_1943950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tqsbsn/its_actually_been_pretty_smooth_infinity_ward_on/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tqux3k/arc_raiders_wins_nordic_game_of_the_year_at_the/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
