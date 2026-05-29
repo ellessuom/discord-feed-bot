@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-05-29T15:14:58.890Z",
+  "lastRun": "2026-05-29T19:00:57.924Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tja2s2/save_75_for_journey_on_steam_374_349/",
-        "postedAt": "2026-05-21T05:32:59.049Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tjpnrj/save_85_on_total_war_warhammer_iii_on_steam/",
-        "postedAt": "2026-05-21T17:01:30.164Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tjphjt/save_100_on_warhammer_40000_gladius_relics_of_war/",
-        "postedAt": "2026-05-21T17:01:30.164Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tjqvmj/save_100_on_car_mechanic_simulator_2018_on_steam/",
         "postedAt": "2026-05-21T18:46:29.918Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tqpte1/save_85_on_car_mechanic_simulator_2021_on_steam/",
         "postedAt": "2026-05-29T09:21:28.384Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tr90e6/save_20_on_chained_together_on_steam/",
+        "postedAt": "2026-05-29T19:00:57.924Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tr901q/save_90_on_thief_simulator_on_steam/",
+        "postedAt": "2026-05-29T19:00:57.924Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tr8zpv/save_75_on_gang_beasts_on_steam/",
+        "postedAt": "2026-05-29T19:00:57.924Z"
       }
     ],
     "steam_sales": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tjq2rc/playstations_mysterious_dynamic_pricing/",
-        "postedAt": "2026-05-21T17:01:30.164Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tjp0ke/over_the_year_ubisoft_lost_more_than_13_billion/",
-        "postedAt": "2026-05-21T17:01:30.164Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tjor1z/star_wars_fate_of_the_old_republic_will_be_under/",
         "postedAt": "2026-05-21T17:01:30.164Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tr3bj4/taketwo_ceo_says_former_rockstar_employees_have/",
         "postedAt": "2026-05-29T15:14:58.890Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1trb6jn/tim_sweeney_goes_after_gabe_newell_following/",
+        "postedAt": "2026-05-29T19:00:57.924Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1trb5uy/despite_uncertainty_over_exclusivity_xbox_will/",
+        "postedAt": "2026-05-29T19:00:57.924Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tqpte1/save_85_on_car_mechanic_simulator_2021_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tr8zpv/save_75_on_gang_beasts_on_steam/",
     "steam_sales": "sale_1943950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tr3bj4/taketwo_ceo_says_former_rockstar_employees_have/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1trb5uy/despite_uncertainty_over_exclusivity_xbox_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
