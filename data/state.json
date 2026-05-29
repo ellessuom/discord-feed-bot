@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-29T05:35:26.912Z",
+  "lastRun": "2026-05-29T07:32:26.443Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tijk8d/iowa_man_sues_nintendo_after_being_denied_pokémon/",
-        "postedAt": "2026-05-20T13:05:14.613Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1titmq2/for_several_years_now_i_have_been_singlehandedly/",
-        "postedAt": "2026-05-20T18:57:00.266Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tisxz0/subnautica_2s_eula_is_so_severe_that_even_this/",
-        "postedAt": "2026-05-20T18:57:00.266Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tizcmg/switch_2_was_the_bestselling_hardware_in_both/",
-        "postedAt": "2026-05-20T21:39:24.980Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tj0z71/an_81yearold_grandma_streaming_minecraft_to_pay/",
         "postedAt": "2026-05-20T22:36:20.479Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tqj0go/rockstar_developers_go_public_with_first_union/",
         "postedAt": "2026-05-28T23:34:07.509Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tqte7u/subnautica_2_publisher_krafton_now_forced_to_pay/",
+        "postedAt": "2026-05-29T07:32:26.443Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tqtbwr/007_first_light_put_up_massive_launchday_sales/",
+        "postedAt": "2026-05-29T07:32:26.443Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tqtbka/witcher_3_sales_hit_65_million_ahead_of_new_dlc/",
+        "postedAt": "2026-05-29T07:32:26.443Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tqsbsn/its_actually_been_pretty_smooth_infinity_ward_on/",
+        "postedAt": "2026-05-29T07:32:26.443Z"
       }
     ],
     "steam_2073850": [
@@ -1259,7 +1259,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tqgcdr/save_50_on_ready_or_not_on_steam/",
     "steam_sales": "sale_1943950",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tqj0go/rockstar_developers_go_public_with_first_union/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tqsbsn/its_actually_been_pretty_smooth_infinity_ward_on/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
