@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-29T03:18:44.351Z",
+  "lastRun": "2026-05-29T05:35:26.912Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_646570",
-        "postedAt": "2026-05-07T07:11:24.793Z"
-      },
-      {
         "id": "sale_557569",
         "postedAt": "2026-05-07T07:11:24.793Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_2141730",
         "postedAt": "2026-05-29T03:18:44.351Z"
+      },
+      {
+        "id": "sale_1943950",
+        "postedAt": "2026-05-29T05:35:26.912Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1258,7 +1258,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tqgcdr/save_50_on_ready_or_not_on_steam/",
-    "steam_sales": "sale_2141730",
+    "steam_sales": "sale_1943950",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tqj0go/rockstar_developers_go_public_with_first_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
