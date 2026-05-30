@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-30T08:55:42.754Z",
+  "lastRun": "2026-05-30T11:34:31.446Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1210,10 +1210,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/678497276169028052",
-        "postedAt": "2026-04-30T10:41:03.205Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/678497909513126620",
         "postedAt": "2026-05-07T10:48:40.911Z"
       },
@@ -1252,6 +1248,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/683003412174864962",
         "postedAt": "2026-05-28T11:20:25.863Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/678497276169028052",
+        "postedAt": "2026-05-30T11:34:31.446Z"
       }
     ]
   },
@@ -1260,6 +1260,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1trtouh/dev_save_60_on_bad_range_on_steam/",
     "steam_sales": "sale_3936730",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1trtj8n/fable_reboot_delayed_to_2027_amid_reported_gta_6/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
