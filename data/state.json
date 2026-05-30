@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-30T03:15:45.379Z",
+  "lastRun": "2026-05-30T07:11:03.168Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tk3xsh/red_dead_redemption_2_overtakes_wii_sports_in/",
-        "postedAt": "2026-05-22T03:18:24.590Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tk3tbr/assassins_creed_black_flag_star_matt_ryan_says/",
-        "postedAt": "2026-05-22T03:18:24.590Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tkc45c/tomb_raider_iiii_remastered_starring_lara_croft/",
         "postedAt": "2026-05-22T09:16:26.629Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1trm4s8/devil_may_cry_humble_bundle_gives_fans_the_full/",
         "postedAt": "2026-05-30T03:15:45.379Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1trsi86/necrophosis_full_consciousness_launch_trailer/",
+        "postedAt": "2026-05-30T07:11:03.168Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1trshac/pawsome_resort_official_early_access_release_date/",
+        "postedAt": "2026-05-30T07:11:03.168Z"
       }
     ],
     "steam_2073850": [
@@ -1259,7 +1259,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1trnwr3/save_59_on_svarogs_dream_definitive_edition/",
     "steam_sales": "sale_3936730",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1trm4s8/devil_may_cry_humble_bundle_gives_fans_the_full/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1trshac/pawsome_resort_official_early_access_release_date/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
