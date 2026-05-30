@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-30T07:11:03.168Z",
+  "lastRun": "2026-05-30T08:55:42.754Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tjtzgv/chorus_90_249/",
-        "postedAt": "2026-05-21T19:38:13.634Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tjwjd7/save_25_off_diablo_ii_resurrected_infernal/",
         "postedAt": "2026-05-21T20:42:17.109Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1trnwr3/save_59_on_svarogs_dream_definitive_edition/",
         "postedAt": "2026-05-30T03:15:45.379Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1trtouh/dev_save_60_on_bad_range_on_steam/",
+        "postedAt": "2026-05-30T08:55:42.754Z"
       }
     ],
     "steam_sales": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tkc45c/tomb_raider_iiii_remastered_starring_lara_croft/",
-        "postedAt": "2026-05-22T09:16:26.629Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tkc3bx/down_in_bermuda/",
-        "postedAt": "2026-05-22T09:16:26.629Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tkfl1m/weekly_rgamingnews_discussion_what_game_you_will/",
         "postedAt": "2026-05-22T11:08:28.919Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1trshac/pawsome_resort_official_early_access_release_date/",
         "postedAt": "2026-05-30T07:11:03.168Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1trtla5/starcraft_2_development_ended_6_years_ago_but/",
+        "postedAt": "2026-05-30T08:55:42.754Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1trtj8n/fable_reboot_delayed_to_2027_amid_reported_gta_6/",
+        "postedAt": "2026-05-30T08:55:42.754Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1trnwr3/save_59_on_svarogs_dream_definitive_edition/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1trtouh/dev_save_60_on_bad_range_on_steam/",
     "steam_sales": "sale_3936730",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1trshac/pawsome_resort_official_early_access_release_date/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1trtj8n/fable_reboot_delayed_to_2027_amid_reported_gta_6/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
