@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-05-30T18:31:04.475Z",
+  "lastRun": "2026-05-30T19:34:49.326Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tkoy7y/save_100_on_bunny_guys_free/",
-        "postedAt": "2026-05-22T17:40:01.511Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tkrw4x/save_70_on_bru_boegie_episode_1_get_da_milk_149/",
-        "postedAt": "2026-05-22T18:44:45.984Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tktovh/my_game_pain_party_is_50_249_off_on_steam/",
-        "postedAt": "2026-05-22T20:41:38.049Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tl30xs/save_89_on_witchaven_i_ii_bundle_on_steam_will_be/",
-        "postedAt": "2026-05-23T03:15:02.943Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tl5t3p/developer_here_spherebuddie_64_available_for_299/",
         "postedAt": "2026-05-23T05:21:30.767Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ts63iz/save_75_on_atomic_heart_on_steam/",
         "postedAt": "2026-05-30T18:31:04.475Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ts6d4z/save_40_on_amugus_on_steam/",
+        "postedAt": "2026-05-30T19:34:49.326Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ts6bm2/save_80_on_mudrunner_on_steam/",
+        "postedAt": "2026-05-30T19:34:49.326Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ts68a6/save_60_on_the_henry_stickmin_collection_on_steam/",
+        "postedAt": "2026-05-30T19:34:49.326Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ts634h/save_70_on_i_have_no_mouth_and_i_must_scream_on/",
+        "postedAt": "2026-05-30T19:34:49.326Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ts63iz/save_75_on_atomic_heart_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ts634h/save_70_on_i_have_no_mouth_and_i_must_scream_on/",
     "steam_sales": "sale_1621690",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ts70ht/into_the_crypt_3d_firstperson_roguelike/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
