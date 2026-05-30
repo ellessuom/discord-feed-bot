@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-30T01:03:06.283Z",
+  "lastRun": "2026-05-30T03:15:45.379Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tju3bo/saints_row_the_third_remastered_90_299/",
-        "postedAt": "2026-05-21T19:38:13.634Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tjtzgv/chorus_90_249/",
         "postedAt": "2026-05-21T19:38:13.634Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1trfngp/when_will_ets2_go_on_sale_again/",
         "postedAt": "2026-05-29T21:40:15.140Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1trnwr3/save_59_on_svarogs_dream_definitive_edition/",
+        "postedAt": "2026-05-30T03:15:45.379Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tk334a/end_of_an_era_for_bungie_means_layoffs_and_no/",
-        "postedAt": "2026-05-22T01:04:22.373Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tk3xsh/red_dead_redemption_2_overtakes_wii_sports_in/",
         "postedAt": "2026-05-22T03:18:24.590Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1trczem/helldivers_2s_longawaited_dlss_update_appears/",
         "postedAt": "2026-05-29T20:54:54.264Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1trm4s8/devil_may_cry_humble_bundle_gives_fans_the_full/",
+        "postedAt": "2026-05-30T03:15:45.379Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1trfngp/when_will_ets2_go_on_sale_again/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1trnwr3/save_59_on_svarogs_dream_definitive_edition/",
     "steam_sales": "sale_3936730",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1trczem/helldivers_2s_longawaited_dlss_update_appears/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1trm4s8/devil_may_cry_humble_bundle_gives_fans_the_full/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
