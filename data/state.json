@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-05-29T21:40:15.140Z",
+  "lastRun": "2026-05-30T01:03:06.283Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,14 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3110760",
-        "postedAt": "2026-05-07T15:02:40.959Z"
-      },
-      {
-        "id": "sale_2582320",
-        "postedAt": "2026-05-07T16:41:18.355Z"
-      },
-      {
         "id": "sale_1659420",
         "postedAt": "2026-05-07T18:43:27.731Z"
       },
@@ -804,6 +796,14 @@
       {
         "id": "sale_1588213",
         "postedAt": "2026-05-29T20:54:54.264Z"
+      },
+      {
+        "id": "sale_1295510",
+        "postedAt": "2026-05-30T01:03:06.283Z"
+      },
+      {
+        "id": "sale_3936730",
+        "postedAt": "2026-05-30T01:03:06.283Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1258,7 +1258,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1trfngp/when_will_ets2_go_on_sale_again/",
-    "steam_sales": "sale_1588213",
+    "steam_sales": "sale_3936730",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1trczem/helldivers_2s_longawaited_dlss_update_appears/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
