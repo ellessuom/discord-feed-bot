@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-30T13:36:11.425Z",
+  "lastRun": "2026-05-30T15:32:19.642Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tjwjd7/save_25_off_diablo_ii_resurrected_infernal/",
-        "postedAt": "2026-05-21T20:42:17.109Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tjxo5g/save_80_on_aquanox_aquanox_2_159/",
         "postedAt": "2026-05-21T21:36:55.842Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1trtouh/dev_save_60_on_bad_range_on_steam/",
         "postedAt": "2026-05-30T08:55:42.754Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ts2g4t/save_60_on_parkitect_on_steam_cozy_family/",
+        "postedAt": "2026-05-30T15:32:19.642Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1trtouh/dev_save_60_on_bad_range_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ts2g4t/save_60_on_parkitect_on_steam_cozy_family/",
     "steam_sales": "sale_1621690",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1trz733/our_game_is_a_dark_lovecraftian_world_with_the/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
