@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-05-31T13:37:21.003Z",
+  "lastRun": "2026-05-31T17:28:49.274Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tlu9wf/save_50_on_school_hero_on_steam/",
-        "postedAt": "2026-05-23T23:24:45.470Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tm45fz/save_85_on_morbid_the_seven_acolytes_on_steam_374/",
-        "postedAt": "2026-05-24T07:16:19.835Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tm5qrz/save_86_on_dungeon_siege_on_steam_097/",
-        "postedAt": "2026-05-24T08:59:29.211Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tmapww/save_10_on_the_house_always_wins_629/",
         "postedAt": "2026-05-24T12:33:04.166Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tsv4co/developer_here_spherebuddie_64_available_for_299/",
         "postedAt": "2026-05-31T13:37:21.003Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tt0y2m/save_90_on_limbo_on_steam/",
+        "postedAt": "2026-05-31T17:28:49.274Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tt0xwj/save_75_on_outlast_2_on_steam/",
+        "postedAt": "2026-05-31T17:28:49.274Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tt0xql/save_75_on_outlast_on_steam/",
+        "postedAt": "2026-05-31T17:28:49.274Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tsv4co/developer_here_spherebuddie_64_available_for_299/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tt0xql/save_75_on_outlast_on_steam/",
     "steam_sales": "sale_482400",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tsqua6/the_remarkable_story_of_unreal_2_the_sequel/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
