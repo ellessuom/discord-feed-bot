@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-31T20:30:38.872Z",
+  "lastRun": "2026-05-31T22:27:12.276Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tnfy1s/save_67_on_grand_theft_auto_the_trilogy/",
-        "postedAt": "2026-05-25T17:37:09.066Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tnggo4/save_95_on_soundfall_on_steam/",
         "postedAt": "2026-05-25T18:42:07.666Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tt3jda/save_38_on_content_warning_on_steam/",
         "postedAt": "2026-05-31T20:30:38.872Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tt88f3/save_90_on_frostpunk_299/",
+        "postedAt": "2026-05-31T22:27:12.276Z"
       }
     ],
     "steam_sales": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tkruae/yes_fable_is_still_coming_to_ps5_despite_xboxs/",
-        "postedAt": "2026-05-22T18:44:45.984Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tkr8lt/valve_remains_silent_as_racist_plantation_sim/",
-        "postedAt": "2026-05-22T18:44:45.984Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tkufnp/tiny_shop_open_playtest_is_now_live_a_cozy/",
         "postedAt": "2026-05-22T20:41:38.049Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tsqua6/the_remarkable_story_of_unreal_2_the_sequel/",
         "postedAt": "2026-05-31T10:45:01.256Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tt8lq0/top_10_best_games_of_2026_so_far/",
+        "postedAt": "2026-05-31T22:27:12.276Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tt84wk/tomodachi_life_living_the_dream_was_april_2026s/",
+        "postedAt": "2026-05-31T22:27:12.276Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tt3jda/save_38_on_content_warning_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tt88f3/save_90_on_frostpunk_299/",
     "steam_sales": "sale_482400",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tsqua6/the_remarkable_story_of_unreal_2_the_sequel/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tt84wk/tomodachi_life_living_the_dream_was_april_2026s/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
