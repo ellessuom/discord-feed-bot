@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-05-31T17:28:49.274Z",
+  "lastRun": "2026-05-31T19:34:03.287Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tmapww/save_10_on_the_house_always_wins_629/",
-        "postedAt": "2026-05-24T12:33:04.166Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tml1dw/save_70_on_planet_zoo_on_steam_1544_cad_dlc/",
-        "postedAt": "2026-05-24T19:34:07.374Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tmo195/developer_of_toyful_wonderworld_here_the_game_is/",
-        "postedAt": "2026-05-24T21:23:58.778Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tmnyqn/my_kings_field_inspired_dungeon_crawler_is_40_off/",
-        "postedAt": "2026-05-24T21:23:58.778Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tmp60a/save_80_on_back_to_modern_world_fantasy_hero_on/",
         "postedAt": "2026-05-24T22:25:06.544Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tt0xql/save_75_on_outlast_on_steam/",
         "postedAt": "2026-05-31T17:28:49.274Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tt3koi/save_45_on_dollmare_on_steam/",
+        "postedAt": "2026-05-31T19:34:03.287Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tt3k4g/save_90_on_inside_on_steam/",
+        "postedAt": "2026-05-31T19:34:03.287Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tt3jve/save_66_on_totally_accurate_battle_simulator_on/",
+        "postedAt": "2026-05-31T19:34:03.287Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tt3jlk/save_60_on_stick_fight_the_game_on_steam/",
+        "postedAt": "2026-05-31T19:34:03.287Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tt0xql/save_75_on_outlast_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tt3jlk/save_60_on_stick_fight_the_game_on_steam/",
     "steam_sales": "sale_482400",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tsqua6/the_remarkable_story_of_unreal_2_the_sequel/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
