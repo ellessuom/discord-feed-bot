@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-05-31T05:38:25.801Z",
+  "lastRun": "2026-05-31T10:45:01.256Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tlab3t/save_50_on_outer_wilds_on_steam/",
-        "postedAt": "2026-05-23T08:49:13.534Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tlfjzg/save_65_on_daisy_flies_to_the_moon_174/",
         "postedAt": "2026-05-23T13:36:25.050Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ts699e/save_80_on_daemon_x_machina_titanic_scion_on_steam/",
         "postedAt": "2026-05-30T20:28:08.011Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tsrsw3/save_70_on_a_plague_tale_requiem_on_steam/",
+        "postedAt": "2026-05-31T10:45:01.256Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tkjdrw/io_interactive_and_amazon_mgm_studios_unveil_the/",
-        "postedAt": "2026-05-22T15:09:50.559Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tkruae/yes_fable_is_still_coming_to_ps5_despite_xboxs/",
         "postedAt": "2026-05-22T18:44:45.984Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tskglj/mina_the_hollower_out_now/",
         "postedAt": "2026-05-31T05:38:25.801Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tsqua6/the_remarkable_story_of_unreal_2_the_sequel/",
+        "postedAt": "2026-05-31T10:45:01.256Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ts699e/save_80_on_daemon_x_machina_titanic_scion_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tsrsw3/save_70_on_a_plague_tale_requiem_on_steam/",
     "steam_sales": "sale_482400",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tskglj/mina_the_hollower_out_now/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tsqua6/the_remarkable_story_of_unreal_2_the_sequel/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
