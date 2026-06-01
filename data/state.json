@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-05-31T22:27:12.276Z",
+  "lastRun": "2026-06-01T01:12:50.834Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tnggo4/save_95_on_soundfall_on_steam/",
-        "postedAt": "2026-05-25T18:42:07.666Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tnk7a6/save_94_on_mind_scanners_083_new_historical_low/",
-        "postedAt": "2026-05-25T20:36:37.697Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tnjr6q/save_77_on_robo_pose_on_steam_068/",
-        "postedAt": "2026-05-25T20:36:37.697Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tnn393/save_60_on_no_mans_sky/",
-        "postedAt": "2026-05-25T22:28:17.498Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tnpp7d/save_90_on_deus_ex_human_revolution/",
         "postedAt": "2026-05-26T01:02:27.250Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tt88f3/save_90_on_frostpunk_299/",
         "postedAt": "2026-05-31T22:27:12.276Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ttc24c/save_75_on_the_elder_scrolls_v_skyrim_special/",
+        "postedAt": "2026-06-01T01:12:50.834Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ttc0y8/save_85_on_tomb_raider_game_of_the_year_on_steam/",
+        "postedAt": "2026-06-01T01:12:50.834Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ttc0qu/save_85_on_sleeping_dogs_definitive_edition_on/",
+        "postedAt": "2026-06-01T01:12:50.834Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ttc0bj/save_90_on_metro_last_light_redux_on_steam/",
+        "postedAt": "2026-06-01T01:12:50.834Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tt88f3/save_90_on_frostpunk_299/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ttc0bj/save_90_on_metro_last_light_redux_on_steam/",
     "steam_sales": "sale_482400",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tt84wk/tomodachi_life_living_the_dream_was_april_2026s/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
