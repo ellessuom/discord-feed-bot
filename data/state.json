@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-01T22:07:57.421Z",
+  "lastRun": "2026-06-01T23:35:58.999Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1to1563/save_85_on_ranch_simulator_build_hunt_farm_on/",
-        "postedAt": "2026-05-26T17:12:55.626Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1to150f/save_80_on_detroit_become_human_on_steam/",
-        "postedAt": "2026-05-26T17:12:55.626Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1todiw8/save_80_on_jojos_bizarre_adventure_allstar_battle/",
-        "postedAt": "2026-05-26T18:56:28.489Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1todi94/save_50_on_stray_on_steam/",
-        "postedAt": "2026-05-26T18:56:28.489Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1toilkf/save_50_on_metal_gear_solid_master_collection_vol/",
         "postedAt": "2026-05-26T20:46:09.580Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tu0gwk/save_50_on_batman_the_telltale_series_on_steam/",
         "postedAt": "2026-06-01T22:07:57.421Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0l4r/save_80_on_a_story_about_my_uncle_on_steam/",
+        "postedAt": "2026-06-01T23:35:58.999Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0ihr/save_53_on_pacify_on_steam/",
+        "postedAt": "2026-06-01T23:35:58.999Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0i07/save_66_on_goat_simulator_remastered_on_steam/",
+        "postedAt": "2026-06-01T23:35:58.999Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0fwi/save_75_on_scorn_on_steam/",
+        "postedAt": "2026-06-01T23:35:58.999Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tu0gwk/save_50_on_batman_the_telltale_series_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tu0fwi/save_75_on_scorn_on_steam/",
     "steam_sales": "sale_526870",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tu4x5u/gabe_newell_on_steam_monopoly_accusations_gamers/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
