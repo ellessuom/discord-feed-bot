@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-01T01:12:50.834Z",
+  "lastRun": "2026-06-01T05:46:30.418Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tnpp7d/save_90_on_deus_ex_human_revolution/",
-        "postedAt": "2026-05-26T01:02:27.250Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tnpnf6/save_90_on_deus_ex_mankind_divided_on_steam/",
-        "postedAt": "2026-05-26T01:02:27.250Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tns44i/save_90_on_freedom_fighters/",
         "postedAt": "2026-05-26T03:17:56.546Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ttc0bj/save_90_on_metro_last_light_redux_on_steam/",
         "postedAt": "2026-06-01T01:12:50.834Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ttivvz/save_75_on_moonstone_island_on_steam/",
+        "postedAt": "2026-06-01T05:46:30.418Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ttisem/save_60_on_scum_on_steam/",
+        "postedAt": "2026-06-01T05:46:30.418Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tkufnp/tiny_shop_open_playtest_is_now_live_a_cozy/",
-        "postedAt": "2026-05-22T20:41:38.049Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tkw5em/gta_6_success_may_lead_to_more_studio_purchases/",
         "postedAt": "2026-05-22T21:30:49.846Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tt84wk/tomodachi_life_living_the_dream_was_april_2026s/",
         "postedAt": "2026-05-31T22:27:12.276Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ttiyep/former_bioware_veteran_warns_aaa_gaming_is_too/",
+        "postedAt": "2026-06-01T05:46:30.418Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ttc0bj/save_90_on_metro_last_light_redux_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ttisem/save_60_on_scum_on_steam/",
     "steam_sales": "sale_482400",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tt84wk/tomodachi_life_living_the_dream_was_april_2026s/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ttiyep/former_bioware_veteran_warns_aaa_gaming_is_too/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
