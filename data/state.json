@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-01T18:09:05.390Z",
+  "lastRun": "2026-06-01T20:31:58.621Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1to17cf/save_67_on_phoenix_wright_ace_attorney_trilogy_on/",
-        "postedAt": "2026-05-26T13:13:06.633Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1to15j7/save_70_on_max_payne_3_on_steam/",
-        "postedAt": "2026-05-26T13:13:06.633Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1to128d/tomb_raider_series_on_sale_8090/",
-        "postedAt": "2026-05-26T13:13:06.633Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1to1akl/save_70_on_bendy_and_the_ink_machine_on_steam/",
-        "postedAt": "2026-05-26T15:10:48.202Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1to16re/save_75_on_tom_clancys_splinter_cell_on_steam/",
         "postedAt": "2026-05-26T15:10:48.202Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ttymb4/save_80_on_stronghold_hd_2012_on_steam/",
         "postedAt": "2026-06-01T18:09:05.390Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0ra5/save_50_on_the_stanley_parable_ultra_deluxe_on/",
+        "postedAt": "2026-06-01T20:31:58.621Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0ni6/save_75_on_teenage_mutant_ninja_turtles/",
+        "postedAt": "2026-06-01T20:31:58.621Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0m2t/save_90_on_the_darkness_ii_on_steam/",
+        "postedAt": "2026-06-01T20:31:58.621Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0eqg/save_90_on_hitman_blood_money_on_steam/",
+        "postedAt": "2026-06-01T20:31:58.621Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3526710",
-        "postedAt": "2026-05-08T12:40:29.016Z"
-      },
       {
         "id": "sale_2129530",
         "postedAt": "2026-05-08T15:39:14.125Z"
@@ -804,21 +800,13 @@
       {
         "id": "sale_482400",
         "postedAt": "2026-05-30T20:28:08.011Z"
+      },
+      {
+        "id": "sale_2070270",
+        "postedAt": "2026-06-01T20:31:58.621Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tl8lh4/riot_responds_to_vanguard_bricking_claims_we/",
-        "postedAt": "2026-05-23T07:05:08.512Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tlcfz7/empulse_keeps_building_hype_as_new_gameplay/",
-        "postedAt": "2026-05-23T10:35:42.854Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tlcfuo/i_recently_launched_my_arctic_survival_open_demo/",
-        "postedAt": "2026-05-23T10:35:42.854Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tld45i/almost_all_of_bungie_reportedly_didnt_know/",
         "postedAt": "2026-05-23T11:30:41.296Z"
@@ -1206,6 +1194,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ttyc59/sony_removes_1000_more_ai_slop_games_while_slop/",
         "postedAt": "2026-06-01T18:09:05.390Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tu4rf0/balatro_owner_playstack_sold_to_parent_company_of/",
+        "postedAt": "2026-06-01T20:31:58.621Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tu3ors/star_citizens_squadron_42_campaign_is_crawling/",
+        "postedAt": "2026-06-01T20:31:58.621Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tu3gd0/10_years_after_launch_steam_icon_factorio_gets/",
+        "postedAt": "2026-06-01T20:31:58.621Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ttymb4/save_80_on_stronghold_hd_2012_on_steam/",
-    "steam_sales": "sale_482400",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ttyc59/sony_removes_1000_more_ai_slop_games_while_slop/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tu0eqg/save_90_on_hitman_blood_money_on_steam/",
+    "steam_sales": "sale_2070270",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tu3gd0/10_years_after_launch_steam_icon_factorio_gets/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
