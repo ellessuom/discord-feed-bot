@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-01T15:15:06.433Z",
+  "lastRun": "2026-06-01T18:09:05.390Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1to176o/save_80_on_ultimate_marvel_vs_capcom_3_on_steam/",
-        "postedAt": "2026-05-26T09:22:27.684Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1to1632/save_50_on_grand_theft_auto_v_enhanced_on_steam/",
-        "postedAt": "2026-05-26T09:22:27.684Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1to15cv/save_75_on_max_payne_2_the_fall_of_max_payne_on/",
-        "postedAt": "2026-05-26T09:22:27.684Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1to19lt/save_80_on_dying_light_on_steam/",
-        "postedAt": "2026-05-26T13:13:06.633Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1to17cf/save_67_on_phoenix_wright_ace_attorney_trilogy_on/",
         "postedAt": "2026-05-26T13:13:06.633Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ttp528/save_90_on_alan_wake_on_steam/",
         "postedAt": "2026-06-01T12:57:29.292Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0k2k/save_50_on_wrestling_revolution_3d_on_steam/",
+        "postedAt": "2026-06-01T18:09:05.390Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0iu1/save_60_on_hitman_world_of_assassination_on_steam/",
+        "postedAt": "2026-06-01T18:09:05.390Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ttyn8w/save_100_on_gravity_circuit_free/",
+        "postedAt": "2026-06-01T18:09:05.390Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ttymb4/save_80_on_stronghold_hd_2012_on_steam/",
+        "postedAt": "2026-06-01T18:09:05.390Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tl0prv/clive_barkers_hellraiser_revival_genesis/",
-        "postedAt": "2026-05-23T01:01:12.176Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tl8lh4/riot_responds_to_vanguard_bricking_claims_we/",
         "postedAt": "2026-05-23T07:05:08.512Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ttrgzo/atari_to_acquire_crossy_road_developer_hipster/",
         "postedAt": "2026-06-01T15:15:06.433Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ttyc59/sony_removes_1000_more_ai_slop_games_while_slop/",
+        "postedAt": "2026-06-01T18:09:05.390Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ttp528/save_90_on_alan_wake_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ttymb4/save_80_on_stronghold_hd_2012_on_steam/",
     "steam_sales": "sale_482400",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ttrgzo/atari_to_acquire_crossy_road_developer_hipster/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ttyc59/sony_removes_1000_more_ai_slop_games_while_slop/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
