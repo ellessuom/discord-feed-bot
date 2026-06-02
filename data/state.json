@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-02T22:47:09.084Z",
+  "lastRun": "2026-06-02T23:39:24.318Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tppxue/aquarist_steam_60_off/",
-        "postedAt": "2026-05-28T03:20:21.714Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tppvii/food_store_simulator_steam_80_off_079/",
         "postedAt": "2026-05-28T03:20:21.714Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tuzq70/save_100_on_winexy_on_steam_free/",
         "postedAt": "2026-06-02T19:24:46.182Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tv7vqj/save_70_on_dome_keeper_on_steam/",
+        "postedAt": "2026-06-02T23:39:24.318Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tmkd6k/bungie_reportedly_allowed_destiny_2_devs_to_keep/",
-        "postedAt": "2026-05-24T19:34:07.374Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tmmazv/lego_batman_legacy_of_the_dark_knight_mayhem_dlc/",
         "postedAt": "2026-05-24T20:26:27.414Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tv4jg6/marvels_wolverine_extended_gameplay_trailer_ps5/",
         "postedAt": "2026-06-02T22:47:09.084Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tv7yie/god_of_war_laufey_official_gameplay_reveal_ps5/",
+        "postedAt": "2026-06-02T23:39:24.318Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tuzq70/save_100_on_winexy_on_steam_free/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tv7vqj/save_70_on_dome_keeper_on_steam/",
     "steam_sales": "sale_1371980",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tv4jg6/marvels_wolverine_extended_gameplay_trailer_ps5/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tv7yie/god_of_war_laufey_official_gameplay_reveal_ps5/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
