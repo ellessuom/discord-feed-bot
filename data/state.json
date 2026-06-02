@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-02T03:20:49.701Z",
+  "lastRun": "2026-06-02T05:42:58.295Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tpby0f/save_90_on_bridge_constructor_portal_on_steam/",
-        "postedAt": "2026-05-27T17:13:46.366Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tpbxh5/save_69_on_gtfo_on_steam/",
-        "postedAt": "2026-05-27T17:13:46.366Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tpbx9z/save_67_on_payday_the_heist_on_steam/",
-        "postedAt": "2026-05-27T17:13:46.366Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tp9w3y/city_climber_is_80_off_till_6th_june_099/",
         "postedAt": "2026-05-27T17:13:46.366Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tu0h3w/save_80_on_the_crew_motorfest_on_steam/",
         "postedAt": "2026-06-02T03:20:49.701Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tuhmwc/save_50_on_blood_west_on_steam/",
+        "postedAt": "2026-06-02T05:42:58.295Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tuhmgx/save_60_on_untitled_goose_game_on_steam/",
+        "postedAt": "2026-06-02T05:42:58.295Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tuhmc9/save_100_on_tell_me_why_on_steam/",
+        "postedAt": "2026-06-02T05:42:58.295Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tu0h3w/save_80_on_the_crew_motorfest_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tuhmc9/save_100_on_tell_me_why_on_steam/",
     "steam_sales": "sale_526870",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tubknk/playstation_could_use_more_hits_amid_firstparty/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
