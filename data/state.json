@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-01T23:35:58.999Z",
+  "lastRun": "2026-06-02T01:11:55.553Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1toilkf/save_50_on_metal_gear_solid_master_collection_vol/",
-        "postedAt": "2026-05-26T20:46:09.580Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tok5up/save_85_on_gone_home_on_steam/",
-        "postedAt": "2026-05-26T21:37:10.201Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tomum3/save_85_on_the_surge_2_premium_edition/",
-        "postedAt": "2026-05-26T23:30:33.904Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tomtln/save_80_on_the_surge_augmented_edition/",
-        "postedAt": "2026-05-26T23:30:33.904Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tovpgw/save_50_on_there_is_no_game_wrong_dimension_on/",
         "postedAt": "2026-05-27T05:37:03.041Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tu0fwi/save_75_on_scorn_on_steam/",
         "postedAt": "2026-06-01T23:35:58.999Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tuapj5/save_90_on_fury_unleashed_on_steam/",
+        "postedAt": "2026-06-02T01:11:55.553Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tuaoyw/save_50_on_nightmare_of_decay_on_steam/",
+        "postedAt": "2026-06-02T01:11:55.553Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tu12li/save_20_on_coconut_simulator_2_on_steam/",
+        "postedAt": "2026-06-02T01:11:55.553Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0f9x/save_50_on_the_wolf_among_us_on_steam/",
+        "postedAt": "2026-06-02T01:11:55.553Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tlee8m/released_a_coop_simulator_where_running_a/",
-        "postedAt": "2026-05-23T12:29:45.175Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tlfbr3/microsoft_pays_250_million_to_end_lawsuit_over/",
         "postedAt": "2026-05-23T13:36:25.050Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tu4x5u/gabe_newell_on_steam_monopoly_accusations_gamers/",
         "postedAt": "2026-06-01T22:07:57.421Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tubknk/playstation_could_use_more_hits_amid_firstparty/",
+        "postedAt": "2026-06-02T01:11:55.553Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tu0fwi/save_75_on_scorn_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tu0f9x/save_50_on_the_wolf_among_us_on_steam/",
     "steam_sales": "sale_526870",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tu4x5u/gabe_newell_on_steam_monopoly_accusations_gamers/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tubknk/playstation_could_use_more_hits_amid_firstparty/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
