@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-02T09:37:14.330Z",
+  "lastRun": "2026-06-02T13:30:41.540Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tloqon/bungie_reportedly_preparing_layoffs_as_destiny_2/",
-        "postedAt": "2026-05-23T19:32:26.421Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tlrs7j/forza_horizon_6_sells_49_million_copies_despite/",
         "postedAt": "2026-05-23T21:22:59.858Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tukivp/we_have_opened_a_closed_playtest_of_a_cooperative/",
         "postedAt": "2026-06-02T09:37:14.330Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tuqlq8/the_witcher_4_cinematics_designer_says_people/",
+        "postedAt": "2026-06-02T13:30:41.540Z"
       }
     ],
     "steam_2073850": [
@@ -1259,7 +1259,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tukp9v/the_mobius_machine_is_50_off_this_week_999/",
     "steam_sales": "sale_1659040",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tukivp/we_have_opened_a_closed_playtest_of_a_cooperative/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tuqlq8/the_witcher_4_cinematics_designer_says_people/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
