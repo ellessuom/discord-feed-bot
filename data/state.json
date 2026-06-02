@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-02T21:12:00.200Z",
+  "lastRun": "2026-06-02T22:47:09.084Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2681030",
-        "postedAt": "2026-05-11T19:37:53.293Z"
-      },
-      {
         "id": "sale_1174180",
         "postedAt": "2026-05-11T19:37:53.293Z"
       },
@@ -804,21 +800,13 @@
       {
         "id": "sale_3065800",
         "postedAt": "2026-06-02T21:12:00.200Z"
+      },
+      {
+        "id": "sale_1371980",
+        "postedAt": "2026-06-02T22:47:09.084Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tmexkz/gran_turismo_7_june_2026_free_update_preview/",
-        "postedAt": "2026-05-24T15:30:09.333Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tmjuxa/star_citizen_has_reached_1_billion_in_funding/",
-        "postedAt": "2026-05-24T18:30:11.453Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tmkegx/kingdom_hearts_cloud_demos_removed_from_nintendo/",
-        "postedAt": "2026-05-24T19:34:07.374Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tmkd6k/bungie_reportedly_allowed_destiny_2_devs_to_keep/",
         "postedAt": "2026-05-24T19:34:07.374Z"
@@ -1206,6 +1194,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tuzre1/destiny_2_fans_are_rallying_up_for_final_update/",
         "postedAt": "2026-06-02T19:24:46.182Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tv65d5/marathon_season_2_is_live_and_bungie_just_pressed/",
+        "postedAt": "2026-06-02T22:47:09.084Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tv6344/everything_announced_at_playstations_june_2026/",
+        "postedAt": "2026-06-02T22:47:09.084Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tv4jg6/marvels_wolverine_extended_gameplay_trailer_ps5/",
+        "postedAt": "2026-06-02T22:47:09.084Z"
       }
     ],
     "steam_2073850": [
@@ -1258,8 +1258,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tuzq70/save_100_on_winexy_on_steam_free/",
-    "steam_sales": "sale_3065800",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tuzre1/destiny_2_fans_are_rallying_up_for_final_update/",
+    "steam_sales": "sale_1371980",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tv4jg6/marvels_wolverine_extended_gameplay_trailer_ps5/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
