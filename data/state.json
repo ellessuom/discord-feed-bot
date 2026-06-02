@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-02T07:51:33.933Z",
+  "lastRun": "2026-06-02T09:37:14.330Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tp9w3y/city_climber_is_80_off_till_6th_june_099/",
-        "postedAt": "2026-05-27T17:13:46.366Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tpet2f/save_60_on_diplomacy_is_not_an_option_on_steam/",
-        "postedAt": "2026-05-27T18:56:28.383Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tpcdxa/save_50_on_kingdom_come_deliverance_ii_on_steam/",
-        "postedAt": "2026-05-27T18:56:28.383Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tpgssq/save_50_on_assassins_creeds_shadows_on_steam/",
         "postedAt": "2026-05-27T20:49:32.929Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tuhmc9/save_100_on_tell_me_why_on_steam/",
         "postedAt": "2026-06-02T05:42:58.295Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tukpuv/dawn_of_man_is_50_off_this_week_1249/",
+        "postedAt": "2026-06-02T09:37:14.330Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tukpo2/planetbase_is_50_off_this_week_749/",
+        "postedAt": "2026-06-02T09:37:14.330Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tukp9v/the_mobius_machine_is_50_off_this_week_999/",
+        "postedAt": "2026-06-02T09:37:14.330Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tlfbr3/microsoft_pays_250_million_to_end_lawsuit_over/",
-        "postedAt": "2026-05-23T13:36:25.050Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tloqon/bungie_reportedly_preparing_layoffs_as_destiny_2/",
         "postedAt": "2026-05-23T19:32:26.421Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tubknk/playstation_could_use_more_hits_amid_firstparty/",
         "postedAt": "2026-06-02T01:11:55.553Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tukivp/we_have_opened_a_closed_playtest_of_a_cooperative/",
+        "postedAt": "2026-06-02T09:37:14.330Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tuhmc9/save_100_on_tell_me_why_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tukp9v/the_mobius_machine_is_50_off_this_week_999/",
     "steam_sales": "sale_1659040",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tubknk/playstation_could_use_more_hits_amid_firstparty/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tukivp/we_have_opened_a_closed_playtest_of_a_cooperative/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
