@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-02T17:40:31.581Z",
+  "lastRun": "2026-06-02T19:24:46.182Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tpmjal/steam_food_store_simulator_80_off_079/",
-        "postedAt": "2026-05-28T00:59:18.375Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tppxue/aquarist_steam_60_off/",
         "postedAt": "2026-05-28T03:20:21.714Z"
@@ -402,17 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tux73g/my_game_gone_golfing_is_50_249_off_on_steam/",
         "postedAt": "2026-06-02T17:40:31.581Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tuzq70/save_100_on_winexy_on_steam_free/",
+        "postedAt": "2026-06-02T19:24:46.182Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2000950",
-        "postedAt": "2026-05-08T15:39:14.125Z"
-      },
-      {
-        "id": "sale_264710",
-        "postedAt": "2026-05-11T18:46:33.846Z"
-      },
       {
         "id": "sale_848450",
         "postedAt": "2026-05-11T18:46:33.846Z"
@@ -804,13 +796,17 @@
       {
         "id": "sale_4656700",
         "postedAt": "2026-06-02T17:40:31.581Z"
+      },
+      {
+        "id": "sale_285900",
+        "postedAt": "2026-06-02T19:24:46.182Z"
+      },
+      {
+        "id": "sale_2186990",
+        "postedAt": "2026-06-02T19:24:46.182Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tmap6g/the_first_13_minutes_of_007_first_light/",
-        "postedAt": "2026-05-24T12:33:04.166Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tmexkz/gran_turismo_7_june_2026_free_update_preview/",
         "postedAt": "2026-05-24T15:30:09.333Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tuxamv/cd_projekt_reds_project_hadar_will_have_an/",
         "postedAt": "2026-06-02T17:40:31.581Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tuzre1/destiny_2_fans_are_rallying_up_for_final_update/",
+        "postedAt": "2026-06-02T19:24:46.182Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tux73g/my_game_gone_golfing_is_50_249_off_on_steam/",
-    "steam_sales": "sale_4656700",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tuxamv/cd_projekt_reds_project_hadar_will_have_an/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tuzq70/save_100_on_winexy_on_steam_free/",
+    "steam_sales": "sale_2186990",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tuzre1/destiny_2_fans_are_rallying_up_for_final_update/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
