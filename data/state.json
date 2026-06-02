@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-02T05:42:58.295Z",
+  "lastRun": "2026-06-02T07:51:33.933Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1984270",
-        "postedAt": "2026-05-08T15:39:14.125Z"
-      },
-      {
         "id": "sale_4584200",
         "postedAt": "2026-05-08T15:39:14.125Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_526870",
         "postedAt": "2026-06-01T22:07:57.421Z"
+      },
+      {
+        "id": "sale_1659040",
+        "postedAt": "2026-06-02T07:51:33.933Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1258,7 +1258,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tuhmc9/save_100_on_tell_me_why_on_steam/",
-    "steam_sales": "sale_526870",
+    "steam_sales": "sale_1659040",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tubknk/playstation_could_use_more_hits_amid_firstparty/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
