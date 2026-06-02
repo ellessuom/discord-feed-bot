@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-02T15:33:08.394Z",
+  "lastRun": "2026-06-02T17:40:31.581Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tpnjga/save_35_on_synthesis_of_corruption_my_solodev/",
-        "postedAt": "2026-05-28T00:59:18.375Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tpmjal/steam_food_store_simulator_80_off_079/",
         "postedAt": "2026-05-28T00:59:18.375Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tus3no/save_75_on_celeste_on_steam/",
         "postedAt": "2026-06-02T15:33:08.394Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tux73g/my_game_gone_golfing_is_50_249_off_on_steam/",
+        "postedAt": "2026-06-02T17:40:31.581Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4584200",
-        "postedAt": "2026-05-08T15:39:14.125Z"
-      },
       {
         "id": "sale_2000950",
         "postedAt": "2026-05-08T15:39:14.125Z"
@@ -804,13 +800,13 @@
       {
         "id": "sale_1659040",
         "postedAt": "2026-06-02T07:51:33.933Z"
+      },
+      {
+        "id": "sale_4656700",
+        "postedAt": "2026-06-02T17:40:31.581Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tlrs7j/forza_horizon_6_sells_49_million_copies_despite/",
-        "postedAt": "2026-05-23T21:22:59.858Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tmap6g/the_first_13_minutes_of_007_first_light/",
         "postedAt": "2026-05-24T12:33:04.166Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tuqlq8/the_witcher_4_cinematics_designer_says_people/",
         "postedAt": "2026-06-02T13:30:41.540Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tuxamv/cd_projekt_reds_project_hadar_will_have_an/",
+        "postedAt": "2026-06-02T17:40:31.581Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tus3no/save_75_on_celeste_on_steam/",
-    "steam_sales": "sale_1659040",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tuqlq8/the_witcher_4_cinematics_designer_says_people/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tux73g/my_game_gone_golfing_is_50_249_off_on_steam/",
+    "steam_sales": "sale_4656700",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tuxamv/cd_projekt_reds_project_hadar_will_have_an/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
