@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-03T15:42:44.366Z",
+  "lastRun": "2026-06-03T17:48:24.267Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tnob38/system_shock_2_25th_anniversary_remaster_gets_new/",
-        "postedAt": "2026-05-25T23:30:15.813Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tnoauw/nintendo_avoids_the_ai_race_and_investors_are/",
-        "postedAt": "2026-05-25T23:30:15.813Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tnpgp3/grab_mind_scanners_for_1/",
         "postedAt": "2026-05-26T01:02:27.250Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tvr9v4/persona_5_royal_is_coming_to_xbox_game_pass_on/",
         "postedAt": "2026-06-03T15:42:44.366Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tvwqj4/former_god_of_war_director_david_jaffe_reacts_to/",
+        "postedAt": "2026-06-03T17:48:24.267Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tvvhdu/runeward_online_announcement_trailer/",
+        "postedAt": "2026-06-03T17:48:24.267Z"
       }
     ],
     "steam_2073850": [
@@ -1259,7 +1259,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tvrk89/save_75_on_hugepixel_collection_vol_1_on_steam/",
     "steam_sales": "sale_1371980",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tvr9v4/persona_5_royal_is_coming_to_xbox_game_pass_on/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tvvhdu/runeward_online_announcement_trailer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
