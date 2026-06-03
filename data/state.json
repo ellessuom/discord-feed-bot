@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-03T21:12:04.689Z",
+  "lastRun": "2026-06-03T23:38:07.640Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tnpgp3/grab_mind_scanners_for_1/",
-        "postedAt": "2026-05-26T01:02:27.250Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tnz0b0/tekken_8_yujiro_hanma_teaser/",
-        "postedAt": "2026-05-26T07:25:16.908Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tnzpln/unreal_engine_6_is_coming_in_2028_aims_to/",
         "postedAt": "2026-05-26T09:22:27.684Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tvvhdu/runeward_online_announcement_trailer/",
         "postedAt": "2026-06-03T17:48:24.267Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tw6fr6/future_james_bond_games_confirmed_by_amazon_games/",
+        "postedAt": "2026-06-03T23:38:07.640Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tw6et8/nobodys_making_games_for_the_retired_people_the/",
+        "postedAt": "2026-06-03T23:38:07.640Z"
       }
     ],
     "steam_2073850": [
@@ -1259,7 +1259,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tw25kr/save_25_on_wwe_2k26_on_steam/",
     "steam_sales": "sale_1371980",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tvvhdu/runeward_online_announcement_trailer/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tw6et8/nobodys_making_games_for_the_retired_people_the/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
