@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-03T09:47:04.019Z",
+  "lastRun": "2026-06-03T11:44:46.730Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tmt0hs/forza_horizon_6_speeds_into_steams_top_5_most/",
-        "postedAt": "2026-05-25T01:06:54.493Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tn93j5/why_the_uks_video_games_industry_faces_an/",
-        "postedAt": "2026-05-25T15:10:09.142Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tnlilb/paralives_launch_trailer/",
-        "postedAt": "2026-05-25T21:31:04.283Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tnp0fa/dying_light_the_beast_is_very_strong_proof_that/",
-        "postedAt": "2026-05-25T23:30:15.813Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tnoijj/007_first_light_star_patrick_gibson_says_i_think/",
         "postedAt": "2026-05-25T23:30:15.813Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tvelch/one_of_the_best_pc_gaming_apps_for_android_just/",
         "postedAt": "2026-06-03T05:46:30.200Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tvm15d/star_fox_overview_trailer_nintendo_switch_2/",
+        "postedAt": "2026-06-03T11:44:46.730Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tvkt07/tomb_raider_legacy_of_atlantis_delayed_into_2027/",
+        "postedAt": "2026-06-03T11:44:46.730Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tvkrax/state_of_play_june_2026_all_announcements_trailers/",
+        "postedAt": "2026-06-03T11:44:46.730Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tvkqrt/protect_our_games_act_passes_california_assembly/",
+        "postedAt": "2026-06-03T11:44:46.730Z"
       }
     ],
     "steam_2073850": [
@@ -1259,7 +1259,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tvjc55/save_55_on_ale_tale_tavern_on_steam/",
     "steam_sales": "sale_1371980",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tvelch/one_of_the_best_pc_gaming_apps_for_android_just/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tvkqrt/protect_our_games_act_passes_california_assembly/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
