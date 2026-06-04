@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-04T05:44:32.431Z",
+  "lastRun": "2026-06-04T07:49:11.670Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1toc7pz/007_first_light_producer_addresses_pressure_of/",
-        "postedAt": "2026-05-26T17:12:55.626Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1toghiq/dragon_quest_creator_yuji_horii_confirms_new/",
         "postedAt": "2026-05-26T18:56:28.489Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1twdsqq/taketwo_ceo_debuts_in_wwe_2k26/",
         "postedAt": "2026-06-04T05:44:32.431Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1twgqx8/until_dawn_2_announce_trailer_ps5_games/",
+        "postedAt": "2026-06-04T07:49:11.670Z"
       }
     ],
     "steam_2073850": [
@@ -1259,7 +1259,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tw25kr/save_25_on_wwe_2k26_on_steam/",
     "steam_sales": "sale_1371980",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1twdsqq/taketwo_ceo_debuts_in_wwe_2k26/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1twgqx8/until_dawn_2_announce_trailer_ps5_games/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
