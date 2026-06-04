@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-04T09:28:47.620Z",
+  "lastRun": "2026-06-04T11:10:55.954Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tothm8/diablo_4_lead_marcin_undak_says_small_teams/",
-        "postedAt": "2026-05-27T05:37:03.041Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1toy3zt/exforza_horizon_creative_directors_new_aaa/",
         "postedAt": "2026-05-27T07:38:39.482Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1twhtl0/tomb_raider_legacy_of_atlantis_comes_with_an_ai/",
         "postedAt": "2026-06-04T09:28:47.620Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1twhi1x/nobodys_making_games_for_the_retired_people_the/",
+        "postedAt": "2026-06-04T11:10:55.954Z"
       }
     ],
     "steam_2073850": [
@@ -1252,6 +1252,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/678497276169028052",
         "postedAt": "2026-05-30T11:34:31.446Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/694263045409472698",
+        "postedAt": "2026-06-04T11:10:55.954Z"
       }
     ]
   },
@@ -1259,7 +1263,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tw25kr/save_25_on_wwe_2k26_on_steam/",
     "steam_sales": "sale_1371980",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1twhtl0/tomb_raider_legacy_of_atlantis_comes_with_an_ai/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1twhi1x/nobodys_making_games_for_the_retired_people_the/",
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
 }
