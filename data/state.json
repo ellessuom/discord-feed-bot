@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-04T07:49:11.670Z",
+  "lastRun": "2026-06-04T09:28:47.620Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1toghiq/dragon_quest_creator_yuji_horii_confirms_new/",
-        "postedAt": "2026-05-26T18:56:28.489Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1togh98/playstation_plus_monthly_games_for_june_grounded/",
-        "postedAt": "2026-05-26T18:56:28.489Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1toktmy/destruction_allstars_delisted_and_servers/",
-        "postedAt": "2026-05-26T21:37:10.201Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tooj9i/season_2_cinematic_trailer_marathon/",
-        "postedAt": "2026-05-27T01:05:45.373Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tothm8/diablo_4_lead_marcin_undak_says_small_teams/",
         "postedAt": "2026-05-27T05:37:03.041Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1twgqx8/until_dawn_2_announce_trailer_ps5_games/",
         "postedAt": "2026-06-04T07:49:11.670Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1twhwgx/esa_67_of_americans_played_video_games_for_more/",
+        "postedAt": "2026-06-04T09:28:47.620Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1twhva9/silent_hill_townfall_release_date_trailer/",
+        "postedAt": "2026-06-04T09:28:47.620Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1twhty8/cd_projekt_reds_new_mystery_ip_hadar_is_an/",
+        "postedAt": "2026-06-04T09:28:47.620Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1twhtl0/tomb_raider_legacy_of_atlantis_comes_with_an_ai/",
+        "postedAt": "2026-06-04T09:28:47.620Z"
       }
     ],
     "steam_2073850": [
@@ -1259,7 +1259,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tw25kr/save_25_on_wwe_2k26_on_steam/",
     "steam_sales": "sale_1371980",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1twgqx8/until_dawn_2_announce_trailer_ps5_games/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1twhtl0/tomb_raider_legacy_of_atlantis_comes_with_an_ai/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
