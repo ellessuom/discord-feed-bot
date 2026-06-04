@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-04T19:46:01.405Z",
+  "lastRun": "2026-06-04T20:49:15.211Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tozvbi/nvidia_is_finally_ditching_its_iconic_gpu_control/",
-        "postedAt": "2026-05-27T09:19:38.664Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tp0e6w/the_witcher_3_wild_hunt_songs_of_the_past/",
         "postedAt": "2026-05-27T11:20:10.266Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1twwgxt/forza_horizon_6_has_reportedly_sold_64_million/",
         "postedAt": "2026-06-04T18:56:34.656Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tx00jx/devil_may_cry_renewed_for_third_and_final_season/",
+        "postedAt": "2026-06-04T20:49:15.211Z"
       }
     ],
     "steam_2073850": [
@@ -1263,7 +1263,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1twwez4/save_80_on_resident_evil_2_on_steam/",
     "steam_sales": "sale_2050650",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1twwgxt/forza_horizon_6_has_reportedly_sold_64_million/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tx00jx/devil_may_cry_renewed_for_third_and_final_season/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
 }
