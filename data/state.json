@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-04T17:10:40.036Z",
+  "lastRun": "2026-06-04T18:56:34.656Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tq6qsk/save_87_on_wigmund_on_steam/",
-        "postedAt": "2026-05-28T17:24:33.599Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqb0p4/save_32_on_a_game_about_digging_a_hole_on_steam/",
-        "postedAt": "2026-05-28T19:01:07.772Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqam4e/save_80_on_middleearth_shadow_of_mordor_on_steam/",
-        "postedAt": "2026-05-28T19:01:07.772Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqai2p/save_85_on_metro_exodus_on_steam/",
-        "postedAt": "2026-05-28T19:01:07.772Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tqa3jn/elder_scrolls_series_sale/",
         "postedAt": "2026-05-28T19:01:07.772Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1twlptd/our_first_game_weve_copublished_sitting_ducks_has/",
         "postedAt": "2026-06-04T13:18:59.953Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1twwoly/mafia_franchise_sale/",
+        "postedAt": "2026-06-04T18:56:34.656Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1twwg6v/save_20_on_resident_evil_requiem_on_steam/",
+        "postedAt": "2026-06-04T18:56:34.656Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1twv2gj/save_75_on_resident_evil_4_on_steam_historical_low/",
+        "postedAt": "2026-06-04T18:56:34.656Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1twunub/save_90_on_code_vein_on_steam/",
+        "postedAt": "2026-06-04T18:56:34.656Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1174180",
-        "postedAt": "2026-05-11T19:37:53.293Z"
-      },
-      {
-        "id": "sale_1809540",
-        "postedAt": "2026-05-11T19:37:53.293Z"
-      },
       {
         "id": "sale_1620730",
         "postedAt": "2026-05-11T20:41:14.280Z"
@@ -804,17 +796,17 @@
       {
         "id": "sale_1371980",
         "postedAt": "2026-06-02T22:47:09.084Z"
+      },
+      {
+        "id": "sale_3710840",
+        "postedAt": "2026-06-04T18:56:34.656Z"
+      },
+      {
+        "id": "sale_3764200",
+        "postedAt": "2026-06-04T18:56:34.656Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1toy3i0/resident_evil_requiem_gets_free_postlaunch_demo/",
-        "postedAt": "2026-05-27T07:38:39.482Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tozvwq/the_witcher_3_stream_this_week_has_players/",
-        "postedAt": "2026-05-27T09:19:38.664Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tozvbi/nvidia_is_finally_ditching_its_iconic_gpu_control/",
         "postedAt": "2026-05-27T09:19:38.664Z"
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1twqx6c/elden_ring_tarnished_edition_finally_has_a_switch/",
         "postedAt": "2026-06-04T17:10:40.036Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1twwhzw/no_rest_for_the_wicked_director_says_xbox_version/",
+        "postedAt": "2026-06-04T18:56:34.656Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1twwgxt/forza_horizon_6_has_reportedly_sold_64_million/",
+        "postedAt": "2026-06-04T18:56:34.656Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1twlptd/our_first_game_weve_copublished_sitting_ducks_has/",
-    "steam_sales": "sale_1371980",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1twqx6c/elden_ring_tarnished_edition_finally_has_a_switch/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1twunub/save_90_on_code_vein_on_steam/",
+    "steam_sales": "sale_3764200",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1twwgxt/forza_horizon_6_has_reportedly_sold_64_million/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
 }
