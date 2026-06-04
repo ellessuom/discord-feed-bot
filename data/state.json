@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-04T21:37:56.170Z",
+  "lastRun": "2026-06-04T22:36:56.707Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqahj1/save_85_on_sleeping_dogs_definitive_edition_on/",
-        "postedAt": "2026-05-28T20:53:45.809Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tqaatn/save_90_on_just_cause_2_on_steam/",
         "postedAt": "2026-05-28T20:53:45.809Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1twwez4/save_80_on_resident_evil_2_on_steam/",
         "postedAt": "2026-06-04T19:46:01.405Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tx2h0l/save_75_on_spyro_reignited_trilogy_on_steam/",
+        "postedAt": "2026-06-04T22:36:56.707Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_329050",
-        "postedAt": "2026-05-13T13:49:24.492Z"
-      },
       {
         "id": "sale_979110",
         "postedAt": "2026-05-13T18:47:21.808Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_996580",
         "postedAt": "2026-06-04T21:37:56.170Z"
+      },
+      {
+        "id": "sale_1252652",
+        "postedAt": "2026-06-04T22:36:56.707Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1261,8 +1261,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1twwez4/save_80_on_resident_evil_2_on_steam/",
-    "steam_sales": "sale_996580",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tx2h0l/save_75_on_spyro_reignited_trilogy_on_steam/",
+    "steam_sales": "sale_1252652",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tx00jx/devil_may_cry_renewed_for_third_and_final_season/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
