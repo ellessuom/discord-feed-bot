@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-04T13:18:59.953Z",
+  "lastRun": "2026-06-04T17:10:40.036Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1toy3zt/exforza_horizon_creative_directors_new_aaa/",
-        "postedAt": "2026-05-27T07:38:39.482Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1toy3i0/resident_evil_requiem_gets_free_postlaunch_demo/",
         "postedAt": "2026-05-27T07:38:39.482Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1twhi1x/nobodys_making_games_for_the_retired_people_the/",
         "postedAt": "2026-06-04T11:10:55.954Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1twqx6c/elden_ring_tarnished_edition_finally_has_a_switch/",
+        "postedAt": "2026-06-04T17:10:40.036Z"
       }
     ],
     "steam_2073850": [
@@ -1263,7 +1263,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1twlptd/our_first_game_weve_copublished_sitting_ducks_has/",
     "steam_sales": "sale_1371980",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1twhi1x/nobodys_making_games_for_the_retired_people_the/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1twqx6c/elden_ring_tarnished_edition_finally_has_a_switch/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
 }
