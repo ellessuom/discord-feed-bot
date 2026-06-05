@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-05T03:18:47.513Z",
+  "lastRun": "2026-06-05T05:39:50.824Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tp35hf/pokemon_x_target_30th_anniversary_collection_is/",
-        "postedAt": "2026-05-27T13:24:19.247Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tpa52d/square_enix_celebrates_dragon_quest_day_with_xii/",
         "postedAt": "2026-05-27T17:13:46.366Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tx945e/steam_machine_is_officially_coming_in_summer_2026/",
         "postedAt": "2026-06-05T03:18:47.513Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1txax78/dynasty_warriors_3_complete_edition_remastered/",
+        "postedAt": "2026-06-05T05:39:50.824Z"
       }
     ],
     "steam_2073850": [
@@ -1263,7 +1263,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tx6fnm/save_65_on_danganronpa_12v3_on_steam/",
     "steam_sales": "sale_1252652",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tx945e/steam_machine_is_officially_coming_in_summer_2026/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1txax78/dynasty_warriors_3_complete_edition_remastered/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
 }
