@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-05T07:41:23.090Z",
+  "lastRun": "2026-06-05T09:18:44.179Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqaako/save_85_on_just_cause_3_on_steam/",
-        "postedAt": "2026-05-28T21:44:10.656Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqijiw/save_40_on_return_of_the_obra_dinn/",
-        "postedAt": "2026-05-28T22:37:10.678Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqiixh/save_15_on_powerwash_simulator_2_on_steam/",
-        "postedAt": "2026-05-28T22:37:10.678Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqhyk6/save_60_on_unpacking_on_steam/",
-        "postedAt": "2026-05-28T22:37:10.678Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tqhxya/save_80_on_my_time_at_portia_on_steam/",
         "postedAt": "2026-05-28T22:37:10.678Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tx6fnm/save_65_on_danganronpa_12v3_on_steam/",
         "postedAt": "2026-06-05T03:18:47.513Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1txedki/save_30_on_slots_diapers_on_steam/",
+        "postedAt": "2026-06-05T09:18:44.179Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1txedc1/save_10_on_lexispell_on_steam/",
+        "postedAt": "2026-06-05T09:18:44.179Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1txecpy/save_60_on_none_shall_intrude_on_steam/",
+        "postedAt": "2026-06-05T09:18:44.179Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1txecj6/save_20_on_all_hail_the_orb_on_steam/",
+        "postedAt": "2026-06-05T09:18:44.179Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tpefpr/the_steam_decks_price_has_increased_from_549_to/",
-        "postedAt": "2026-05-27T18:56:28.383Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tpef2u/what_xbox_players_are_asking_the_top_request/",
-        "postedAt": "2026-05-27T18:56:28.383Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tpdzx7/oo7_first_light_becomes_the_highest_rated_io/",
-        "postedAt": "2026-05-27T18:56:28.383Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tpccw8/lcs_spring_2026_records_record_low_viewership/",
-        "postedAt": "2026-05-27T18:56:28.383Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tpfcql/pokémon_franchise_surpasses_515_million_games/",
         "postedAt": "2026-05-27T19:46:01.624Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1txcp2o/starcraft_2_just_got_its_first_real_update_in/",
         "postedAt": "2026-06-05T07:41:23.090Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1txeox4/fifa_world_cup_video_game_launches_on_netflix/",
+        "postedAt": "2026-06-05T09:18:44.179Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1txeba1/amazon_will_publish_whatever_007_first_light/",
+        "postedAt": "2026-06-05T09:18:44.179Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1txeawi/guy_who_swatted_grand_theft_auto_5_star_is_going/",
+        "postedAt": "2026-06-05T09:18:44.179Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1txeaib/switch_2_replaceable_battery_confirmed_for_europe/",
+        "postedAt": "2026-06-05T09:18:44.179Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tx6fnm/save_65_on_danganronpa_12v3_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1txecj6/save_20_on_all_hail_the_orb_on_steam/",
     "steam_sales": "sale_1252652",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1txcp2o/starcraft_2_just_got_its_first_real_update_in/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1txeaib/switch_2_replaceable_battery_confirmed_for_europe/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
 }
