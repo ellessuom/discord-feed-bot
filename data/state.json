@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-05T11:13:30.487Z",
+  "lastRun": "2026-06-05T13:13:46.841Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tpn4t4/og_halo_artist_says_campaign_evolveds_visuals/",
-        "postedAt": "2026-05-28T00:59:18.375Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tpn4s6/og_halo_artist_says_campaign_evolveds_visuals/",
         "postedAt": "2026-05-28T00:59:18.375Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1txegq5/rogue_waters/",
         "postedAt": "2026-06-05T11:13:30.487Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1txhz4q/paint_with_blood_in_this_upcoming_cozy_indie/",
+        "postedAt": "2026-06-05T13:13:46.841Z"
       }
     ],
     "steam_2073850": [
@@ -1263,7 +1263,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1txg9wq/save_40_on_bleach_rebirth_of_souls_on_steam/",
     "steam_sales": "sale_1252652",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1txegq5/rogue_waters/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1txhz4q/paint_with_blood_in_this_upcoming_cozy_indie/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
 }
