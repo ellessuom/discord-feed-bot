@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-05T20:41:34.833Z",
+  "lastRun": "2026-06-05T23:32:41.872Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2253100",
-        "postedAt": "2026-05-14T16:49:13.059Z"
-      },
-      {
         "id": "sale_2479810",
         "postedAt": "2026-05-14T17:40:06.101Z"
       },
@@ -804,17 +800,13 @@
       {
         "id": "sale_242760",
         "postedAt": "2026-06-05T15:08:41.936Z"
+      },
+      {
+        "id": "sale_1172620",
+        "postedAt": "2026-06-05T23:32:41.872Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tq9oau/calico/",
-        "postedAt": "2026-05-28T17:24:33.599Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tq8ed7/gta_6_developers_announce_rockstar_games_union/",
-        "postedAt": "2026-05-28T17:24:33.599Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tq7s2m/call_of_duty_modern_warfare_4_will_be_the_first/",
         "postedAt": "2026-05-28T17:24:33.599Z"
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1txvsof/xbox_wants_to_surpass_sony_and_become_the_biggest/",
         "postedAt": "2026-06-05T20:41:34.833Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ty0mb3/paramount_gets_serious_about_video_games/",
+        "postedAt": "2026-06-05T23:32:41.872Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ty0hwo/everything_announced_at_the_summer_game_fest_2026/",
+        "postedAt": "2026-06-05T23:32:41.872Z"
       }
     ],
     "steam_2073850": [
@@ -1262,8 +1262,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1txvr4c/save_40_on_ninja_gaiden_4_on_steam/",
-    "steam_sales": "sale_242760",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1txvsof/xbox_wants_to_surpass_sony_and_become_the_biggest/",
+    "steam_sales": "sale_1172620",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ty0hwo/everything_announced_at_the_summer_game_fest_2026/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
 }
