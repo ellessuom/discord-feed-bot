@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-05T13:13:46.841Z",
+  "lastRun": "2026-06-05T15:08:41.936Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqiii0/save_50_on_powerwash_simulator_on_steam/",
-        "postedAt": "2026-05-28T23:34:07.509Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tqhy95/save_65_on_forager_on_steam/",
         "postedAt": "2026-05-28T23:34:07.509Z"
@@ -402,21 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1txg9wq/save_40_on_bleach_rebirth_of_souls_on_steam/",
         "postedAt": "2026-06-05T11:13:30.487Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1txlux8/save_90_on_metro_2033_redux_199/",
+        "postedAt": "2026-06-05T15:08:41.936Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_979110",
-        "postedAt": "2026-05-13T18:47:21.808Z"
-      },
-      {
-        "id": "sale_3017860",
-        "postedAt": "2026-05-13T19:37:55.864Z"
-      },
-      {
-        "id": "sale_1783560",
-        "postedAt": "2026-05-13T20:40:37.917Z"
-      },
       {
         "id": "sale_2253100",
         "postedAt": "2026-05-14T16:49:13.059Z"
@@ -804,6 +792,18 @@
       {
         "id": "sale_1252652",
         "postedAt": "2026-06-04T22:36:56.707Z"
+      },
+      {
+        "id": "sale_1984270",
+        "postedAt": "2026-06-05T15:08:41.936Z"
+      },
+      {
+        "id": "sale_883710",
+        "postedAt": "2026-06-05T15:08:41.936Z"
+      },
+      {
+        "id": "sale_242760",
+        "postedAt": "2026-06-05T15:08:41.936Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1261,8 +1261,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1txg9wq/save_40_on_bleach_rebirth_of_souls_on_steam/",
-    "steam_sales": "sale_1252652",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1txlux8/save_90_on_metro_2033_redux_199/",
+    "steam_sales": "sale_242760",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1txhz4q/paint_with_blood_in_this_upcoming_cozy_indie/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
