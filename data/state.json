@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-04T22:36:56.707Z",
+  "lastRun": "2026-06-05T01:08:42.899Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqaatn/save_90_on_just_cause_2_on_steam/",
-        "postedAt": "2026-05-28T20:53:45.809Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tqdyju/save_66_on_just_cause_collection_on_steam/",
         "postedAt": "2026-05-28T21:44:10.656Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tx2h0l/save_75_on_spyro_reignited_trilogy_on_steam/",
         "postedAt": "2026-06-04T22:36:56.707Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tx4y0w/dragon_ball_the_breakers_sale_299/",
+        "postedAt": "2026-06-05T01:08:42.899Z"
       }
     ],
     "steam_sales": [
@@ -1261,7 +1261,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tx2h0l/save_75_on_spyro_reignited_trilogy_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tx4y0w/dragon_ball_the_breakers_sale_299/",
     "steam_sales": "sale_1252652",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tx00jx/devil_may_cry_renewed_for_third_and_final_season/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
