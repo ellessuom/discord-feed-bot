@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-05T19:38:52.545Z",
+  "lastRun": "2026-06-05T20:41:34.833Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqoobg/crosscode_is_75_off_499_store_low/",
-        "postedAt": "2026-05-29T03:18:44.351Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqgcdr/save_50_on_ready_or_not_on_steam/",
-        "postedAt": "2026-05-29T03:18:44.351Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqpte1/save_85_on_car_mechanic_simulator_2021_on_steam/",
-        "postedAt": "2026-05-29T09:21:28.384Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tr90e6/save_20_on_chained_together_on_steam/",
         "postedAt": "2026-05-29T19:00:57.924Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1txtuzd/save_50_on_wednesdays_historical_low/",
         "postedAt": "2026-06-05T19:38:52.545Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1txvujr/save_90_on_middleearth_shadow_of_war_on_steam/",
+        "postedAt": "2026-06-05T20:41:34.833Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1txvrqx/save_58_on_monster_hunter_wilds_on_steam/",
+        "postedAt": "2026-06-05T20:41:34.833Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1txvr4c/save_40_on_ninja_gaiden_4_on_steam/",
+        "postedAt": "2026-06-05T20:41:34.833Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tpznbc/no_mans_sky_the_swarm_trailer/",
-        "postedAt": "2026-05-28T11:20:25.863Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tq4l74/nintendo_president_suggests_company_does_not_want/",
-        "postedAt": "2026-05-28T15:17:47.152Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tq3qaz/fortnites_global_ios_return_reportedly_reaches/",
-        "postedAt": "2026-05-28T15:17:47.152Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tq9oxx/lonestar/",
-        "postedAt": "2026-05-28T17:24:33.599Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tq9oau/calico/",
         "postedAt": "2026-05-28T17:24:33.599Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1txt7p5/tempus_vitae_timetravel_fps_metroidvania/",
         "postedAt": "2026-06-05T18:47:47.037Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1txw8d3/the_average_american_gamer_is_a_37yearold_white/",
+        "postedAt": "2026-06-05T20:41:34.833Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1txw567/god_of_war_laufeys_director_talks_fan_skepticism/",
+        "postedAt": "2026-06-05T20:41:34.833Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1txw1tm/minecraft_dungeons_ii_launches_september_29/",
+        "postedAt": "2026-06-05T20:41:34.833Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1txvsof/xbox_wants_to_surpass_sony_and_become_the_biggest/",
+        "postedAt": "2026-06-05T20:41:34.833Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1txtuzd/save_50_on_wednesdays_historical_low/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1txvr4c/save_40_on_ninja_gaiden_4_on_steam/",
     "steam_sales": "sale_242760",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1txt7p5/tempus_vitae_timetravel_fps_metroidvania/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1txvsof/xbox_wants_to_surpass_sony_and_become_the_biggest/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
 }
