@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-05T15:08:41.936Z",
+  "lastRun": "2026-06-05T17:40:48.214Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tqhy95/save_65_on_forager_on_steam/",
-        "postedAt": "2026-05-28T23:34:07.509Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tqgdyr/save_40_on_chants_of_sennaar_on_steam/",
         "postedAt": "2026-05-28T23:34:07.509Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1txlux8/save_90_on_metro_2033_redux_199/",
         "postedAt": "2026-06-05T15:08:41.936Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1txregs/save_90_on_endling_extinction_is_forever_on_steam/",
+        "postedAt": "2026-06-05T17:40:48.214Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tpn4s6/og_halo_artist_says_campaign_evolveds_visuals/",
-        "postedAt": "2026-05-28T00:59:18.375Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tpv1vl/donkey_kong_64_nintendo_64_nintendo_classics/",
         "postedAt": "2026-05-28T07:34:00.846Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1txhz4q/paint_with_blood_in_this_upcoming_cozy_indie/",
         "postedAt": "2026-06-05T13:13:46.841Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1txqoxr/switch_2_sales_drop_87_in_japan_following_surge/",
+        "postedAt": "2026-06-05T17:40:48.214Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1txlux8/save_90_on_metro_2033_redux_199/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1txregs/save_90_on_endling_extinction_is_forever_on_steam/",
     "steam_sales": "sale_242760",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1txhz4q/paint_with_blood_in_this_upcoming_cozy_indie/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1txqoxr/switch_2_sales_drop_87_in_japan_following_surge/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
 }
