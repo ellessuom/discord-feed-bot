@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-06T14:38:02.670Z",
+  "lastRun": "2026-06-06T19:35:14.388Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1229490",
-        "postedAt": "2026-05-15T00:59:30.354Z"
-      },
-      {
         "id": "sale_2091020",
         "postedAt": "2026-05-15T17:37:03.031Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_1466860",
         "postedAt": "2026-06-06T14:38:02.670Z"
+      },
+      {
+        "id": "sale_2592160",
+        "postedAt": "2026-06-06T19:35:14.388Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1262,7 +1262,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ty6xts/save_80_on_ori_and_the_blind_forest_definitive/",
-    "steam_sales": "sale_1466860",
+    "steam_sales": "sale_2592160",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tyicen/it_was_nintendo_direct_that_ended_the_e3_era/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
