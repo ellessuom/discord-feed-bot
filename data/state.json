@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-06T19:35:14.388Z",
+  "lastRun": "2026-06-06T21:28:25.014Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tqvggv/my_little_puppy_launch_trailer_ps5_games/",
-        "postedAt": "2026-05-29T09:21:28.384Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tqux3k/arc_raiders_wins_nordic_game_of_the_year_at_the/",
         "postedAt": "2026-05-29T09:21:28.384Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tyicen/it_was_nintendo_direct_that_ended_the_e3_era/",
         "postedAt": "2026-06-06T14:38:02.670Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tyswl3/devil_may_cry_devil_trigger_reloaded_collection/",
+        "postedAt": "2026-06-06T21:28:25.014Z"
       }
     ],
     "steam_2073850": [
@@ -1263,7 +1263,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ty6xts/save_80_on_ori_and_the_blind_forest_definitive/",
     "steam_sales": "sale_2592160",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tyicen/it_was_nintendo_direct_that_ended_the_e3_era/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tyswl3/devil_may_cry_devil_trigger_reloaded_collection/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
