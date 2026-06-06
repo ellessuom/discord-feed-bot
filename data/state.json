@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-06T03:15:53.460Z",
+  "lastRun": "2026-06-06T05:25:10.511Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tr901q/save_90_on_thief_simulator_on_steam/",
-        "postedAt": "2026-05-29T19:00:57.924Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tr8zpv/save_75_on_gang_beasts_on_steam/",
-        "postedAt": "2026-05-29T19:00:57.924Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1trfngp/when_will_ets2_go_on_sale_again/",
         "postedAt": "2026-05-29T21:40:15.140Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ty46wy/the_forest_franchise_sale/",
         "postedAt": "2026-06-06T03:15:53.460Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ty7zbp/save_50_on_space_menace_2_on_steam/",
+        "postedAt": "2026-06-06T05:25:10.511Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ty6xts/save_80_on_ori_and_the_blind_forest_definitive/",
+        "postedAt": "2026-06-06T05:25:10.511Z"
       }
     ],
     "steam_sales": [
@@ -1261,7 +1261,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ty46wy/the_forest_franchise_sale/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ty6xts/save_80_on_ori_and_the_blind_forest_definitive/",
     "steam_sales": "sale_1313468",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ty4hn2/final_fantasy_vii_revelation_set_to_conclude/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
