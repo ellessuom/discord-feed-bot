@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-06T12:38:02.096Z",
+  "lastRun": "2026-06-06T14:38:02.670Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,18 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_413150",
-        "postedAt": "2026-05-14T18:45:25.393Z"
-      },
-      {
-        "id": "sale_1663850",
-        "postedAt": "2026-05-14T20:36:40.047Z"
-      },
-      {
-        "id": "sale_1604030",
-        "postedAt": "2026-05-14T21:31:47.218Z"
-      },
-      {
         "id": "sale_1229490",
         "postedAt": "2026-05-15T00:59:30.354Z"
       },
@@ -804,13 +792,21 @@
       {
         "id": "sale_1808500",
         "postedAt": "2026-06-06T09:00:42.330Z"
+      },
+      {
+        "id": "sale_1364780",
+        "postedAt": "2026-06-06T14:38:02.670Z"
+      },
+      {
+        "id": "sale_1551360",
+        "postedAt": "2026-06-06T14:38:02.670Z"
+      },
+      {
+        "id": "sale_1466860",
+        "postedAt": "2026-06-06T14:38:02.670Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tqsbsn/its_actually_been_pretty_smooth_infinity_ward_on/",
-        "postedAt": "2026-05-29T07:32:26.443Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tqvggv/my_little_puppy_launch_trailer_ps5_games/",
         "postedAt": "2026-05-29T09:21:28.384Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tyfka6/monster_hunter_wilds_ascendance_official_reveal/",
         "postedAt": "2026-06-06T12:38:02.096Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tyicen/it_was_nintendo_direct_that_ended_the_e3_era/",
+        "postedAt": "2026-06-06T14:38:02.670Z"
       }
     ],
     "steam_2073850": [
@@ -1262,8 +1262,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ty6xts/save_80_on_ori_and_the_blind_forest_definitive/",
-    "steam_sales": "sale_1808500",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tyfka6/monster_hunter_wilds_ascendance_official_reveal/",
+    "steam_sales": "sale_1466860",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tyicen/it_was_nintendo_direct_that_ended_the_e3_era/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
