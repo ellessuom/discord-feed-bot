@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-06T10:43:20.839Z",
+  "lastRun": "2026-06-06T11:35:33.163Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1210,10 +1210,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/678497909513126620",
-        "postedAt": "2026-05-07T10:48:40.911Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/668365445444665836",
         "postedAt": "2026-05-14T10:53:28.484Z"
       },
@@ -1256,6 +1252,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/694263045409472698",
         "postedAt": "2026-06-04T11:10:55.954Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/678497909513126620",
+        "postedAt": "2026-06-06T11:35:33.163Z"
       }
     ]
   },
@@ -1264,6 +1264,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ty6xts/save_80_on_ori_and_the_blind_forest_definitive/",
     "steam_sales": "sale_1808500",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tydirx/tifa_lockhart_is_coming_to_street_fighter_6/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
