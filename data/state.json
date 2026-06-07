@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-07T03:19:01.415Z",
+  "lastRun": "2026-06-07T07:34:12.900Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1trfngp/when_will_ets2_go_on_sale_again/",
-        "postedAt": "2026-05-29T21:40:15.140Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1trnwr3/save_59_on_svarogs_dream_definitive_edition/",
-        "postedAt": "2026-05-30T03:15:45.379Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1trtouh/dev_save_60_on_bad_range_on_steam/",
-        "postedAt": "2026-05-30T08:55:42.754Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ts2g4t/save_60_on_parkitect_on_steam_cozy_family/",
         "postedAt": "2026-05-30T15:32:19.642Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ty6xts/save_80_on_ori_and_the_blind_forest_definitive/",
         "postedAt": "2026-06-06T05:25:10.511Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tz5ckj/save_35_on_last_outpost_bullet_hell_tower_defense/",
+        "postedAt": "2026-06-07T07:34:12.900Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tz4vvy/save_80_on_zero_escape_trilogy_on_steam/",
+        "postedAt": "2026-06-07T07:34:12.900Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1tz4acl/save_80_on_perception_heart_and_mind_on_steam_099/",
+        "postedAt": "2026-06-07T07:34:12.900Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1trb5uy/despite_uncertainty_over_exclusivity_xbox_will/",
-        "postedAt": "2026-05-29T19:00:57.924Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tre9pc/cronos_lazarus_leak_points_to_possible_new_cronos/",
         "postedAt": "2026-05-29T20:54:54.264Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tyz5py/blasphemous_2_gets_a_significant_and_free_content/",
         "postedAt": "2026-06-07T03:19:01.415Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tz41ak/soulframe_preludes_official_gameplay_trailer/",
+        "postedAt": "2026-06-07T07:34:12.900Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ty6xts/save_80_on_ori_and_the_blind_forest_definitive/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tz4acl/save_80_on_perception_heart_and_mind_on_steam_099/",
     "steam_sales": "sale_2592160",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tyz5py/blasphemous_2_gets_a_significant_and_free_content/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tz41ak/soulframe_preludes_official_gameplay_trailer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
