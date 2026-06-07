@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-07T19:35:55.450Z",
+  "lastRun": "2026-06-07T21:31:54.861Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_4069520",
-        "postedAt": "2026-05-16T05:12:00.565Z"
-      },
-      {
         "id": "sale_4466620",
         "postedAt": "2026-05-16T07:41:20.540Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_3892270",
         "postedAt": "2026-06-07T19:35:55.450Z"
+      },
+      {
+        "id": "sale_962130",
+        "postedAt": "2026-06-07T21:31:54.861Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1262,7 +1262,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tzl3sa/save_100_on_remothered_tormented_fathers_on_steam/",
-    "steam_sales": "sale_3892270",
+    "steam_sales": "sale_962130",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tzl5ab/halo_campaign_evolved_new_missions_trailer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
