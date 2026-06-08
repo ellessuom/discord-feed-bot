@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-08T07:57:45.882Z",
+  "lastRun": "2026-06-08T11:43:28.336Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,18 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ts4cur/007_first_light_becomes_io_interactives/",
-        "postedAt": "2026-05-30T16:28:11.996Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ts70ht/into_the_crypt_3d_firstperson_roguelike/",
-        "postedAt": "2026-05-30T18:31:04.475Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tshs94/nintendo_releases_new_wave_of_backwards/",
-        "postedAt": "2026-05-31T03:18:58.665Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tskglj/mina_the_hollower_out_now/",
         "postedAt": "2026-05-31T05:38:25.801Z"
       },
@@ -1206,6 +1194,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tzz7lm/thief_the_dark_project_remastered_reveal_trailer/",
         "postedAt": "2026-06-08T07:57:45.882Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u04n5j/nintendo_fined_35_million_in_france_over_defect/",
+        "postedAt": "2026-06-08T11:43:28.336Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u04daf/crystal_dynamics_using_generative_ai_for_early/",
+        "postedAt": "2026-06-08T11:43:28.336Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u04bwz/as_playstation_5_players_miss_out_on_gears_of_war/",
+        "postedAt": "2026-06-08T11:43:28.336Z"
       }
     ],
     "steam_2073850": [
@@ -1263,7 +1263,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tzl3sa/save_100_on_remothered_tormented_fathers_on_steam/",
     "steam_sales": "sale_962130",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tzz7lm/thief_the_dark_project_remastered_reveal_trailer/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u04bwz/as_playstation_5_players_miss_out_on_gears_of_war/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
