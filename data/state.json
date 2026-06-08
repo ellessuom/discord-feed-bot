@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-08T01:12:02.412Z",
+  "lastRun": "2026-06-08T03:20:24.469Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1trtla5/starcraft_2_development_ended_6_years_ago_but/",
-        "postedAt": "2026-05-30T08:55:42.754Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1trtj8n/fable_reboot_delayed_to_2027_amid_reported_gta_6/",
         "postedAt": "2026-05-30T08:55:42.754Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tzrslm/fable_xbox_games_showcase_2026/",
         "postedAt": "2026-06-08T01:12:02.412Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1tztpfh/fable_finally_gets_a_release_date_launches/",
+        "postedAt": "2026-06-08T03:20:24.469Z"
       }
     ],
     "steam_2073850": [
@@ -1263,7 +1263,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tzl3sa/save_100_on_remothered_tormented_fathers_on_steam/",
     "steam_sales": "sale_962130",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tzrslm/fable_xbox_games_showcase_2026/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1tztpfh/fable_finally_gets_a_release_date_launches/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
