@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-08T11:43:28.336Z",
+  "lastRun": "2026-06-08T13:38:52.219Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tskglj/mina_the_hollower_out_now/",
-        "postedAt": "2026-05-31T05:38:25.801Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tsqua6/the_remarkable_story_of_unreal_2_the_sequel/",
-        "postedAt": "2026-05-31T10:45:01.256Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tt8lq0/top_10_best_games_of_2026_so_far/",
         "postedAt": "2026-05-31T22:27:12.276Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u04bwz/as_playstation_5_players_miss_out_on_gears_of_war/",
         "postedAt": "2026-06-08T11:43:28.336Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u07d54/marvels_blade_at_arkane_lyon_reportedly_dead_jeff/",
+        "postedAt": "2026-06-08T13:38:52.219Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u05m4j/demo_of_the_cozy_game_missі_is_available_mouses/",
+        "postedAt": "2026-06-08T13:38:52.219Z"
       }
     ],
     "steam_2073850": [
@@ -1263,7 +1263,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1tzl3sa/save_100_on_remothered_tormented_fathers_on_steam/",
     "steam_sales": "sale_962130",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u04bwz/as_playstation_5_players_miss_out_on_gears_of_war/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u05m4j/demo_of_the_cozy_game_missі_is_available_mouses/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
