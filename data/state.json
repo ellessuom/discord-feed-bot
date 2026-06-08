@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-08T17:14:21.207Z",
+  "lastRun": "2026-06-08T18:59:20.358Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ts63qb/save_75_on_slime_rancher_on_steam/",
-        "postedAt": "2026-05-30T18:31:04.475Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ts63iz/save_75_on_atomic_heart_on_steam/",
-        "postedAt": "2026-05-30T18:31:04.475Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ts6d4z/save_40_on_amugus_on_steam/",
-        "postedAt": "2026-05-30T19:34:49.326Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ts6bm2/save_80_on_mudrunner_on_steam/",
-        "postedAt": "2026-05-30T19:34:49.326Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ts68a6/save_60_on_the_henry_stickmin_collection_on_steam/",
         "postedAt": "2026-05-30T19:34:49.326Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u0cbs0/save_50_on_sea_of_stars_sunset_edition_historic/",
         "postedAt": "2026-06-08T17:14:21.207Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u0g0sm/save_90_on_rock_n_roll_will_never_die_149/",
+        "postedAt": "2026-06-08T18:59:20.358Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u0fiwz/save_30_on_routine_on_steam/",
+        "postedAt": "2026-06-08T18:59:20.358Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u0ffm8/save_40_on_mouthwashing_on_steam/",
+        "postedAt": "2026-06-08T18:59:20.358Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u0e8ul/save_67_on_returnal_on_steam/",
+        "postedAt": "2026-06-08T18:59:20.358Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ttiyep/former_bioware_veteran_warns_aaa_gaming_is_too/",
-        "postedAt": "2026-06-01T05:46:30.418Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ttjdde/no_peace_amongst_the_stars_warhammer_40000/",
-        "postedAt": "2026-06-01T08:01:53.553Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ttrgzo/atari_to_acquire_crossy_road_developer_hipster/",
-        "postedAt": "2026-06-01T15:15:06.433Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ttyc59/sony_removes_1000_more_ai_slop_games_while_slop/",
-        "postedAt": "2026-06-01T18:09:05.390Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tu4rf0/balatro_owner_playstack_sold_to_parent_company_of/",
         "postedAt": "2026-06-01T20:31:58.621Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u0cwft/final_fantasy_series_has_sold_over_212_million/",
         "postedAt": "2026-06-08T17:14:21.207Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u0gv1n/steam_survey_reveals_rtx_5070s_rapid_rise_as_rtx/",
+        "postedAt": "2026-06-08T18:59:20.358Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u0guys/is_xbox_fixable/",
+        "postedAt": "2026-06-08T18:59:20.358Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u0gi4g/godzilla_isnt_scared_of_gta_6_the_king_of_the/",
+        "postedAt": "2026-06-08T18:59:20.358Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u0fhtb/fumito_ueda_on_gen_atlas_i_give_my_absolute/",
+        "postedAt": "2026-06-08T18:59:20.358Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u0cbs0/save_50_on_sea_of_stars_sunset_edition_historic/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u0e8ul/save_67_on_returnal_on_steam/",
     "steam_sales": "sale_431745",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u0cwft/final_fantasy_series_has_sold_over_212_million/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u0fhtb/fumito_ueda_on_gen_atlas_i_give_my_absolute/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
