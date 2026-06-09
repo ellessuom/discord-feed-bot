@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-09T11:10:09.904Z",
+  "lastRun": "2026-06-09T15:16:42.782Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tt0xwj/save_75_on_outlast_2_on_steam/",
-        "postedAt": "2026-05-31T17:28:49.274Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tt0xql/save_75_on_outlast_on_steam/",
-        "postedAt": "2026-05-31T17:28:49.274Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tt3koi/save_45_on_dollmare_on_steam/",
         "postedAt": "2026-05-31T19:34:03.287Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u11b8n/50_off_gunbot_diplomacy_249_top_down_bullet/",
         "postedAt": "2026-06-09T11:10:09.904Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u15h7h/save_65_on_ryse_son_of_rome_on_steam/",
+        "postedAt": "2026-06-09T15:16:42.782Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u15frs/save_75_on_sunset_overdrive_on_steam/",
+        "postedAt": "2026-06-09T15:16:42.782Z"
       }
     ],
     "steam_sales": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tuqlq8/the_witcher_4_cinematics_designer_says_people/",
-        "postedAt": "2026-06-02T13:30:41.540Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tuxamv/cd_projekt_reds_project_hadar_will_have_an/",
-        "postedAt": "2026-06-02T17:40:31.581Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tuzre1/destiny_2_fans_are_rallying_up_for_final_update/",
         "postedAt": "2026-06-02T19:24:46.182Z"
       },
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u0tzk4/star_trek_shadow_frontier_announcement_teaser/",
         "postedAt": "2026-06-09T05:30:22.235Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u15kho/nintendo_of_europe_agrees_to_pay_35m_fine_for/",
+        "postedAt": "2026-06-09T15:16:42.782Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u15hqk/game_pass_lost_millions_of_subscribers_as_a/",
+        "postedAt": "2026-06-09T15:16:42.782Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u11b8n/50_off_gunbot_diplomacy_249_top_down_bullet/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u15frs/save_75_on_sunset_overdrive_on_steam/",
     "steam_sales": "sale_594650",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u0tzk4/star_trek_shadow_frontier_announcement_teaser/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u15hqk/game_pass_lost_millions_of_subscribers_as_a/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
