@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-09T15:16:42.782Z",
+  "lastRun": "2026-06-09T17:02:01.849Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tt3koi/save_45_on_dollmare_on_steam/",
-        "postedAt": "2026-05-31T19:34:03.287Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tt3k4g/save_90_on_inside_on_steam/",
-        "postedAt": "2026-05-31T19:34:03.287Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tt3jve/save_66_on_totally_accurate_battle_simulator_on/",
         "postedAt": "2026-05-31T19:34:03.287Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u15frs/save_75_on_sunset_overdrive_on_steam/",
         "postedAt": "2026-06-09T15:16:42.782Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u18maf/save_80_on_steinstern_spacewar_on_steam/",
+        "postedAt": "2026-06-09T17:02:01.849Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u182py/save_15_on_atre_dominance_wars_on_steam/",
+        "postedAt": "2026-06-09T17:02:01.849Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4078200",
-        "postedAt": "2026-05-18T18:45:16.293Z"
-      },
       {
         "id": "sale_2753970",
         "postedAt": "2026-05-18T22:26:47.394Z"
@@ -804,13 +800,13 @@
       {
         "id": "sale_594650",
         "postedAt": "2026-06-09T11:10:09.904Z"
+      },
+      {
+        "id": "sale_2004680",
+        "postedAt": "2026-06-09T17:02:01.849Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tuzre1/destiny_2_fans_are_rallying_up_for_final_update/",
-        "postedAt": "2026-06-02T19:24:46.182Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tv65d5/marathon_season_2_is_live_and_bungie_just_pressed/",
         "postedAt": "2026-06-02T22:47:09.084Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u15hqk/game_pass_lost_millions_of_subscribers_as_a/",
         "postedAt": "2026-06-09T15:16:42.782Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u18w7e/spyro_a_realm_beyond_devs_say_they_needed_to/",
+        "postedAt": "2026-06-09T17:02:01.849Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u15frs/save_75_on_sunset_overdrive_on_steam/",
-    "steam_sales": "sale_594650",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u15hqk/game_pass_lost_millions_of_subscribers_as_a/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u182py/save_15_on_atre_dominance_wars_on_steam/",
+    "steam_sales": "sale_2004680",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u18w7e/spyro_a_realm_beyond_devs_say_they_needed_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
