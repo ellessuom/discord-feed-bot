@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-09T09:18:45.533Z",
+  "lastRun": "2026-06-09T11:10:09.904Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tt0y2m/save_90_on_limbo_on_steam/",
-        "postedAt": "2026-05-31T17:28:49.274Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tt0xwj/save_75_on_outlast_2_on_steam/",
         "postedAt": "2026-05-31T17:28:49.274Z"
@@ -402,25 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u0mzlf/beyond_solar_is_50_off_during_steam_bullet_fest/",
         "postedAt": "2026-06-08T22:36:57.395Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u11b8n/50_off_gunbot_diplomacy_249_top_down_bullet/",
+        "postedAt": "2026-06-09T11:10:09.904Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2119830",
-        "postedAt": "2026-05-17T13:36:24.527Z"
-      },
-      {
-        "id": "sale_250760",
-        "postedAt": "2026-05-17T15:28:05.805Z"
-      },
-      {
-        "id": "sale_1216320",
-        "postedAt": "2026-05-17T18:29:36.073Z"
-      },
-      {
-        "id": "sale_3527290",
-        "postedAt": "2026-05-17T20:22:48.633Z"
-      },
       {
         "id": "sale_4078200",
         "postedAt": "2026-05-18T18:45:16.293Z"
@@ -804,6 +788,22 @@
       {
         "id": "sale_4148240",
         "postedAt": "2026-06-09T09:18:45.533Z"
+      },
+      {
+        "id": "sale_736589",
+        "postedAt": "2026-06-09T11:10:09.904Z"
+      },
+      {
+        "id": "sale_4000",
+        "postedAt": "2026-06-09T11:10:09.904Z"
+      },
+      {
+        "id": "sale_268910",
+        "postedAt": "2026-06-09T11:10:09.904Z"
+      },
+      {
+        "id": "sale_594650",
+        "postedAt": "2026-06-09T11:10:09.904Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1261,8 +1261,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u0mzlf/beyond_solar_is_50_off_during_steam_bullet_fest/",
-    "steam_sales": "sale_4148240",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u11b8n/50_off_gunbot_diplomacy_249_top_down_bullet/",
+    "steam_sales": "sale_594650",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u0tzk4/star_trek_shadow_frontier_announcement_teaser/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
