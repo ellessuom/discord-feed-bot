@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-08T23:31:51.081Z",
+  "lastRun": "2026-06-09T03:17:51.893Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,18 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tu3gd0/10_years_after_launch_steam_icon_factorio_gets/",
-        "postedAt": "2026-06-01T20:31:58.621Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tu4x5u/gabe_newell_on_steam_monopoly_accusations_gamers/",
-        "postedAt": "2026-06-01T22:07:57.421Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tubknk/playstation_could_use_more_hits_amid_firstparty/",
-        "postedAt": "2026-06-02T01:11:55.553Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tukivp/we_have_opened_a_closed_playtest_of_a_cooperative/",
         "postedAt": "2026-06-02T09:37:14.330Z"
       },
@@ -1206,6 +1194,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u0n8pr/metro_2039_gameplay_reveal_hunter/",
         "postedAt": "2026-06-08T23:31:51.081Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u0t1xu/death_stranding_movie_script_near_done_says/",
+        "postedAt": "2026-06-09T03:17:51.893Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u0qs0v/guild_wars_3_will_have_no_battle_pass_or/",
+        "postedAt": "2026-06-09T03:17:51.893Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u0qrjw/xbox_strategist_says_announced_console_exclusives/",
+        "postedAt": "2026-06-09T03:17:51.893Z"
       }
     ],
     "steam_2073850": [
@@ -1263,7 +1263,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u0mzlf/beyond_solar_is_50_off_during_steam_bullet_fest/",
     "steam_sales": "sale_1649240",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u0n8pr/metro_2039_gameplay_reveal_hunter/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u0qrjw/xbox_strategist_says_announced_console_exclusives/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
