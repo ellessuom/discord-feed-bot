@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-09T17:02:01.849Z",
+  "lastRun": "2026-06-09T18:53:02.894Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tt3jve/save_66_on_totally_accurate_battle_simulator_on/",
-        "postedAt": "2026-05-31T19:34:03.287Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tt3jlk/save_60_on_stick_fight_the_game_on_steam/",
         "postedAt": "2026-05-31T19:34:03.287Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u182py/save_15_on_atre_dominance_wars_on_steam/",
         "postedAt": "2026-06-09T17:02:01.849Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u1bdzj/save_50_on_lies_of_p_on_steam/",
+        "postedAt": "2026-06-09T18:53:02.894Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2753970",
-        "postedAt": "2026-05-18T22:26:47.394Z"
-      },
       {
         "id": "sale_3542380",
         "postedAt": "2026-05-19T18:45:44.380Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2004680",
         "postedAt": "2026-06-09T17:02:01.849Z"
+      },
+      {
+        "id": "sale_1627720",
+        "postedAt": "2026-06-09T18:53:02.894Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1261,8 +1261,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u182py/save_15_on_atre_dominance_wars_on_steam/",
-    "steam_sales": "sale_2004680",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u1bdzj/save_50_on_lies_of_p_on_steam/",
+    "steam_sales": "sale_1627720",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u18w7e/spyro_a_realm_beyond_devs_say_they_needed_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
