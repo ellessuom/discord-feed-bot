@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-09T20:46:49.092Z",
+  "lastRun": "2026-06-09T22:37:59.086Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tv7yie/god_of_war_laufey_official_gameplay_reveal_ps5/",
-        "postedAt": "2026-06-02T23:39:24.318Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tvd3hb/onimusha_way_of_the_sword_5th_trailer_release/",
         "postedAt": "2026-06-03T03:20:46.055Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u1fq83/destiny_2_fans_break_servers_marathons_peak/",
         "postedAt": "2026-06-09T20:46:49.092Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u1jvrc/the_legend_of_zelda_ocarina_of_time_remake_coming/",
+        "postedAt": "2026-06-09T22:37:59.086Z"
       }
     ],
     "steam_2073850": [
@@ -1263,7 +1263,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u1bdzj/save_50_on_lies_of_p_on_steam/",
     "steam_sales": "sale_2336880",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u1fq83/destiny_2_fans_break_servers_marathons_peak/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u1jvrc/the_legend_of_zelda_ocarina_of_time_remake_coming/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
