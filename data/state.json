@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-10T17:14:21.113Z",
+  "lastRun": "2026-06-10T19:02:51.174Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2183900",
-        "postedAt": "2026-05-20T18:57:00.266Z"
-      },
-      {
         "id": "sale_1332010",
         "postedAt": "2026-05-20T18:57:00.266Z"
       },
@@ -804,13 +800,13 @@
       {
         "id": "sale_3844970",
         "postedAt": "2026-06-10T15:13:45.418Z"
+      },
+      {
+        "id": "sale_2679100",
+        "postedAt": "2026-06-10T19:02:51.174Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tvvhdu/runeward_online_announcement_trailer/",
-        "postedAt": "2026-06-03T17:48:24.267Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tw6fr6/future_james_bond_games_confirmed_by_amazon_games/",
         "postedAt": "2026-06-03T23:38:07.640Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u27jaj/xbox_boss_comments_on_the_challenge_of_making_an/",
         "postedAt": "2026-06-10T17:14:21.113Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u2awez/ubisoft_reportedly_shuttering_winnipeg_belgrade/",
+        "postedAt": "2026-06-10T19:02:51.174Z"
       }
     ],
     "steam_2073850": [
@@ -1262,8 +1262,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u28btn/save_20_on_into_the_grid_on_steam/",
-    "steam_sales": "sale_3844970",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u27jaj/xbox_boss_comments_on_the_challenge_of_making_an/",
+    "steam_sales": "sale_2679100",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2awez/ubisoft_reportedly_shuttering_winnipeg_belgrade/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
