@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-10T03:17:35.694Z",
+  "lastRun": "2026-06-10T05:40:05.793Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ttc24c/save_75_on_the_elder_scrolls_v_skyrim_special/",
-        "postedAt": "2026-06-01T01:12:50.834Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ttc0y8/save_85_on_tomb_raider_game_of_the_year_on_steam/",
-        "postedAt": "2026-06-01T01:12:50.834Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ttc0qu/save_85_on_sleeping_dogs_definitive_edition_on/",
-        "postedAt": "2026-06-01T01:12:50.834Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ttc0bj/save_90_on_metro_last_light_redux_on_steam/",
         "postedAt": "2026-06-01T01:12:50.834Z"
@@ -402,13 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u1o4hu/save_85_on_chivalry_2_on_steam/",
         "postedAt": "2026-06-10T03:17:35.694Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o4rh/save_90_on_green_hell_on_steam/",
+        "postedAt": "2026-06-10T05:40:05.793Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o3xx/save_80_on_state_of_decay_2_juggernaut_edition_on/",
+        "postedAt": "2026-06-10T05:40:05.793Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o2bi/save_90_on_steelrising_on_steam/",
+        "postedAt": "2026-06-10T05:40:05.793Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1718460",
-        "postedAt": "2026-05-19T19:38:54.719Z"
-      },
       {
         "id": "sale_1940340",
         "postedAt": "2026-05-20T11:08:42.484Z"
@@ -804,17 +800,13 @@
       {
         "id": "sale_2336880",
         "postedAt": "2026-06-09T19:45:59.159Z"
+      },
+      {
+        "id": "sale_4704690",
+        "postedAt": "2026-06-10T05:40:05.793Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tvkrax/state_of_play_june_2026_all_announcements_trailers/",
-        "postedAt": "2026-06-03T11:44:46.730Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tvkqrt/protect_our_games_act_passes_california_assembly/",
-        "postedAt": "2026-06-03T11:44:46.730Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tvr9v4/persona_5_royal_is_coming_to_xbox_game_pass_on/",
         "postedAt": "2026-06-03T15:42:44.366Z"
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u1p71q/the_duskbloods_getting_a_closed_network_test/",
         "postedAt": "2026-06-10T03:17:35.694Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u1s08l/lords_of_the_fallen_ii_platform_announcement/",
+        "postedAt": "2026-06-10T05:40:05.793Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u1ravk/destiny_2_receives_its_final_major_update_as/",
+        "postedAt": "2026-06-10T05:40:05.793Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u1o4hu/save_85_on_chivalry_2_on_steam/",
-    "steam_sales": "sale_2336880",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u1p71q/the_duskbloods_getting_a_closed_network_test/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u1o2bi/save_90_on_steelrising_on_steam/",
+    "steam_sales": "sale_4704690",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u1ravk/destiny_2_receives_its_final_major_update_as/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
