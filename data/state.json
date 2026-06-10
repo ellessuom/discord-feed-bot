@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-10T01:09:38.698Z",
+  "lastRun": "2026-06-10T03:17:35.694Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tt3jlk/save_60_on_stick_fight_the_game_on_steam/",
-        "postedAt": "2026-05-31T19:34:03.287Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tt5yee/fist_forged_in_shadow_torch_70_479/",
-        "postedAt": "2026-05-31T20:30:38.872Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tt3jda/save_38_on_content_warning_on_steam/",
-        "postedAt": "2026-05-31T20:30:38.872Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tt88f3/save_90_on_frostpunk_299/",
-        "postedAt": "2026-05-31T22:27:12.276Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ttc24c/save_75_on_the_elder_scrolls_v_skyrim_special/",
         "postedAt": "2026-06-01T01:12:50.834Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u1bdzj/save_50_on_lies_of_p_on_steam/",
         "postedAt": "2026-06-09T18:53:02.894Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o6dn/save_85_on_mafia_definitive_edition_on_steam/",
+        "postedAt": "2026-06-10T03:17:35.694Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o5od/save_75_on_undertale_on_steam/",
+        "postedAt": "2026-06-10T03:17:35.694Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o582/save_84_on_dragon_ball_fighterz_on_steam/",
+        "postedAt": "2026-06-10T03:17:35.694Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o4hu/save_85_on_chivalry_2_on_steam/",
+        "postedAt": "2026-06-10T03:17:35.694Z"
       }
     ],
     "steam_sales": [
@@ -808,18 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tvelch/one_of_the_best_pc_gaming_apps_for_android_just/",
-        "postedAt": "2026-06-03T05:46:30.200Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tvm15d/star_fox_overview_trailer_nintendo_switch_2/",
-        "postedAt": "2026-06-03T11:44:46.730Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tvkt07/tomb_raider_legacy_of_atlantis_delayed_into_2027/",
-        "postedAt": "2026-06-03T11:44:46.730Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tvkrax/state_of_play_june_2026_all_announcements_trailers/",
         "postedAt": "2026-06-03T11:44:46.730Z"
       },
@@ -1206,6 +1194,18 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u1mgtv/dragons_dogma_2_dlc_and_switch_2_port_revealed/",
         "postedAt": "2026-06-10T01:09:38.698Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u1q4lk/xbox_is_unable_to_meet_demand_for_new_consoles/",
+        "postedAt": "2026-06-10T03:17:35.694Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u1plwm/blasphemous_2_the_third_sin_trailer_out_now/",
+        "postedAt": "2026-06-10T03:17:35.694Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u1p71q/the_duskbloods_getting_a_closed_network_test/",
+        "postedAt": "2026-06-10T03:17:35.694Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u1bdzj/save_50_on_lies_of_p_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u1o4hu/save_85_on_chivalry_2_on_steam/",
     "steam_sales": "sale_2336880",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u1mgtv/dragons_dogma_2_dlc_and_switch_2_port_revealed/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u1p71q/the_duskbloods_getting_a_closed_network_test/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
