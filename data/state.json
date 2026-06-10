@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-10T19:02:51.174Z",
+  "lastRun": "2026-06-10T20:59:47.913Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ttyn8w/save_100_on_gravity_circuit_free/",
-        "postedAt": "2026-06-01T18:09:05.390Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ttymb4/save_80_on_stronghold_hd_2012_on_steam/",
-        "postedAt": "2026-06-01T18:09:05.390Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0ra5/save_50_on_the_stanley_parable_ultra_deluxe_on/",
-        "postedAt": "2026-06-01T20:31:58.621Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0ni6/save_75_on_teenage_mutant_ninja_turtles/",
-        "postedAt": "2026-06-01T20:31:58.621Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tu0m2t/save_90_on_the_darkness_ii_on_steam/",
         "postedAt": "2026-06-01T20:31:58.621Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u28btn/save_20_on_into_the_grid_on_steam/",
         "postedAt": "2026-06-10T17:14:21.113Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u2d50y/save_90_on_vampyr_on_steam/",
+        "postedAt": "2026-06-10T20:59:47.913Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u2d3ce/save_85_on_just_cause_3_on_steam/",
+        "postedAt": "2026-06-10T20:59:47.913Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u2d0ma/save_75_on_hellblade_ii_senuas_saga_on_steam/",
+        "postedAt": "2026-06-10T20:59:47.913Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u2cwom/save_80_on_dying_light_2_stay_human_reloaded/",
+        "postedAt": "2026-06-10T20:59:47.913Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1332010",
-        "postedAt": "2026-05-20T18:57:00.266Z"
-      },
       {
         "id": "sale_4351410",
         "postedAt": "2026-05-21T15:14:35.729Z"
@@ -804,13 +800,13 @@
       {
         "id": "sale_2679100",
         "postedAt": "2026-06-10T19:02:51.174Z"
+      },
+      {
+        "id": "sale_958520",
+        "postedAt": "2026-06-10T20:59:47.913Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tw6fr6/future_james_bond_games_confirmed_by_amazon_games/",
-        "postedAt": "2026-06-03T23:38:07.640Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tw6et8/nobodys_making_games_for_the_retired_people_the/",
         "postedAt": "2026-06-03T23:38:07.640Z"
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u2awez/ubisoft_reportedly_shuttering_winnipeg_belgrade/",
         "postedAt": "2026-06-10T19:02:51.174Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u2bvb4/fable_gameplay_demo_build_an_extraordinary_life/",
+        "postedAt": "2026-06-10T20:59:47.913Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u28btn/save_20_on_into_the_grid_on_steam/",
-    "steam_sales": "sale_2679100",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2awez/ubisoft_reportedly_shuttering_winnipeg_belgrade/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u2cwom/save_80_on_dying_light_2_stay_human_reloaded/",
+    "steam_sales": "sale_958520",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2bvb4/fable_gameplay_demo_build_an_extraordinary_life/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
