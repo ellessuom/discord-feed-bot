@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-10T15:13:45.418Z",
+  "lastRun": "2026-06-10T17:14:21.113Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0iu1/save_60_on_hitman_world_of_assassination_on_steam/",
-        "postedAt": "2026-06-01T18:09:05.390Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ttyn8w/save_100_on_gravity_circuit_free/",
         "postedAt": "2026-06-01T18:09:05.390Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u22kfn/save_84_off_on_762_high_calibre_and_brigade_e5/",
         "postedAt": "2026-06-10T15:13:45.418Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u28btn/save_20_on_into_the_grid_on_steam/",
+        "postedAt": "2026-06-10T17:14:21.113Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tvwqj4/former_god_of_war_director_david_jaffe_reacts_to/",
-        "postedAt": "2026-06-03T17:48:24.267Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tvvhdu/runeward_online_announcement_trailer/",
         "postedAt": "2026-06-03T17:48:24.267Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u1x1tl/path_of_exile_2_player_carn_willingly_deletes/",
         "postedAt": "2026-06-10T09:24:21.784Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u27jaj/xbox_boss_comments_on_the_challenge_of_making_an/",
+        "postedAt": "2026-06-10T17:14:21.113Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u22kfn/save_84_off_on_762_high_calibre_and_brigade_e5/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u28btn/save_20_on_into_the_grid_on_steam/",
     "steam_sales": "sale_3844970",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u1x1tl/path_of_exile_2_player_carn_willingly_deletes/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u27jaj/xbox_boss_comments_on_the_challenge_of_making_an/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
