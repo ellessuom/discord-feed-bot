@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-10T05:40:05.793Z",
+  "lastRun": "2026-06-10T09:24:21.784Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ttc0bj/save_90_on_metro_last_light_redux_on_steam/",
-        "postedAt": "2026-06-01T01:12:50.834Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ttivvz/save_75_on_moonstone_island_on_steam/",
-        "postedAt": "2026-06-01T05:46:30.418Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ttisem/save_60_on_scum_on_steam/",
         "postedAt": "2026-06-01T05:46:30.418Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u1o2bi/save_90_on_steelrising_on_steam/",
         "postedAt": "2026-06-10T05:40:05.793Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u1x3do/save_60_on_rungore_on_steam/",
+        "postedAt": "2026-06-10T09:24:21.784Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u1wk23/save_35_on_the_slormancer_on_steam/",
+        "postedAt": "2026-06-10T09:24:21.784Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tvr9v4/persona_5_royal_is_coming_to_xbox_game_pass_on/",
-        "postedAt": "2026-06-03T15:42:44.366Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tvwqj4/former_god_of_war_director_david_jaffe_reacts_to/",
         "postedAt": "2026-06-03T17:48:24.267Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u1ravk/destiny_2_receives_its_final_major_update_as/",
         "postedAt": "2026-06-10T05:40:05.793Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u1x1tl/path_of_exile_2_player_carn_willingly_deletes/",
+        "postedAt": "2026-06-10T09:24:21.784Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u1o2bi/save_90_on_steelrising_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u1wk23/save_35_on_the_slormancer_on_steam/",
     "steam_sales": "sale_4704690",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u1ravk/destiny_2_receives_its_final_major_update_as/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u1x1tl/path_of_exile_2_player_carn_willingly_deletes/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
