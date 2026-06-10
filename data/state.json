@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-10T13:23:11.113Z",
+  "lastRun": "2026-06-10T15:13:45.418Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ttisem/save_60_on_scum_on_steam/",
-        "postedAt": "2026-06-01T05:46:30.418Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ttp58b/save_90_on_control_ultimate_edition_on_steam/",
-        "postedAt": "2026-06-01T12:57:29.292Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ttp528/save_90_on_alan_wake_on_steam/",
-        "postedAt": "2026-06-01T12:57:29.292Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0k2k/save_50_on_wrestling_revolution_3d_on_steam/",
-        "postedAt": "2026-06-01T18:09:05.390Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tu0iu1/save_60_on_hitman_world_of_assassination_on_steam/",
         "postedAt": "2026-06-01T18:09:05.390Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u1wk23/save_35_on_the_slormancer_on_steam/",
         "postedAt": "2026-06-10T09:24:21.784Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u250rf/save_10_on_into_the_depths_on_steam_1349/",
+        "postedAt": "2026-06-10T15:13:45.418Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u2430c/save_50_on_faye_falling_on_steam_an_indie_rpg/",
+        "postedAt": "2026-06-10T15:13:45.418Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u22l29/shapez_2_discounted_factorybuilding_automation_at/",
+        "postedAt": "2026-06-10T15:13:45.418Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u22kfn/save_84_off_on_762_high_calibre_and_brigade_e5/",
+        "postedAt": "2026-06-10T15:13:45.418Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1206070",
-        "postedAt": "2026-05-20T17:13:00.873Z"
-      },
       {
         "id": "sale_2183900",
         "postedAt": "2026-05-20T18:57:00.266Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1167630",
         "postedAt": "2026-06-10T13:23:11.113Z"
+      },
+      {
+        "id": "sale_3844970",
+        "postedAt": "2026-06-10T15:13:45.418Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1261,8 +1261,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u1wk23/save_35_on_the_slormancer_on_steam/",
-    "steam_sales": "sale_1167630",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u22kfn/save_84_off_on_762_high_calibre_and_brigade_e5/",
+    "steam_sales": "sale_3844970",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u1x1tl/path_of_exile_2_player_carn_willingly_deletes/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
