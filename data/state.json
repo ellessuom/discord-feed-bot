@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-09T23:34:23.530Z",
+  "lastRun": "2026-06-10T01:09:38.698Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tvbt4y/fallout_76_ps5_and_xbox_series_xs_versions_will/",
-        "postedAt": "2026-06-03T03:20:46.055Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tvelch/one_of_the_best_pc_gaming_apps_for_android_just/",
         "postedAt": "2026-06-03T05:46:30.200Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u1kzmf/asha_sharma_our_business_isnt_particularly/",
         "postedAt": "2026-06-09T23:34:23.530Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u1mgtv/dragons_dogma_2_dlc_and_switch_2_port_revealed/",
+        "postedAt": "2026-06-10T01:09:38.698Z"
       }
     ],
     "steam_2073850": [
@@ -1263,7 +1263,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u1bdzj/save_50_on_lies_of_p_on_steam/",
     "steam_sales": "sale_2336880",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u1kzmf/asha_sharma_our_business_isnt_particularly/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u1mgtv/dragons_dogma_2_dlc_and_switch_2_port_revealed/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
