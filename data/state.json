@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-11T15:17:41.745Z",
+  "lastRun": "2026-06-11T19:08:21.164Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0hg3/save_70_on_amnesia_the_bunker_on_steam/",
-        "postedAt": "2026-06-01T22:07:57.421Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0gwk/save_50_on_batman_the_telltale_series_on_steam/",
-        "postedAt": "2026-06-01T22:07:57.421Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0l4r/save_80_on_a_story_about_my_uncle_on_steam/",
-        "postedAt": "2026-06-01T23:35:58.999Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0ihr/save_53_on_pacify_on_steam/",
-        "postedAt": "2026-06-01T23:35:58.999Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tu0i07/save_66_on_goat_simulator_remastered_on_steam/",
         "postedAt": "2026-06-01T23:35:58.999Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u2jy9o/save_85_on_car_mechanic_simulator_2021_on_steam/",
         "postedAt": "2026-06-11T01:10:43.330Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u37dnv/steam_carrion_200_usd_90_off_historical_low/",
+        "postedAt": "2026-06-11T19:08:21.164Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u36nor/ff7_remake_14_and_rebirth_20_on_steam_historic/",
+        "postedAt": "2026-06-11T19:08:21.164Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u31s83/save_100_on_the_red_lantern_on_steam/",
+        "postedAt": "2026-06-11T19:08:21.164Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u2yir3/save_100_on_happys_humble_burger_farm_limited/",
+        "postedAt": "2026-06-11T19:08:21.164Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u2jy9o/save_85_on_car_mechanic_simulator_2021_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u2yir3/save_100_on_happys_humble_burger_farm_limited/",
     "steam_sales": "sale_2340520",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
