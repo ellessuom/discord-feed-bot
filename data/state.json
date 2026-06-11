@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-10T23:36:27.780Z",
+  "lastRun": "2026-06-11T01:10:43.330Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0eqg/save_90_on_hitman_blood_money_on_steam/",
-        "postedAt": "2026-06-01T20:31:58.621Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu66kx/save_90_on_the_last_campfire_147/",
-        "postedAt": "2026-06-01T22:07:57.421Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0ndb/save_100_on_moonrise_fall_on_steam/",
-        "postedAt": "2026-06-01T22:07:57.421Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tu0hg3/save_70_on_amnesia_the_bunker_on_steam/",
         "postedAt": "2026-06-01T22:07:57.421Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u2cx45/save_50_on_vampire_the_masquerade/",
         "postedAt": "2026-06-10T21:46:36.959Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u2k262/save_85_on_animal_shelter_on_steam/",
+        "postedAt": "2026-06-11T01:10:43.330Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u2k0nx/save_80_on_konbini_simulator_on_steam/",
+        "postedAt": "2026-06-11T01:10:43.330Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u2jy9o/save_85_on_car_mechanic_simulator_2021_on_steam/",
+        "postedAt": "2026-06-11T01:10:43.330Z"
       }
     ],
     "steam_sales": [
@@ -808,10 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tw8sct/crimson_desert_dev_outlines_major_updates_planned/",
-        "postedAt": "2026-06-04T01:18:02.023Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tw86dd/tomb_raider_legacy_of_atlantis_official_release/",
         "postedAt": "2026-06-04T01:18:02.023Z"
       },
@@ -1206,6 +1202,10 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u2he5v/halo_campaign_evolved_28_minute_gameplay_demo/",
         "postedAt": "2026-06-10T23:36:27.780Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u2k1qp/roblox_wants_deluge_of_child_sex_abuse_cases/",
+        "postedAt": "2026-06-11T01:10:43.330Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u2cx45/save_50_on_vampire_the_masquerade/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u2jy9o/save_85_on_car_mechanic_simulator_2021_on_steam/",
     "steam_sales": "sale_3241660",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2he5v/halo_campaign_evolved_28_minute_gameplay_demo/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2k1qp/roblox_wants_deluge_of_child_sex_abuse_cases/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
