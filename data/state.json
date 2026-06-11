@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-11T11:39:15.940Z",
+  "lastRun": "2026-06-11T15:17:41.745Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1361210",
-        "postedAt": "2026-05-21T19:38:13.634Z"
-      },
-      {
         "id": "sale_1933000",
         "postedAt": "2026-05-21T19:38:13.634Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_676944",
         "postedAt": "2026-06-11T03:16:46.449Z"
+      },
+      {
+        "id": "sale_2340520",
+        "postedAt": "2026-06-11T15:17:41.745Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1266,7 +1266,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u2jy9o/save_85_on_car_mechanic_simulator_2021_on_steam/",
-    "steam_sales": "sale_676944",
+    "steam_sales": "sale_2340520",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
   }
