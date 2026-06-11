@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-11T19:08:21.164Z",
+  "lastRun": "2026-06-11T20:56:04.950Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,18 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1933000",
-        "postedAt": "2026-05-21T19:38:13.634Z"
-      },
-      {
-        "id": "sale_1304930",
-        "postedAt": "2026-05-21T20:42:17.109Z"
-      },
-      {
-        "id": "sale_2186680",
-        "postedAt": "2026-05-21T22:34:38.374Z"
-      },
-      {
         "id": "sale_632360",
         "postedAt": "2026-05-22T01:04:22.373Z"
       },
@@ -804,6 +792,18 @@
       {
         "id": "sale_2340520",
         "postedAt": "2026-06-11T15:17:41.745Z"
+      },
+      {
+        "id": "sale_3337380",
+        "postedAt": "2026-06-11T20:56:04.950Z"
+      },
+      {
+        "id": "sale_2909400",
+        "postedAt": "2026-06-11T20:56:04.950Z"
+      },
+      {
+        "id": "sale_1462040",
+        "postedAt": "2026-06-11T20:56:04.950Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1266,7 +1266,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u2yir3/save_100_on_happys_humble_burger_farm_limited/",
-    "steam_sales": "sale_2340520",
+    "steam_sales": "sale_1462040",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
   }
