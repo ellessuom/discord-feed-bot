@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-11T01:10:43.330Z",
+  "lastRun": "2026-06-11T03:16:46.449Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1142710",
-        "postedAt": "2026-05-21T18:46:29.918Z"
-      },
-      {
         "id": "sale_1361210",
         "postedAt": "2026-05-21T19:38:13.634Z"
       },
@@ -804,17 +800,13 @@
       {
         "id": "sale_3241660",
         "postedAt": "2026-06-10T22:41:53.861Z"
+      },
+      {
+        "id": "sale_676944",
+        "postedAt": "2026-06-11T03:16:46.449Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tw86dd/tomb_raider_legacy_of_atlantis_official_release/",
-        "postedAt": "2026-06-04T01:18:02.023Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tw6vwa/control_resonants_early_access_is_playstation/",
-        "postedAt": "2026-06-04T01:18:02.023Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1twdsqq/taketwo_ceo_debuts_in_wwe_2k26/",
         "postedAt": "2026-06-04T05:44:32.431Z"
@@ -1206,6 +1198,14 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u2k1qp/roblox_wants_deluge_of_child_sex_abuse_cases/",
         "postedAt": "2026-06-11T01:10:43.330Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u2myqi/new_xbox_memo_shows_focus_on_holiday_2027_amidst/",
+        "postedAt": "2026-06-11T03:16:46.449Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u2mnq4/fire_emblem_fortunes_weave_priced_70_digital_80/",
+        "postedAt": "2026-06-11T03:16:46.449Z"
       }
     ],
     "steam_2073850": [
@@ -1262,8 +1262,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u2jy9o/save_85_on_car_mechanic_simulator_2021_on_steam/",
-    "steam_sales": "sale_3241660",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2k1qp/roblox_wants_deluge_of_child_sex_abuse_cases/",
+    "steam_sales": "sale_676944",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2mnq4/fire_emblem_fortunes_weave_priced_70_digital_80/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
