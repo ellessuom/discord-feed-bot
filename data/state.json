@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-12T17:07:30.952Z",
+  "lastRun": "2026-06-12T18:49:09.536Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tvjcij/save_25_on_travellers_rest_on_steam/",
-        "postedAt": "2026-06-03T09:47:04.019Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tvjcaw/save_40_on_knightica_on_steam/",
         "postedAt": "2026-06-03T09:47:04.019Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u3ayo4/save_80_on_hearts_of_iron_iv_on_steam/",
         "postedAt": "2026-06-12T17:07:30.952Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u41ngx/save_50_on_red_dead_redemption_on_steam/",
+        "postedAt": "2026-06-12T18:49:09.536Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u3ayo4/save_80_on_hearts_of_iron_iv_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u41ngx/save_50_on_red_dead_redemption_on_steam/",
     "steam_sales": "sale_1868140",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
