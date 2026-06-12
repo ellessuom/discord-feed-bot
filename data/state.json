@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-12T01:13:59.878Z",
+  "lastRun": "2026-06-12T05:42:46.870Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2432860",
-        "postedAt": "2026-05-22T20:41:38.049Z"
-      },
-      {
         "id": "sale_632470",
         "postedAt": "2026-05-22T23:30:12.185Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_1903340",
         "postedAt": "2026-06-11T22:40:58.600Z"
+      },
+      {
+        "id": "sale_322330",
+        "postedAt": "2026-06-12T05:42:46.870Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1266,7 +1266,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u35uly/save_80_on_ea_sports_fc_26_on_steamnew_historical/",
-    "steam_sales": "sale_1903340",
+    "steam_sales": "sale_322330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
   }
