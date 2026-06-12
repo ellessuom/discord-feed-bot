@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-12T15:11:21.832Z",
+  "lastRun": "2026-06-12T17:07:30.952Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tv7vqj/save_70_on_dome_keeper_on_steam/",
-        "postedAt": "2026-06-02T23:39:24.318Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tvgae5/save_20_on_fatekeeper_on_steam/",
-        "postedAt": "2026-06-03T07:54:47.557Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tvjj9j/save_50_on_the_hive_on_steam/",
-        "postedAt": "2026-06-03T09:47:04.019Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tvjcij/save_25_on_travellers_rest_on_steam/",
         "postedAt": "2026-06-03T09:47:04.019Z"
@@ -402,13 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u3ayv0/save_40_on_tainted_grail_the_fall_of_avalon_on/",
         "postedAt": "2026-06-12T15:11:21.832Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u417di/save_91_on_due_process_until_june_16th/",
+        "postedAt": "2026-06-12T17:07:30.952Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u40bfe/save_25_on_beastro_on_steam/",
+        "postedAt": "2026-06-12T17:07:30.952Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u3ayo4/save_80_on_hearts_of_iron_iv_on_steam/",
+        "postedAt": "2026-06-12T17:07:30.952Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2747330",
-        "postedAt": "2026-05-23T03:15:02.943Z"
-      },
       {
         "id": "sale_246620",
         "postedAt": "2026-05-23T22:22:21.548Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_3276050",
         "postedAt": "2026-06-12T07:49:36.966Z"
+      },
+      {
+        "id": "sale_1868140",
+        "postedAt": "2026-06-12T17:07:30.952Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1265,8 +1265,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u3ayv0/save_40_on_tainted_grail_the_fall_of_avalon_on/",
-    "steam_sales": "sale_3276050",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u3ayo4/save_80_on_hearts_of_iron_iv_on_steam/",
+    "steam_sales": "sale_1868140",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
   }
