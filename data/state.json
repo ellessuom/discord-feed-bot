@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-12T07:49:36.966Z",
+  "lastRun": "2026-06-12T09:34:06.674Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu12li/save_20_on_coconut_simulator_2_on_steam/",
-        "postedAt": "2026-06-02T01:11:55.553Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0f9x/save_50_on_the_wolf_among_us_on_steam/",
-        "postedAt": "2026-06-02T01:11:55.553Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0h3w/save_80_on_the_crew_motorfest_on_steam/",
-        "postedAt": "2026-06-02T03:20:49.701Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tuhmwc/save_50_on_blood_west_on_steam/",
-        "postedAt": "2026-06-02T05:42:58.295Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tuhmgx/save_60_on_untitled_goose_game_on_steam/",
         "postedAt": "2026-06-02T05:42:58.295Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u35uly/save_80_on_ea_sports_fc_26_on_steamnew_historical/",
         "postedAt": "2026-06-12T01:13:59.878Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u3pnty/save_80_on_graveyard_keeper_on_steam/",
+        "postedAt": "2026-06-12T09:34:06.674Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u3hrib/save_47_on_borderlands_the_handsome_collection_on/",
+        "postedAt": "2026-06-12T09:34:06.674Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u3bmhl/save_90_on_shadow_warrior_2_on_steam/",
+        "postedAt": "2026-06-12T09:34:06.674Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u35gp2/save_100_on_eets_on_steam/",
+        "postedAt": "2026-06-12T09:34:06.674Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u35uly/save_80_on_ea_sports_fc_26_on_steamnew_historical/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u35gp2/save_100_on_eets_on_steam/",
     "steam_sales": "sale_3276050",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
