@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-12T11:23:08.651Z",
+  "lastRun": "2026-06-12T15:11:21.832Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tukp9v/the_mobius_machine_is_50_off_this_week_999/",
-        "postedAt": "2026-06-02T09:37:14.330Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tus3no/save_75_on_celeste_on_steam/",
-        "postedAt": "2026-06-02T15:33:08.394Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tux73g/my_game_gone_golfing_is_50_249_off_on_steam/",
-        "postedAt": "2026-06-02T17:40:31.581Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tuzq70/save_100_on_winexy_on_steam_free/",
-        "postedAt": "2026-06-02T19:24:46.182Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tv7vqj/save_70_on_dome_keeper_on_steam/",
         "postedAt": "2026-06-02T23:39:24.318Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u34vrc/save_80_on_blasted_dice_on_steam_historical_low/",
         "postedAt": "2026-06-12T11:23:08.651Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u3utw1/save_50_on_83_on_steam/",
+        "postedAt": "2026-06-12T15:11:21.832Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u3ujyv/save_50_on_rust_on_steam/",
+        "postedAt": "2026-06-12T15:11:21.832Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u3t6zi/save_40_on_look_outside_on_steam/",
+        "postedAt": "2026-06-12T15:11:21.832Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u3ayv0/save_40_on_tainted_grail_the_fall_of_avalon_on/",
+        "postedAt": "2026-06-12T15:11:21.832Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u34vrc/save_80_on_blasted_dice_on_steam_historical_low/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u3ayv0/save_40_on_tainted_grail_the_fall_of_avalon_on/",
     "steam_sales": "sale_3276050",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
