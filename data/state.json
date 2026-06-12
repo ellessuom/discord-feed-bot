@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-11T22:40:58.600Z",
+  "lastRun": "2026-06-12T01:13:59.878Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0i07/save_66_on_goat_simulator_remastered_on_steam/",
-        "postedAt": "2026-06-01T23:35:58.999Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tu0fwi/save_75_on_scorn_on_steam/",
-        "postedAt": "2026-06-01T23:35:58.999Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tuapj5/save_90_on_fury_unleashed_on_steam/",
-        "postedAt": "2026-06-02T01:11:55.553Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tuaoyw/save_50_on_nightmare_of_decay_on_steam/",
-        "postedAt": "2026-06-02T01:11:55.553Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tu12li/save_20_on_coconut_simulator_2_on_steam/",
         "postedAt": "2026-06-02T01:11:55.553Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u2yir3/save_100_on_happys_humble_burger_farm_limited/",
         "postedAt": "2026-06-11T19:08:21.164Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u3bfoo/save_75_on_sifu_on_steam/",
+        "postedAt": "2026-06-12T01:13:59.878Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u3b6s3/save_90_on_hotline_miami_on_steam/",
+        "postedAt": "2026-06-12T01:13:59.878Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u374ho/save_90_on_dont_starve_together_on_steam/",
+        "postedAt": "2026-06-12T01:13:59.878Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u35uly/save_80_on_ea_sports_fc_26_on_steamnew_historical/",
+        "postedAt": "2026-06-12T01:13:59.878Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u2yir3/save_100_on_happys_humble_burger_farm_limited/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u35uly/save_80_on_ea_sports_fc_26_on_steamnew_historical/",
     "steam_sales": "sale_1903340",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
