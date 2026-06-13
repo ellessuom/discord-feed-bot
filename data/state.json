@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-13T19:36:36.262Z",
+  "lastRun": "2026-06-13T22:29:18.180Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1twwg6v/save_20_on_resident_evil_requiem_on_steam/",
-        "postedAt": "2026-06-04T18:56:34.656Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1twv2gj/save_75_on_resident_evil_4_on_steam_historical_low/",
-        "postedAt": "2026-06-04T18:56:34.656Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1twunub/save_90_on_code_vein_on_steam/",
-        "postedAt": "2026-06-04T18:56:34.656Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1twx6v3/30_flash_sale_on_iron_rebellion_pilot_a_mech_in_vr/",
         "postedAt": "2026-06-04T19:46:01.405Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u4xox1/save_80_on_gamers_club_repeat_on_steam/",
         "postedAt": "2026-06-13T19:36:36.262Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u53x7u/cad1325save_66_on_date_everything_on_steam/",
+        "postedAt": "2026-06-13T22:29:18.180Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u53vcs/cad469save_80_on_niche_a_genetics_survival_game/",
+        "postedAt": "2026-06-13T22:29:18.180Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u53u9p/cad_1099save_45_on_city_game_studio_your_game_dev/",
+        "postedAt": "2026-06-13T22:29:18.180Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u4xox1/save_80_on_gamers_club_repeat_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u53u9p/cad_1099save_45_on_city_game_studio_your_game_dev/",
     "steam_sales": "sale_3105440",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
