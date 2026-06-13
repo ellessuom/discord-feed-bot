@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-13T09:12:23.392Z",
+  "lastRun": "2026-06-13T10:53:35.772Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1210,10 +1210,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/668365445444665836",
-        "postedAt": "2026-05-14T10:53:28.484Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/680750978144665841",
         "postedAt": "2026-05-21T11:11:41.857Z"
       },
@@ -1260,6 +1256,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/694263045409474021",
         "postedAt": "2026-06-11T11:39:15.940Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/668365445444665836",
+        "postedAt": "2026-06-13T10:53:35.772Z"
       }
     ]
   },
@@ -1268,6 +1268,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u4433b/save_80_on_everything_on_steam/",
     "steam_sales": "sale_2958130",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
