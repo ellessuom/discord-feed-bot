@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-13T17:35:26.063Z",
+  "lastRun": "2026-06-13T19:36:36.262Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1twlptd/our_first_game_weve_copublished_sitting_ducks_has/",
-        "postedAt": "2026-06-04T13:18:59.953Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1twwoly/mafia_franchise_sale/",
-        "postedAt": "2026-06-04T18:56:34.656Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1twwg6v/save_20_on_resident_evil_requiem_on_steam/",
         "postedAt": "2026-06-04T18:56:34.656Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u4un3x/my_indie_game_galaxy_highways_is_now_40_off_on/",
         "postedAt": "2026-06-13T17:35:26.063Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u4y0n9/save_80_on_cyber_hook_lost_numbers_edition_on/",
+        "postedAt": "2026-06-13T19:36:36.262Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u4xox1/save_80_on_gamers_club_repeat_on_steam/",
+        "postedAt": "2026-06-13T19:36:36.262Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3834090",
-        "postedAt": "2026-05-24T10:38:29.967Z"
-      },
       {
         "id": "sale_699130",
         "postedAt": "2026-05-24T11:33:30.422Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_4260530",
         "postedAt": "2026-06-13T17:35:26.063Z"
+      },
+      {
+        "id": "sale_3105440",
+        "postedAt": "2026-06-13T19:36:36.262Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1265,8 +1265,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u4un3x/my_indie_game_galaxy_highways_is_now_40_off_on/",
-    "steam_sales": "sale_4260530",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u4xox1/save_80_on_gamers_club_repeat_on_steam/",
+    "steam_sales": "sale_3105440",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
