@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-13T22:29:18.180Z",
+  "lastRun": "2026-06-13T23:30:42.974Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1twx6v3/30_flash_sale_on_iron_rebellion_pilot_a_mech_in_vr/",
-        "postedAt": "2026-06-04T19:46:01.405Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1twwkou/rgg_studio_developer_sale/",
-        "postedAt": "2026-06-04T19:46:01.405Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1twwez4/save_80_on_resident_evil_2_on_steam/",
         "postedAt": "2026-06-04T19:46:01.405Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u53u9p/cad_1099save_45_on_city_game_studio_your_game_dev/",
         "postedAt": "2026-06-13T22:29:18.180Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u54rz2/cad_649_save_75_on_zefyr_a_thiefs_melody_on_steam/",
+        "postedAt": "2026-06-13T23:30:42.974Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u542w3/cad_560_save_67_on_venba_on_steam/",
+        "postedAt": "2026-06-13T23:30:42.974Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u53u9p/cad_1099save_45_on_city_game_studio_your_game_dev/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u542w3/cad_560_save_67_on_venba_on_steam/",
     "steam_sales": "sale_3105440",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
