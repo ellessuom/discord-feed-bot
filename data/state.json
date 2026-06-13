@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-13T11:41:09.729Z",
+  "lastRun": "2026-06-13T17:35:26.063Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1twncli/save_75_on_hugepixel_collection_vol_2_on_steam/",
-        "postedAt": "2026-06-04T13:18:59.953Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1twlptd/our_first_game_weve_copublished_sitting_ducks_has/",
         "postedAt": "2026-06-04T13:18:59.953Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u4oez2/save_25_on_fate_of_fire_kyvedy_guardiah_on_steam/",
         "postedAt": "2026-06-13T11:41:09.729Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u4un3x/my_indie_game_galaxy_highways_is_now_40_off_on/",
+        "postedAt": "2026-06-13T17:35:26.063Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1966720",
-        "postedAt": "2026-05-23T22:22:21.548Z"
-      },
       {
         "id": "sale_3834090",
         "postedAt": "2026-05-24T10:38:29.967Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2958130",
         "postedAt": "2026-06-13T09:12:23.392Z"
+      },
+      {
+        "id": "sale_4260530",
+        "postedAt": "2026-06-13T17:35:26.063Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1265,8 +1265,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u4oez2/save_25_on_fate_of_fire_kyvedy_guardiah_on_steam/",
-    "steam_sales": "sale_2958130",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u4un3x/my_indie_game_galaxy_highways_is_now_40_off_on/",
+    "steam_sales": "sale_4260530",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
