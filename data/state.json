@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-14T07:46:39.513Z",
+  "lastRun": "2026-06-14T09:14:01.594Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1twhva9/silent_hill_townfall_release_date_trailer/",
-        "postedAt": "2026-06-04T09:28:47.620Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1twhty8/cd_projekt_reds_new_mystery_ip_hadar_is_an/",
-        "postedAt": "2026-06-04T09:28:47.620Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1twhtl0/tomb_raider_legacy_of_atlantis_comes_with_an_ai/",
-        "postedAt": "2026-06-04T09:28:47.620Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1twhi1x/nobodys_making_games_for_the_retired_people_the/",
-        "postedAt": "2026-06-04T11:10:55.954Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1twqx6c/elden_ring_tarnished_edition_finally_has_a_switch/",
         "postedAt": "2026-06-04T17:10:40.036Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
         "postedAt": "2026-06-11T11:39:15.940Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u57h4i/theres_a_good_reason_why_were_calling_it_a_dlc/",
+        "postedAt": "2026-06-14T09:14:01.594Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u4shf6/advanced_shader_delivery_comes_to_desktop_pcs_and/",
+        "postedAt": "2026-06-14T09:14:01.594Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u4pcn4/microsoft_ceo_satya_nadella_on_xbox_we_have_to/",
+        "postedAt": "2026-06-14T09:14:01.594Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u3s2og/weekly_rgamingnews_discussion_what_game_you_will/",
+        "postedAt": "2026-06-14T09:14:01.594Z"
       }
     ],
     "steam_2073850": [
@@ -1267,7 +1267,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u5dpqi/save_95_on_ultimate_fishing_simulator_on_steam/",
     "steam_sales": "sale_3105440",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u3s2og/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
