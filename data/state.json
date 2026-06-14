@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-14T09:14:01.594Z",
+  "lastRun": "2026-06-14T17:34:38.380Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tx8vmj/save_78_on_the_forest_on_steam/",
-        "postedAt": "2026-06-05T03:18:47.513Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tx82t3/save_50_on_wo_long_fallen_dynasty_on_steam_new/",
-        "postedAt": "2026-06-05T03:18:47.513Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tx6fnm/save_65_on_danganronpa_12v3_on_steam/",
         "postedAt": "2026-06-05T03:18:47.513Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u5dpqi/save_95_on_ultimate_fishing_simulator_on_steam/",
         "postedAt": "2026-06-14T07:46:39.513Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u5r8hx/save_90_on_x_rebirth_complete_499_new_historical/",
+        "postedAt": "2026-06-14T17:34:38.380Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u5qssp/spires_of_morosith_tower_defense_on_sale_for_50/",
+        "postedAt": "2026-06-14T17:34:38.380Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u5dpqi/save_95_on_ultimate_fishing_simulator_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u5qssp/spires_of_morosith_tower_defense_on_sale_for_50/",
     "steam_sales": "sale_3105440",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u3s2og/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
