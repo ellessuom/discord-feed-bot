@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-13T23:30:42.974Z",
+  "lastRun": "2026-06-14T07:46:39.513Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1twwez4/save_80_on_resident_evil_2_on_steam/",
-        "postedAt": "2026-06-04T19:46:01.405Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tx2h0l/save_75_on_spyro_reignited_trilogy_on_steam/",
-        "postedAt": "2026-06-04T22:36:56.707Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tx4y0w/dragon_ball_the_breakers_sale_299/",
-        "postedAt": "2026-06-05T01:08:42.899Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tx8vmj/save_78_on_the_forest_on_steam/",
         "postedAt": "2026-06-05T03:18:47.513Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u542w3/cad_560_save_67_on_venba_on_steam/",
         "postedAt": "2026-06-13T23:30:42.974Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u5dwt5/steam_mall_simulator_30_off/",
+        "postedAt": "2026-06-14T07:46:39.513Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u5dqg0/save_60_on_backrooms_final_exam_on_steam/",
+        "postedAt": "2026-06-14T07:46:39.513Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u5dpqi/save_95_on_ultimate_fishing_simulator_on_steam/",
+        "postedAt": "2026-06-14T07:46:39.513Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u542w3/cad_560_save_67_on_venba_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u5dpqi/save_95_on_ultimate_fishing_simulator_on_steam/",
     "steam_sales": "sale_3105440",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
