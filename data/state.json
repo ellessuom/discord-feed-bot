@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-15T18:37:22.604Z",
+  "lastRun": "2026-06-15T20:13:46.904Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1txecj6/save_20_on_all_hail_the_orb_on_steam/",
-        "postedAt": "2026-06-05T09:18:44.179Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1txg9wq/save_40_on_bleach_rebirth_of_souls_on_steam/",
-        "postedAt": "2026-06-05T11:13:30.487Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1txlux8/save_90_on_metro_2033_redux_199/",
-        "postedAt": "2026-06-05T15:08:41.936Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1txregs/save_90_on_endling_extinction_is_forever_on_steam/",
         "postedAt": "2026-06-05T17:40:48.214Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u675ly/save_90_on_going_under_199/",
         "postedAt": "2026-06-15T16:43:02.810Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u6rqtu/save_90_on_cruelty_squad_on_steam/",
+        "postedAt": "2026-06-15T20:13:46.904Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u6nxth/save_35_on_split_fiction_on_steam_historical_low/",
+        "postedAt": "2026-06-15T20:13:46.904Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u6nruf/save_20_on_gladiator_command_on_steam_399/",
+        "postedAt": "2026-06-15T20:13:46.904Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u675ly/save_90_on_going_under_199/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u6nruf/save_20_on_gladiator_command_on_steam_399/",
     "steam_sales": "sale_2001120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u5tnsk/control_resonant_lead_level_designer_reveals_the/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
