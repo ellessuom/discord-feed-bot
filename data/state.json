@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-15T20:13:46.904Z",
+  "lastRun": "2026-06-15T21:55:54.777Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1txregs/save_90_on_endling_extinction_is_forever_on_steam/",
-        "postedAt": "2026-06-05T17:40:48.214Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1txtohr/save_40_on_cuphead_on_steam_historical_low/",
         "postedAt": "2026-06-05T18:47:47.037Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u6nruf/save_20_on_gladiator_command_on_steam_399/",
         "postedAt": "2026-06-15T20:13:46.904Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u6ukrs/save_45_on_the_bunker_notes_on_steam/",
+        "postedAt": "2026-06-15T21:55:54.777Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1147923",
-        "postedAt": "2026-05-24T22:25:06.544Z"
-      },
       {
         "id": "sale_4630570",
         "postedAt": "2026-05-25T15:10:09.142Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2001120",
         "postedAt": "2026-06-15T18:37:22.604Z"
+      },
+      {
+        "id": "sale_1162750",
+        "postedAt": "2026-06-15T21:55:54.777Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1265,8 +1265,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u6nruf/save_20_on_gladiator_command_on_steam_399/",
-    "steam_sales": "sale_2001120",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u6ukrs/save_45_on_the_bunker_notes_on_steam/",
+    "steam_sales": "sale_1162750",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u5tnsk/control_resonant_lead_level_designer_reveals_the/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
