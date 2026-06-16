@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-16T03:19:17.366Z",
+  "lastRun": "2026-06-16T12:40:12.160Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1txvr4c/save_40_on_ninja_gaiden_4_on_steam/",
-        "postedAt": "2026-06-05T20:41:34.833Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ty46wy/the_forest_franchise_sale/",
-        "postedAt": "2026-06-06T03:15:53.460Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ty7zbp/save_50_on_space_menace_2_on_steam/",
         "postedAt": "2026-06-06T05:25:10.511Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u6zyin/save_75_on_far_cry_3_on_steam/",
         "postedAt": "2026-06-16T03:19:17.366Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u7bcjl/save_20_on_spitter_on_steam_developer/",
+        "postedAt": "2026-06-16T12:40:12.159Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u7adlt/save_35_on_caput_mortum_on_steam/",
+        "postedAt": "2026-06-16T12:40:12.160Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u6zyin/save_75_on_far_cry_3_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u7adlt/save_35_on_caput_mortum_on_steam/",
     "steam_sales": "sale_1162750",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u5tnsk/control_resonant_lead_level_designer_reveals_the/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
