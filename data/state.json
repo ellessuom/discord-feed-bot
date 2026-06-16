@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-15T21:55:54.777Z",
+  "lastRun": "2026-06-16T03:19:17.366Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1txtohr/save_40_on_cuphead_on_steam_historical_low/",
-        "postedAt": "2026-06-05T18:47:47.037Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1txtuzd/save_50_on_wednesdays_historical_low/",
-        "postedAt": "2026-06-05T19:38:52.545Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1txvujr/save_90_on_middleearth_shadow_of_war_on_steam/",
-        "postedAt": "2026-06-05T20:41:34.833Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1txvrqx/save_58_on_monster_hunter_wilds_on_steam/",
-        "postedAt": "2026-06-05T20:41:34.833Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1txvr4c/save_40_on_ninja_gaiden_4_on_steam/",
         "postedAt": "2026-06-05T20:41:34.833Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u6ukrs/save_45_on_the_bunker_notes_on_steam/",
         "postedAt": "2026-06-15T21:55:54.777Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u71g11/cad_339_save_80_on_kill_it_with_fire_on_steam/",
+        "postedAt": "2026-06-16T03:19:17.366Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u71bd2/cad_909_save_65_on_cassette_beasts_on_steam/",
+        "postedAt": "2026-06-16T03:19:17.366Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u70z7z/cad_1039_save_60_on_wingspan_on_steam_bundles/",
+        "postedAt": "2026-06-16T03:19:17.366Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u6zyin/save_75_on_far_cry_3_on_steam/",
+        "postedAt": "2026-06-16T03:19:17.366Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u6ukrs/save_45_on_the_bunker_notes_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u6zyin/save_75_on_far_cry_3_on_steam/",
     "steam_sales": "sale_1162750",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u5tnsk/control_resonant_lead_level_designer_reveals_the/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
