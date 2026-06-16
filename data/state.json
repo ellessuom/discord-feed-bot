@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-16T22:42:44.596Z",
+  "lastRun": "2026-06-16T23:36:56.608Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tz5ckj/save_35_on_last_outpost_bullet_hell_tower_defense/",
-        "postedAt": "2026-06-07T07:34:12.900Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tz4vvy/save_80_on_zero_escape_trilogy_on_steam/",
         "postedAt": "2026-06-07T07:34:12.900Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u7jpmf/save_60_teenage_mutant_ninja_turtles_shredders/",
         "postedAt": "2026-06-16T18:34:46.390Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u7try3/60_off_on_dead_by_daylight/",
+        "postedAt": "2026-06-16T23:36:56.608Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u7jpmf/save_60_teenage_mutant_ninja_turtles_shredders/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u7try3/60_off_on_dead_by_daylight/",
     "steam_sales": "sale_3070070",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u5tnsk/control_resonant_lead_level_designer_reveals_the/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
