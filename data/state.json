@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-16T12:40:12.160Z",
+  "lastRun": "2026-06-16T18:34:46.390Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ty7zbp/save_50_on_space_menace_2_on_steam/",
-        "postedAt": "2026-06-06T05:25:10.511Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ty6xts/save_80_on_ori_and_the_blind_forest_definitive/",
-        "postedAt": "2026-06-06T05:25:10.511Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tz5ckj/save_35_on_last_outpost_bullet_hell_tower_defense/",
         "postedAt": "2026-06-07T07:34:12.900Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u7adlt/save_35_on_caput_mortum_on_steam/",
         "postedAt": "2026-06-16T12:40:12.160Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u7jvhg/save_85_on_two_point_campus_on_steam/",
+        "postedAt": "2026-06-16T18:34:46.390Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u7jpmf/save_60_teenage_mutant_ninja_turtles_shredders/",
+        "postedAt": "2026-06-16T18:34:46.390Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4630570",
-        "postedAt": "2026-05-25T15:10:09.142Z"
-      },
       {
         "id": "sale_1190970",
         "postedAt": "2026-05-25T16:49:29.885Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1162750",
         "postedAt": "2026-06-15T21:55:54.777Z"
+      },
+      {
+        "id": "sale_381210",
+        "postedAt": "2026-06-16T18:34:46.390Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1265,8 +1265,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u7adlt/save_35_on_caput_mortum_on_steam/",
-    "steam_sales": "sale_1162750",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u7jpmf/save_60_teenage_mutant_ninja_turtles_shredders/",
+    "steam_sales": "sale_381210",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u5tnsk/control_resonant_lead_level_designer_reveals_the/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
