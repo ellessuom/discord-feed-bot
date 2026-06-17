@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-17T03:19:01.842Z",
+  "lastRun": "2026-06-17T08:04:52.487Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tz4acl/save_80_on_perception_heart_and_mind_on_steam_099/",
-        "postedAt": "2026-06-07T07:34:12.900Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tz6fhl/save_75_on_minecraft_dungeons_ultimate_edition/",
         "postedAt": "2026-06-07T09:10:52.089Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u7v46l/save_75_on_borderlands_2_on_steam_5/",
         "postedAt": "2026-06-17T03:19:01.842Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u80krr/save_90_on_blasphemous_249/",
+        "postedAt": "2026-06-17T08:04:52.487Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u7v46l/save_75_on_borderlands_2_on_steam_5/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u80krr/save_90_on_blasphemous_249/",
     "steam_sales": "sale_1004640",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u7c980/auditors_warn_dont_nod_will_run_out_of_cash_by/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
