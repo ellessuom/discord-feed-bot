@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-17T21:43:41.025Z",
+  "lastRun": "2026-06-17T23:39:05.996Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u0cbs0/save_50_on_sea_of_stars_sunset_edition_historic/",
-        "postedAt": "2026-06-08T17:14:21.207Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u0g0sm/save_90_on_rock_n_roll_will_never_die_149/",
         "postedAt": "2026-06-08T18:59:20.358Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u8gslj/save_50_on_hifi_rush_on_steam/",
         "postedAt": "2026-06-17T17:56:56.407Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u8pwmf/save_90_on_castle_crashers_on_steam/",
+        "postedAt": "2026-06-17T23:39:05.996Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u8gslj/save_50_on_hifi_rush_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u8pwmf/save_90_on_castle_crashers_on_steam/",
     "steam_sales": "sale_3072120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u7c980/auditors_warn_dont_nod_will_run_out_of_cash_by/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
