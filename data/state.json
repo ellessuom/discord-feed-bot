@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-17T17:56:56.407Z",
+  "lastRun": "2026-06-17T20:50:11.192Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,18 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_233860",
-        "postedAt": "2026-05-25T18:42:07.666Z"
-      },
-      {
-        "id": "sale_275850",
-        "postedAt": "2026-05-25T18:42:07.666Z"
-      },
-      {
-        "id": "sale_1239080",
-        "postedAt": "2026-05-25T20:36:37.697Z"
-      },
-      {
         "id": "sale_2784470",
         "postedAt": "2026-05-25T20:36:37.697Z"
       },
@@ -804,6 +792,18 @@
       {
         "id": "sale_4528730",
         "postedAt": "2026-06-17T14:15:50.579Z"
+      },
+      {
+        "id": "sale_1817230",
+        "postedAt": "2026-06-17T20:50:11.192Z"
+      },
+      {
+        "id": "sale_2790700",
+        "postedAt": "2026-06-17T20:50:11.192Z"
+      },
+      {
+        "id": "sale_2373990",
+        "postedAt": "2026-06-17T20:50:11.192Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1266,7 +1266,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u8gslj/save_50_on_hifi_rush_on_steam/",
-    "steam_sales": "sale_4528730",
+    "steam_sales": "sale_2373990",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u7c980/auditors_warn_dont_nod_will_run_out_of_cash_by/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
