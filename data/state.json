@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-16T23:36:56.608Z",
+  "lastRun": "2026-06-17T03:19:01.842Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1tz4vvy/save_80_on_zero_escape_trilogy_on_steam/",
-        "postedAt": "2026-06-07T07:34:12.900Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1tz4acl/save_80_on_perception_heart_and_mind_on_steam_099/",
         "postedAt": "2026-06-07T07:34:12.900Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u7try3/60_off_on_dead_by_daylight/",
         "postedAt": "2026-06-16T23:36:56.608Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u7v46l/save_75_on_borderlands_2_on_steam_5/",
+        "postedAt": "2026-06-17T03:19:01.842Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1118520",
-        "postedAt": "2026-05-25T16:49:29.885Z"
-      },
       {
         "id": "sale_1631270",
         "postedAt": "2026-05-25T17:37:09.066Z"
@@ -804,25 +800,13 @@
       {
         "id": "sale_3070070",
         "postedAt": "2026-06-16T22:42:44.596Z"
+      },
+      {
+        "id": "sale_1004640",
+        "postedAt": "2026-06-17T03:19:01.842Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tx945e/steam_machine_is_officially_coming_in_summer_2026/",
-        "postedAt": "2026-06-05T03:18:47.513Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txax78/dynasty_warriors_3_complete_edition_remastered/",
-        "postedAt": "2026-06-05T05:39:50.824Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txcp2o/starcraft_2_just_got_its_first_real_update_in/",
-        "postedAt": "2026-06-05T07:41:23.090Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txeox4/fifa_world_cup_video_game_launches_on_netflix/",
-        "postedAt": "2026-06-05T09:18:44.179Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1txeba1/amazon_will_publish_whatever_007_first_light/",
         "postedAt": "2026-06-05T09:18:44.179Z"
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u5tnsk/control_resonant_lead_level_designer_reveals_the/",
         "postedAt": "2026-06-15T16:43:02.810Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u7jnoj/xbox_may_introduce_a_buy_now_pay_later_payment/",
+        "postedAt": "2026-06-17T03:19:01.842Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u7hcm2/13_million_gamers_in_eu_asked_publishers_to_stop/",
+        "postedAt": "2026-06-17T03:19:01.842Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u7eg6p/resident_evil_monster_hunter_and_street_fighter/",
+        "postedAt": "2026-06-17T03:19:01.842Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u7c980/auditors_warn_dont_nod_will_run_out_of_cash_by/",
+        "postedAt": "2026-06-17T03:19:01.842Z"
       }
     ],
     "steam_2073850": [
@@ -1265,9 +1265,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u7try3/60_off_on_dead_by_daylight/",
-    "steam_sales": "sale_3070070",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u5tnsk/control_resonant_lead_level_designer_reveals_the/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u7v46l/save_75_on_borderlands_2_on_steam_5/",
+    "steam_sales": "sale_1004640",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u7c980/auditors_warn_dont_nod_will_run_out_of_cash_by/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
