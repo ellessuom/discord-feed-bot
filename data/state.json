@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-17T08:04:52.487Z",
+  "lastRun": "2026-06-17T14:15:50.579Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,14 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1631270",
-        "postedAt": "2026-05-25T17:37:09.066Z"
-      },
-      {
-        "id": "sale_3240220",
-        "postedAt": "2026-05-25T18:42:07.666Z"
-      },
-      {
         "id": "sale_233860",
         "postedAt": "2026-05-25T18:42:07.666Z"
       },
@@ -804,6 +796,14 @@
       {
         "id": "sale_1004640",
         "postedAt": "2026-06-17T03:19:01.842Z"
+      },
+      {
+        "id": "sale_838350",
+        "postedAt": "2026-06-17T14:15:50.579Z"
+      },
+      {
+        "id": "sale_4528730",
+        "postedAt": "2026-06-17T14:15:50.579Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1266,7 +1266,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u80krr/save_90_on_blasphemous_249/",
-    "steam_sales": "sale_1004640",
+    "steam_sales": "sale_4528730",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u7c980/auditors_warn_dont_nod_will_run_out_of_cash_by/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
