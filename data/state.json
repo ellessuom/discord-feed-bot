@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-18T01:13:01.529Z",
+  "lastRun": "2026-06-18T09:39:13.439Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u0g0sm/save_90_on_rock_n_roll_will_never_die_149/",
-        "postedAt": "2026-06-08T18:59:20.358Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u0fiwz/save_30_on_routine_on_steam/",
-        "postedAt": "2026-06-08T18:59:20.358Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u0ffm8/save_40_on_mouthwashing_on_steam/",
-        "postedAt": "2026-06-08T18:59:20.358Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u0e8ul/save_67_on_returnal_on_steam/",
-        "postedAt": "2026-06-08T18:59:20.358Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u0g813/save_20_on_monster_girl_therapy_on_steam_my_game/",
         "postedAt": "2026-06-08T19:49:46.890Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u8pwmf/save_90_on_castle_crashers_on_steam/",
         "postedAt": "2026-06-17T23:39:05.996Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u910js/save_75_on_abzu_on_steam/",
+        "postedAt": "2026-06-18T09:39:13.439Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u8w2t1/save_70_on_tomb_raider_ivvi_remastered_on_steam/",
+        "postedAt": "2026-06-18T09:39:13.439Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u8w291/save_70_on_tomb_raider_iiii_remastered_starring/",
+        "postedAt": "2026-06-18T09:39:13.439Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u8tti9/cad_839_save_70_on_oxygen_not_included_on_steam/",
+        "postedAt": "2026-06-18T09:39:13.439Z"
       }
     ],
     "steam_sales": [
@@ -1265,7 +1265,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u8pwmf/save_90_on_castle_crashers_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u8tti9/cad_839_save_70_on_oxygen_not_included_on_steam/",
     "steam_sales": "sale_3072120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u7youd/microsoft_reportedly_used_senua_reveal_to_attract/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
