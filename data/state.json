@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-18T11:29:17.864Z",
+  "lastRun": "2026-06-18T15:11:35.663Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u0mzlf/beyond_solar_is_50_off_during_steam_bullet_fest/",
-        "postedAt": "2026-06-08T22:36:57.395Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u11b8n/50_off_gunbot_diplomacy_249_top_down_bullet/",
         "postedAt": "2026-06-09T11:10:09.904Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u8tgd4/cad_1949_save_50_on_chickenhare_and_the_treasure/",
         "postedAt": "2026-06-18T11:29:17.864Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u93yew/save_60_on_anger_foot_on_steam/",
+        "postedAt": "2026-06-18T15:11:35.663Z"
       }
     ],
     "steam_sales": [
@@ -1269,7 +1269,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u8tgd4/cad_1949_save_50_on_chickenhare_and_the_treasure/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u93yew/save_60_on_anger_foot_on_steam/",
     "steam_sales": "sale_2651410",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u7youd/microsoft_reportedly_used_senua_reveal_to_attract/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
