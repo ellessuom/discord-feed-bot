@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-18T19:48:55.289Z",
+  "lastRun": "2026-06-18T20:56:32.227Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o582/save_84_on_dragon_ball_fighterz_on_steam/",
-        "postedAt": "2026-06-10T03:17:35.694Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o4hu/save_85_on_chivalry_2_on_steam/",
-        "postedAt": "2026-06-10T03:17:35.694Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o4rh/save_90_on_green_hell_on_steam/",
-        "postedAt": "2026-06-10T05:40:05.793Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o3xx/save_80_on_state_of_decay_2_juggernaut_edition_on/",
-        "postedAt": "2026-06-10T05:40:05.793Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u1o2bi/save_90_on_steelrising_on_steam/",
         "postedAt": "2026-06-10T05:40:05.793Z"
@@ -402,25 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9ebxf/save_80_on_alice_madness_returns_on_steam/",
         "postedAt": "2026-06-18T19:48:55.289Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9hgr7/save_90_on_sonic_mania_on_steam/",
+        "postedAt": "2026-06-18T20:56:32.227Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9fgza/save_75_on_risen_on_steam/",
+        "postedAt": "2026-06-18T20:56:32.227Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9ed2j/save_92_on_mass_effect_andromeda_deluxe_edition/",
+        "postedAt": "2026-06-18T20:56:32.227Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9e6gc/save_on_the_sonic_franchise_sxs_gens_70_off_sonic/",
+        "postedAt": "2026-06-18T20:56:32.227Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_12210",
-        "postedAt": "2026-05-26T20:46:09.580Z"
-      },
-      {
-        "id": "sale_2261430",
-        "postedAt": "2026-05-26T21:37:10.201Z"
-      },
-      {
-        "id": "sale_3159330",
-        "postedAt": "2026-05-26T21:37:10.201Z"
-      },
-      {
-        "id": "sale_2982610",
-        "postedAt": "2026-05-26T21:37:10.201Z"
-      },
       {
         "id": "sale_1623730",
         "postedAt": "2026-05-26T23:30:33.904Z"
@@ -804,6 +788,22 @@
       {
         "id": "sale_1874880",
         "postedAt": "2026-06-18T19:48:55.289Z"
+      },
+      {
+        "id": "sale_124923",
+        "postedAt": "2026-06-18T20:56:32.227Z"
+      },
+      {
+        "id": "sale_3986670",
+        "postedAt": "2026-06-18T20:56:32.227Z"
+      },
+      {
+        "id": "sale_3156770",
+        "postedAt": "2026-06-18T20:56:32.227Z"
+      },
+      {
+        "id": "sale_1693980",
+        "postedAt": "2026-06-18T20:56:32.227Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1269,8 +1269,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9ebxf/save_80_on_alice_madness_returns_on_steam/",
-    "steam_sales": "sale_1874880",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9e6gc/save_on_the_sonic_franchise_sxs_gens_70_off_sonic/",
+    "steam_sales": "sale_1693980",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
   }
