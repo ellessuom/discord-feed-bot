@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-18T17:12:03.695Z",
+  "lastRun": "2026-06-18T18:56:30.937Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u11b8n/50_off_gunbot_diplomacy_249_top_down_bullet/",
-        "postedAt": "2026-06-09T11:10:09.904Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u15h7h/save_65_on_ryse_son_of_rome_on_steam/",
-        "postedAt": "2026-06-09T15:16:42.782Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u15frs/save_75_on_sunset_overdrive_on_steam/",
-        "postedAt": "2026-06-09T15:16:42.782Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u18maf/save_80_on_steinstern_spacewar_on_steam/",
-        "postedAt": "2026-06-09T17:02:01.849Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u182py/save_15_on_atre_dominance_wars_on_steam/",
         "postedAt": "2026-06-09T17:02:01.849Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u93yew/save_60_on_anger_foot_on_steam/",
         "postedAt": "2026-06-18T15:11:35.663Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9eani/save_90_on_the_witcher_3_wild_hunt_on_steam/",
+        "postedAt": "2026-06-18T18:56:30.937Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9doh0/save_92_on_mass_effect_legendary_edition_on_steam/",
+        "postedAt": "2026-06-18T18:56:30.937Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9dm2q/save_90_on_dead_space_deluxe_on_steam_historical/",
+        "postedAt": "2026-06-18T18:56:30.937Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9cbul/save_70_on_cyberpunk_2077_on_historical_low/",
+        "postedAt": "2026-06-18T18:56:30.937Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3009300",
-        "postedAt": "2026-05-26T03:17:56.546Z"
-      },
-      {
-        "id": "sale_1805320",
-        "postedAt": "2026-05-26T13:13:06.633Z"
-      },
       {
         "id": "sale_817628",
         "postedAt": "2026-05-26T15:10:48.202Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_2651410",
         "postedAt": "2026-06-18T11:29:17.864Z"
+      },
+      {
+        "id": "sale_1091500",
+        "postedAt": "2026-06-18T18:56:30.937Z"
+      },
+      {
+        "id": "sale_2138330",
+        "postedAt": "2026-06-18T18:56:30.937Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1269,8 +1269,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u93yew/save_60_on_anger_foot_on_steam/",
-    "steam_sales": "sale_2651410",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9cbul/save_70_on_cyberpunk_2077_on_historical_low/",
+    "steam_sales": "sale_2138330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u8zpfh/rockstar_thought_they_could_control_the_narrative/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
   }
