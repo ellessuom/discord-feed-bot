@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-18T22:44:49.528Z",
+  "lastRun": "2026-06-18T23:38:23.188Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u2d50y/save_90_on_vampyr_on_steam/",
-        "postedAt": "2026-06-10T20:59:47.913Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u2d3ce/save_85_on_just_cause_3_on_steam/",
-        "postedAt": "2026-06-10T20:59:47.913Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u2d0ma/save_75_on_hellblade_ii_senuas_saga_on_steam/",
-        "postedAt": "2026-06-10T20:59:47.913Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u2cwom/save_80_on_dying_light_2_stay_human_reloaded/",
         "postedAt": "2026-06-10T20:59:47.913Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9je5w/save_80_on_sniper_elite_5_on_steam_10/",
         "postedAt": "2026-06-18T22:44:49.528Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9lxxb/save_90_on_sniper_elite_4_on_steam/",
+        "postedAt": "2026-06-18T23:38:23.188Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9jgij/save_85_on_burnout_paradise_remastered/",
+        "postedAt": "2026-06-18T23:38:23.188Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9jcw7/save_80_on_batman_arkham_city_game_of_the_year/",
+        "postedAt": "2026-06-18T23:38:23.188Z"
       }
     ],
     "steam_sales": [
@@ -1269,7 +1269,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9je5w/save_80_on_sniper_elite_5_on_steam_10/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9jcw7/save_80_on_batman_arkham_city_game_of_the_year/",
     "steam_sales": "sale_2486820",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
