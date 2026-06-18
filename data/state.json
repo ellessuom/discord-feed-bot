@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-18T21:46:59.029Z",
+  "lastRun": "2026-06-18T22:44:49.528Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u2430c/save_50_on_faye_falling_on_steam_an_indie_rpg/",
-        "postedAt": "2026-06-10T15:13:45.418Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u22l29/shapez_2_discounted_factorybuilding_automation_at/",
-        "postedAt": "2026-06-10T15:13:45.418Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u22kfn/save_84_off_on_762_high_calibre_and_brigade_e5/",
-        "postedAt": "2026-06-10T15:13:45.418Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u28btn/save_20_on_into_the_grid_on_steam/",
-        "postedAt": "2026-06-10T17:14:21.113Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u2d50y/save_90_on_vampyr_on_steam/",
         "postedAt": "2026-06-10T20:59:47.913Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9eo3a/save_75_on_gothic_universe_edition_on_steam/",
         "postedAt": "2026-06-18T21:46:59.029Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9krj8/cad_638_save_92_on_mass_effect_legendary_edition/",
+        "postedAt": "2026-06-18T22:44:49.528Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9jg11/save_95_on_battlefield_1_on_steam_2/",
+        "postedAt": "2026-06-18T22:44:49.528Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9jfgf/save_85_on_sniper_elite_vr_449/",
+        "postedAt": "2026-06-18T22:44:49.528Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9je5w/save_80_on_sniper_elite_5_on_steam_10/",
+        "postedAt": "2026-06-18T22:44:49.528Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2175540",
-        "postedAt": "2026-05-27T17:13:46.366Z"
-      },
       {
         "id": "sale_1116050",
         "postedAt": "2026-05-27T20:49:32.929Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_518790",
         "postedAt": "2026-06-18T21:46:59.029Z"
+      },
+      {
+        "id": "sale_2486820",
+        "postedAt": "2026-06-18T22:44:49.528Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1269,8 +1269,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9eo3a/save_75_on_gothic_universe_edition_on_steam/",
-    "steam_sales": "sale_518790",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9je5w/save_80_on_sniper_elite_5_on_steam_10/",
+    "steam_sales": "sale_2486820",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
   }
