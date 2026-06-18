@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-18T18:56:30.937Z",
+  "lastRun": "2026-06-18T19:48:55.289Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u182py/save_15_on_atre_dominance_wars_on_steam/",
-        "postedAt": "2026-06-09T17:02:01.849Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u1bdzj/save_50_on_lies_of_p_on_steam/",
-        "postedAt": "2026-06-09T18:53:02.894Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o6dn/save_85_on_mafia_definitive_edition_on_steam/",
-        "postedAt": "2026-06-10T03:17:35.694Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o5od/save_75_on_undertale_on_steam/",
-        "postedAt": "2026-06-10T03:17:35.694Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u1o582/save_84_on_dragon_ball_fighterz_on_steam/",
         "postedAt": "2026-06-10T03:17:35.694Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9cbul/save_70_on_cyberpunk_2077_on_historical_low/",
         "postedAt": "2026-06-18T18:56:30.937Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9em5w/save_87_on_mortal_kombat_11_and_x_bundle_on_steam/",
+        "postedAt": "2026-06-18T19:48:55.289Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9eiqk/save_90_on_wreckfest_on_steam/",
+        "postedAt": "2026-06-18T19:48:55.289Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9eiji/save_85_on_batman_arkham_collection_on_steam/",
+        "postedAt": "2026-06-18T19:48:55.289Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9ebxf/save_80_on_alice_madness_returns_on_steam/",
+        "postedAt": "2026-06-18T19:48:55.289Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_817628",
-        "postedAt": "2026-05-26T15:10:48.202Z"
-      },
-      {
-        "id": "sale_1119730",
-        "postedAt": "2026-05-26T17:12:55.626Z"
-      },
       {
         "id": "sale_12210",
         "postedAt": "2026-05-26T20:46:09.580Z"
@@ -804,25 +796,17 @@
       {
         "id": "sale_2138330",
         "postedAt": "2026-06-18T18:56:30.937Z"
+      },
+      {
+        "id": "sale_3404260",
+        "postedAt": "2026-06-18T19:48:55.289Z"
+      },
+      {
+        "id": "sale_1874880",
+        "postedAt": "2026-06-18T19:48:55.289Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txt7p5/tempus_vitae_timetravel_fps_metroidvania/",
-        "postedAt": "2026-06-05T18:47:47.037Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txw8d3/the_average_american_gamer_is_a_37yearold_white/",
-        "postedAt": "2026-06-05T20:41:34.833Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txw567/god_of_war_laufeys_director_talks_fan_skepticism/",
-        "postedAt": "2026-06-05T20:41:34.833Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txw1tm/minecraft_dungeons_ii_launches_september_29/",
-        "postedAt": "2026-06-05T20:41:34.833Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1txvsof/xbox_wants_to_surpass_sony_and_become_the_biggest/",
         "postedAt": "2026-06-05T20:41:34.833Z"
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u8zpfh/rockstar_thought_they_could_control_the_narrative/",
         "postedAt": "2026-06-18T17:12:03.695Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u9ecz0/rise_of_the_families_improvements_fixes_update_is/",
+        "postedAt": "2026-06-18T19:48:55.289Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u9d1wq/former_playstation_boss_shawn_layden_says_xboxs/",
+        "postedAt": "2026-06-18T19:48:55.289Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u9abq6/citizen_sleeper/",
+        "postedAt": "2026-06-18T19:48:55.289Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
+        "postedAt": "2026-06-18T19:48:55.289Z"
       }
     ],
     "steam_2073850": [
@@ -1269,9 +1269,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9cbul/save_70_on_cyberpunk_2077_on_historical_low/",
-    "steam_sales": "sale_2138330",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u8zpfh/rockstar_thought_they_could_control_the_narrative/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9ebxf/save_80_on_alice_madness_returns_on_steam/",
+    "steam_sales": "sale_1874880",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
   }
 }
