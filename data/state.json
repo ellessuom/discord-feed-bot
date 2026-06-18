@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-18T15:11:35.663Z",
+  "lastRun": "2026-06-18T17:12:03.695Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txeh44/songs_of_conquest/",
-        "postedAt": "2026-06-05T11:13:30.487Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txegq5/rogue_waters/",
-        "postedAt": "2026-06-05T11:13:30.487Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txhz4q/paint_with_blood_in_this_upcoming_cozy_indie/",
-        "postedAt": "2026-06-05T13:13:46.841Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txqoxr/switch_2_sales_drop_87_in_japan_following_surge/",
-        "postedAt": "2026-06-05T17:40:48.214Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1txt7p5/tempus_vitae_timetravel_fps_metroidvania/",
         "postedAt": "2026-06-05T18:47:47.037Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u7youd/microsoft_reportedly_used_senua_reveal_to_attract/",
         "postedAt": "2026-06-18T01:13:01.529Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u9acku/robobeat/",
+        "postedAt": "2026-06-18T17:12:03.695Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u99fjj/gamers_dont_want_it_palworld_lead_john_buckley/",
+        "postedAt": "2026-06-18T17:12:03.695Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u97yel/otherside_entertainment_lays_off_17_employees/",
+        "postedAt": "2026-06-18T17:12:03.695Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u8zpfh/rockstar_thought_they_could_control_the_narrative/",
+        "postedAt": "2026-06-18T17:12:03.695Z"
       }
     ],
     "steam_2073850": [
@@ -1271,7 +1271,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u93yew/save_60_on_anger_foot_on_steam/",
     "steam_sales": "sale_2651410",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u7youd/microsoft_reportedly_used_senua_reveal_to_attract/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u8zpfh/rockstar_thought_they_could_control_the_narrative/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
   }
 }
