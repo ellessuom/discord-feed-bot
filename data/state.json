@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-18T20:56:32.227Z",
+  "lastRun": "2026-06-18T21:46:59.029Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u1o2bi/save_90_on_steelrising_on_steam/",
-        "postedAt": "2026-06-10T05:40:05.793Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u1x3do/save_60_on_rungore_on_steam/",
-        "postedAt": "2026-06-10T09:24:21.784Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u1wk23/save_35_on_the_slormancer_on_steam/",
-        "postedAt": "2026-06-10T09:24:21.784Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u250rf/save_10_on_into_the_depths_on_steam_1349/",
-        "postedAt": "2026-06-10T15:13:45.418Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u2430c/save_50_on_faye_falling_on_steam_an_indie_rpg/",
         "postedAt": "2026-06-10T15:13:45.418Z"
@@ -402,21 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9e6gc/save_on_the_sonic_franchise_sxs_gens_70_off_sonic/",
         "postedAt": "2026-06-18T20:56:32.227Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9gzvc/save_90_on_dragon_age_inquisition_on_steam/",
+        "postedAt": "2026-06-18T21:46:59.029Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9gzmm/save_90_on_dragon_age_origins/",
+        "postedAt": "2026-06-18T21:46:59.029Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9gzfv/save_90_on_dragon_age_ii_ultimate_edition_on_steam/",
+        "postedAt": "2026-06-18T21:46:59.029Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9eo3a/save_75_on_gothic_universe_edition_on_steam/",
+        "postedAt": "2026-06-18T21:46:59.029Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1623730",
-        "postedAt": "2026-05-26T23:30:33.904Z"
-      },
-      {
-        "id": "sale_2499860",
-        "postedAt": "2026-05-27T05:37:03.041Z"
-      },
-      {
-        "id": "sale_2495100",
-        "postedAt": "2026-05-27T15:14:57.651Z"
-      },
       {
         "id": "sale_2175540",
         "postedAt": "2026-05-27T17:13:46.366Z"
@@ -804,6 +792,18 @@
       {
         "id": "sale_1693980",
         "postedAt": "2026-06-18T20:56:32.227Z"
+      },
+      {
+        "id": "sale_221100",
+        "postedAt": "2026-06-18T21:46:59.029Z"
+      },
+      {
+        "id": "sale_292030",
+        "postedAt": "2026-06-18T21:46:59.029Z"
+      },
+      {
+        "id": "sale_518790",
+        "postedAt": "2026-06-18T21:46:59.029Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1269,8 +1269,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9e6gc/save_on_the_sonic_franchise_sxs_gens_70_off_sonic/",
-    "steam_sales": "sale_1693980",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9eo3a/save_75_on_gothic_universe_edition_on_steam/",
+    "steam_sales": "sale_518790",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
   }
