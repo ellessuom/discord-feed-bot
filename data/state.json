@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-17T23:39:05.996Z",
+  "lastRun": "2026-06-18T01:13:01.529Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txeba1/amazon_will_publish_whatever_007_first_light/",
-        "postedAt": "2026-06-05T09:18:44.179Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txeawi/guy_who_swatted_grand_theft_auto_5_star_is_going/",
-        "postedAt": "2026-06-05T09:18:44.179Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txeaib/switch_2_replaceable_battery_confirmed_for_europe/",
-        "postedAt": "2026-06-05T09:18:44.179Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1txhnfd/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-06-05T11:13:30.487Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1txeh44/songs_of_conquest/",
         "postedAt": "2026-06-05T11:13:30.487Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u7c980/auditors_warn_dont_nod_will_run_out_of_cash_by/",
         "postedAt": "2026-06-17T03:19:01.842Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u8sdzn/kaspersky_says_hackers_are_distributing_malware/",
+        "postedAt": "2026-06-18T01:13:01.529Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u8377y/capcom_just_sold_more_games_than_in_any_year_in/",
+        "postedAt": "2026-06-18T01:13:01.529Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u81r45/xboxs_obsidian_is_working_on_avowed_2_with_a_new/",
+        "postedAt": "2026-06-18T01:13:01.529Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1u7youd/microsoft_reportedly_used_senua_reveal_to_attract/",
+        "postedAt": "2026-06-18T01:13:01.529Z"
       }
     ],
     "steam_2073850": [
@@ -1267,7 +1267,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u8pwmf/save_90_on_castle_crashers_on_steam/",
     "steam_sales": "sale_3072120",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u7c980/auditors_warn_dont_nod_will_run_out_of_cash_by/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u7youd/microsoft_reportedly_used_senua_reveal_to_attract/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
