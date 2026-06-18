@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-18T09:39:13.439Z",
+  "lastRun": "2026-06-18T11:29:17.864Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u0g813/save_20_on_monster_girl_therapy_on_steam_my_game/",
-        "postedAt": "2026-06-08T19:49:46.890Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u0ev9c/save_30_on_megabonk_on_steam/",
-        "postedAt": "2026-06-08T19:49:46.890Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u0ekkz/save_40_on_kaiserpunk_on_steam_games_from_croatia/",
-        "postedAt": "2026-06-08T19:49:46.890Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u0kyte/steam_rod_of_asclepius_70_off/",
-        "postedAt": "2026-06-08T21:40:58.333Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u0mzlf/beyond_solar_is_50_off_during_steam_bullet_fest/",
         "postedAt": "2026-06-08T22:36:57.395Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u8tti9/cad_839_save_70_on_oxygen_not_included_on_steam/",
         "postedAt": "2026-06-18T09:39:13.439Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u8u1js/cad_874_save_50_on_root_on_steam/",
+        "postedAt": "2026-06-18T11:29:17.864Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u8twbp/cad_652_save_75_on_overcooked_2_on_steam/",
+        "postedAt": "2026-06-18T11:29:17.864Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u8tql8/cad_1289_save_84_on_monster_hunter_rise_sunbreak/",
+        "postedAt": "2026-06-18T11:29:17.864Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u8tgd4/cad_1949_save_50_on_chickenhare_and_the_treasure/",
+        "postedAt": "2026-06-18T11:29:17.864Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1222140",
-        "postedAt": "2026-05-25T23:30:15.813Z"
-      },
       {
         "id": "sale_3009300",
         "postedAt": "2026-05-26T03:17:56.546Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_3072120",
         "postedAt": "2026-06-17T21:43:41.025Z"
+      },
+      {
+        "id": "sale_2651410",
+        "postedAt": "2026-06-18T11:29:17.864Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1260,14 +1260,18 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/668365445444665836",
         "postedAt": "2026-06-13T10:53:35.772Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/703271513166449145",
+        "postedAt": "2026-06-18T11:29:17.864Z"
       }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u8tti9/cad_839_save_70_on_oxygen_not_included_on_steam/",
-    "steam_sales": "sale_3072120",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u8tgd4/cad_1949_save_50_on_chickenhare_and_the_treasure/",
+    "steam_sales": "sale_2651410",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u7youd/microsoft_reportedly_used_senua_reveal_to_attract/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
   }
 }
