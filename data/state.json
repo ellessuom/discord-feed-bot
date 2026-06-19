@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-19T18:45:51.458Z",
+  "lastRun": "2026-06-19T19:38:13.811Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u3bfoo/save_75_on_sifu_on_steam/",
-        "postedAt": "2026-06-12T01:13:59.878Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u3b6s3/save_90_on_hotline_miami_on_steam/",
-        "postedAt": "2026-06-12T01:13:59.878Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u374ho/save_90_on_dont_starve_together_on_steam/",
-        "postedAt": "2026-06-12T01:13:59.878Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u35uly/save_80_on_ea_sports_fc_26_on_steamnew_historical/",
-        "postedAt": "2026-06-12T01:13:59.878Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u3pnty/save_80_on_graveyard_keeper_on_steam/",
         "postedAt": "2026-06-12T09:34:06.674Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9wonf/save_50_on_battlefield_6_on_steam_historical_low/",
         "postedAt": "2026-06-19T18:45:51.458Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uaacsi/save_50_on_snø_ultimate_freeriding_on_steam/",
+        "postedAt": "2026-06-19T19:38:13.811Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9yy3m/save_90_on_thehunter_call_of_the_wild_195/",
+        "postedAt": "2026-06-19T19:38:13.811Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9yb6o/battlefield_2042_on_sale/",
+        "postedAt": "2026-06-19T19:38:13.811Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9vosd/save_63_on_world_war_z_on_steam/",
+        "postedAt": "2026-06-19T19:38:13.811Z"
       }
     ],
     "steam_sales": [
@@ -1269,7 +1269,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9wonf/save_50_on_battlefield_6_on_steam_historical_low/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9vosd/save_63_on_world_war_z_on_steam/",
     "steam_sales": "sale_2881370",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
