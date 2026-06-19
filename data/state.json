@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-19T03:19:57.979Z",
+  "lastRun": "2026-06-19T05:51:51.566Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u2jy9o/save_85_on_car_mechanic_simulator_2021_on_steam/",
-        "postedAt": "2026-06-11T01:10:43.330Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u37dnv/steam_carrion_200_usd_90_off_historical_low/",
         "postedAt": "2026-06-11T19:08:21.164Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9lw3o/save_90_on_zombie_army_4_dead_war_on_steam/",
         "postedAt": "2026-06-19T03:19:57.979Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9qjgn/save_92_on_mass_effect_legendary_edition_on_steam/",
+        "postedAt": "2026-06-19T05:51:51.566Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1771300",
-        "postedAt": "2026-05-27T20:49:32.929Z"
-      },
       {
         "id": "sale_1569580",
         "postedAt": "2026-05-27T22:37:40.115Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1328670",
         "postedAt": "2026-06-19T01:18:49.338Z"
+      },
+      {
+        "id": "sale_1426210",
+        "postedAt": "2026-06-19T05:51:51.566Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1269,8 +1269,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9lw3o/save_90_on_zombie_army_4_dead_war_on_steam/",
-    "steam_sales": "sale_1328670",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9qjgn/save_92_on_mass_effect_legendary_edition_on_steam/",
+    "steam_sales": "sale_1426210",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
   }
