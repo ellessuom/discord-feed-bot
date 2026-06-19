@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-19T19:38:13.811Z",
+  "lastRun": "2026-06-19T20:37:40.794Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u3pnty/save_80_on_graveyard_keeper_on_steam/",
-        "postedAt": "2026-06-12T09:34:06.674Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u3hrib/save_47_on_borderlands_the_handsome_collection_on/",
-        "postedAt": "2026-06-12T09:34:06.674Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u3bmhl/save_90_on_shadow_warrior_2_on_steam/",
         "postedAt": "2026-06-12T09:34:06.674Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9vosd/save_63_on_world_war_z_on_steam/",
         "postedAt": "2026-06-19T19:38:13.811Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uacqim/save_80_on_road_96_399/",
+        "postedAt": "2026-06-19T20:37:40.794Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uabp13/save_20_on_last_epoch_on_steam/",
+        "postedAt": "2026-06-19T20:37:40.794Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3198890",
-        "postedAt": "2026-05-28T15:17:47.152Z"
-      },
       {
         "id": "sale_3583210",
         "postedAt": "2026-05-28T17:24:33.599Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2881370",
         "postedAt": "2026-06-19T17:41:53.909Z"
+      },
+      {
+        "id": "sale_1620730",
+        "postedAt": "2026-06-19T20:37:40.794Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1269,8 +1269,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9vosd/save_63_on_world_war_z_on_steam/",
-    "steam_sales": "sale_2881370",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uabp13/save_20_on_last_epoch_on_steam/",
+    "steam_sales": "sale_1620730",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
   }
