@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-19T05:51:51.566Z",
+  "lastRun": "2026-06-19T08:05:14.550Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1569580",
-        "postedAt": "2026-05-27T22:37:40.115Z"
-      },
-      {
         "id": "sale_990080",
         "postedAt": "2026-05-28T03:20:21.714Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_1426210",
         "postedAt": "2026-06-19T05:51:51.566Z"
+      },
+      {
+        "id": "sale_320795",
+        "postedAt": "2026-06-19T08:05:14.550Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1270,7 +1270,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9qjgn/save_92_on_mass_effect_legendary_edition_on_steam/",
-    "steam_sales": "sale_1426210",
+    "steam_sales": "sale_320795",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
   }
