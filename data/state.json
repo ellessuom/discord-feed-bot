@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-19T17:41:53.909Z",
+  "lastRun": "2026-06-19T18:45:51.458Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u37dnv/steam_carrion_200_usd_90_off_historical_low/",
-        "postedAt": "2026-06-11T19:08:21.164Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u36nor/ff7_remake_14_and_rebirth_20_on_steam_historic/",
-        "postedAt": "2026-06-11T19:08:21.164Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u31s83/save_100_on_the_red_lantern_on_steam/",
-        "postedAt": "2026-06-11T19:08:21.164Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u2yir3/save_100_on_happys_humble_burger_farm_limited/",
-        "postedAt": "2026-06-11T19:08:21.164Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u3bfoo/save_75_on_sifu_on_steam/",
         "postedAt": "2026-06-12T01:13:59.878Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9qjgn/save_92_on_mass_effect_legendary_edition_on_steam/",
         "postedAt": "2026-06-19T05:51:51.566Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ua5erq/steam_rogue_jet_fighter_fast_space_shooter_30/",
+        "postedAt": "2026-06-19T18:45:51.458Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ua1fhi/save_95_on_battlefield_hardline_on_steam/",
+        "postedAt": "2026-06-19T18:45:51.458Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9zca9/agents_of_mayhem_95_149/",
+        "postedAt": "2026-06-19T18:45:51.458Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9wonf/save_50_on_battlefield_6_on_steam_historical_low/",
+        "postedAt": "2026-06-19T18:45:51.458Z"
       }
     ],
     "steam_sales": [
@@ -1269,7 +1269,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9qjgn/save_92_on_mass_effect_legendary_edition_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9wonf/save_50_on_battlefield_6_on_steam_historical_low/",
     "steam_sales": "sale_2881370",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
