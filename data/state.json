@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-19T01:18:49.338Z",
+  "lastRun": "2026-06-19T03:19:57.979Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u2cwom/save_80_on_dying_light_2_stay_human_reloaded/",
-        "postedAt": "2026-06-10T20:59:47.913Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u2cx45/save_50_on_vampire_the_masquerade/",
-        "postedAt": "2026-06-10T21:46:36.959Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u2k262/save_85_on_animal_shelter_on_steam/",
-        "postedAt": "2026-06-11T01:10:43.330Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u2k0nx/save_80_on_konbini_simulator_on_steam/",
-        "postedAt": "2026-06-11T01:10:43.330Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u2jy9o/save_85_on_car_mechanic_simulator_2021_on_steam/",
         "postedAt": "2026-06-11T01:10:43.330Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9jcw7/save_80_on_batman_arkham_city_game_of_the_year/",
         "postedAt": "2026-06-18T23:38:23.188Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9qieq/save_85_on_batman_arkham_collection_on_steam/",
+        "postedAt": "2026-06-19T03:19:57.979Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9lwdz/save_90_on_zombie_army_trilogy_on_steam/",
+        "postedAt": "2026-06-19T03:19:57.979Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9lw9t/save_90_on_strange_brigade_on_steam/",
+        "postedAt": "2026-06-19T03:19:57.979Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1u9lw3o/save_90_on_zombie_army_4_dead_war_on_steam/",
+        "postedAt": "2026-06-19T03:19:57.979Z"
       }
     ],
     "steam_sales": [
@@ -1269,7 +1269,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9jcw7/save_80_on_batman_arkham_city_game_of_the_year/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1u9lw3o/save_90_on_zombie_army_4_dead_war_on_steam/",
     "steam_sales": "sale_1328670",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
