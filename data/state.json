@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-20T11:42:45.906Z",
+  "lastRun": "2026-06-20T20:34:45.066Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u34vrc/save_80_on_blasted_dice_on_steam_historical_low/",
-        "postedAt": "2026-06-12T11:23:08.651Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u3utw1/save_50_on_83_on_steam/",
-        "postedAt": "2026-06-12T15:11:21.832Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u3ujyv/save_50_on_rust_on_steam/",
-        "postedAt": "2026-06-12T15:11:21.832Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u3t6zi/save_40_on_look_outside_on_steam/",
         "postedAt": "2026-06-12T15:11:21.832Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uau5tr/save_20_on_the_board_is_yours_2_2/",
         "postedAt": "2026-06-20T11:42:45.906Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ub5jk9/save_90_on_narita_boy_249/",
+        "postedAt": "2026-06-20T20:34:45.066Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uawa75/the_witcher_3_wild_hunt_on_sale_90_off/",
+        "postedAt": "2026-06-20T20:34:45.066Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uaw9nt/save_80_on_spore_on_steam/",
+        "postedAt": "2026-06-20T20:34:45.066Z"
       }
     ],
     "steam_sales": [
@@ -1269,7 +1269,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uau5tr/save_20_on_the_board_is_yours_2_2/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uaw9nt/save_80_on_spore_on_steam/",
     "steam_sales": "sale_1620730",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
