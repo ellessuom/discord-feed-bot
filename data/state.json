@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-20T10:53:38.822Z",
+  "lastRun": "2026-06-20T11:42:45.906Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u35liy/save_33_on_hungry_horrors_on_steam/",
-        "postedAt": "2026-06-12T11:23:08.651Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u34vrc/save_80_on_blasted_dice_on_steam_historical_low/",
         "postedAt": "2026-06-12T11:23:08.651Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uarrxk/save_25_on_wrath_of_mynah_soundtrack_on_steam/",
         "postedAt": "2026-06-20T10:53:38.822Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uau5tr/save_20_on_the_board_is_yours_2_2/",
+        "postedAt": "2026-06-20T11:42:45.906Z"
       }
     ],
     "steam_sales": [
@@ -1210,10 +1210,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/680750978144665841",
-        "postedAt": "2026-05-21T11:11:41.857Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/570409712688824718",
         "postedAt": "2026-05-22T13:01:21.348Z"
       },
@@ -1264,14 +1260,18 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/703271513166449145",
         "postedAt": "2026-06-18T11:29:17.864Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/680750978144665841",
+        "postedAt": "2026-06-20T11:42:45.906Z"
       }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uarrxk/save_25_on_wrath_of_mynah_soundtrack_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uau5tr/save_20_on_the_board_is_yours_2_2/",
     "steam_sales": "sale_1620730",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
 }
