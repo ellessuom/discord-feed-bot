@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-21T07:49:38.030Z",
+  "lastRun": "2026-06-21T09:24:01.518Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ty4hn2/final_fantasy_vii_revelation_set_to_conclude/",
-        "postedAt": "2026-06-06T03:15:53.460Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ty9ggx/stellar_blade_blood_rain_official_reveal_trailer/",
-        "postedAt": "2026-06-06T07:13:57.319Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ty9fn6/resident_evil_veronica_world_premiere_trailer/",
-        "postedAt": "2026-06-06T07:13:57.319Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ty9etr/alien_isolation_2_world_premiere_trailer/",
-        "postedAt": "2026-06-06T07:13:57.319Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ty8ish/gundam_rogue_orbit_announcement_trailer/",
         "postedAt": "2026-06-06T07:13:57.319Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u9ywvm/weekly_rgamingnews_discussion_what_game_you_will/",
         "postedAt": "2026-06-21T01:16:00.974Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uap3ia/rtype_tactics_i_ii_cosmos_launch_trailer_nsw_nsw2/",
+        "postedAt": "2026-06-21T09:24:01.518Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uahc4o/amid_concern_over_xbox_studio_bloodbath_new/",
+        "postedAt": "2026-06-21T09:24:01.518Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uabfm1/sony_deletes_mention_of_pc_from_annual_strategy/",
+        "postedAt": "2026-06-21T09:24:01.518Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ua50rk/xbox_ceo_asha_sharma_pushes_back_on_ai_replacing/",
+        "postedAt": "2026-06-21T09:24:01.518Z"
       }
     ],
     "steam_2073850": [
@@ -1271,7 +1271,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ubh08r/cad_287_save_75_on_fresh_start_cleaning_simulator/",
     "steam_sales": "sale_1620730",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1u9ywvm/weekly_rgamingnews_discussion_what_game_you_will/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ua50rk/xbox_ceo_asha_sharma_pushes_back_on_ai_replacing/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
 }
