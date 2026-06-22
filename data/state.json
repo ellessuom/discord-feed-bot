@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-22T20:06:04.808Z",
+  "lastRun": "2026-06-22T21:45:38.650Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u53vcs/cad469save_80_on_niche_a_genetics_survival_game/",
-        "postedAt": "2026-06-13T22:29:18.180Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u53u9p/cad_1099save_45_on_city_game_studio_your_game_dev/",
-        "postedAt": "2026-06-13T22:29:18.180Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u54rz2/cad_649_save_75_on_zefyr_a_thiefs_melody_on_steam/",
-        "postedAt": "2026-06-13T23:30:42.974Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u542w3/cad_560_save_67_on_venba_on_steam/",
         "postedAt": "2026-06-13T23:30:42.974Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ucrnea/save_75_on_the_little_tank_hunter_on_steam_249/",
         "postedAt": "2026-06-22T18:26:15.831Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ucujcf/save_90_on_golf_with_your_friends_149/",
+        "postedAt": "2026-06-22T21:45:38.650Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ucu7mc/horizon_forbidden_west_sale_all_time_low50_off2999/",
+        "postedAt": "2026-06-22T21:45:38.650Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uctfbt/save_50_on_fatal_fury_city_of_the_wolves_999/",
+        "postedAt": "2026-06-22T21:45:38.650Z"
       }
     ],
     "steam_sales": [
@@ -1253,7 +1253,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ucrnea/save_75_on_the_little_tank_hunter_on_steam_249/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uctfbt/save_50_on_fatal_fury_city_of_the_wolves_999/",
     "steam_sales": "sale_2561580",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ua50rk/xbox_ceo_asha_sharma_pushes_back_on_ai_replacing/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
