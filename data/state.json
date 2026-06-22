@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-22T16:38:06.782Z",
+  "lastRun": "2026-06-22T18:26:15.831Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u53x7u/cad1325save_66_on_date_everything_on_steam/",
-        "postedAt": "2026-06-13T22:29:18.180Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u53vcs/cad469save_80_on_niche_a_genetics_survival_game/",
         "postedAt": "2026-06-13T22:29:18.180Z"
@@ -402,21 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ucat51/save_75_on_medal_of_honor_2010_on_steam/",
         "postedAt": "2026-06-22T16:38:06.782Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ucrnea/save_75_on_the_little_tank_hunter_on_steam_249/",
+        "postedAt": "2026-06-22T18:26:15.831Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2904040",
-        "postedAt": "2026-05-28T17:24:33.599Z"
-      },
-      {
-        "id": "sale_1144200",
-        "postedAt": "2026-05-28T20:53:45.809Z"
-      },
-      {
-        "id": "sale_489830",
-        "postedAt": "2026-05-28T20:53:45.809Z"
-      },
       {
         "id": "sale_626153",
         "postedAt": "2026-05-28T22:37:10.678Z"
@@ -804,6 +792,18 @@
       {
         "id": "sale_394360",
         "postedAt": "2026-06-21T22:32:22.346Z"
+      },
+      {
+        "id": "sale_2420110",
+        "postedAt": "2026-06-22T18:26:15.831Z"
+      },
+      {
+        "id": "sale_1374490",
+        "postedAt": "2026-06-22T18:26:15.831Z"
+      },
+      {
+        "id": "sale_2185060",
+        "postedAt": "2026-06-22T18:26:15.831Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1253,8 +1253,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ucat51/save_75_on_medal_of_honor_2010_on_steam/",
-    "steam_sales": "sale_394360",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ucrnea/save_75_on_the_little_tank_hunter_on_steam_249/",
+    "steam_sales": "sale_2185060",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ua50rk/xbox_ceo_asha_sharma_pushes_back_on_ai_replacing/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
