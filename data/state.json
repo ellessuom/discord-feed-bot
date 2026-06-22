@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-21T22:32:22.346Z",
+  "lastRun": "2026-06-22T14:03:54.880Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1210,10 +1210,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/503982156237767287",
-        "postedAt": "2026-05-23T11:30:41.296Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/503982156237767347",
         "postedAt": "2026-05-23T15:30:00.926Z"
       },
@@ -1248,6 +1244,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/680750978144665841",
         "postedAt": "2026-06-20T11:42:45.906Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/503982156237767287",
+        "postedAt": "2026-06-22T14:03:54.880Z"
       }
     ]
   },
@@ -1256,6 +1256,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ubvijo/save_90_on_overcooked_159/",
     "steam_sales": "sale_394360",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ua50rk/xbox_ceo_asha_sharma_pushes_back_on_ai_replacing/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767287"
   }
 }
