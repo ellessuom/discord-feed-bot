@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-23T18:51:34.182Z",
+  "lastRun": "2026-06-23T20:50:31.792Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u5dpqi/save_95_on_ultimate_fishing_simulator_on_steam/",
-        "postedAt": "2026-06-14T07:46:39.513Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u5r8hx/save_90_on_x_rebirth_complete_499_new_historical/",
-        "postedAt": "2026-06-14T17:34:38.380Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u5qssp/spires_of_morosith_tower_defense_on_sale_for_50/",
         "postedAt": "2026-06-14T17:34:38.380Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1udnibj/save_20_on_mouse_pi_for_hire_on_steam/",
         "postedAt": "2026-06-23T18:51:34.182Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uds5xv/save_75_on_trepang2_on_steam_750_usd/",
+        "postedAt": "2026-06-23T20:50:31.792Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1udryi2/save_90_on_genesis_alpha_one_deluxe_edition_199/",
+        "postedAt": "2026-06-23T20:50:31.792Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1588213",
-        "postedAt": "2026-05-29T20:54:54.264Z"
-      },
       {
         "id": "sale_1295510",
         "postedAt": "2026-05-30T01:03:06.283Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2416450",
         "postedAt": "2026-06-23T18:51:34.182Z"
+      },
+      {
+        "id": "sale_2458980",
+        "postedAt": "2026-06-23T20:50:31.792Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1253,8 +1253,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1udnibj/save_20_on_mouse_pi_for_hire_on_steam/",
-    "steam_sales": "sale_2416450",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1udryi2/save_90_on_genesis_alpha_one_deluxe_edition_199/",
+    "steam_sales": "sale_2458980",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ua50rk/xbox_ceo_asha_sharma_pushes_back_on_ai_replacing/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
