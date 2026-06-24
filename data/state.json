@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-24T12:55:57.007Z",
+  "lastRun": "2026-06-24T16:51:02.530Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u5qssp/spires_of_morosith_tower_defense_on_sale_for_50/",
-        "postedAt": "2026-06-14T17:34:38.380Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u5z65k/save_90_on_robocop_rogue_city_on_steam/",
         "postedAt": "2026-06-14T23:33:20.127Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1udryi2/save_90_on_genesis_alpha_one_deluxe_edition_199/",
         "postedAt": "2026-06-23T20:50:31.792Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ueh4xa/save_25_on_coresys_on_steam/",
+        "postedAt": "2026-06-24T16:51:02.530Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1621690",
-        "postedAt": "2026-05-30T13:36:11.425Z"
-      },
       {
         "id": "sale_482400",
         "postedAt": "2026-05-30T20:28:08.011Z"
@@ -804,25 +800,13 @@
       {
         "id": "sale_728880",
         "postedAt": "2026-06-24T12:55:57.007Z"
+      },
+      {
+        "id": "sale_2827200",
+        "postedAt": "2026-06-24T16:51:02.530Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tybkwc/sonys_state_of_play_showed_that_every_publisher/",
-        "postedAt": "2026-06-06T09:00:42.330Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tydirx/tifa_lockhart_is_coming_to_street_fighter_6/",
-        "postedAt": "2026-06-06T10:43:20.839Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tyfka6/monster_hunter_wilds_ascendance_official_reveal/",
-        "postedAt": "2026-06-06T12:38:02.096Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tyicen/it_was_nintendo_direct_that_ended_the_e3_era/",
-        "postedAt": "2026-06-06T14:38:02.670Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tyswl3/devil_may_cry_devil_trigger_reloaded_collection/",
         "postedAt": "2026-06-06T21:28:25.014Z"
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ucymu1/valve_says_steam_machine_is_1049_because_it/",
         "postedAt": "2026-06-24T03:17:01.242Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uebn9k/gta_6_physical_copies_are_a_code_in_a_box_as/",
+        "postedAt": "2026-06-24T16:51:02.530Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ueap0l/gta_6_locks_five_singleplayer_stores_behind_100/",
+        "postedAt": "2026-06-24T16:51:02.530Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ue81yd/the_new_sonic_game_uses_your_data_to_enhance_ai/",
+        "postedAt": "2026-06-24T16:51:02.530Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ue4yl6/a_systematic_pattern_of_wage_and_hour_violations/",
+        "postedAt": "2026-06-24T16:51:02.530Z"
       }
     ],
     "steam_2073850": [
@@ -1253,9 +1253,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1udryi2/save_90_on_genesis_alpha_one_deluxe_edition_199/",
-    "steam_sales": "sale_728880",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ucymu1/valve_says_steam_machine_is_1049_because_it/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ueh4xa/save_25_on_coresys_on_steam/",
+    "steam_sales": "sale_2827200",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ue4yl6/a_systematic_pattern_of_wage_and_hour_violations/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
 }
