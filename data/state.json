@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-24T11:07:20.558Z",
+  "lastRun": "2026-06-24T12:55:57.007Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3936730",
-        "postedAt": "2026-05-30T01:03:06.283Z"
-      },
-      {
         "id": "sale_1621690",
         "postedAt": "2026-05-30T13:36:11.425Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_3628950",
         "postedAt": "2026-06-24T11:07:20.558Z"
+      },
+      {
+        "id": "sale_728880",
+        "postedAt": "2026-06-24T12:55:57.007Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1254,7 +1254,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1udryi2/save_90_on_genesis_alpha_one_deluxe_edition_199/",
-    "steam_sales": "sale_3628950",
+    "steam_sales": "sale_728880",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ucymu1/valve_says_steam_machine_is_1049_because_it/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
   }
