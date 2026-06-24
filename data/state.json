@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-24T16:51:02.530Z",
+  "lastRun": "2026-06-24T20:40:41.575Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u5z65k/save_90_on_robocop_rogue_city_on_steam/",
-        "postedAt": "2026-06-14T23:33:20.127Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u6lhh4/save_50_on_timeslip_softworks_bundle_1626/",
-        "postedAt": "2026-06-15T16:43:02.810Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u682sm/save_45_on_city_game_studio_on_steam_1099/",
-        "postedAt": "2026-06-15T16:43:02.810Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u675ly/save_90_on_going_under_199/",
         "postedAt": "2026-06-15T16:43:02.810Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ueh4xa/save_25_on_coresys_on_steam/",
         "postedAt": "2026-06-24T16:51:02.530Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uem9tc/save_35_on_felvidek_on_steam/",
+        "postedAt": "2026-06-24T20:40:41.575Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uelvnv/save_85_on_kings_bounty_ultimate_edition_on_steam/",
+        "postedAt": "2026-06-24T20:40:41.575Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uekhmd/save_90_on_moving_out_229/",
+        "postedAt": "2026-06-24T20:40:41.575Z"
       }
     ],
     "steam_sales": [
@@ -1253,7 +1253,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ueh4xa/save_25_on_coresys_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uekhmd/save_90_on_moving_out_229/",
     "steam_sales": "sale_2827200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ue4yl6/a_systematic_pattern_of_wage_and_hour_violations/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
