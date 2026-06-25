@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-25T05:29:01.642Z",
+  "lastRun": "2026-06-25T11:03:41.627Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1248,6 +1248,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/503982156237767347",
         "postedAt": "2026-06-22T16:38:06.782Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/677376450273214936",
+        "postedAt": "2026-06-25T11:03:41.627Z"
       }
     ]
   },
@@ -1256,6 +1260,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uekhmd/save_90_on_moving_out_229/",
     "steam_sales": "sale_3576350",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ue4yl6/a_systematic_pattern_of_wage_and_hour_violations/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/503982156237767347"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
   }
 }
