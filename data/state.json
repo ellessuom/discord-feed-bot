@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-25T17:50:23.545Z",
+  "lastRun": "2026-06-25T18:53:08.611Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,22 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_526870",
-        "postedAt": "2026-06-01T22:07:57.421Z"
-      },
-      {
-        "id": "sale_1659040",
-        "postedAt": "2026-06-02T07:51:33.933Z"
-      },
-      {
-        "id": "sale_4656700",
-        "postedAt": "2026-06-02T17:40:31.581Z"
-      },
-      {
-        "id": "sale_285900",
-        "postedAt": "2026-06-02T19:24:46.182Z"
-      },
-      {
         "id": "sale_2186990",
         "postedAt": "2026-06-02T19:24:46.182Z"
       },
@@ -804,6 +788,22 @@
       {
         "id": "sale_1671210",
         "postedAt": "2026-06-25T17:50:23.545Z"
+      },
+      {
+        "id": "sale_1086940",
+        "postedAt": "2026-06-25T18:53:08.611Z"
+      },
+      {
+        "id": "sale_2322010",
+        "postedAt": "2026-06-25T18:53:08.611Z"
+      },
+      {
+        "id": "sale_2651280",
+        "postedAt": "2026-06-25T18:53:08.611Z"
+      },
+      {
+        "id": "sale_814380",
+        "postedAt": "2026-06-25T18:53:08.611Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1258,7 +1258,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ufg1c6/save_90_on_watch_dogs_on_steam/",
-    "steam_sales": "sale_1671210",
+    "steam_sales": "sale_814380",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ue4yl6/a_systematic_pattern_of_wage_and_hour_violations/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
   }
