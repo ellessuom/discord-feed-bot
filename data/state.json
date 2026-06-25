@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-25T11:03:41.627Z",
+  "lastRun": "2026-06-25T17:50:23.545Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u675ly/save_90_on_going_under_199/",
-        "postedAt": "2026-06-15T16:43:02.810Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u6rqtu/save_90_on_cruelty_squad_on_steam/",
-        "postedAt": "2026-06-15T20:13:46.904Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u6nxth/save_35_on_split_fiction_on_steam_historical_low/",
-        "postedAt": "2026-06-15T20:13:46.904Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u6nruf/save_20_on_gladiator_command_on_steam_399/",
-        "postedAt": "2026-06-15T20:13:46.904Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u6ukrs/save_45_on_the_bunker_notes_on_steam/",
         "postedAt": "2026-06-15T21:55:54.777Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uekhmd/save_90_on_moving_out_229/",
         "postedAt": "2026-06-24T20:40:41.575Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ufg6x7/save_90_on_call_of_duty_modern_warfare_ii_on/",
+        "postedAt": "2026-06-25T17:50:23.545Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ufg45b/save_90_on_far_cry_4_on_steam_historical_low/",
+        "postedAt": "2026-06-25T17:50:23.545Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ufg3oc/save_90_on_the_binding_of_isaac_rebirth_complete/",
+        "postedAt": "2026-06-25T17:50:23.545Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ufg1c6/save_90_on_watch_dogs_on_steam/",
+        "postedAt": "2026-06-25T17:50:23.545Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2070270",
-        "postedAt": "2026-06-01T20:31:58.621Z"
-      },
       {
         "id": "sale_526870",
         "postedAt": "2026-06-01T22:07:57.421Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_3576350",
         "postedAt": "2026-06-25T05:29:01.642Z"
+      },
+      {
+        "id": "sale_1671210",
+        "postedAt": "2026-06-25T17:50:23.545Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1257,8 +1257,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uekhmd/save_90_on_moving_out_229/",
-    "steam_sales": "sale_3576350",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ufg1c6/save_90_on_watch_dogs_on_steam/",
+    "steam_sales": "sale_1671210",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ue4yl6/a_systematic_pattern_of_wage_and_hour_violations/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
   }
