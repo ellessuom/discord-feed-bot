@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-25T20:46:02.964Z",
+  "lastRun": "2026-06-25T22:36:40.009Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1326470",
-        "postedAt": "2026-06-04T19:46:01.404Z"
-      },
-      {
         "id": "sale_2050650",
         "postedAt": "2026-06-04T19:46:01.404Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_2161700",
         "postedAt": "2026-06-25T20:46:02.964Z"
+      },
+      {
+        "id": "sale_1817070",
+        "postedAt": "2026-06-25T22:36:40.009Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1258,7 +1258,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ufg2yk/save_90_on_rain_world_on_steamhistorical_low/",
-    "steam_sales": "sale_2161700",
+    "steam_sales": "sale_1817070",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ue4yl6/a_systematic_pattern_of_wage_and_hour_violations/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
   }
