@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-25T22:36:40.009Z",
+  "lastRun": "2026-06-25T23:34:30.126Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u6zyin/save_75_on_far_cry_3_on_steam/",
-        "postedAt": "2026-06-16T03:19:17.366Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u7bcjl/save_20_on_spitter_on_steam_developer/",
-        "postedAt": "2026-06-16T12:40:12.159Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u7adlt/save_35_on_caput_mortum_on_steam/",
-        "postedAt": "2026-06-16T12:40:12.160Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u7jvhg/save_85_on_two_point_campus_on_steam/",
-        "postedAt": "2026-06-16T18:34:46.390Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u7jpmf/save_60_teenage_mutant_ninja_turtles_shredders/",
         "postedAt": "2026-06-16T18:34:46.390Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ufg2yk/save_90_on_rain_world_on_steamhistorical_low/",
         "postedAt": "2026-06-25T19:39:08.584Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ufmkts/save_65_on_persona_3_reload_historical_low/",
+        "postedAt": "2026-06-25T23:34:30.126Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ufi9r3/save_72_on_grim_dawn_definitive_edition_on_steam/",
+        "postedAt": "2026-06-25T23:34:30.126Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ufgeiy/save_95_on_watch_dogs_2_on_steam/",
+        "postedAt": "2026-06-25T23:34:30.126Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ufg931/save_90_on_ghostwire_tokyo_on_steamhistorical_low/",
+        "postedAt": "2026-06-25T23:34:30.126Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ufg2yk/save_90_on_rain_world_on_steamhistorical_low/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ufg931/save_90_on_ghostwire_tokyo_on_steamhistorical_low/",
     "steam_sales": "sale_1817070",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ue4yl6/a_systematic_pattern_of_wage_and_hour_violations/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
