@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-26T17:38:59.184Z",
+  "lastRun": "2026-06-26T18:45:20.302Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9hgr7/save_90_on_sonic_mania_on_steam/",
-        "postedAt": "2026-06-18T20:56:32.227Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9fgza/save_75_on_risen_on_steam/",
-        "postedAt": "2026-06-18T20:56:32.227Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9ed2j/save_92_on_mass_effect_andromeda_deluxe_edition/",
-        "postedAt": "2026-06-18T20:56:32.227Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9e6gc/save_on_the_sonic_franchise_sxs_gens_70_off_sonic/",
         "postedAt": "2026-06-18T20:56:32.227Z"
@@ -402,13 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ugafat/save_70_on_cynthia_hidden_in_the_moonshadow_on/",
         "postedAt": "2026-06-26T17:38:59.184Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugdat0/save_30_on_swordhaven_iron_conspiracy_on_steam/",
+        "postedAt": "2026-06-26T18:45:20.302Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ug45sd/save_67_on_doom_eternal_on_steam_989/",
+        "postedAt": "2026-06-26T18:45:20.302Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ufukgv/save_90_on_plague_inc_evolved_on_steam_149_147/",
+        "postedAt": "2026-06-26T18:45:20.302Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1808500",
-        "postedAt": "2026-06-06T09:00:42.330Z"
-      },
       {
         "id": "sale_1364780",
         "postedAt": "2026-06-06T14:38:02.670Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1771300",
         "postedAt": "2026-06-26T17:38:59.184Z"
+      },
+      {
+        "id": "sale_1118520",
+        "postedAt": "2026-06-26T18:45:20.302Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1257,8 +1257,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ugafat/save_70_on_cynthia_hidden_in_the_moonshadow_on/",
-    "steam_sales": "sale_1771300",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ufukgv/save_90_on_plague_inc_evolved_on_steam_149_147/",
+    "steam_sales": "sale_1118520",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ufgkcp/rollercoaster_tycoon_3_complete_edition/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
   }
