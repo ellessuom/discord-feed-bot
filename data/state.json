@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-26T16:46:54.089Z",
+  "lastRun": "2026-06-26T17:38:59.184Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9em5w/save_87_on_mortal_kombat_11_and_x_bundle_on_steam/",
-        "postedAt": "2026-06-18T19:48:55.289Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9eiqk/save_90_on_wreckfest_on_steam/",
-        "postedAt": "2026-06-18T19:48:55.289Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9eiji/save_85_on_batman_arkham_collection_on_steam/",
-        "postedAt": "2026-06-18T19:48:55.289Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9ebxf/save_80_on_alice_madness_returns_on_steam/",
-        "postedAt": "2026-06-18T19:48:55.289Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9hgr7/save_90_on_sonic_mania_on_steam/",
         "postedAt": "2026-06-18T20:56:32.227Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ug1apb/save_80_on_harmonys_odyssey_historic_low/",
         "postedAt": "2026-06-26T16:46:54.089Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugaz4w/save_75_on_asterigos_curse_of_the_stars_on_steam/",
+        "postedAt": "2026-06-26T17:38:59.184Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugasjj/save_90_on_submerged_hidden_depths_on_steam/",
+        "postedAt": "2026-06-26T17:38:59.184Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugar1d/save_70_on_dungeons_of_hinterberg_on_steam/",
+        "postedAt": "2026-06-26T17:38:59.184Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugafat/save_70_on_cynthia_hidden_in_the_moonshadow_on/",
+        "postedAt": "2026-06-26T17:38:59.184Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1313468",
-        "postedAt": "2026-06-06T01:04:27.181Z"
-      },
       {
         "id": "sale_1808500",
         "postedAt": "2026-06-06T09:00:42.330Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_266410",
         "postedAt": "2026-06-26T09:15:17.847Z"
+      },
+      {
+        "id": "sale_1771300",
+        "postedAt": "2026-06-26T17:38:59.184Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1257,8 +1257,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ug1apb/save_80_on_harmonys_odyssey_historic_low/",
-    "steam_sales": "sale_266410",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ugafat/save_70_on_cynthia_hidden_in_the_moonshadow_on/",
+    "steam_sales": "sale_1771300",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ufgkcp/rollercoaster_tycoon_3_complete_edition/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
   }
