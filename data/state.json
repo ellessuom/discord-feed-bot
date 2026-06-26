@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-26T11:07:14.072Z",
+  "lastRun": "2026-06-26T15:01:01.622Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u8twbp/cad_652_save_75_on_overcooked_2_on_steam/",
-        "postedAt": "2026-06-18T11:29:17.864Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u8tql8/cad_1289_save_84_on_monster_hunter_rise_sunbreak/",
-        "postedAt": "2026-06-18T11:29:17.864Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u8tgd4/cad_1949_save_50_on_chickenhare_and_the_treasure/",
-        "postedAt": "2026-06-18T11:29:17.864Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u93yew/save_60_on_anger_foot_on_steam/",
-        "postedAt": "2026-06-18T15:11:35.663Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9eani/save_90_on_the_witcher_3_wild_hunt_on_steam/",
         "postedAt": "2026-06-18T18:56:30.937Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ufy3t1/save_90_on_the_quarry_on_steam_599_599/",
         "postedAt": "2026-06-26T11:07:14.072Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ug7tm7/steam_curve_games_publisher_sale_up_to_90_off_wax/",
+        "postedAt": "2026-06-26T15:01:01.622Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ug62bi/save_40_on_tokyo_xtreme_racer_new_historical_low/",
+        "postedAt": "2026-06-26T15:01:01.622Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ug3atc/save_60_on_nierautomata_on_steam/",
+        "postedAt": "2026-06-26T15:01:01.622Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ug0c2a/save_90_on_bulletstorm_full_clip_edition_on_steam/",
+        "postedAt": "2026-06-26T15:01:01.622Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tz06xf/final_fantasy_vii_revelation_reveal_trailer/",
-        "postedAt": "2026-06-07T03:19:01.415Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tyz8i8/cronos_the_new_dawn_story_dlc_cronos_lazarus/",
-        "postedAt": "2026-06-07T03:19:01.415Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tyz5py/blasphemous_2_gets_a_significant_and_free_content/",
-        "postedAt": "2026-06-07T03:19:01.415Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tz41ak/soulframe_preludes_official_gameplay_trailer/",
-        "postedAt": "2026-06-07T07:34:12.900Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tz8xgu/the_summer_game_fest_showcase_proves_that_pc_is/",
         "postedAt": "2026-06-07T11:38:32.891Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ueyn7j/exxbox_workers_warn_of_potential_retaliation_in/",
         "postedAt": "2026-06-26T01:08:01.406Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ug6h5u/the_game_business_major_games_retailer_warns/",
+        "postedAt": "2026-06-26T15:01:01.622Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ug3lzt/weekly_rgamingnews_discussion_what_game_you_will/",
+        "postedAt": "2026-06-26T15:01:01.622Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ufp9pa/arcade_archives_2_tekken_out_now_ps5_games/",
+        "postedAt": "2026-06-26T15:01:01.622Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ufgkcp/rollercoaster_tycoon_3_complete_edition/",
+        "postedAt": "2026-06-26T15:01:01.622Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ufy3t1/save_90_on_the_quarry_on_steam_599_599/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ug0c2a/save_90_on_bulletstorm_full_clip_edition_on_steam/",
     "steam_sales": "sale_266410",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ueyn7j/exxbox_workers_warn_of_potential_retaliation_in/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ufgkcp/rollercoaster_tycoon_3_complete_edition/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
   }
 }
