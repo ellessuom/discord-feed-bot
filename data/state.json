@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-26T22:32:07.205Z",
+  "lastRun": "2026-06-26T23:31:43.772Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9krj8/cad_638_save_92_on_mass_effect_legendary_edition/",
-        "postedAt": "2026-06-18T22:44:49.528Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9jg11/save_95_on_battlefield_1_on_steam_2/",
-        "postedAt": "2026-06-18T22:44:49.528Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9jfgf/save_85_on_sniper_elite_vr_449/",
-        "postedAt": "2026-06-18T22:44:49.528Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9je5w/save_80_on_sniper_elite_5_on_steam_10/",
-        "postedAt": "2026-06-18T22:44:49.528Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9lxxb/save_90_on_sniper_elite_4_on_steam/",
         "postedAt": "2026-06-18T23:38:23.188Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ugexj3/save_60_on_hardcore_circus_on_steam_179_dev_offer/",
         "postedAt": "2026-06-26T22:32:07.205Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugm08i/save_20_on_into_the_grid_on_steam/",
+        "postedAt": "2026-06-26T23:31:43.772Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugkqc9/save_50_on_slay_the_princess_new_historical_low/",
+        "postedAt": "2026-06-26T23:31:43.772Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugkpcn/save_80_on_getting_over_it_with_bennett_foddy_on/",
+        "postedAt": "2026-06-26T23:31:43.772Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugkoqm/save_70_on_sons_of_the_forest_on_steam_historical/",
+        "postedAt": "2026-06-26T23:31:43.772Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ugexj3/save_60_on_hardcore_circus_on_steam_179_dev_offer/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ugkoqm/save_70_on_sons_of_the_forest_on_steam_historical/",
     "steam_sales": "sale_3164500",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ufgkcp/rollercoaster_tycoon_3_complete_edition/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
