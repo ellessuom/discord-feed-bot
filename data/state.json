@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-25T23:34:30.126Z",
+  "lastRun": "2026-06-26T01:08:01.406Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u7jpmf/save_60_teenage_mutant_ninja_turtles_shredders/",
-        "postedAt": "2026-06-16T18:34:46.390Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u7try3/60_off_on_dead_by_daylight/",
-        "postedAt": "2026-06-16T23:36:56.608Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u7v46l/save_75_on_borderlands_2_on_steam_5/",
-        "postedAt": "2026-06-17T03:19:01.842Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u80krr/save_90_on_blasphemous_249/",
-        "postedAt": "2026-06-17T08:04:52.487Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u8ha97/steam_girls_girls_girls_70/",
         "postedAt": "2026-06-17T17:56:56.406Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ufg931/save_90_on_ghostwire_tokyo_on_steamhistorical_low/",
         "postedAt": "2026-06-25T23:34:30.126Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ufgp5k/save_30_on_hades_ii_on_steam/",
+        "postedAt": "2026-06-26T01:08:01.406Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ufgmfb/save_25_on_hollow_knight_silksong_on_steam/",
+        "postedAt": "2026-06-26T01:08:01.406Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ufg881/save_95_on_metro_2033_redux_on_steam_099/",
+        "postedAt": "2026-06-26T01:08:01.406Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ufg1z5/save_60_on_kingdom_come_deliverance_ii_historical/",
+        "postedAt": "2026-06-26T01:08:01.406Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tyswl3/devil_may_cry_devil_trigger_reloaded_collection/",
-        "postedAt": "2026-06-06T21:28:25.014Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tywj4u/007_first_lights_director_says_its_now_sold_3/",
-        "postedAt": "2026-06-07T01:11:43.615Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tywio8/the_sinking_city_2_rises_to_august_18_release/",
-        "postedAt": "2026-06-07T01:11:43.615Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tyw650/resident_evil_veronica_finally_escapes_the_remake/",
-        "postedAt": "2026-06-07T01:11:43.615Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tz06xf/final_fantasy_vii_revelation_reveal_trailer/",
         "postedAt": "2026-06-07T03:19:01.415Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ue4yl6/a_systematic_pattern_of_wage_and_hour_violations/",
         "postedAt": "2026-06-24T16:51:02.530Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ufh1db/sony_triggers_layoffs_at_bungie_and_even_marathon/",
+        "postedAt": "2026-06-26T01:08:01.406Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ufg1lj/compulsion_games_crew_departs_in_droves_ahead_of/",
+        "postedAt": "2026-06-26T01:08:01.406Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uffgle/xbox_console_prices_to_rise_by_100150/",
+        "postedAt": "2026-06-26T01:08:01.406Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ueyn7j/exxbox_workers_warn_of_potential_retaliation_in/",
+        "postedAt": "2026-06-26T01:08:01.406Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ufg931/save_90_on_ghostwire_tokyo_on_steamhistorical_low/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ufg1z5/save_60_on_kingdom_come_deliverance_ii_historical/",
     "steam_sales": "sale_1817070",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ue4yl6/a_systematic_pattern_of_wage_and_hour_violations/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ueyn7j/exxbox_workers_warn_of_potential_retaliation_in/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
   }
 }
