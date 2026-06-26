@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-26T07:29:25.027Z",
+  "lastRun": "2026-06-26T09:15:17.847Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1172620",
-        "postedAt": "2026-06-05T23:32:41.872Z"
-      },
-      {
         "id": "sale_1313468",
         "postedAt": "2026-06-06T01:04:27.181Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_105600",
         "postedAt": "2026-06-26T07:29:25.027Z"
+      },
+      {
+        "id": "sale_266410",
+        "postedAt": "2026-06-26T09:15:17.847Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1258,7 +1258,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ufg13d/save_90_on_bloodstained_ritual_of_the_night_on/",
-    "steam_sales": "sale_105600",
+    "steam_sales": "sale_266410",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ueyn7j/exxbox_workers_warn_of_potential_retaliation_in/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
   }
