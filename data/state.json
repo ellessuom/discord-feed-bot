@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-27T16:30:08.789Z",
+  "lastRun": "2026-06-27T17:28:47.198Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uae3c2/save_75_on_mechwarrior_5_mercenaries_historical/",
-        "postedAt": "2026-06-19T21:31:11.063Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uae0q1/sonic_x_shadow_generations_70_off_historical_low/",
-        "postedAt": "2026-06-19T21:31:11.063Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uajk6t/cad_1199_save_60_on_farewell_north_on_steam/",
-        "postedAt": "2026-06-20T03:17:10.506Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uarrxk/save_25_on_wrath_of_mynah_soundtrack_on_steam/",
-        "postedAt": "2026-06-20T10:53:38.822Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uau5tr/save_20_on_the_board_is_yours_2_2/",
         "postedAt": "2026-06-20T11:42:45.906Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uh6ka8/save_85_on_mafia_definitive_edition_on_steam/",
         "postedAt": "2026-06-27T16:30:08.789Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uh7shu/save_30_on_brainkilled_free_demo_available/",
+        "postedAt": "2026-06-27T17:28:47.198Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uh7scd/front_mission_1st_remake_save_90_350/",
+        "postedAt": "2026-06-27T17:28:47.198Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uh6swk/save_75_on_valkyria_chronicles_on_steam/",
+        "postedAt": "2026-06-27T17:28:47.198Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uh6pyj/save_65_on_ryse_son_of_rome_on_steam/",
+        "postedAt": "2026-06-27T17:28:47.198Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1551360",
-        "postedAt": "2026-06-06T14:38:02.670Z"
-      },
       {
         "id": "sale_1466860",
         "postedAt": "2026-06-06T14:38:02.670Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_3164500",
         "postedAt": "2026-06-26T22:32:07.205Z"
+      },
+      {
+        "id": "sale_1623730",
+        "postedAt": "2026-06-27T17:28:47.198Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1257,8 +1257,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uh6ka8/save_85_on_mafia_definitive_edition_on_steam/",
-    "steam_sales": "sale_3164500",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uh6pyj/save_65_on_ryse_son_of_rome_on_steam/",
+    "steam_sales": "sale_1623730",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ugbs5f/valve_changes_advertised_steam_machine_hw/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
