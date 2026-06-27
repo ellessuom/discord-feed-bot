@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-27T13:37:07.143Z",
+  "lastRun": "2026-06-27T14:38:01.821Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uaacsi/save_50_on_snø_ultimate_freeriding_on_steam/",
-        "postedAt": "2026-06-19T19:38:13.811Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9yy3m/save_90_on_thehunter_call_of_the_wild_195/",
-        "postedAt": "2026-06-19T19:38:13.811Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9yb6o/battlefield_2042_on_sale/",
         "postedAt": "2026-06-19T19:38:13.811Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ugpf8t/emerald_knight_developer_bundle/",
         "postedAt": "2026-06-27T13:37:07.143Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugz3kn/vultures_scavengers_of_death_is_30_off_for_the/",
+        "postedAt": "2026-06-27T14:38:01.821Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugwzvr/save_60_on_store_simulator_bundle_on_steam/",
+        "postedAt": "2026-06-27T14:38:01.821Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tz8xgu/the_summer_game_fest_showcase_proves_that_pc_is/",
-        "postedAt": "2026-06-07T11:38:32.891Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tzctar/gears_of_war_eday_rated_pegi_18_for_xbox_ps5_and/",
-        "postedAt": "2026-06-07T14:41:11.988Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tzjq0y/gears_of_war_eday_gameplay_demo_reveal_xbox_games/",
-        "postedAt": "2026-06-07T18:35:47.048Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tzl5ab/halo_campaign_evolved_new_missions_trailer/",
-        "postedAt": "2026-06-07T19:35:55.450Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tzp3mi/vampire_the_masquerade_eternal_whispers_announced/",
         "postedAt": "2026-06-07T22:28:59.993Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ufgkcp/rollercoaster_tycoon_3_complete_edition/",
         "postedAt": "2026-06-26T15:01:01.622Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ugzc05/haunted_chocolatier_is_taking_a_long_time_because/",
+        "postedAt": "2026-06-27T14:38:01.821Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ugu3ty/playstation_console_sales_fell_to_their_lowest/",
+        "postedAt": "2026-06-27T14:38:01.821Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uggjmr/nintendo_has_raised_its_employees_base_salary_by/",
+        "postedAt": "2026-06-27T14:38:01.821Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ugbs5f/valve_changes_advertised_steam_machine_hw/",
+        "postedAt": "2026-06-27T14:38:01.821Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ugpf8t/emerald_knight_developer_bundle/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ugwzvr/save_60_on_store_simulator_bundle_on_steam/",
     "steam_sales": "sale_3164500",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ufgkcp/rollercoaster_tycoon_3_complete_edition/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ugbs5f/valve_changes_advertised_steam_machine_hw/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
