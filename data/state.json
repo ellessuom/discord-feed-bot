@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-26T23:31:43.772Z",
+  "lastRun": "2026-06-27T10:44:53.075Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9lxxb/save_90_on_sniper_elite_4_on_steam/",
-        "postedAt": "2026-06-18T23:38:23.188Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9jgij/save_85_on_burnout_paradise_remastered/",
-        "postedAt": "2026-06-18T23:38:23.188Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9jcw7/save_80_on_batman_arkham_city_game_of_the_year/",
-        "postedAt": "2026-06-18T23:38:23.188Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9qieq/save_85_on_batman_arkham_collection_on_steam/",
-        "postedAt": "2026-06-19T03:19:57.979Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1u9lwdz/save_90_on_zombie_army_trilogy_on_steam/",
         "postedAt": "2026-06-19T03:19:57.979Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ugkoqm/save_70_on_sons_of_the_forest_on_steam_historical/",
         "postedAt": "2026-06-26T23:31:43.772Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugttv8/save_90_on_detroit_become_human_on_steam_399_399/",
+        "postedAt": "2026-06-27T10:44:53.075Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugtrjg/save_70_on_south_of_the_circle_on_steam/",
+        "postedAt": "2026-06-27T10:44:53.075Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugtokc/save_65_on_lake_on_steam_699_699/",
+        "postedAt": "2026-06-27T10:44:53.075Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ugt651/save_90_on_blasphemous_249/",
+        "postedAt": "2026-06-27T10:44:53.075Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ugkoqm/save_70_on_sons_of_the_forest_on_steam_historical/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ugt651/save_90_on_blasphemous_249/",
     "steam_sales": "sale_3164500",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ufgkcp/rollercoaster_tycoon_3_complete_edition/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
