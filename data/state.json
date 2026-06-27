@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-27T14:38:01.821Z",
+  "lastRun": "2026-06-27T16:30:08.789Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9yb6o/battlefield_2042_on_sale/",
-        "postedAt": "2026-06-19T19:38:13.811Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1u9vosd/save_63_on_world_war_z_on_steam/",
-        "postedAt": "2026-06-19T19:38:13.811Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uacqim/save_80_on_road_96_399/",
-        "postedAt": "2026-06-19T20:37:40.794Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uabp13/save_20_on_last_epoch_on_steam/",
-        "postedAt": "2026-06-19T20:37:40.794Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uae3c2/save_75_on_mechwarrior_5_mercenaries_historical/",
         "postedAt": "2026-06-19T21:31:11.063Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ugwzvr/save_60_on_store_simulator_bundle_on_steam/",
         "postedAt": "2026-06-27T14:38:01.821Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uh6qcj/save_90_on_saints_row_the_third_remastered_on/",
+        "postedAt": "2026-06-27T16:30:08.789Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uh6plm/save_65_on_crysis_remastered_on_steam/",
+        "postedAt": "2026-06-27T16:30:08.789Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uh6mv3/save_80_on_bee_simulator_on_steam/",
+        "postedAt": "2026-06-27T16:30:08.789Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uh6ka8/save_85_on_mafia_definitive_edition_on_steam/",
+        "postedAt": "2026-06-27T16:30:08.789Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ugwzvr/save_60_on_store_simulator_bundle_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uh6ka8/save_85_on_mafia_definitive_edition_on_steam/",
     "steam_sales": "sale_3164500",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ugbs5f/valve_changes_advertised_steam_machine_hw/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
