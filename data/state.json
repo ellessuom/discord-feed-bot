@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-28T21:28:47.601Z",
+  "lastRun": "2026-06-28T22:28:01.415Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tzp3mi/vampire_the_masquerade_eternal_whispers_announced/",
-        "postedAt": "2026-06-07T22:28:59.993Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tzt6j8/spyro_a_realm_beyond_cinematic_announce_trailer/",
-        "postedAt": "2026-06-08T01:12:02.412Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tzrslm/fable_xbox_games_showcase_2026/",
-        "postedAt": "2026-06-08T01:12:02.412Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tztpfh/fable_finally_gets_a_release_date_launches/",
-        "postedAt": "2026-06-08T03:20:24.469Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1tzx655/doom_the_dark_ages_revelations_official_trailer/",
         "postedAt": "2026-06-08T05:43:43.825Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ugbs5f/valve_changes_advertised_steam_machine_hw/",
         "postedAt": "2026-06-27T14:38:01.821Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ui64cq/playstation_6_bom_estimate_reportedly_rises_by/",
+        "postedAt": "2026-06-28T22:28:01.415Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uhxsh5/this_doesnt_represent_preorder_data_xbox_disputes/",
+        "postedAt": "2026-06-28T22:28:01.415Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uhrekg/palworld_10_sounds_massive_as_lead_john_bucky/",
+        "postedAt": "2026-06-28T22:28:01.415Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uhb1uc/steam_machine_scalping_hits_3000_on_ebay_as/",
+        "postedAt": "2026-06-28T22:28:01.415Z"
       }
     ],
     "steam_2073850": [
@@ -1259,7 +1259,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ui95o9/save_30_on_flufftopia_fluffmazing_edition_on/",
     "steam_sales": "sale_1144200",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ugbs5f/valve_changes_advertised_steam_machine_hw/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uhb1uc/steam_machine_scalping_hits_3000_on_ebay_as/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
