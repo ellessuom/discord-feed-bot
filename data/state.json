@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-28T05:37:50.458Z",
+  "lastRun": "2026-06-28T11:38:13.258Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ubhp0f/cad_812_save_75_on_amber_isle_on_steam/",
-        "postedAt": "2026-06-21T05:45:10.533Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ubh9v1/cad_389_save_80_on_gris_on_steam/",
-        "postedAt": "2026-06-21T05:45:10.533Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ubh15g/cad_219_save_80_on_hooked_on_you_a_dead_by/",
-        "postedAt": "2026-06-21T05:45:10.533Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ubh08r/cad_287_save_75_on_fresh_start_cleaning_simulator/",
-        "postedAt": "2026-06-21T07:49:38.030Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ubomes/save_85_on_darksiders_ultimate_edition_all_4/",
         "postedAt": "2026-06-21T15:40:20.054Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uhmtev/save_80_on_turnip_boy_commits_tax_evasion_249/",
         "postedAt": "2026-06-28T05:37:50.458Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uhtk0x/save_25_on_mystery_digger_definitive_edition_on/",
+        "postedAt": "2026-06-28T11:38:13.257Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uhq3m8/save_70_on_turbo_overkill_on_steam_585/",
+        "postedAt": "2026-06-28T11:38:13.258Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uhpzzu/save_85_on_life_is_strange_complete_season/",
+        "postedAt": "2026-06-28T11:38:13.258Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uhphtn/save_80_on_recore_definitive_edition_on_steam/",
+        "postedAt": "2026-06-28T11:38:13.258Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uhmtev/save_80_on_turnip_boy_commits_tax_evasion_249/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uhphtn/save_80_on_recore_definitive_edition_on_steam/",
     "steam_sales": "sale_1144200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ugbs5f/valve_changes_advertised_steam_machine_hw/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
