@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-28T11:38:13.258Z",
+  "lastRun": "2026-06-28T16:32:34.185Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ubomes/save_85_on_darksiders_ultimate_edition_all_4/",
-        "postedAt": "2026-06-21T15:40:20.054Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ubwzkg/save_60_on_final_fantasy_xvi_on_steam/",
-        "postedAt": "2026-06-21T20:38:35.540Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ubw3g2/save_92_on_mass_effect_andromeda_deluxe_edition/",
-        "postedAt": "2026-06-21T20:38:35.540Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ubw1xg/save_92_on_mass_effect_legendary_edition_on_steam/",
         "postedAt": "2026-06-21T20:38:35.540Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uhphtn/save_80_on_recore_definitive_edition_on_steam/",
         "postedAt": "2026-06-28T11:38:13.258Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uhskmf/centipede_simulator_is_50_off_during_the_steam/",
+        "postedAt": "2026-06-28T16:32:34.185Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uhsk4x/fullblast_is_50_off_during_the_steam_summer_sale/",
+        "postedAt": "2026-06-28T16:32:34.185Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uhpxjg/save_60_on_smushi_come_home_on_steam_799/",
+        "postedAt": "2026-06-28T16:32:34.185Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uhphtn/save_80_on_recore_definitive_edition_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uhpxjg/save_60_on_smushi_come_home_on_steam_799/",
     "steam_sales": "sale_1144200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ugbs5f/valve_changes_advertised_steam_machine_hw/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
