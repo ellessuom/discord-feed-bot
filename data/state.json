@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-29T07:58:51.744Z",
+  "lastRun": "2026-06-29T11:46:52.495Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1210,10 +1210,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/678497276169028052",
-        "postedAt": "2026-05-30T11:34:31.446Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/694263045409472698",
         "postedAt": "2026-06-04T11:10:55.954Z"
       },
@@ -1252,6 +1248,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/683003412174864962",
         "postedAt": "2026-06-27T11:34:56.685Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/678497276169028052",
+        "postedAt": "2026-06-29T11:46:52.495Z"
       }
     ]
   },
@@ -1260,6 +1260,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uifxzf/save_60_on_konbini_simulator_on_steam/",
     "steam_sales": "sale_1144200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uhb1uc/steam_machine_scalping_hits_3000_on_ebay_as/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
