@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-28T22:28:01.415Z",
+  "lastRun": "2026-06-29T05:43:45.623Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uci9qm/save_91_on_sos_ops_049/",
-        "postedAt": "2026-06-22T16:38:06.782Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ucat51/save_75_on_medal_of_honor_2010_on_steam/",
-        "postedAt": "2026-06-22T16:38:06.782Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ucrnea/save_75_on_the_little_tank_hunter_on_steam_249/",
-        "postedAt": "2026-06-22T18:26:15.831Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ucujcf/save_90_on_golf_with_your_friends_149/",
-        "postedAt": "2026-06-22T21:45:38.650Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ucu7mc/horizon_forbidden_west_sale_all_time_low50_off2999/",
         "postedAt": "2026-06-22T21:45:38.650Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ui95o9/save_30_on_flufftopia_fluffmazing_edition_on/",
         "postedAt": "2026-06-28T21:28:47.601Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uifz6v/save_70_on_cyberpunk_2077_on_steam/",
+        "postedAt": "2026-06-29T05:43:45.623Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uifx6i/save_95_on_planet_zoo_on_steam/",
+        "postedAt": "2026-06-29T05:43:45.623Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uifv6k/save_90_on_detroit_become_human_on_steam/",
+        "postedAt": "2026-06-29T05:43:45.623Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uiftev/save_65_on_sea_of_thieves_2026_edition_on_steam/",
+        "postedAt": "2026-06-29T05:43:45.623Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ui95o9/save_30_on_flufftopia_fluffmazing_edition_on/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uiftev/save_65_on_sea_of_thieves_2026_edition_on_steam/",
     "steam_sales": "sale_1144200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uhb1uc/steam_machine_scalping_hits_3000_on_ebay_as/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
