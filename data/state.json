@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-29T11:46:52.495Z",
+  "lastRun": "2026-06-29T18:49:35.312Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1udnibj/save_20_on_mouse_pi_for_hire_on_steam/",
-        "postedAt": "2026-06-23T18:51:34.182Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uds5xv/save_75_on_trepang2_on_steam_750_usd/",
-        "postedAt": "2026-06-23T20:50:31.792Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1udryi2/save_90_on_genesis_alpha_one_deluxe_edition_199/",
-        "postedAt": "2026-06-23T20:50:31.792Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ueh4xa/save_25_on_coresys_on_steam/",
-        "postedAt": "2026-06-24T16:51:02.530Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uem9tc/save_35_on_felvidek_on_steam/",
         "postedAt": "2026-06-24T20:40:41.575Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uifxzf/save_60_on_konbini_simulator_on_steam/",
         "postedAt": "2026-06-29T07:58:51.744Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uj07t1/save_50_on_coinsweeper_steam/",
+        "postedAt": "2026-06-29T18:49:35.312Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uiu7nc/save_30_on_horse_runner_dx_349_349/",
+        "postedAt": "2026-06-29T18:49:35.312Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uiqr3w/save_40_on_chronicles_of_vaeltaja/",
+        "postedAt": "2026-06-29T18:49:35.312Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uifyxg/save_50_on_link_penguins_on_steam/",
+        "postedAt": "2026-06-29T18:49:35.312Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uifxzf/save_60_on_konbini_simulator_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uifyxg/save_50_on_link_penguins_on_steam/",
     "steam_sales": "sale_1144200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uhb1uc/steam_machine_scalping_hits_3000_on_ebay_as/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
