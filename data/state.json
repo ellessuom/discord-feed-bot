@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-06-29T05:43:45.623Z",
+  "lastRun": "2026-06-29T07:58:51.744Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ucu7mc/horizon_forbidden_west_sale_all_time_low50_off2999/",
-        "postedAt": "2026-06-22T21:45:38.650Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uctfbt/save_50_on_fatal_fury_city_of_the_wolves_999/",
-        "postedAt": "2026-06-22T21:45:38.650Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ud57w9/save_50_on_revenge_of_the_savage_planet_on_steam/",
-        "postedAt": "2026-06-23T05:28:51.138Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1udaq19/save_30_on_runescape_dragonwilds_on_steam/",
-        "postedAt": "2026-06-23T11:09:20.598Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1udnibj/save_20_on_mouse_pi_for_hire_on_steam/",
         "postedAt": "2026-06-23T18:51:34.182Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uiftev/save_65_on_sea_of_thieves_2026_edition_on_steam/",
         "postedAt": "2026-06-29T05:43:45.623Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uijwkl/save_50_on_ty_the_tasmanian_tiger_on_steam/",
+        "postedAt": "2026-06-29T07:58:51.744Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uihs6f/save_75_on_euro_truck_simulator_2_on_steam/",
+        "postedAt": "2026-06-29T07:58:51.744Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uigoa4/save_60_on_roglass_399_im_the_sole_developer_of/",
+        "postedAt": "2026-06-29T07:58:51.744Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uifxzf/save_60_on_konbini_simulator_on_steam/",
+        "postedAt": "2026-06-29T07:58:51.744Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uiftev/save_65_on_sea_of_thieves_2026_edition_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uifxzf/save_60_on_konbini_simulator_on_steam/",
     "steam_sales": "sale_1144200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uhb1uc/steam_machine_scalping_hits_3000_on_ebay_as/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
