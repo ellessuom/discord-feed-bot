@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-29T18:49:35.312Z",
+  "lastRun": "2026-06-29T21:35:30.148Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uem9tc/save_35_on_felvidek_on_steam/",
-        "postedAt": "2026-06-24T20:40:41.575Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uelvnv/save_85_on_kings_bounty_ultimate_edition_on_steam/",
         "postedAt": "2026-06-24T20:40:41.575Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uifyxg/save_50_on_link_penguins_on_steam/",
         "postedAt": "2026-06-29T18:49:35.312Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uj4tlj/save_80_on_yokus_island_express_399/",
+        "postedAt": "2026-06-29T21:35:30.148Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uifyxg/save_50_on_link_penguins_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uj4tlj/save_80_on_yokus_island_express_399/",
     "steam_sales": "sale_1144200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uhb1uc/steam_machine_scalping_hits_3000_on_ebay_as/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
