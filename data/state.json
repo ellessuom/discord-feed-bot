@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-06-29T21:35:30.148Z",
+  "lastRun": "2026-06-29T22:28:53.462Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uelvnv/save_85_on_kings_bounty_ultimate_edition_on_steam/",
-        "postedAt": "2026-06-24T20:40:41.575Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uekhmd/save_90_on_moving_out_229/",
-        "postedAt": "2026-06-24T20:40:41.575Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufg6x7/save_90_on_call_of_duty_modern_warfare_ii_on/",
-        "postedAt": "2026-06-25T17:50:23.545Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ufg45b/save_90_on_far_cry_4_on_steam_historical_low/",
         "postedAt": "2026-06-25T17:50:23.545Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uj4tlj/save_80_on_yokus_island_express_399/",
         "postedAt": "2026-06-29T21:35:30.148Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uj6ctr/save_90_on_clash_artifacts_of_chaos_on_steam/",
+        "postedAt": "2026-06-29T22:28:53.461Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uj6bre/save_75_on_the_dishwasher_vampire_smile_on_steam/",
+        "postedAt": "2026-06-29T22:28:53.461Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uj6bes/save_75_on_charlie_murder_on_steam/",
+        "postedAt": "2026-06-29T22:28:53.462Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uj4tlj/save_80_on_yokus_island_express_399/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uj6bes/save_75_on_charlie_murder_on_steam/",
     "steam_sales": "sale_1144200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uhb1uc/steam_machine_scalping_hits_3000_on_ebay_as/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
