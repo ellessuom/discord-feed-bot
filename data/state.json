@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-30T17:41:19.787Z",
+  "lastRun": "2026-06-30T18:46:01.969Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufgody/save_90_on_a_plague_tale_innocence_on_steam_new/",
-        "postedAt": "2026-06-25T19:39:08.584Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ufg68r/save_90_on_dishonored_goty_on_steam/",
         "postedAt": "2026-06-25T19:39:08.584Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ujuim6/developer_monster_collector_roguelike_soulkin_is/",
         "postedAt": "2026-06-30T17:41:19.787Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ujxade/save_60_on_diplomacy_is_not_an_option_on_steam/",
+        "postedAt": "2026-06-30T18:46:01.969Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tzx655/doom_the_dark_ages_revelations_official_trailer/",
-        "postedAt": "2026-06-08T05:43:43.825Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1tzz7lm/thief_the_dark_project_remastered_reveal_trailer/",
-        "postedAt": "2026-06-08T07:57:45.882Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u04n5j/nintendo_fined_35_million_in_france_over_defect/",
-        "postedAt": "2026-06-08T11:43:28.336Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u04daf/crystal_dynamics_using_generative_ai_for_early/",
-        "postedAt": "2026-06-08T11:43:28.336Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u04bwz/as_playstation_5_players_miss_out_on_gears_of_war/",
         "postedAt": "2026-06-08T11:43:28.336Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1uhb1uc/steam_machine_scalping_hits_3000_on_ebay_as/",
         "postedAt": "2026-06-28T22:28:01.415Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ujt0l9/ex_sony_boss_shawn_layden_doesnt_agree_with/",
+        "postedAt": "2026-06-30T18:46:01.969Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ujrnl7/us_bill_requiring_paid_games_to_be_playable_after/",
+        "postedAt": "2026-06-30T18:46:01.969Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ujo5sr/star_wars_eclipse_literally_cannot_be_finished/",
+        "postedAt": "2026-06-30T18:46:01.969Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uj90b7/meccha_chameleon_becomes_steams_biggest_indie/",
+        "postedAt": "2026-06-30T18:46:01.969Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ujuim6/developer_monster_collector_roguelike_soulkin_is/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ujxade/save_60_on_diplomacy_is_not_an_option_on_steam/",
     "steam_sales": "sale_703080",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uhb1uc/steam_machine_scalping_hits_3000_on_ebay_as/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uj90b7/meccha_chameleon_becomes_steams_biggest_indie/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
