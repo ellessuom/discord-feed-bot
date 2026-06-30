@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-06-30T14:59:24.053Z",
+  "lastRun": "2026-06-30T17:41:19.787Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufhcp4/save_33_on_brazilian_drug_dealer_3_i_opened_a/",
-        "postedAt": "2026-06-25T19:39:08.584Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ufgody/save_90_on_a_plague_tale_innocence_on_steam_new/",
         "postedAt": "2026-06-25T19:39:08.584Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ujpmkg/developer_stolen_realm_survivors_is_20_off_on/",
         "postedAt": "2026-06-30T14:59:24.053Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ujuim6/developer_monster_collector_roguelike_soulkin_is/",
+        "postedAt": "2026-06-30T17:41:19.787Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ujpmkg/developer_stolen_realm_survivors_is_20_off_on/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ujuim6/developer_monster_collector_roguelike_soulkin_is/",
     "steam_sales": "sale_703080",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uhb1uc/steam_machine_scalping_hits_3000_on_ebay_as/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
