@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-06-30T11:08:37.324Z",
+  "lastRun": "2026-06-30T12:51:40.229Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufg45b/save_90_on_far_cry_4_on_steam_historical_low/",
-        "postedAt": "2026-06-25T17:50:23.545Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufg3oc/save_90_on_the_binding_of_isaac_rebirth_complete/",
-        "postedAt": "2026-06-25T17:50:23.545Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ufg1c6/save_90_on_watch_dogs_on_steam/",
         "postedAt": "2026-06-25T17:50:23.545Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uj6bes/save_75_on_charlie_murder_on_steam/",
         "postedAt": "2026-06-29T22:28:53.462Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ujj7oc/save_75_on_hlína_172_new_historical_low/",
+        "postedAt": "2026-06-30T12:51:40.229Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ujeavj/save_75_on_survivor_on_steam/",
+        "postedAt": "2026-06-30T12:51:40.229Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uj6bes/save_75_on_charlie_murder_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ujeavj/save_75_on_survivor_on_steam/",
     "steam_sales": "sale_431960",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uhb1uc/steam_machine_scalping_hits_3000_on_ebay_as/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
