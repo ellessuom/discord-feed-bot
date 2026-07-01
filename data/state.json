@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-01T05:40:49.452Z",
+  "lastRun": "2026-07-01T07:42:09.582Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufg931/save_90_on_ghostwire_tokyo_on_steamhistorical_low/",
-        "postedAt": "2026-06-25T23:34:30.126Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ufgp5k/save_30_on_hades_ii_on_steam/",
         "postedAt": "2026-06-26T01:08:01.406Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uka7fc/save_90_on_eldritch_on_steam/",
         "postedAt": "2026-07-01T05:40:49.452Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ukdzn3/developer_our_two_puzzle_escape_games_boxes_lost/",
+        "postedAt": "2026-07-01T07:42:09.582Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uka7fc/save_90_on_eldritch_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ukdzn3/developer_our_two_puzzle_escape_games_boxes_lost/",
     "steam_sales": "sale_703080",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uj90b7/meccha_chameleon_becomes_steams_biggest_indie/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
