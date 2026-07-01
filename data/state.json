@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-01T21:36:32.328Z",
+  "lastRun": "2026-07-01T23:35:01.352Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufpbbg/save_80_on_monster_hunter_rise_on_steam/",
-        "postedAt": "2026-06-26T03:17:38.096Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ufg3zp/save_80_on_prey_on_steam/",
         "postedAt": "2026-06-26T03:17:38.096Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ukvw18/save_80_on_shadow_blade_reload_on_steam/",
         "postedAt": "2026-07-01T21:36:32.328Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ukdvoh/devsoul_trigger_save_20_during_the_steam_summer/",
+        "postedAt": "2026-07-01T23:35:01.352Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u04bwz/as_playstation_5_players_miss_out_on_gears_of_war/",
-        "postedAt": "2026-06-08T11:43:28.336Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u07d54/marvels_blade_at_arkane_lyon_reportedly_dead_jeff/",
-        "postedAt": "2026-06-08T13:38:52.219Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u05m4j/demo_of_the_cozy_game_missі_is_available_mouses/",
-        "postedAt": "2026-06-08T13:38:52.219Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u08g6e/project_mara_cancelled/",
-        "postedAt": "2026-06-08T15:15:19.536Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u0cwft/final_fantasy_series_has_sold_over_212_million/",
         "postedAt": "2026-06-08T17:14:21.207Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1uj90b7/meccha_chameleon_becomes_steams_biggest_indie/",
         "postedAt": "2026-06-30T18:46:01.969Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uks0my/insider_claims_xbox_is_quietly_following_sony_in/",
+        "postedAt": "2026-07-01T23:35:01.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uknt0p/gta_6_staff_accuse_rockstar_of_growing_gender_pay/",
+        "postedAt": "2026-07-01T23:35:01.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ukmg4h/sony_will_cease_production_of_discs_for_new/",
+        "postedAt": "2026-07-01T23:35:01.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
+        "postedAt": "2026-07-01T23:35:01.352Z"
       }
     ],
     "steam_2073850": [
@@ -1257,9 +1257,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ukvw18/save_80_on_shadow_blade_reload_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ukdvoh/devsoul_trigger_save_20_during_the_steam_summer/",
     "steam_sales": "sale_703080",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uj90b7/meccha_chameleon_becomes_steams_biggest_indie/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
   }
 }
