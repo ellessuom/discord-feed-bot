@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-01T18:47:31.615Z",
+  "lastRun": "2026-07-01T21:36:32.328Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufsyis/67_off_doom_the_dark_ages_2309/",
-        "postedAt": "2026-06-26T03:17:38.096Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ufpbbg/save_80_on_monster_hunter_rise_on_steam/",
         "postedAt": "2026-06-26T03:17:38.096Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uku8tx/save_90_on_röki_219/",
         "postedAt": "2026-07-01T18:47:31.615Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ukvw18/save_80_on_shadow_blade_reload_on_steam/",
+        "postedAt": "2026-07-01T21:36:32.328Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uku8tx/save_90_on_röki_219/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ukvw18/save_80_on_shadow_blade_reload_on_steam/",
     "steam_sales": "sale_703080",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uj90b7/meccha_chameleon_becomes_steams_biggest_indie/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
