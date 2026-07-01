@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-01T03:18:24.887Z",
+  "lastRun": "2026-07-01T05:40:49.452Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufi9r3/save_72_on_grim_dawn_definitive_edition_on_steam/",
-        "postedAt": "2026-06-25T23:34:30.126Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufgeiy/save_95_on_watch_dogs_2_on_steam/",
-        "postedAt": "2026-06-25T23:34:30.126Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ufg931/save_90_on_ghostwire_tokyo_on_steamhistorical_low/",
         "postedAt": "2026-06-25T23:34:30.126Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uk8lid/save_30_on_palworld_with_the_steam_summer_sale_209/",
         "postedAt": "2026-07-01T03:18:24.887Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ukcjhb/save_31_on_the_lion_gambles_everything_he_owns_067/",
+        "postedAt": "2026-07-01T05:40:49.452Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uka7fc/save_90_on_eldritch_on_steam/",
+        "postedAt": "2026-07-01T05:40:49.452Z"
       }
     ],
     "steam_sales": [
@@ -1257,7 +1257,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uk8lid/save_30_on_palworld_with_the_steam_summer_sale_209/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uka7fc/save_90_on_eldritch_on_steam/",
     "steam_sales": "sale_703080",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uj90b7/meccha_chameleon_becomes_steams_biggest_indie/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
