@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-02T16:06:39.718Z",
+  "lastRun": "2026-07-02T20:21:41.920Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufz37p/save_92_on_metro_saga_bundle_504_new_historical/",
-        "postedAt": "2026-06-26T11:07:14.072Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufy3t1/save_90_on_the_quarry_on_steam_599_599/",
-        "postedAt": "2026-06-26T11:07:14.072Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ug7tm7/steam_curve_games_publisher_sale_up_to_90_off_wax/",
-        "postedAt": "2026-06-26T15:01:01.622Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ug62bi/save_40_on_tokyo_xtreme_racer_new_historical_low/",
-        "postedAt": "2026-06-26T15:01:01.622Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ug3atc/save_60_on_nierautomata_on_steam/",
         "postedAt": "2026-06-26T15:01:01.622Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ulfbry/save_33_on_stellar_blade_on_steam/",
         "postedAt": "2026-07-02T16:06:39.718Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ulsx1e/save_90_on_chorus_249/",
+        "postedAt": "2026-07-02T20:21:41.920Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ulp1un/save_67_on_uncharted_legacy_of_thieves_collection/",
+        "postedAt": "2026-07-02T20:21:41.920Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ulp1du/save_20_on_damex_dark_matter_exodus_on_steam/",
+        "postedAt": "2026-07-02T20:21:41.920Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uln2uq/steam_plantera_80_off_059/",
+        "postedAt": "2026-07-02T20:21:41.920Z"
       }
     ],
     "steam_sales": [
@@ -1261,7 +1261,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ulfbry/save_33_on_stellar_blade_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uln2uq/steam_plantera_80_off_059/",
     "steam_sales": "sale_703080",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273218198"
