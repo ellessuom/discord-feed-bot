@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-02T10:45:41.390Z",
+  "lastRun": "2026-07-02T16:06:39.718Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ug3edc/save_75_on_hades_on_steam_624/",
-        "postedAt": "2026-06-26T11:07:14.072Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufzyso/save_90_on_the_invincible_on_steam/",
-        "postedAt": "2026-06-26T11:07:14.072Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ufz37p/save_92_on_metro_saga_bundle_504_new_historical/",
         "postedAt": "2026-06-26T11:07:14.072Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ul5ylm/save_93_on_agent_a_a_puzzle_in_disguise_on_steam/",
         "postedAt": "2026-07-02T03:15:13.584Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uljlmi/save_70_on_stolen_realm_599/",
+        "postedAt": "2026-07-02T16:06:39.718Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ulfbry/save_33_on_stellar_blade_on_steam/",
+        "postedAt": "2026-07-02T16:06:39.718Z"
       }
     ],
     "steam_sales": [
@@ -1261,7 +1261,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ul5ylm/save_93_on_agent_a_a_puzzle_in_disguise_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ulfbry/save_33_on_stellar_blade_on_steam/",
     "steam_sales": "sale_703080",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273218198"
