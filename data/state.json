@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-02T03:15:13.584Z",
+  "lastRun": "2026-07-02T10:45:41.390Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1252,6 +1252,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/678497276169028052",
         "postedAt": "2026-06-29T11:46:52.495Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/677376450273218198",
+        "postedAt": "2026-07-02T10:45:41.390Z"
       }
     ]
   },
@@ -1260,6 +1264,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ul5ylm/save_93_on_agent_a_a_puzzle_in_disguise_on_steam/",
     "steam_sales": "sale_703080",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497276169028052"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273218198"
   }
 }
