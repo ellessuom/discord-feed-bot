@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-02T20:21:41.920Z",
+  "lastRun": "2026-07-03T08:13:14.198Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ug3atc/save_60_on_nierautomata_on_steam/",
-        "postedAt": "2026-06-26T15:01:01.622Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ug0c2a/save_90_on_bulletstorm_full_clip_edition_on_steam/",
-        "postedAt": "2026-06-26T15:01:01.622Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugaxmo/save_80_on_wanted_dead_on_steam/",
-        "postedAt": "2026-06-26T16:46:54.089Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugaurx/save_80_on_the_vagrant_on_steam/",
-        "postedAt": "2026-06-26T16:46:54.089Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ugap7o/save_90_on_maneater_on_steam/",
         "postedAt": "2026-06-26T16:46:54.089Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uln2uq/steam_plantera_80_off_059/",
         "postedAt": "2026-07-02T20:21:41.920Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1um5kon/save_50_on_marine_school_simulator_on_steam/",
+        "postedAt": "2026-07-03T08:13:14.198Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1um5ems/save_65_on_persona_3_reload_on_steam/",
+        "postedAt": "2026-07-03T08:13:14.198Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1um5dgz/save_70_on_cyberpunk_2077_on_steam/",
+        "postedAt": "2026-07-03T08:13:14.198Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1um0scd/save_66_on_lobotomy_corporation_monster/",
+        "postedAt": "2026-07-03T08:13:14.198Z"
       }
     ],
     "steam_sales": [
@@ -1261,7 +1261,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uln2uq/steam_plantera_80_off_059/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1um0scd/save_66_on_lobotomy_corporation_monster/",
     "steam_sales": "sale_703080",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273218198"
