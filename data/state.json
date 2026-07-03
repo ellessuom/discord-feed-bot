@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-03T14:19:25.305Z",
+  "lastRun": "2026-07-03T18:15:39.675Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugap7o/save_90_on_maneater_on_steam/",
-        "postedAt": "2026-06-26T16:46:54.089Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ug1apb/save_80_on_harmonys_odyssey_historic_low/",
-        "postedAt": "2026-06-26T16:46:54.089Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugaz4w/save_75_on_asterigos_curse_of_the_stars_on_steam/",
-        "postedAt": "2026-06-26T17:38:59.184Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugasjj/save_90_on_submerged_hidden_depths_on_steam/",
-        "postedAt": "2026-06-26T17:38:59.184Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ugar1d/save_70_on_dungeons_of_hinterberg_on_steam/",
         "postedAt": "2026-06-26T17:38:59.184Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1um0scd/save_66_on_lobotomy_corporation_monster/",
         "postedAt": "2026-07-03T08:13:14.198Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1umi4b6/save_75_on_strafe_gold_edition_on_steam/",
+        "postedAt": "2026-07-03T18:15:39.675Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1umevzy/save_90_on_deus_ex_mankind_divided_on_steam/",
+        "postedAt": "2026-07-03T18:15:39.675Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1umeho8/save_90_on_deus_ex_human_revolution_directors_cut/",
+        "postedAt": "2026-07-03T18:15:39.675Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1umakgt/my_indie_game_mycosis_is_75_off_on_steam_made/",
+        "postedAt": "2026-07-03T18:15:39.675Z"
       }
     ],
     "steam_sales": [
@@ -1261,7 +1261,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1um0scd/save_66_on_lobotomy_corporation_monster/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1umakgt/my_indie_game_mycosis_is_75_off_on_steam_made/",
     "steam_sales": "sale_3711590",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273218198"
