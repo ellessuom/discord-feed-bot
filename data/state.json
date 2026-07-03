@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-03T08:13:14.198Z",
+  "lastRun": "2026-07-03T14:19:25.305Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,14 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1597080",
-        "postedAt": "2026-06-08T15:15:19.536Z"
-      },
-      {
-        "id": "sale_431745",
-        "postedAt": "2026-06-08T15:15:19.536Z"
-      },
-      {
         "id": "sale_1649240",
         "postedAt": "2026-06-08T19:49:46.890Z"
       },
@@ -804,6 +796,14 @@
       {
         "id": "sale_703080",
         "postedAt": "2026-06-30T14:59:24.053Z"
+      },
+      {
+        "id": "sale_251570",
+        "postedAt": "2026-07-03T14:19:25.305Z"
+      },
+      {
+        "id": "sale_3711590",
+        "postedAt": "2026-07-03T14:19:25.305Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1262,7 +1262,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1um0scd/save_66_on_lobotomy_corporation_monster/",
-    "steam_sales": "sale_703080",
+    "steam_sales": "sale_3711590",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273218198"
   }
