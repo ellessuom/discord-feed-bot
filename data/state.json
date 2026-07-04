@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-04T10:16:11.430Z",
+  "lastRun": "2026-07-04T12:09:29.185Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1210,10 +1210,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/694263045409472698",
-        "postedAt": "2026-06-04T11:10:55.954Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/678497909513126620",
         "postedAt": "2026-06-06T11:35:33.163Z"
       },
@@ -1256,6 +1252,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/677376450273218198",
         "postedAt": "2026-07-02T10:45:41.390Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/694263045409472698",
+        "postedAt": "2026-07-04T12:09:29.185Z"
       }
     ]
   },
@@ -1264,6 +1264,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1umokr0/save_90_on_randals_monday/",
     "steam_sales": "sale_3711590",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273218198"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
 }
