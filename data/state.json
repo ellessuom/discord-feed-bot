@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-03T20:17:23.342Z",
+  "lastRun": "2026-07-04T07:50:07.769Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ufukgv/save_90_on_plague_inc_evolved_on_steam_149_147/",
-        "postedAt": "2026-06-26T18:45:20.302Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uggs74/save_100_on_popgoes_arcade_on_steam/",
-        "postedAt": "2026-06-26T19:40:46.053Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugkw9w/save_25_on_baldurs_gate_3_on_steam_matches/",
-        "postedAt": "2026-06-26T22:32:07.205Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugksn8/save_40_on_schedule_i_on_steam_new_historical_low/",
-        "postedAt": "2026-06-26T22:32:07.205Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ugig80/save_80_on_reincarnated_as_a_noble_rpg_on_steam/",
         "postedAt": "2026-06-26T22:32:07.205Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1umnxrm/save_80_on_bioshock_the_collection/",
         "postedAt": "2026-07-03T20:17:23.342Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1un29lr/save_80_on_road_96_399/",
+        "postedAt": "2026-07-04T07:50:07.769Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1umueyd/save_95_on_daedalic_gigantic_bundle_on_steam/",
+        "postedAt": "2026-07-04T07:50:07.769Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1umpn9o/save_75_on_resident_evil_4_on_steam/",
+        "postedAt": "2026-07-04T07:50:07.769Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1umo8yd/save_90_on_do_not_feed_the_monkeys/",
+        "postedAt": "2026-07-04T07:50:07.769Z"
       }
     ],
     "steam_sales": [
@@ -1261,7 +1261,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1umnxrm/save_80_on_bioshock_the_collection/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1umo8yd/save_90_on_do_not_feed_the_monkeys/",
     "steam_sales": "sale_3711590",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273218198"
