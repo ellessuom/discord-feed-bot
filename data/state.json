@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-04T07:50:07.769Z",
+  "lastRun": "2026-07-04T10:16:11.430Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugig80/save_80_on_reincarnated_as_a_noble_rpg_on_steam/",
-        "postedAt": "2026-06-26T22:32:07.205Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugexj3/save_60_on_hardcore_circus_on_steam_179_dev_offer/",
-        "postedAt": "2026-06-26T22:32:07.205Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugm08i/save_20_on_into_the_grid_on_steam/",
-        "postedAt": "2026-06-26T23:31:43.772Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugkqc9/save_50_on_slay_the_princess_new_historical_low/",
-        "postedAt": "2026-06-26T23:31:43.772Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ugkpcn/save_80_on_getting_over_it_with_bennett_foddy_on/",
         "postedAt": "2026-06-26T23:31:43.772Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1umo8yd/save_90_on_do_not_feed_the_monkeys/",
         "postedAt": "2026-07-04T07:50:07.769Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1un0r5e/save_60_on_food_store_simulator_on_steam/",
+        "postedAt": "2026-07-04T10:16:11.430Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1un0qaf/save_50_on_grocery_store_simulator_on_steam/",
+        "postedAt": "2026-07-04T10:16:11.430Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1un0pyj/save_20_on_p4st3l_on_steam/",
+        "postedAt": "2026-07-04T10:16:11.430Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1umokr0/save_90_on_randals_monday/",
+        "postedAt": "2026-07-04T10:16:11.430Z"
       }
     ],
     "steam_sales": [
@@ -1261,7 +1261,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1umo8yd/save_90_on_do_not_feed_the_monkeys/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1umokr0/save_90_on_randals_monday/",
     "steam_sales": "sale_3711590",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273218198"
