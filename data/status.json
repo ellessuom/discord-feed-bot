@@ -1,19 +1,14 @@
 {
-  "lastRun": "2026-07-06T13:50:56.289Z",
+  "lastRun": "2026-07-06T16:53:37.486Z",
   "success": false,
-  "postsCount": 1,
+  "postsCount": 4,
   "sourcesCount": 4,
   "errors": [
     {
-      "source": "reddit_steamdeals",
-      "message": "[fetchReddit(steamdeals)] Failed after 3 attempts: Status code 429",
-      "time": "2026-07-06T13:50:52.691Z"
-    },
-    {
       "source": "reddit_gamingnews",
       "message": "[fetchReddit(gamingnews)] Failed after 3 attempts: Status code 429",
-      "time": "2026-07-06T13:50:56.058Z"
+      "time": "2026-07-06T16:53:37.327Z"
     }
   ],
-  "nextRun": "2026-07-06T14:50:56.289Z"
+  "nextRun": "2026-07-06T17:53:37.486Z"
 }
