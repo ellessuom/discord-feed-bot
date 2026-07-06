@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-06T18:58:47.827Z",
+  "lastRun": "2026-07-06T20:56:45.862Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uh6plm/save_65_on_crysis_remastered_on_steam/",
-        "postedAt": "2026-06-27T16:30:08.789Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uh6mv3/save_80_on_bee_simulator_on_steam/",
-        "postedAt": "2026-06-27T16:30:08.789Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uh6ka8/save_85_on_mafia_definitive_edition_on_steam/",
-        "postedAt": "2026-06-27T16:30:08.789Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uh7shu/save_30_on_brainkilled_free_demo_available/",
-        "postedAt": "2026-06-27T17:28:47.198Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uh7scd/front_mission_1st_remake_save_90_350/",
         "postedAt": "2026-06-27T17:28:47.198Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uoquky/save_75_on_survivor_on_steam/",
         "postedAt": "2026-07-06T18:58:47.827Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1up8f93/save_85_on_fear_collection_on_steam/",
+        "postedAt": "2026-07-06T20:56:45.862Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1up7nsp/save_67_on_grand_theft_auto_the_trilogy/",
+        "postedAt": "2026-07-06T20:56:45.862Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1up3tax/save_85_on_necrovision_lost_company_on_steam_get/",
+        "postedAt": "2026-07-06T20:56:45.862Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uoquay/save_90_on_little_friends_puppy_island_on_steam/",
+        "postedAt": "2026-07-06T20:56:45.862Z"
       }
     ],
     "steam_sales": [
@@ -1261,7 +1261,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uoquky/save_75_on_survivor_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uoquay/save_90_on_little_friends_puppy_island_on_steam/",
     "steam_sales": "sale_2749950",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
