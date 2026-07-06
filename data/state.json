@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-06T16:53:37.485Z",
+  "lastRun": "2026-07-06T18:58:47.827Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugpf8t/emerald_knight_developer_bundle/",
-        "postedAt": "2026-06-27T13:37:07.143Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugz3kn/vultures_scavengers_of_death_is_30_off_for_the/",
-        "postedAt": "2026-06-27T14:38:01.821Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugwzvr/save_60_on_store_simulator_bundle_on_steam/",
-        "postedAt": "2026-06-27T14:38:01.821Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uh6qcj/save_90_on_saints_row_the_third_remastered_on/",
-        "postedAt": "2026-06-27T16:30:08.789Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uh6plm/save_65_on_crysis_remastered_on_steam/",
         "postedAt": "2026-06-27T16:30:08.789Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uor9un/save_55_on_ale_tale_tavern_on_steam/",
         "postedAt": "2026-07-06T16:53:37.485Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1up5bij/save_50_on_exfil_on_steam/",
+        "postedAt": "2026-07-06T18:58:47.827Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1up12ck/save_90_on_windbound_199/",
+        "postedAt": "2026-07-06T18:58:47.827Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uov3th/save_deepest_discount_55_on_last_outpost_tower/",
+        "postedAt": "2026-07-06T18:58:47.827Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uoquky/save_75_on_survivor_on_steam/",
+        "postedAt": "2026-07-06T18:58:47.827Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_594650",
-        "postedAt": "2026-06-09T11:10:09.904Z"
-      },
       {
         "id": "sale_2004680",
         "postedAt": "2026-06-09T17:02:01.849Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_108600",
         "postedAt": "2026-07-05T23:05:15.247Z"
+      },
+      {
+        "id": "sale_2749950",
+        "postedAt": "2026-07-06T18:58:47.827Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1261,8 +1261,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uor9un/save_55_on_ale_tale_tavern_on_steam/",
-    "steam_sales": "sale_108600",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uoquky/save_75_on_survivor_on_steam/",
+    "steam_sales": "sale_2749950",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
