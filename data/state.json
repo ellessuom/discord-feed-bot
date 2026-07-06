@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-06T13:50:56.288Z",
+  "lastRun": "2026-07-06T16:53:37.485Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uguri5/save_30_on_one_rotten_oath_on_steam_489/",
-        "postedAt": "2026-06-27T12:37:14.004Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uh2xt5/save_90_on_god_eater_resurrection_god_eater_2/",
-        "postedAt": "2026-06-27T13:37:07.143Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugy9ic/save_20_on_novamundi_on_steam_eur_863/",
-        "postedAt": "2026-06-27T13:37:07.143Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ugx1qe/save_65_on_internet_cafe_simulator_2_on_steam/",
-        "postedAt": "2026-06-27T13:37:07.143Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ugpf8t/emerald_knight_developer_bundle/",
         "postedAt": "2026-06-27T13:37:07.143Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uo8r55/save_40_on_indiana_jones_and_the_great_circle_on/",
         "postedAt": "2026-07-05T23:05:15.247Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uox1mm/save_50_on_silent_hill_f_on_steam/",
+        "postedAt": "2026-07-06T16:53:37.485Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uosa4p/save_84_on_necrovision_on_steam/",
+        "postedAt": "2026-07-06T16:53:37.485Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uos003/save_50_on_cult_of_the_lamb_on_steam/",
+        "postedAt": "2026-07-06T16:53:37.485Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uor9un/save_55_on_ale_tale_tavern_on_steam/",
+        "postedAt": "2026-07-06T16:53:37.485Z"
       }
     ],
     "steam_sales": [
@@ -1261,7 +1261,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uo8r55/save_40_on_indiana_jones_and_the_great_circle_on/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uor9un/save_55_on_ale_tale_tavern_on_steam/",
     "steam_sales": "sale_108600",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
