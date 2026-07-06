@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-05T23:05:15.247Z",
+  "lastRun": "2026-07-06T13:50:56.288Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1210,10 +1210,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/678497909513126620",
-        "postedAt": "2026-06-06T11:35:33.163Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/694263045409474021",
         "postedAt": "2026-06-11T11:39:15.940Z"
       },
@@ -1256,6 +1252,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/694263045409472698",
         "postedAt": "2026-07-04T12:09:29.185Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/678497909513126620",
+        "postedAt": "2026-07-06T13:50:56.288Z"
       }
     ]
   },
@@ -1264,6 +1264,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uo8r55/save_40_on_indiana_jones_and_the_great_circle_on/",
     "steam_sales": "sale_108600",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
