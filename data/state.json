@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-07T20:02:44.786Z",
+  "lastRun": "2026-07-07T22:14:01.482Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uhmtev/save_80_on_turnip_boy_commits_tax_evasion_249/",
-        "postedAt": "2026-06-28T05:37:50.458Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uhtk0x/save_25_on_mystery_digger_definitive_edition_on/",
-        "postedAt": "2026-06-28T11:38:13.257Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uhq3m8/save_70_on_turbo_overkill_on_steam_585/",
-        "postedAt": "2026-06-28T11:38:13.258Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uhpzzu/save_85_on_life_is_strange_complete_season/",
-        "postedAt": "2026-06-28T11:38:13.258Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uhphtn/save_80_on_recore_definitive_edition_on_steam/",
         "postedAt": "2026-06-28T11:38:13.258Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1upm3gb/save_89_on_game_builder_tycoon_on_steam/",
         "postedAt": "2026-07-07T20:02:44.786Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1upn5sg/save_40_on_supermarket_simulator_on_steam/",
+        "postedAt": "2026-07-07T22:14:01.482Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1upm2ke/save_80_on_store_simulator_bundle_on_steam/",
+        "postedAt": "2026-07-07T22:14:01.482Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uox6yt/save_70_on_victoria_3_on_steam/",
+        "postedAt": "2026-07-07T22:14:01.482Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uoryzn/save_75_on_nosferatu_the_wrath_of_malachi_on_steam/",
+        "postedAt": "2026-07-07T22:14:01.482Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u0cwft/final_fantasy_series_has_sold_over_212_million/",
-        "postedAt": "2026-06-08T17:14:21.207Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u0gv1n/steam_survey_reveals_rtx_5070s_rapid_rise_as_rtx/",
-        "postedAt": "2026-06-08T18:59:20.358Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u0guys/is_xbox_fixable/",
-        "postedAt": "2026-06-08T18:59:20.358Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u0gi4g/godzilla_isnt_scared_of_gta_6_the_king_of_the/",
-        "postedAt": "2026-06-08T18:59:20.358Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u0fhtb/fumito_ueda_on_gen_atlas_i_give_my_absolute/",
         "postedAt": "2026-06-08T18:59:20.358Z"
       },
@@ -1206,6 +1190,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
         "postedAt": "2026-07-01T23:35:01.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uq7yrn/the_petition_against_sonys_decision_to_kill/",
+        "postedAt": "2026-07-07T22:14:01.482Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1upyz40/cyberpunk_life_sim_nivalis_retitled_ahead_of/",
+        "postedAt": "2026-07-07T22:14:01.482Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uptruu/the_games_industry_reacts_to_xbox_layoffs_i_was/",
+        "postedAt": "2026-07-07T22:14:01.482Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
+        "postedAt": "2026-07-07T22:14:01.482Z"
       }
     ],
     "steam_2073850": [
@@ -1261,9 +1261,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1upm3gb/save_89_on_game_builder_tycoon_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uoryzn/save_75_on_nosferatu_the_wrath_of_malachi_on_steam/",
     "steam_sales": "sale_3017860",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
 }
