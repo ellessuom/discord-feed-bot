@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-07T17:21:05.409Z",
+  "lastRun": "2026-07-07T20:02:44.786Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uhcr10/save_90_on_going_under_199/",
-        "postedAt": "2026-06-27T20:30:25.345Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uhfl27/save_90_on_tomboy_adventure_on_steam_119_or_099/",
-        "postedAt": "2026-06-27T22:28:22.497Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uhjskq/save_75_on_agartha_survivors/",
-        "postedAt": "2026-06-28T03:18:04.729Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uhimua/save_40_on_gravity_storm_first_mission_on_steam/",
-        "postedAt": "2026-06-28T03:18:04.729Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uhmtev/save_80_on_turnip_boy_commits_tax_evasion_249/",
         "postedAt": "2026-06-28T05:37:50.458Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1upj7i4/save_80_on_dead_effect_2_on_steam/",
         "postedAt": "2026-07-07T17:21:05.409Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1upp3tm/save_30_on_arma_reforger_on_steam/",
+        "postedAt": "2026-07-07T20:02:44.786Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1upp2ho/save_30_on_cities_skylines_ii_on_steam/",
+        "postedAt": "2026-07-07T20:02:44.786Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1upn5gc/save_40_on_tcg_card_shop_simulator_on_steam/",
+        "postedAt": "2026-07-07T20:02:44.786Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1upm3gb/save_89_on_game_builder_tycoon_on_steam/",
+        "postedAt": "2026-07-07T20:02:44.786Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1627720",
-        "postedAt": "2026-06-09T18:53:02.894Z"
-      },
       {
         "id": "sale_2336880",
         "postedAt": "2026-06-09T19:45:59.159Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2209900",
         "postedAt": "2026-07-07T08:29:10.881Z"
+      },
+      {
+        "id": "sale_3017860",
+        "postedAt": "2026-07-07T20:02:44.785Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1261,8 +1261,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1upj7i4/save_80_on_dead_effect_2_on_steam/",
-    "steam_sales": "sale_2209900",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1upm3gb/save_89_on_game_builder_tycoon_on_steam/",
+    "steam_sales": "sale_3017860",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uke9dn/gta_6_developers_ask_rockstar_for_union/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
   }
