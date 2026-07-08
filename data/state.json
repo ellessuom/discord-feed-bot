@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-07-08T00:01:45.131Z",
+  "lastRun": "2026-07-08T04:17:30.293Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uhsk4x/fullblast_is_50_off_during_the_steam_summer_sale/",
-        "postedAt": "2026-06-28T16:32:34.185Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uhpxjg/save_60_on_smushi_come_home_on_steam_799/",
-        "postedAt": "2026-06-28T16:32:34.185Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ui5l2r/save_80_on_worms_revolution_299/",
-        "postedAt": "2026-06-28T19:35:07.413Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ui95o9/save_30_on_flufftopia_fluffmazing_edition_on/",
         "postedAt": "2026-06-28T21:28:47.601Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uqases/save_90_on_people_playground_on_steam/",
         "postedAt": "2026-07-08T00:01:45.131Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uqghq9/save_80_on_streamer_girl_simulator_on_steam/",
+        "postedAt": "2026-07-08T04:17:30.293Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uqgh7s/save_20_on_彼氏の周りにいたら嫌な女友達を拳でわからせるゲーム_on_steam/",
+        "postedAt": "2026-07-08T04:17:30.293Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uqgfz4/save_80_on_pets_hotel_on_steam/",
+        "postedAt": "2026-07-08T04:17:30.293Z"
       }
     ],
     "steam_sales": [
@@ -1261,7 +1261,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uqases/save_90_on_people_playground_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uqgfz4/save_80_on_pets_hotel_on_steam/",
     "steam_sales": "sale_3017860",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
