@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-08T04:17:30.293Z",
+  "lastRun": "2026-07-08T12:23:59.120Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ui95o9/save_30_on_flufftopia_fluffmazing_edition_on/",
-        "postedAt": "2026-06-28T21:28:47.601Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uifz6v/save_70_on_cyberpunk_2077_on_steam/",
         "postedAt": "2026-06-29T05:43:45.623Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uqgfz4/save_80_on_pets_hotel_on_steam/",
         "postedAt": "2026-07-08T04:17:30.293Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uqor5a/is_quantum_break_worth_it/",
+        "postedAt": "2026-07-08T12:23:59.120Z"
       }
     ],
     "steam_sales": [
@@ -1261,7 +1261,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uqgfz4/save_80_on_pets_hotel_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uqor5a/is_quantum_break_worth_it/",
     "steam_sales": "sale_3017860",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
