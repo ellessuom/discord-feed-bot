@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-09T18:00:14.057Z",
+  "lastRun": "2026-07-09T20:00:13.415Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uigoa4/save_60_on_roglass_399_im_the_sole_developer_of/",
-        "postedAt": "2026-06-29T07:58:51.744Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uifxzf/save_60_on_konbini_simulator_on_steam/",
-        "postedAt": "2026-06-29T07:58:51.744Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uj07t1/save_50_on_coinsweeper_steam/",
         "postedAt": "2026-06-29T18:49:35.312Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1urjx93/save_67_on_gladiator_guild_manager_on_steam/",
         "postedAt": "2026-07-09T11:08:48.611Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1us0a9i/release_discount_save_20_on_skulls_skulls_skulls/",
+        "postedAt": "2026-07-09T20:00:13.415Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1urzusg/save_90_on_edge_of_eternity_299/",
+        "postedAt": "2026-07-09T20:00:13.415Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_958520",
-        "postedAt": "2026-06-10T20:59:47.913Z"
-      },
       {
         "id": "sale_129576",
         "postedAt": "2026-06-10T21:46:36.959Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1332010",
         "postedAt": "2026-07-09T18:00:14.057Z"
+      },
+      {
+        "id": "sale_817628",
+        "postedAt": "2026-07-09T20:00:13.415Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1229,8 +1229,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1urjx93/save_67_on_gladiator_guild_manager_on_steam/",
-    "steam_sales": "sale_1332010",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1urzusg/save_90_on_edge_of_eternity_299/",
+    "steam_sales": "sale_817628",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
