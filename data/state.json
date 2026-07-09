@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-09T07:41:10.467Z",
+  "lastRun": "2026-07-09T11:08:48.611Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uijwkl/save_50_on_ty_the_tasmanian_tiger_on_steam/",
-        "postedAt": "2026-06-29T07:58:51.744Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uihs6f/save_75_on_euro_truck_simulator_2_on_steam/",
-        "postedAt": "2026-06-29T07:58:51.744Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uigoa4/save_60_on_roglass_399_im_the_sole_developer_of/",
         "postedAt": "2026-06-29T07:58:51.744Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1urj7ck/save_75_on_downwell_on_steam/",
         "postedAt": "2026-07-09T07:41:10.467Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1urkjzz/save_80_on_darkest_hour_a_hearts_of_iron_game_on/",
+        "postedAt": "2026-07-09T11:08:48.611Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1urjx93/save_67_on_gladiator_guild_manager_on_steam/",
+        "postedAt": "2026-07-09T11:08:48.611Z"
       }
     ],
     "steam_sales": [
@@ -1233,7 +1233,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1urj7ck/save_75_on_downwell_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1urjx93/save_67_on_gladiator_guild_manager_on_steam/",
     "steam_sales": "sale_648800",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
