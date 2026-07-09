@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-09T11:08:48.611Z",
+  "lastRun": "2026-07-09T15:20:11.669Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,14 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u15kho/nintendo_of_europe_agrees_to_pay_35m_fine_for/",
-        "postedAt": "2026-06-09T15:16:42.782Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u15hqk/game_pass_lost_millions_of_subscribers_as_a/",
-        "postedAt": "2026-06-09T15:16:42.782Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u18w7e/spyro_a_realm_beyond_devs_say_they_needed_to/",
         "postedAt": "2026-06-09T17:02:01.849Z"
       },
@@ -1228,6 +1220,14 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/678497909513126620",
         "postedAt": "2026-07-06T13:50:56.288Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/677376450273221277",
+        "postedAt": "2026-07-09T15:20:11.669Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/677376450273216923",
+        "postedAt": "2026-07-09T15:20:11.669Z"
       }
     ]
   },
@@ -1236,6 +1236,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1urjx93/save_67_on_gladiator_guild_manager_on_steam/",
     "steam_sales": "sale_648800",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678497909513126620"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
 }
