@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-09T20:00:13.415Z",
+  "lastRun": "2026-07-09T21:38:47.322Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_129576",
-        "postedAt": "2026-06-10T21:46:36.959Z"
-      },
-      {
         "id": "sale_3241660",
         "postedAt": "2026-06-10T22:41:53.861Z"
       },
@@ -804,21 +800,13 @@
       {
         "id": "sale_817628",
         "postedAt": "2026-07-09T20:00:13.415Z"
+      },
+      {
+        "id": "sale_12210",
+        "postedAt": "2026-07-09T21:38:47.322Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u1g0rc/reliable_insider_claims_that_xbox_has_greenlit_a/",
-        "postedAt": "2026-06-09T20:46:49.092Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u1frkg/beyond_good_and_evil_2_getting_closer_as_ubisoft/",
-        "postedAt": "2026-06-09T20:46:49.092Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u1fq83/destiny_2_fans_break_servers_marathons_peak/",
-        "postedAt": "2026-06-09T20:46:49.092Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u1jvrc/the_legend_of_zelda_ocarina_of_time_remake_coming/",
         "postedAt": "2026-06-09T22:37:59.086Z"
@@ -1230,7 +1218,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1urzusg/save_90_on_edge_of_eternity_299/",
-    "steam_sales": "sale_817628",
+    "steam_sales": "sale_12210",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
