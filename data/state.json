@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-09T15:20:11.669Z",
+  "lastRun": "2026-07-09T18:00:14.057Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,22 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_4704690",
-        "postedAt": "2026-06-10T05:40:05.793Z"
-      },
-      {
-        "id": "sale_1167630",
-        "postedAt": "2026-06-10T13:23:11.113Z"
-      },
-      {
-        "id": "sale_3844970",
-        "postedAt": "2026-06-10T15:13:45.418Z"
-      },
-      {
-        "id": "sale_2679100",
-        "postedAt": "2026-06-10T19:02:51.174Z"
-      },
-      {
         "id": "sale_958520",
         "postedAt": "2026-06-10T20:59:47.913Z"
       },
@@ -804,13 +788,25 @@
       {
         "id": "sale_648800",
         "postedAt": "2026-07-08T15:24:51.055Z"
+      },
+      {
+        "id": "sale_4380490",
+        "postedAt": "2026-07-09T18:00:14.057Z"
+      },
+      {
+        "id": "sale_753640",
+        "postedAt": "2026-07-09T18:00:14.057Z"
+      },
+      {
+        "id": "sale_1984270",
+        "postedAt": "2026-07-09T18:00:14.057Z"
+      },
+      {
+        "id": "sale_1332010",
+        "postedAt": "2026-07-09T18:00:14.057Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u18w7e/spyro_a_realm_beyond_devs_say_they_needed_to/",
-        "postedAt": "2026-06-09T17:02:01.849Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u1g0rc/reliable_insider_claims_that_xbox_has_greenlit_a/",
         "postedAt": "2026-06-09T20:46:49.092Z"
@@ -1234,7 +1230,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1urjx93/save_67_on_gladiator_guild_manager_on_steam/",
-    "steam_sales": "sale_648800",
+    "steam_sales": "sale_1332010",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
