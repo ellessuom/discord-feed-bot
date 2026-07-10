@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-10T16:59:51.591Z",
+  "lastRun": "2026-07-10T18:39:54.495Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uj6bre/save_75_on_the_dishwasher_vampire_smile_on_steam/",
-        "postedAt": "2026-06-29T22:28:53.461Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uj6bes/save_75_on_charlie_murder_on_steam/",
-        "postedAt": "2026-06-29T22:28:53.462Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ujj7oc/save_75_on_hlína_172_new_historical_low/",
-        "postedAt": "2026-06-30T12:51:40.229Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ujeavj/save_75_on_survivor_on_steam/",
-        "postedAt": "2026-06-30T12:51:40.229Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ujpmkg/developer_stolen_realm_survivors_is_20_off_on/",
         "postedAt": "2026-06-30T14:59:24.053Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ushgqm/dragon_ball_the_breakers_special_edition_87_off/",
         "postedAt": "2026-07-10T16:59:51.591Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1usvmby/save_75_off_red_dead_redemption_2_on_steam/",
+        "postedAt": "2026-07-10T18:39:54.495Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1usv2hg/save_75_on_red_dead_redemption_2_on_steam/",
+        "postedAt": "2026-07-10T18:39:54.495Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1usuldr/save_90_on_code_vein_deluxe_edition_799_on_steam/",
+        "postedAt": "2026-07-10T18:39:54.495Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1usl5xc/save_75_on_euro_truck_simulator_2_on_steam/",
+        "postedAt": "2026-07-10T18:39:54.495Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_676944",
-        "postedAt": "2026-06-11T03:16:46.449Z"
-      },
       {
         "id": "sale_2340520",
         "postedAt": "2026-06-11T15:17:41.745Z"
@@ -804,13 +800,13 @@
       {
         "id": "sale_1142710",
         "postedAt": "2026-07-10T03:46:37.650Z"
+      },
+      {
+        "id": "sale_1363080",
+        "postedAt": "2026-07-10T18:39:54.495Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u27jaj/xbox_boss_comments_on_the_challenge_of_making_an/",
-        "postedAt": "2026-06-10T17:14:21.113Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u2awez/ubisoft_reportedly_shuttering_winnipeg_belgrade/",
         "postedAt": "2026-06-10T19:02:51.174Z"
@@ -1181,8 +1177,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ushgqm/dragon_ball_the_breakers_special_edition_87_off/",
-    "steam_sales": "sale_1142710",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1usl5xc/save_75_on_euro_truck_simulator_2_on_steam/",
+    "steam_sales": "sale_1363080",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
