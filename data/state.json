@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-09T21:38:47.322Z",
+  "lastRun": "2026-07-10T03:46:37.650Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uj07t1/save_50_on_coinsweeper_steam/",
-        "postedAt": "2026-06-29T18:49:35.312Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uiu7nc/save_30_on_horse_runner_dx_349_349/",
-        "postedAt": "2026-06-29T18:49:35.312Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uiqr3w/save_40_on_chronicles_of_vaeltaja/",
         "postedAt": "2026-06-29T18:49:35.312Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1urzusg/save_90_on_edge_of_eternity_299/",
         "postedAt": "2026-07-09T20:00:13.415Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1us2963/save_70_on_grand_theft_auto_iv_the_complete/",
+        "postedAt": "2026-07-10T03:46:37.650Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1us1z2f/saints_row_iv_reelected_85_299/",
+        "postedAt": "2026-07-10T03:46:37.650Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3241660",
-        "postedAt": "2026-06-10T22:41:53.861Z"
-      },
       {
         "id": "sale_676944",
         "postedAt": "2026-06-11T03:16:46.449Z"
@@ -804,33 +800,13 @@
       {
         "id": "sale_12210",
         "postedAt": "2026-07-09T21:38:47.322Z"
+      },
+      {
+        "id": "sale_1142710",
+        "postedAt": "2026-07-10T03:46:37.650Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u1jvrc/the_legend_of_zelda_ocarina_of_time_remake_coming/",
-        "postedAt": "2026-06-09T22:37:59.086Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u1kzmf/asha_sharma_our_business_isnt_particularly/",
-        "postedAt": "2026-06-09T23:34:23.530Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u1mgtv/dragons_dogma_2_dlc_and_switch_2_port_revealed/",
-        "postedAt": "2026-06-10T01:09:38.698Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u1q4lk/xbox_is_unable_to_meet_demand_for_new_consoles/",
-        "postedAt": "2026-06-10T03:17:35.694Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u1plwm/blasphemous_2_the_third_sin_trailer_out_now/",
-        "postedAt": "2026-06-10T03:17:35.694Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u1p71q/the_duskbloods_getting_a_closed_network_test/",
-        "postedAt": "2026-06-10T03:17:35.694Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u1s08l/lords_of_the_fallen_ii_platform_announcement/",
         "postedAt": "2026-06-10T05:40:05.793Z"
@@ -1217,8 +1193,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1urzusg/save_90_on_edge_of_eternity_299/",
-    "steam_sales": "sale_12210",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1us1z2f/saints_row_iv_reelected_85_299/",
+    "steam_sales": "sale_1142710",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
