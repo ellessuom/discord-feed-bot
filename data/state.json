@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-10T20:27:01.420Z",
+  "lastRun": "2026-07-10T22:09:34.494Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ujuim6/developer_monster_collector_roguelike_soulkin_is/",
-        "postedAt": "2026-06-30T17:41:19.787Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ujxade/save_60_on_diplomacy_is_not_an_option_on_steam/",
         "postedAt": "2026-06-30T18:46:01.969Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1usxdwb/save_93_on_roguebook_174/",
         "postedAt": "2026-07-10T20:27:01.420Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ut1axj/save_55_on_shoomer_booter_on_steam/",
+        "postedAt": "2026-07-10T22:09:34.494Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3337380",
-        "postedAt": "2026-06-11T20:56:04.950Z"
-      },
       {
         "id": "sale_2909400",
         "postedAt": "2026-06-11T20:56:04.950Z"
@@ -804,13 +800,13 @@
       {
         "id": "sale_2019620",
         "postedAt": "2026-07-10T20:27:01.420Z"
+      },
+      {
+        "id": "sale_4707200",
+        "postedAt": "2026-07-10T22:09:34.494Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u2bvb4/fable_gameplay_demo_build_an_extraordinary_life/",
-        "postedAt": "2026-06-10T20:59:47.913Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u2he5v/halo_campaign_evolved_28_minute_gameplay_demo/",
         "postedAt": "2026-06-10T23:36:27.780Z"
@@ -1189,8 +1185,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1usxdwb/save_93_on_roguebook_174/",
-    "steam_sales": "sale_2019620",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ut1axj/save_55_on_shoomer_booter_on_steam/",
+    "steam_sales": "sale_4707200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uskd7p/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
