@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-10T03:46:37.650Z",
+  "lastRun": "2026-07-10T16:59:51.591Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uiqr3w/save_40_on_chronicles_of_vaeltaja/",
-        "postedAt": "2026-06-29T18:49:35.312Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uifyxg/save_50_on_link_penguins_on_steam/",
-        "postedAt": "2026-06-29T18:49:35.312Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uj4tlj/save_80_on_yokus_island_express_399/",
-        "postedAt": "2026-06-29T21:35:30.148Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uj6ctr/save_90_on_clash_artifacts_of_chaos_on_steam/",
-        "postedAt": "2026-06-29T22:28:53.461Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uj6bre/save_75_on_the_dishwasher_vampire_smile_on_steam/",
         "postedAt": "2026-06-29T22:28:53.461Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1us1z2f/saints_row_iv_reelected_85_299/",
         "postedAt": "2026-07-10T03:46:37.650Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1usl9t2/save_50_on_borderlands_4_on_steam/",
+        "postedAt": "2026-07-10T16:59:51.591Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1usl9eb/save_70_on_banishers_ghosts_of_new_eden_on_steam/",
+        "postedAt": "2026-07-10T16:59:51.591Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1usl7wj/save_75_on_workers_resources_soviet_republic_on/",
+        "postedAt": "2026-07-10T16:59:51.591Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ushgqm/dragon_ball_the_breakers_special_edition_87_off/",
+        "postedAt": "2026-07-10T16:59:51.591Z"
       }
     ],
     "steam_sales": [
@@ -808,18 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u1s08l/lords_of_the_fallen_ii_platform_announcement/",
-        "postedAt": "2026-06-10T05:40:05.793Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u1ravk/destiny_2_receives_its_final_major_update_as/",
-        "postedAt": "2026-06-10T05:40:05.793Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u1x1tl/path_of_exile_2_player_carn_willingly_deletes/",
-        "postedAt": "2026-06-10T09:24:21.784Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u27jaj/xbox_boss_comments_on_the_challenge_of_making_an/",
         "postedAt": "2026-06-10T17:14:21.113Z"
       },
@@ -1193,7 +1181,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1us1z2f/saints_row_iv_reelected_85_299/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ushgqm/dragon_ball_the_breakers_special_edition_87_off/",
     "steam_sales": "sale_1142710",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
