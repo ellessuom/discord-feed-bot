@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-10T18:39:54.495Z",
+  "lastRun": "2026-07-10T20:27:01.420Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ujpmkg/developer_stolen_realm_survivors_is_20_off_on/",
-        "postedAt": "2026-06-30T14:59:24.053Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ujuim6/developer_monster_collector_roguelike_soulkin_is/",
         "postedAt": "2026-06-30T17:41:19.787Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1usl5xc/save_75_on_euro_truck_simulator_2_on_steam/",
         "postedAt": "2026-07-10T18:39:54.495Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1usxdwb/save_93_on_roguebook_174/",
+        "postedAt": "2026-07-10T20:27:01.420Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2340520",
-        "postedAt": "2026-06-11T15:17:41.745Z"
-      },
       {
         "id": "sale_3337380",
         "postedAt": "2026-06-11T20:56:04.950Z"
@@ -804,13 +800,13 @@
       {
         "id": "sale_1363080",
         "postedAt": "2026-07-10T18:39:54.495Z"
+      },
+      {
+        "id": "sale_2019620",
+        "postedAt": "2026-07-10T20:27:01.420Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u2awez/ubisoft_reportedly_shuttering_winnipeg_belgrade/",
-        "postedAt": "2026-06-10T19:02:51.174Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u2bvb4/fable_gameplay_demo_build_an_extraordinary_life/",
         "postedAt": "2026-06-10T20:59:47.913Z"
@@ -1114,6 +1110,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
         "postedAt": "2026-07-07T22:14:01.482Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1usxesf/games_shouldnt_cost_80_if_theyre_digital_players/",
+        "postedAt": "2026-07-10T20:27:01.420Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1usviov/playstation_streams_are_issuing_temporary_bans_to/",
+        "postedAt": "2026-07-10T20:27:01.420Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1usqh97/ps5_has_put_a_dampener_on_gaming_45_of/",
+        "postedAt": "2026-07-10T20:27:01.420Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uskd7p/weekly_rgamingnews_discussion_what_game_you_will/",
+        "postedAt": "2026-07-10T20:27:01.420Z"
       }
     ],
     "steam_2073850": [
@@ -1177,9 +1189,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1usl5xc/save_75_on_euro_truck_simulator_2_on_steam/",
-    "steam_sales": "sale_1363080",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1usxdwb/save_93_on_roguebook_174/",
+    "steam_sales": "sale_2019620",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uskd7p/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
 }
