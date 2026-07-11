@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-11T13:37:15.980Z",
+  "lastRun": "2026-07-11T17:57:23.158Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ujyjyo/save_90_on_sniper_ghost_warrior_contracts_299/",
-        "postedAt": "2026-06-30T19:39:56.790Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ujyfgc/save_30_on_ai_society_with_the_steam_summer_sale/",
         "postedAt": "2026-06-30T19:39:56.790Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1utagrv/save_90_on_homefront_199/",
         "postedAt": "2026-07-11T13:37:15.980Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1utliru/save_55_on_sonucido_the_mage_359_359/",
+        "postedAt": "2026-07-11T17:57:23.158Z"
       }
     ],
     "steam_sales": [
@@ -1157,7 +1157,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1utagrv/save_90_on_homefront_199/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1utliru/save_55_on_sonucido_the_mage_359_359/",
     "steam_sales": "sale_3280350",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uskd7p/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
