@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-11T17:57:23.158Z",
+  "lastRun": "2026-07-11T22:56:49.316Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,18 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1462040",
-        "postedAt": "2026-06-11T20:56:04.950Z"
-      },
-      {
-        "id": "sale_252490",
-        "postedAt": "2026-06-11T21:46:11.654Z"
-      },
-      {
-        "id": "sale_1903340",
-        "postedAt": "2026-06-11T22:40:58.600Z"
-      },
-      {
         "id": "sale_322330",
         "postedAt": "2026-06-12T05:42:46.870Z"
       },
@@ -804,6 +792,10 @@
       {
         "id": "sale_3280350",
         "postedAt": "2026-07-11T04:16:12.632Z"
+      },
+      {
+        "id": "sale_367270",
+        "postedAt": "2026-07-11T22:56:49.316Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1158,7 +1150,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1utliru/save_55_on_sonucido_the_mage_359_359/",
-    "steam_sales": "sale_3280350",
+    "steam_sales": "sale_367270",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uskd7p/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
   }
