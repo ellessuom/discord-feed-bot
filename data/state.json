@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-11T04:16:12.632Z",
+  "lastRun": "2026-07-11T13:37:15.980Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ujxade/save_60_on_diplomacy_is_not_an_option_on_steam/",
-        "postedAt": "2026-06-30T18:46:01.969Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ujyjyo/save_90_on_sniper_ghost_warrior_contracts_299/",
         "postedAt": "2026-06-30T19:39:56.790Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ut1axj/save_55_on_shoomer_booter_on_steam/",
         "postedAt": "2026-07-10T22:09:34.494Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1utagrv/save_90_on_homefront_199/",
+        "postedAt": "2026-07-11T13:37:15.980Z"
       }
     ],
     "steam_sales": [
@@ -808,18 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u2ol56/valve_to_discontinue_physical_steam_gift_cards_by/",
-        "postedAt": "2026-06-11T05:43:26.243Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u2uixv/activision_shuts_down_claims_that_call_of_dutys/",
-        "postedAt": "2026-06-11T11:39:15.940Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u2ugy2/state_of_decay_3_official_gameplay_reveal/",
-        "postedAt": "2026-06-11T11:39:15.940Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u57h4i/theres_a_good_reason_why_were_calling_it_a_dlc/",
         "postedAt": "2026-06-14T09:14:01.594Z"
       },
@@ -1110,10 +1098,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/694263045409474021",
-        "postedAt": "2026-06-11T11:39:15.940Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/668365445444665836",
         "postedAt": "2026-06-13T10:53:35.772Z"
       },
@@ -1164,14 +1148,18 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/677376450273216923",
         "postedAt": "2026-07-09T15:20:11.669Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/694263045409474021",
+        "postedAt": "2026-07-11T13:37:15.980Z"
       }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ut1axj/save_55_on_shoomer_booter_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1utagrv/save_90_on_homefront_199/",
     "steam_sales": "sale_3280350",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uskd7p/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
   }
 }
