@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-12T00:02:26.555Z",
+  "lastRun": "2026-07-12T13:37:13.864Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ukcjhb/save_31_on_the_lion_gambles_everything_he_owns_067/",
-        "postedAt": "2026-07-01T05:40:49.452Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uka7fc/save_90_on_eldritch_on_steam/",
-        "postedAt": "2026-07-01T05:40:49.452Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ukdzn3/developer_our_two_puzzle_escape_games_boxes_lost/",
         "postedAt": "2026-07-01T07:42:09.582Z"
@@ -402,17 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1utrl4e/my_game_zona_project_x_vr_is_90_off_on_steam/",
         "postedAt": "2026-07-12T00:02:26.555Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uu91v7/save_90_on_ad_infinitum_349/",
+        "postedAt": "2026-07-12T13:37:13.864Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uu0riu/save_25_on_demon_siege_on_steam_the_bullet_heaven/",
+        "postedAt": "2026-07-12T13:37:13.864Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_322330",
-        "postedAt": "2026-06-12T05:42:46.870Z"
-      },
-      {
-        "id": "sale_3276050",
-        "postedAt": "2026-06-12T07:49:36.966Z"
-      },
       {
         "id": "sale_1868140",
         "postedAt": "2026-06-12T17:07:30.952Z"
@@ -796,6 +788,10 @@
       {
         "id": "sale_367270",
         "postedAt": "2026-07-11T22:56:49.316Z"
+      },
+      {
+        "id": "sale_4090360",
+        "postedAt": "2026-07-12T13:37:13.864Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1149,8 +1145,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1utrl4e/my_game_zona_project_x_vr_is_90_off_on_steam/",
-    "steam_sales": "sale_367270",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uu0riu/save_25_on_demon_siege_on_steam_the_bullet_heaven/",
+    "steam_sales": "sale_4090360",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uskd7p/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
   }
