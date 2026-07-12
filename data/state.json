@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-11T22:56:49.316Z",
+  "lastRun": "2026-07-12T00:02:26.555Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ujyfgc/save_30_on_ai_society_with_the_steam_summer_sale/",
-        "postedAt": "2026-06-30T19:39:56.790Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uk8lid/save_30_on_palworld_with_the_steam_summer_sale_209/",
-        "postedAt": "2026-07-01T03:18:24.887Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ukcjhb/save_31_on_the_lion_gambles_everything_he_owns_067/",
         "postedAt": "2026-07-01T05:40:49.452Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1utliru/save_55_on_sonucido_the_mage_359_359/",
         "postedAt": "2026-07-11T17:57:23.158Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1utuh6i/save_80_on_amber_alert_on_steam_historical_low/",
+        "postedAt": "2026-07-12T00:02:26.555Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1utrl4e/my_game_zona_project_x_vr_is_90_off_on_steam/",
+        "postedAt": "2026-07-12T00:02:26.555Z"
       }
     ],
     "steam_sales": [
@@ -1149,7 +1149,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1utliru/save_55_on_sonucido_the_mage_359_359/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1utrl4e/my_game_zona_project_x_vr_is_90_off_on_steam/",
     "steam_sales": "sale_367270",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uskd7p/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
