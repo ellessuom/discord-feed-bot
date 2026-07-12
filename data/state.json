@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-12T13:37:13.864Z",
+  "lastRun": "2026-07-12T20:56:19.527Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ukdzn3/developer_our_two_puzzle_escape_games_boxes_lost/",
-        "postedAt": "2026-07-01T07:42:09.582Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ukkapa/developer_save_20_on_hunters_in_the_dark_on_steam/",
-        "postedAt": "2026-07-01T15:05:58.523Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ukp51l/save_90_on_pato_box_on_steam_a_punch_out_like_game/",
         "postedAt": "2026-07-01T16:52:49.714Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uu0riu/save_25_on_demon_siege_on_steam_the_bullet_heaven/",
         "postedAt": "2026-07-12T13:37:13.864Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uuqqm5/save_33_on_brazilian_drug_dealer_3_i_opened_a/",
+        "postedAt": "2026-07-12T20:56:19.527Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uuo9m1/save_50_on_koala_kids_golf_589_developer/",
+        "postedAt": "2026-07-12T20:56:19.527Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1868140",
-        "postedAt": "2026-06-12T17:07:30.952Z"
-      },
       {
         "id": "sale_2958130",
         "postedAt": "2026-06-13T09:12:23.392Z"
@@ -792,6 +788,10 @@
       {
         "id": "sale_4090360",
         "postedAt": "2026-07-12T13:37:13.864Z"
+      },
+      {
+        "id": "sale_526870",
+        "postedAt": "2026-07-12T20:56:19.527Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1145,8 +1145,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uu0riu/save_25_on_demon_siege_on_steam_the_bullet_heaven/",
-    "steam_sales": "sale_4090360",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uuo9m1/save_50_on_koala_kids_golf_589_developer/",
+    "steam_sales": "sale_526870",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uskd7p/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
   }
