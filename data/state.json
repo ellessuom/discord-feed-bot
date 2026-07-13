@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-13T21:01:13.488Z",
+  "lastRun": "2026-07-13T22:58:42.223Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uln2uq/steam_plantera_80_off_059/",
-        "postedAt": "2026-07-02T20:21:41.920Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1um5kon/save_50_on_marine_school_simulator_on_steam/",
         "postedAt": "2026-07-03T08:13:14.198Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uvm637/cubuleto_90_off_for_250_handcrafted_puzzle_levels/",
         "postedAt": "2026-07-13T21:01:13.488Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uvqoog/save_50_on_post_void_on_steam_fun_quick_pickup/",
+        "postedAt": "2026-07-13T22:58:42.223Z"
       }
     ],
     "steam_sales": [
@@ -1161,7 +1161,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uvm637/cubuleto_90_off_for_250_handcrafted_puzzle_levels/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uvqoog/save_50_on_post_void_on_steam_fun_quick_pickup/",
     "steam_sales": "sale_2697940",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
