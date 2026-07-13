@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-13T12:10:08.495Z",
+  "lastRun": "2026-07-13T15:44:01.352Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ukp51l/save_90_on_pato_box_on_steam_a_punch_out_like_game/",
-        "postedAt": "2026-07-01T16:52:49.714Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ukr77x/save_53_on_empyrion_galactic_survival_complete/",
-        "postedAt": "2026-07-01T17:40:38.955Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uku8tx/save_90_on_röki_219/",
-        "postedAt": "2026-07-01T18:47:31.615Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ukvw18/save_80_on_shadow_blade_reload_on_steam/",
-        "postedAt": "2026-07-01T21:36:32.328Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ukdvoh/devsoul_trigger_save_20_during_the_steam_summer/",
         "postedAt": "2026-07-01T23:35:01.352Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uuo9m1/save_50_on_koala_kids_golf_589_developer/",
         "postedAt": "2026-07-12T20:56:19.527Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uvc0ok/save_75_on_red_dead_redemption_2_on_steam/",
+        "postedAt": "2026-07-13T15:44:01.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uvbgub/save_45_on_kings_blade_on_steam_494/",
+        "postedAt": "2026-07-13T15:44:01.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uv5zc5/save_50_on_stray_on_steam/",
+        "postedAt": "2026-07-13T15:44:01.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uv5oqj/save_15_on_cat_mail_co_on_steam/",
+        "postedAt": "2026-07-13T15:44:01.352Z"
       }
     ],
     "steam_sales": [
@@ -1082,6 +1082,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1uskd7p/weekly_rgamingnews_discussion_what_game_you_will/",
         "postedAt": "2026-07-10T20:27:01.420Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uveykn/games_done_quick_cancels_snk_sponsorship_live_on/",
+        "postedAt": "2026-07-13T15:44:01.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uvbhxl/doom_the_dark_ages_revelations_overview_with_hugo/",
+        "postedAt": "2026-07-13T15:44:01.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uv0f04/we_mean_business_xbox_union_workers_fighting_back/",
+        "postedAt": "2026-07-13T15:44:01.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
+        "postedAt": "2026-07-13T15:44:01.352Z"
       }
     ],
     "steam_2073850": [
@@ -1145,9 +1161,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uuo9m1/save_50_on_koala_kids_golf_589_developer/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uv5oqj/save_15_on_cat_mail_co_on_steam/",
     "steam_sales": "sale_892970",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uskd7p/weekly_rgamingnews_discussion_what_game_you_will/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
