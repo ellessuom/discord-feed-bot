@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-13T19:41:05.223Z",
+  "lastRun": "2026-07-13T21:01:13.488Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ulp1du/save_20_on_damex_dark_matter_exodus_on_steam/",
-        "postedAt": "2026-07-02T20:21:41.920Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uln2uq/steam_plantera_80_off_059/",
         "postedAt": "2026-07-02T20:21:41.920Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uv5eed/save_80_on_paw_patrol_world_on_steam/",
         "postedAt": "2026-07-13T19:41:05.223Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uvm637/cubuleto_90_off_for_250_handcrafted_puzzle_levels/",
+        "postedAt": "2026-07-13T21:01:13.488Z"
       }
     ],
     "steam_sales": [
@@ -1161,7 +1161,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uv5eed/save_80_on_paw_patrol_world_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uvm637/cubuleto_90_off_for_250_handcrafted_puzzle_levels/",
     "steam_sales": "sale_2697940",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
