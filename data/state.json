@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-13T08:19:28.417Z",
+  "lastRun": "2026-07-13T12:10:08.495Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -405,10 +405,6 @@
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2958130",
-        "postedAt": "2026-06-13T09:12:23.392Z"
-      },
       {
         "id": "sale_4260530",
         "postedAt": "2026-06-13T17:35:26.063Z"
@@ -1090,10 +1086,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/668365445444665836",
-        "postedAt": "2026-06-13T10:53:35.772Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/703271513166449145",
         "postedAt": "2026-06-18T11:29:17.864Z"
       },
@@ -1144,6 +1136,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/694263045409474021",
         "postedAt": "2026-07-11T13:37:15.980Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/668365445444665836",
+        "postedAt": "2026-07-13T12:10:08.495Z"
       }
     ]
   },
@@ -1152,6 +1148,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uuo9m1/save_50_on_koala_kids_golf_589_developer/",
     "steam_sales": "sale_892970",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uskd7p/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409474021"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
