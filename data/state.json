@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-07-13T17:58:17.940Z",
+  "lastRun": "2026-07-13T19:41:05.223Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ulfbry/save_33_on_stellar_blade_on_steam/",
-        "postedAt": "2026-07-02T16:06:39.718Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ulsx1e/save_90_on_chorus_249/",
-        "postedAt": "2026-07-02T20:21:41.920Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ulp1un/save_67_on_uncharted_legacy_of_thieves_collection/",
-        "postedAt": "2026-07-02T20:21:41.920Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ulp1du/save_20_on_damex_dark_matter_exodus_on_steam/",
         "postedAt": "2026-07-02T20:21:41.920Z"
@@ -402,13 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uv3w2f/save_90_on_röki_219/",
         "postedAt": "2026-07-13T17:58:17.940Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uv5zho/save_25_on_yapyap_on_steam/",
+        "postedAt": "2026-07-13T19:41:05.223Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uv5ins/save_45_on_smash_hit_museum_on_steam/",
+        "postedAt": "2026-07-13T19:41:05.223Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uv5eed/save_80_on_paw_patrol_world_on_steam/",
+        "postedAt": "2026-07-13T19:41:05.223Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3105440",
-        "postedAt": "2026-06-13T19:36:36.262Z"
-      },
       {
         "id": "sale_2001120",
         "postedAt": "2026-06-15T18:37:22.604Z"
@@ -788,6 +784,14 @@
       {
         "id": "sale_892970",
         "postedAt": "2026-07-13T08:19:28.417Z"
+      },
+      {
+        "id": "sale_493520",
+        "postedAt": "2026-07-13T19:41:05.223Z"
+      },
+      {
+        "id": "sale_2697940",
+        "postedAt": "2026-07-13T19:41:05.223Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1157,8 +1161,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uv3w2f/save_90_on_röki_219/",
-    "steam_sales": "sale_892970",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uv5eed/save_80_on_paw_patrol_world_on_steam/",
+    "steam_sales": "sale_2697940",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
