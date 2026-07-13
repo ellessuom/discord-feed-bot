@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-13T15:44:01.352Z",
+  "lastRun": "2026-07-13T17:58:17.940Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ukdvoh/devsoul_trigger_save_20_during_the_steam_summer/",
-        "postedAt": "2026-07-01T23:35:01.352Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ul1sxn/save_75_on_red_dead_redemption_2_on_steam/",
-        "postedAt": "2026-07-02T01:05:31.221Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ul5ylm/save_93_on_agent_a_a_puzzle_in_disguise_on_steam/",
-        "postedAt": "2026-07-02T03:15:13.584Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uljlmi/save_70_on_stolen_realm_599/",
-        "postedAt": "2026-07-02T16:06:39.718Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ulfbry/save_33_on_stellar_blade_on_steam/",
         "postedAt": "2026-07-02T16:06:39.718Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uv5oqj/save_15_on_cat_mail_co_on_steam/",
         "postedAt": "2026-07-13T15:44:01.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uvgdzt/save_90_on_justin_wack_and_the_big_time_hack_199/",
+        "postedAt": "2026-07-13T17:58:17.940Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uvg5oy/sector_zero_is_20_off_till_23rd_july_319_physics/",
+        "postedAt": "2026-07-13T17:58:17.940Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uv5frp/save_40_on_dark_deity_2_on_steam/",
+        "postedAt": "2026-07-13T17:58:17.940Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uv3w2f/save_90_on_röki_219/",
+        "postedAt": "2026-07-13T17:58:17.940Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4260530",
-        "postedAt": "2026-06-13T17:35:26.063Z"
-      },
       {
         "id": "sale_3105440",
         "postedAt": "2026-06-13T19:36:36.262Z"
@@ -1161,7 +1157,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uv5oqj/save_15_on_cat_mail_co_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uv3w2f/save_90_on_röki_219/",
     "steam_sales": "sale_892970",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
