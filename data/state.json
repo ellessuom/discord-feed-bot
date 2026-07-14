@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-07-14T03:24:39.996Z",
+  "lastRun": "2026-07-14T06:15:46.084Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1um5ems/save_65_on_persona_3_reload_on_steam/",
-        "postedAt": "2026-07-03T08:13:14.198Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1um5dgz/save_70_on_cyberpunk_2077_on_steam/",
-        "postedAt": "2026-07-03T08:13:14.198Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1um0scd/save_66_on_lobotomy_corporation_monster/",
-        "postedAt": "2026-07-03T08:13:14.198Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1umi4b6/save_75_on_strafe_gold_edition_on_steam/",
         "postedAt": "2026-07-03T18:15:39.675Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uvse0j/save_30_on_pizza_oof_on_steam/",
         "postedAt": "2026-07-14T03:24:39.996Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uvyy0d/save_76_on_ecommerce_simulator_2025_on_steam/",
+        "postedAt": "2026-07-14T06:15:46.084Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uvyx0z/save_75_on_rollercoaster_tycoon_3_complete/",
+        "postedAt": "2026-07-14T06:15:46.084Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uvyw8m/save_90_on_car_mechanic_simulator_2021_on_steam/",
+        "postedAt": "2026-07-14T06:15:46.084Z"
       }
     ],
     "steam_sales": [
@@ -1169,7 +1169,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uvse0j/save_30_on_pizza_oof_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uvyw8m/save_90_on_car_mechanic_simulator_2021_on_steam/",
     "steam_sales": "sale_1805110",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
