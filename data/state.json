@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-14T06:15:46.084Z",
+  "lastRun": "2026-07-14T13:54:59.533Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2001120",
-        "postedAt": "2026-06-15T18:37:22.604Z"
-      },
-      {
         "id": "sale_1162750",
         "postedAt": "2026-06-15T21:55:54.777Z"
       },
@@ -800,25 +796,17 @@
       {
         "id": "sale_1805110",
         "postedAt": "2026-07-14T03:24:39.996Z"
+      },
+      {
+        "id": "sale_3159330",
+        "postedAt": "2026-07-14T13:54:59.533Z"
+      },
+      {
+        "id": "sale_710230",
+        "postedAt": "2026-07-14T13:54:59.533Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u57h4i/theres_a_good_reason_why_were_calling_it_a_dlc/",
-        "postedAt": "2026-06-14T09:14:01.594Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u4shf6/advanced_shader_delivery_comes_to_desktop_pcs_and/",
-        "postedAt": "2026-06-14T09:14:01.594Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u4pcn4/microsoft_ceo_satya_nadella_on_xbox_we_have_to/",
-        "postedAt": "2026-06-14T09:14:01.594Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u3s2og/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-06-14T09:14:01.594Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u6aziv/sealed_copy_of_super_mario_bros_becomes_the_most/",
         "postedAt": "2026-06-15T16:43:02.810Z"
@@ -1170,7 +1158,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uvyw8m/save_90_on_car_mechanic_simulator_2021_on_steam/",
-    "steam_sales": "sale_1805110",
+    "steam_sales": "sale_710230",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
