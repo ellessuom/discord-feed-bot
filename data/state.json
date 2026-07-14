@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-14T13:54:59.533Z",
+  "lastRun": "2026-07-14T15:26:06.852Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1umi4b6/save_75_on_strafe_gold_edition_on_steam/",
-        "postedAt": "2026-07-03T18:15:39.675Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1umevzy/save_90_on_deus_ex_mankind_divided_on_steam/",
-        "postedAt": "2026-07-03T18:15:39.675Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1umeho8/save_90_on_deus_ex_human_revolution_directors_cut/",
         "postedAt": "2026-07-03T18:15:39.675Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uvyw8m/save_90_on_car_mechanic_simulator_2021_on_steam/",
         "postedAt": "2026-07-14T06:15:46.084Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uwbdho/save_85_on_tekken_7_5_year_low_last_seen_on_2021/",
+        "postedAt": "2026-07-14T15:26:06.852Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uw8gvm/save_80_on_soma_on_steam/",
+        "postedAt": "2026-07-14T15:26:06.852Z"
       }
     ],
     "steam_sales": [
@@ -1157,7 +1157,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uvyw8m/save_90_on_car_mechanic_simulator_2021_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uw8gvm/save_80_on_soma_on_steam/",
     "steam_sales": "sale_710230",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
