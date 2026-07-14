@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-14T21:04:10.427Z",
+  "lastRun": "2026-07-14T23:00:12.145Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,14 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_381210",
-        "postedAt": "2026-06-16T18:34:46.390Z"
-      },
-      {
-        "id": "sale_3070070",
-        "postedAt": "2026-06-16T22:42:44.596Z"
-      },
-      {
         "id": "sale_1004640",
         "postedAt": "2026-06-17T03:19:01.842Z"
       },
@@ -804,6 +796,14 @@
       {
         "id": "sale_2947440",
         "postedAt": "2026-07-14T21:04:10.427Z"
+      },
+      {
+        "id": "sale_886313",
+        "postedAt": "2026-07-14T23:00:12.144Z"
+      },
+      {
+        "id": "sale_1304930",
+        "postedAt": "2026-07-14T23:00:12.144Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1158,7 +1158,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uwf6hw/save_60_on_darwins_paradox_999_new_historical_low/",
-    "steam_sales": "sale_2947440",
+    "steam_sales": "sale_1304930",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
