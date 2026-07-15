@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-15T14:56:01.552Z",
+  "lastRun": "2026-07-15T16:38:01.377Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_4528730",
-        "postedAt": "2026-06-17T14:15:50.579Z"
-      },
-      {
         "id": "sale_1817230",
         "postedAt": "2026-06-17T20:50:11.192Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_4297840",
         "postedAt": "2026-07-15T12:19:23.613Z"
+      },
+      {
+        "id": "sale_4512570",
+        "postedAt": "2026-07-15T16:38:01.377Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1174,7 +1174,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ux42g7/save_35_on_exmaster_zombie_on_steam/",
-    "steam_sales": "sale_4297840",
+    "steam_sales": "sale_4512570",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uwgmy9/xbox_player_loses_thousands_in_digital_games/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
