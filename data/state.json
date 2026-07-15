@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-14T23:00:12.145Z",
+  "lastRun": "2026-07-15T00:01:10.347Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1umoiy0/save_90_on_beyond_two_souls_199_historic_low_but/",
-        "postedAt": "2026-07-03T20:17:23.342Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1umociv/save_75_on_tom_clancys_splinter_cell/",
-        "postedAt": "2026-07-03T20:17:23.342Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1umobbb/save_80_on_black_mesa/",
-        "postedAt": "2026-07-03T20:17:23.342Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1umnxrm/save_80_on_bioshock_the_collection/",
-        "postedAt": "2026-07-03T20:17:23.342Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1un29lr/save_80_on_road_96_399/",
         "postedAt": "2026-07-04T07:50:07.769Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uwf6hw/save_60_on_darwins_paradox_999_new_historical_low/",
         "postedAt": "2026-07-14T19:26:13.108Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uwnbfy/cad_229_save_80_on_swine_hd_remaster_on_steam/",
+        "postedAt": "2026-07-15T00:01:10.347Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uwlqn3/save_20_on_volt_deck_on_steam_developer/",
+        "postedAt": "2026-07-15T00:01:10.347Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uwkt60/save_38_on_palworld_valheim_on_steam/",
+        "postedAt": "2026-07-15T00:01:10.347Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uwjslj/save_50_on_silent_hill_f_on_steam/",
+        "postedAt": "2026-07-15T00:01:10.347Z"
       }
     ],
     "steam_sales": [
@@ -1157,7 +1157,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uwf6hw/save_60_on_darwins_paradox_999_new_historical_low/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uwjslj/save_50_on_silent_hill_f_on_steam/",
     "steam_sales": "sale_1304930",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
