@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-07-15T00:01:10.347Z",
+  "lastRun": "2026-07-15T04:08:24.678Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1un29lr/save_80_on_road_96_399/",
-        "postedAt": "2026-07-04T07:50:07.769Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1umueyd/save_95_on_daedalic_gigantic_bundle_on_steam/",
-        "postedAt": "2026-07-04T07:50:07.769Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1umpn9o/save_75_on_resident_evil_4_on_steam/",
-        "postedAt": "2026-07-04T07:50:07.769Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1umo8yd/save_90_on_do_not_feed_the_monkeys/",
         "postedAt": "2026-07-04T07:50:07.769Z"
@@ -402,13 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uwjslj/save_50_on_silent_hill_f_on_steam/",
         "postedAt": "2026-07-15T00:01:10.347Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uwsciu/save_43_on_double_dragon_revive_on_steam_historic/",
+        "postedAt": "2026-07-15T04:08:24.678Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uwlgor/cad_1625_save_50_on_dawn_of_man_on_steam/",
+        "postedAt": "2026-07-15T04:08:24.678Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uwlfkl/cad_1625_save_50_on_dino_hazard_chronos_blackout/",
+        "postedAt": "2026-07-15T04:08:24.678Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1004640",
-        "postedAt": "2026-06-17T03:19:01.842Z"
-      },
       {
         "id": "sale_838350",
         "postedAt": "2026-06-17T14:15:50.579Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1304930",
         "postedAt": "2026-07-14T23:00:12.144Z"
+      },
+      {
+        "id": "sale_3641000",
+        "postedAt": "2026-07-15T04:08:24.678Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1157,8 +1157,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uwjslj/save_50_on_silent_hill_f_on_steam/",
-    "steam_sales": "sale_1304930",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uwlfkl/cad_1625_save_50_on_dino_hazard_chronos_blackout/",
+    "steam_sales": "sale_3641000",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
