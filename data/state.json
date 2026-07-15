@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-07-15T18:11:38.346Z",
+  "lastRun": "2026-07-15T20:14:05.328Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1un0qaf/save_50_on_grocery_store_simulator_on_steam/",
-        "postedAt": "2026-07-04T10:16:11.430Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1un0pyj/save_20_on_p4st3l_on_steam/",
-        "postedAt": "2026-07-04T10:16:11.430Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1umokr0/save_90_on_randals_monday/",
-        "postedAt": "2026-07-04T10:16:11.430Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1una3hq/i_made_67_sale_to_my_indie_game_on_steam_i_am_the/",
         "postedAt": "2026-07-04T14:40:49.583Z"
@@ -402,13 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ux42g7/save_35_on_exmaster_zombie_on_steam/",
         "postedAt": "2026-07-15T14:56:01.552Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uxet5l/inazuma_eleven_victory_road_finally_on_sale_30/",
+        "postedAt": "2026-07-15T20:14:05.328Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uxeiii/save_30_on_fantasy_life_i_the_girl_who_steals/",
+        "postedAt": "2026-07-15T20:14:05.328Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uxc43k/save_70_on_crow_country_599usd_previous/",
+        "postedAt": "2026-07-15T20:14:05.328Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2790700",
-        "postedAt": "2026-06-17T20:50:11.192Z"
-      },
       {
         "id": "sale_2373990",
         "postedAt": "2026-06-17T20:50:11.192Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2524850",
         "postedAt": "2026-07-15T18:11:38.346Z"
+      },
+      {
+        "id": "sale_4563790",
+        "postedAt": "2026-07-15T20:14:05.328Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1157,8 +1157,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ux42g7/save_35_on_exmaster_zombie_on_steam/",
-    "steam_sales": "sale_2524850",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uxc43k/save_70_on_crow_country_599usd_previous/",
+    "steam_sales": "sale_4563790",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uwgmy9/xbox_player_loses_thousands_in_digital_games/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
