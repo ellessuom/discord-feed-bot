@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-15T04:08:24.678Z",
+  "lastRun": "2026-07-15T12:19:23.613Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_838350",
-        "postedAt": "2026-06-17T14:15:50.579Z"
-      },
-      {
         "id": "sale_4528730",
         "postedAt": "2026-06-17T14:15:50.579Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_3641000",
         "postedAt": "2026-07-15T04:08:24.678Z"
+      },
+      {
+        "id": "sale_4297840",
+        "postedAt": "2026-07-15T12:19:23.613Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1158,7 +1158,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uwlfkl/cad_1625_save_50_on_dino_hazard_chronos_blackout/",
-    "steam_sales": "sale_3641000",
+    "steam_sales": "sale_4297840",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
