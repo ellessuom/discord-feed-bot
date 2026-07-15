@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-15T12:19:23.613Z",
+  "lastRun": "2026-07-15T14:56:01.552Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1umo8yd/save_90_on_do_not_feed_the_monkeys/",
-        "postedAt": "2026-07-04T07:50:07.769Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1un0r5e/save_60_on_food_store_simulator_on_steam/",
-        "postedAt": "2026-07-04T10:16:11.430Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1un0qaf/save_50_on_grocery_store_simulator_on_steam/",
         "postedAt": "2026-07-04T10:16:11.430Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uwlfkl/cad_1625_save_50_on_dino_hazard_chronos_blackout/",
         "postedAt": "2026-07-15T04:08:24.678Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ux4xyx/save_50_on_metal_gear_solid_master_collection_vol/",
+        "postedAt": "2026-07-15T14:56:01.552Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ux42g7/save_35_on_exmaster_zombie_on_steam/",
+        "postedAt": "2026-07-15T14:56:01.552Z"
       }
     ],
     "steam_sales": [
@@ -1094,6 +1094,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
         "postedAt": "2026-07-13T15:44:01.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ux7re3/assassins_creed_black_flag_resynced_developer/",
+        "postedAt": "2026-07-15T14:56:01.552Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1ux2dyj/gta_4s_cousin_roman_actor_joins_calls_for/",
+        "postedAt": "2026-07-15T14:56:01.552Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uwwp3o/sony_faces_an_antitrust_complaint_in_mexico_over/",
+        "postedAt": "2026-07-15T14:56:01.552Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uwgmy9/xbox_player_loses_thousands_in_digital_games/",
+        "postedAt": "2026-07-15T14:56:01.552Z"
       }
     ],
     "steam_2073850": [
@@ -1157,9 +1173,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uwlfkl/cad_1625_save_50_on_dino_hazard_chronos_blackout/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ux42g7/save_35_on_exmaster_zombie_on_steam/",
     "steam_sales": "sale_4297840",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uuj1r2/ea_removes_college_football_27_microtransactions/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uwgmy9/xbox_player_loses_thousands_in_digital_games/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/668365445444665836"
   }
 }
