@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-07-17T06:20:56.208Z",
+  "lastRun": "2026-07-17T09:12:00.902Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uor9un/save_55_on_ale_tale_tavern_on_steam/",
-        "postedAt": "2026-07-06T16:53:37.485Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1up5bij/save_50_on_exfil_on_steam/",
-        "postedAt": "2026-07-06T18:58:47.827Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1up12ck/save_90_on_windbound_199/",
-        "postedAt": "2026-07-06T18:58:47.827Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uov3th/save_deepest_discount_55_on_last_outpost_tower/",
         "postedAt": "2026-07-06T18:58:47.827Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uyei2d/save_87_on_the_surge_on_steam/",
         "postedAt": "2026-07-17T06:20:56.208Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uyptjf/save_75_on_computer_repair_shop_on_steam/",
+        "postedAt": "2026-07-17T09:12:00.902Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uypskl/save_50_on_streamer_life_simulator_2_on_steam/",
+        "postedAt": "2026-07-17T09:12:00.902Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uya8nn/beyond_solar_80_off_until_july_19th/",
+        "postedAt": "2026-07-17T09:12:00.902Z"
       }
     ],
     "steam_sales": [
@@ -1078,6 +1078,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1uwgmy9/xbox_player_loses_thousands_in_digital_games/",
         "postedAt": "2026-07-15T14:56:01.552Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uyjome/palworld_10_is_a_massive_success_as_steam_player/",
+        "postedAt": "2026-07-17T09:12:00.902Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uyd9li/there_are_no_benefits_to_being_owned_by_microsoft/",
+        "postedAt": "2026-07-17T09:12:00.902Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uy0el7/rpcs3_just_made_75_of_the_entire_ps3_library/",
+        "postedAt": "2026-07-17T09:12:00.902Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uxv16w/layoffs_might_offer_better_shortterm_financial/",
+        "postedAt": "2026-07-17T09:12:00.902Z"
       }
     ],
     "steam_2073850": [
@@ -1145,9 +1161,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uyei2d/save_87_on_the_surge_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uya8nn/beyond_solar_80_off_until_july_19th/",
     "steam_sales": "sale_1696770",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uwgmy9/xbox_player_loses_thousands_in_digital_games/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uxv16w/layoffs_might_offer_better_shortterm_financial/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
 }
