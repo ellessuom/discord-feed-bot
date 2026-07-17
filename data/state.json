@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-17T09:12:00.902Z",
+  "lastRun": "2026-07-17T17:16:25.215Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3986670",
-        "postedAt": "2026-06-18T20:56:32.227Z"
-      },
-      {
         "id": "sale_3156770",
         "postedAt": "2026-06-18T20:56:32.227Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_1696770",
         "postedAt": "2026-07-16T23:01:23.401Z"
+      },
+      {
+        "id": "sale_3981100",
+        "postedAt": "2026-07-17T17:16:25.215Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1162,7 +1162,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uya8nn/beyond_solar_80_off_until_july_19th/",
-    "steam_sales": "sale_1696770",
+    "steam_sales": "sale_3981100",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uxv16w/layoffs_might_offer_better_shortterm_financial/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
