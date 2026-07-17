@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-17T19:17:10.578Z",
+  "lastRun": "2026-07-17T22:53:37.114Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,14 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_221100",
-        "postedAt": "2026-06-18T21:46:59.029Z"
-      },
-      {
-        "id": "sale_292030",
-        "postedAt": "2026-06-18T21:46:59.029Z"
-      },
-      {
         "id": "sale_518790",
         "postedAt": "2026-06-18T21:46:59.029Z"
       },
@@ -804,6 +796,14 @@
       {
         "id": "sale_3950130",
         "postedAt": "2026-07-17T19:17:10.578Z"
+      },
+      {
+        "id": "sale_3219010",
+        "postedAt": "2026-07-17T22:53:37.114Z"
+      },
+      {
+        "id": "sale_739630",
+        "postedAt": "2026-07-17T22:53:37.114Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1162,7 +1162,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uz5yg3/save_20_on_into_the_depths_on_steam_1199/",
-    "steam_sales": "sale_3950130",
+    "steam_sales": "sale_739630",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uxv16w/layoffs_might_offer_better_shortterm_financial/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
