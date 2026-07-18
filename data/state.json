@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-17T23:55:56.791Z",
+  "lastRun": "2026-07-18T02:54:43.662Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uoquky/save_75_on_survivor_on_steam/",
-        "postedAt": "2026-07-06T18:58:47.827Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1up8f93/save_85_on_fear_collection_on_steam/",
-        "postedAt": "2026-07-06T20:56:45.862Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1up7nsp/save_67_on_grand_theft_auto_the_trilogy/",
         "postedAt": "2026-07-06T20:56:45.862Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uz5yg3/save_20_on_into_the_depths_on_steam_1199/",
         "postedAt": "2026-07-17T19:17:10.578Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uzfkci/save_50_on_hollowdeep_on_steam/",
+        "postedAt": "2026-07-18T02:54:43.662Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uzf638/save_100_on_the_life_and_suffering_of_sir_brante/",
+        "postedAt": "2026-07-18T02:54:43.662Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u8sdzn/kaspersky_says_hackers_are_distributing_malware/",
-        "postedAt": "2026-06-18T01:13:01.529Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u8377y/capcom_just_sold_more_games_than_in_any_year_in/",
-        "postedAt": "2026-06-18T01:13:01.529Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u81r45/xboxs_obsidian_is_working_on_avowed_2_with_a_new/",
-        "postedAt": "2026-06-18T01:13:01.529Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u7youd/microsoft_reportedly_used_senua_reveal_to_attract/",
-        "postedAt": "2026-06-18T01:13:01.529Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1u9acku/robobeat/",
         "postedAt": "2026-06-18T17:12:03.695Z"
       },
@@ -1161,7 +1145,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uz5yg3/save_20_on_into_the_depths_on_steam_1199/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uzf638/save_100_on_the_life_and_suffering_of_sir_brante/",
     "steam_sales": "sale_3844970",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uxv16w/layoffs_might_offer_better_shortterm_financial/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
