@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-18T13:25:38.635Z",
+  "lastRun": "2026-07-18T14:58:23.409Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2486820",
-        "postedAt": "2026-06-18T22:44:49.528Z"
-      },
-      {
         "id": "sale_801800",
         "postedAt": "2026-06-19T01:18:49.338Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_3844970",
         "postedAt": "2026-07-17T23:55:56.791Z"
+      },
+      {
+        "id": "sale_2195120",
+        "postedAt": "2026-07-18T14:58:23.409Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1146,7 +1146,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uzt8p7/save_56_on_last_outpost_44/",
-    "steam_sales": "sale_3844970",
+    "steam_sales": "sale_2195120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uxv16w/layoffs_might_offer_better_shortterm_financial/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
   }
