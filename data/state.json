@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-18T02:54:43.662Z",
+  "lastRun": "2026-07-18T09:41:53.977Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1up7nsp/save_67_on_grand_theft_auto_the_trilogy/",
-        "postedAt": "2026-07-06T20:56:45.862Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1up3tax/save_85_on_necrovision_lost_company_on_steam_get/",
         "postedAt": "2026-07-06T20:56:45.862Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uzf638/save_100_on_the_life_and_suffering_of_sir_brante/",
         "postedAt": "2026-07-18T02:54:43.662Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1uznb79/save_75_on_lord_of_the_click_4_on_steam/",
+        "postedAt": "2026-07-18T09:41:53.977Z"
       }
     ],
     "steam_sales": [
@@ -1145,7 +1145,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uzf638/save_100_on_the_life_and_suffering_of_sir_brante/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uznb79/save_75_on_lord_of_the_click_4_on_steam/",
     "steam_sales": "sale_3844970",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uxv16w/layoffs_might_offer_better_shortterm_financial/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
