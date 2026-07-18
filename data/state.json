@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-18T14:58:23.409Z",
+  "lastRun": "2026-07-18T20:56:02.019Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,38 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u9acku/robobeat/",
-        "postedAt": "2026-06-18T17:12:03.695Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u99fjj/gamers_dont_want_it_palworld_lead_john_buckley/",
-        "postedAt": "2026-06-18T17:12:03.695Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u97yel/otherside_entertainment_lays_off_17_employees/",
-        "postedAt": "2026-06-18T17:12:03.695Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u8zpfh/rockstar_thought_they_could_control_the_narrative/",
-        "postedAt": "2026-06-18T17:12:03.695Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u9ecz0/rise_of_the_families_improvements_fixes_update_is/",
-        "postedAt": "2026-06-18T19:48:55.289Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u9d1wq/former_playstation_boss_shawn_layden_says_xboxs/",
-        "postedAt": "2026-06-18T19:48:55.289Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u9abq6/citizen_sleeper/",
-        "postedAt": "2026-06-18T19:48:55.289Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u9711n/rockstar_reveals_grand_theft_auto_vi_cover_art/",
-        "postedAt": "2026-06-18T19:48:55.289Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ub0llt/amid_concern_over_xbox_studio_bloodbath_new/",
         "postedAt": "2026-06-21T01:16:00.974Z"
       },
@@ -1078,6 +1046,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1uxv16w/layoffs_might_offer_better_shortterm_financial/",
         "postedAt": "2026-07-17T09:12:00.902Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1v029n0/obsidian_was_reportedly_working_on_a_new_ip_that/",
+        "postedAt": "2026-07-18T20:56:02.019Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uzx5qq/gamestop_ceo_ryan_cohen_says_sonys_decision_to_go/",
+        "postedAt": "2026-07-18T20:56:02.019Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uzp2ac/bethesda_confirms_fallout_3_and_new_vegas/",
+        "postedAt": "2026-07-18T20:56:02.019Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
+        "postedAt": "2026-07-18T20:56:02.019Z"
       }
     ],
     "steam_2073850": [
@@ -1147,7 +1131,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uzt8p7/save_56_on_last_outpost_44/",
     "steam_sales": "sale_2195120",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uxv16w/layoffs_might_offer_better_shortterm_financial/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
   }
 }
