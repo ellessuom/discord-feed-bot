@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-19T03:40:44.191Z",
+  "lastRun": "2026-07-19T06:34:26.018Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1upp2ho/save_30_on_cities_skylines_ii_on_steam/",
-        "postedAt": "2026-07-07T20:02:44.786Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1upn5gc/save_40_on_tcg_card_shop_simulator_on_steam/",
         "postedAt": "2026-07-07T20:02:44.786Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v0bml5/save_84_on_ace_combat_7_skies_unknown_on_steam_959/",
         "postedAt": "2026-07-19T03:40:44.191Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v0hycd/samurai_gunn_2_is_50_off_for_secret_sauce/",
+        "postedAt": "2026-07-19T06:34:26.018Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1426210",
-        "postedAt": "2026-06-19T05:51:51.566Z"
-      },
       {
         "id": "sale_320795",
         "postedAt": "2026-06-19T08:05:14.550Z"
@@ -1121,7 +1117,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v0bml5/save_84_on_ace_combat_7_skies_unknown_on_steam_959/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v0hycd/samurai_gunn_2_is_50_off_for_secret_sauce/",
     "steam_sales": "sale_2195120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
