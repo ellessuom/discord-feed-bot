@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-18T20:56:02.019Z",
+  "lastRun": "2026-07-19T03:40:44.191Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1upp1mk/save_70_on_stellaris_on_steam/",
-        "postedAt": "2026-07-07T17:21:05.409Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1upmt39/save_40_on_the_first_berserker_khazan_on/",
-        "postedAt": "2026-07-07T17:21:05.409Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1upj7i4/save_80_on_dead_effect_2_on_steam/",
-        "postedAt": "2026-07-07T17:21:05.409Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1upp3tm/save_30_on_arma_reforger_on_steam/",
-        "postedAt": "2026-07-07T20:02:44.786Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1upp2ho/save_30_on_cities_skylines_ii_on_steam/",
         "postedAt": "2026-07-07T20:02:44.786Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uzt8p7/save_56_on_last_outpost_44/",
         "postedAt": "2026-07-18T13:25:38.635Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v0e5t5/save_40_on_to_the_basement_before_on_steam/",
+        "postedAt": "2026-07-19T03:40:44.191Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v0bsll/save_90_on_sniper_ghost_warrior_contracts_1_2/",
+        "postedAt": "2026-07-19T03:40:44.191Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v0bpyd/save_75_on_outlast_on_steam_374/",
+        "postedAt": "2026-07-19T03:40:44.191Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v0bml5/save_84_on_ace_combat_7_skies_unknown_on_steam_959/",
+        "postedAt": "2026-07-19T03:40:44.191Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_801800",
-        "postedAt": "2026-06-19T01:18:49.338Z"
-      },
-      {
-        "id": "sale_1328670",
-        "postedAt": "2026-06-19T01:18:49.338Z"
-      },
       {
         "id": "sale_1426210",
         "postedAt": "2026-06-19T05:51:51.566Z"
@@ -1129,7 +1121,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1uzt8p7/save_56_on_last_outpost_44/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v0bml5/save_84_on_ace_combat_7_skies_unknown_on_steam_959/",
     "steam_sales": "sale_2195120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
