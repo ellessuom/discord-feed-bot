@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-20T15:53:53.725Z",
+  "lastRun": "2026-07-20T18:08:14.850Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -792,6 +792,10 @@
       {
         "id": "sale_1453566",
         "postedAt": "2026-07-20T15:53:53.725Z"
+      },
+      {
+        "id": "sale_4252290",
+        "postedAt": "2026-07-20T18:08:14.850Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1118,7 +1122,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v1bwld/save_75_on_super_geisha_neon_on_steam/",
-    "steam_sales": "sale_1453566",
+    "steam_sales": "sale_4252290",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
