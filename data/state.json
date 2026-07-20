@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-20T03:35:21.201Z",
+  "lastRun": "2026-07-20T10:15:52.391Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -780,6 +780,10 @@
       {
         "id": "sale_2195120",
         "postedAt": "2026-07-18T14:58:23.409Z"
+      },
+      {
+        "id": "sale_3112280",
+        "postedAt": "2026-07-20T10:15:52.391Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1106,7 +1110,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v14ale/vanquish_70_599/",
-    "steam_sales": "sale_2195120",
+    "steam_sales": "sale_3112280",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703271513166449145"
   }
