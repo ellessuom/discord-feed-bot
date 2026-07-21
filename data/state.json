@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-21T03:36:04.603Z",
+  "lastRun": "2026-07-21T06:33:21.671Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1374490",
-        "postedAt": "2026-06-22T18:26:15.831Z"
-      },
-      {
         "id": "sale_2185060",
         "postedAt": "2026-06-22T18:26:15.831Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_4069520",
         "postedAt": "2026-07-21T03:36:04.603Z"
+      },
+      {
+        "id": "sale_3764200",
+        "postedAt": "2026-07-21T06:33:21.671Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1114,7 +1114,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v1ryyg/save_30_on_horse_runner_dx_349_new_update/",
-    "steam_sales": "sale_4069520",
+    "steam_sales": "sale_3764200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
