@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-20T22:03:52.450Z",
+  "lastRun": "2026-07-21T03:36:04.603Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2420110",
-        "postedAt": "2026-06-22T18:26:15.831Z"
-      },
-      {
         "id": "sale_1374490",
         "postedAt": "2026-06-22T18:26:15.831Z"
       },
@@ -804,25 +800,13 @@
       {
         "id": "sale_588030",
         "postedAt": "2026-07-20T22:03:52.450Z"
+      },
+      {
+        "id": "sale_4069520",
+        "postedAt": "2026-07-21T03:36:04.603Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ub0llt/amid_concern_over_xbox_studio_bloodbath_new/",
-        "postedAt": "2026-06-21T01:16:00.974Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1uawqqq/after_3_years_of_development_i_finally_released/",
-        "postedAt": "2026-06-21T01:16:00.974Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1uaq1p9/outer_worlds_2_and_avowed_studio_obsidian_facing/",
-        "postedAt": "2026-06-21T01:16:00.974Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1u9ywvm/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-06-21T01:16:00.974Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1uap3ia/rtype_tactics_i_ii_cosmos_launch_trailer_nsw_nsw2/",
         "postedAt": "2026-06-21T09:24:01.518Z"
@@ -1130,7 +1114,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v1ryyg/save_30_on_horse_runner_dx_349_new_update/",
-    "steam_sales": "sale_588030",
+    "steam_sales": "sale_4069520",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
