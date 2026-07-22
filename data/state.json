@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-22T03:34:09.048Z",
+  "lastRun": "2026-07-22T09:29:44.521Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1urj99j/save_60_on_none_shall_intrude_on_steam/",
-        "postedAt": "2026-07-09T07:41:10.467Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1urj7ki/save_75_on_ftl_faster_than_light_on_steam/",
-        "postedAt": "2026-07-09T07:41:10.467Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1urj7ck/save_75_on_downwell_on_steam/",
         "postedAt": "2026-07-09T07:41:10.467Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v33qv5/saved_30_discount_for_marathon_lowest_price/",
         "postedAt": "2026-07-22T03:34:09.048Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v39497/save_90_on_dead_island_2_499/",
+        "postedAt": "2026-07-22T09:29:44.521Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v38n1j/save_15_on_sunward_424/",
+        "postedAt": "2026-07-22T09:29:44.521Z"
       }
     ],
     "steam_sales": [
@@ -1097,7 +1097,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v33qv5/saved_30_discount_for_marathon_lowest_price/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v38n1j/save_15_on_sunward_424/",
     "steam_sales": "sale_4804480",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
