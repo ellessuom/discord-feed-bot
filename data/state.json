@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-23T07:35:22.279Z",
+  "lastRun": "2026-07-23T10:27:27.291Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1us0a9i/release_discount_save_20_on_skulls_skulls_skulls/",
-        "postedAt": "2026-07-09T20:00:13.415Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1urzusg/save_90_on_edge_of_eternity_299/",
         "postedAt": "2026-07-09T20:00:13.415Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v3s8s5/save_90_on_enemy_front_199/",
         "postedAt": "2026-07-23T07:35:22.279Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v47wo0/save_80_on_saven_on_steam/",
+        "postedAt": "2026-07-23T10:27:27.291Z"
       }
     ],
     "steam_sales": [
@@ -1084,14 +1084,18 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/680750978144665841",
         "postedAt": "2026-07-20T13:09:48.486Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/704400583238353132",
+        "postedAt": "2026-07-23T10:27:27.291Z"
       }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v3s8s5/save_90_on_enemy_front_199/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v47wo0/save_80_on_saven_on_steam/",
     "steam_sales": "sale_1845250",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
   }
 }
