@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-22T18:11:22.386Z",
+  "lastRun": "2026-07-23T04:18:10.356Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3576350",
-        "postedAt": "2026-06-25T05:29:01.642Z"
-      },
-      {
         "id": "sale_1671210",
         "postedAt": "2026-06-25T17:50:23.545Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_1913120",
         "postedAt": "2026-07-22T18:11:22.386Z"
+      },
+      {
+        "id": "sale_1845250",
+        "postedAt": "2026-07-23T04:18:10.356Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1090,7 +1090,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v3ifsm/save_80_on_bru_boegie_episode_1_get_da_milk_099/",
-    "steam_sales": "sale_1913120",
+    "steam_sales": "sale_1845250",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/680750978144665841"
   }
