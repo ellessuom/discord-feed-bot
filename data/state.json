@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-23T10:27:27.291Z",
+  "lastRun": "2026-07-23T15:12:21.177Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1urzusg/save_90_on_edge_of_eternity_299/",
-        "postedAt": "2026-07-09T20:00:13.415Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1us2963/save_70_on_grand_theft_auto_iv_the_complete/",
         "postedAt": "2026-07-10T03:46:37.650Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v47wo0/save_80_on_saven_on_steam/",
         "postedAt": "2026-07-23T10:27:27.291Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v4gkkz/save_55_on_city_game_studio_on_steam_899/",
+        "postedAt": "2026-07-23T15:12:21.177Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1671210",
-        "postedAt": "2026-06-25T17:50:23.545Z"
-      },
       {
         "id": "sale_1086940",
         "postedAt": "2026-06-25T18:53:08.611Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1845250",
         "postedAt": "2026-07-23T04:18:10.356Z"
+      },
+      {
+        "id": "sale_2699230",
+        "postedAt": "2026-07-23T15:12:21.177Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1093,8 +1093,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v47wo0/save_80_on_saven_on_steam/",
-    "steam_sales": "sale_1845250",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v4gkkz/save_55_on_city_game_studio_on_steam_899/",
+    "steam_sales": "sale_2699230",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
   }
