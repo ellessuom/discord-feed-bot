@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-23T21:09:12.665Z",
+  "lastRun": "2026-07-23T23:00:36.773Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1us2963/save_70_on_grand_theft_auto_iv_the_complete/",
-        "postedAt": "2026-07-10T03:46:37.650Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1us1z2f/saints_row_iv_reelected_85_299/",
-        "postedAt": "2026-07-10T03:46:37.650Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1usl9t2/save_50_on_borderlands_4_on_steam/",
-        "postedAt": "2026-07-10T16:59:51.591Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1usl9eb/save_70_on_banishers_ghosts_of_new_eden_on_steam/",
-        "postedAt": "2026-07-10T16:59:51.591Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1usl7wj/save_75_on_workers_resources_soviet_republic_on/",
         "postedAt": "2026-07-10T16:59:51.591Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v4gkkz/save_55_on_city_game_studio_on_steam_899/",
         "postedAt": "2026-07-23T15:12:21.177Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v4qddm/save_75_on_toyful_wonderworld_a_weird_boomer/",
+        "postedAt": "2026-07-23T23:00:36.773Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v4ovx0/iron_rebellion_pilot_a_mech_in_vr_40_off/",
+        "postedAt": "2026-07-23T23:00:36.773Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v4nkjk/save_20_on_monster_girl_therapy_on_steam_my_game/",
+        "postedAt": "2026-07-23T23:00:36.773Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v4m0vk/save_10_on_grim_dawn_fangs_of_asterkarn_on_steam/",
+        "postedAt": "2026-07-23T23:00:36.773Z"
       }
     ],
     "steam_sales": [
@@ -1093,7 +1093,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v4gkkz/save_55_on_city_game_studio_on_steam_899/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v4m0vk/save_10_on_grim_dawn_fangs_of_asterkarn_on_steam/",
     "steam_sales": "sale_1149460",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
