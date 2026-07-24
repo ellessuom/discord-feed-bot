@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-24T11:44:29.804Z",
+  "lastRun": "2026-07-24T13:53:56.475Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1174180",
-        "postedAt": "2026-06-25T19:39:08.584Z"
-      },
-      {
         "id": "sale_3489700",
         "postedAt": "2026-06-25T20:46:02.964Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_3240220",
         "postedAt": "2026-07-24T11:44:29.804Z"
+      },
+      {
+        "id": "sale_886315",
+        "postedAt": "2026-07-24T13:53:56.475Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1078,7 +1078,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v4m2th/save_10_on_dinoblade_on_steam_1799/",
-    "steam_sales": "sale_3240220",
+    "steam_sales": "sale_886315",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
   }
