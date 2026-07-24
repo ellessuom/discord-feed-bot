@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-07-24T06:29:34.693Z",
+  "lastRun": "2026-07-24T09:23:42.313Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1usuldr/save_90_on_code_vein_deluxe_edition_799_on_steam/",
-        "postedAt": "2026-07-10T18:39:54.495Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1usl5xc/save_75_on_euro_truck_simulator_2_on_steam/",
-        "postedAt": "2026-07-10T18:39:54.495Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1usxdwb/save_93_on_roguebook_174/",
-        "postedAt": "2026-07-10T20:27:01.420Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ut1axj/save_55_on_shoomer_booter_on_steam/",
         "postedAt": "2026-07-10T22:09:34.494Z"
@@ -402,13 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v4xvv0/save_71_on_gtfo_on_steam_historical_lowest/",
         "postedAt": "2026-07-24T06:29:34.693Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v4xq08/save_40_on_unrailed_2_back_on_track_on_steam/",
+        "postedAt": "2026-07-24T09:23:42.313Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v4nle8/save_15_on_meccha_chameleon_on_steam/",
+        "postedAt": "2026-07-24T09:23:42.313Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v4m2th/save_10_on_dinoblade_on_steam_1799/",
+        "postedAt": "2026-07-24T09:23:42.313Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3240220",
-        "postedAt": "2026-06-25T19:39:08.584Z"
-      },
       {
         "id": "sale_1593500",
         "postedAt": "2026-06-25T19:39:08.584Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2840770",
         "postedAt": "2026-07-24T03:14:52.478Z"
+      },
+      {
+        "id": "sale_1809540",
+        "postedAt": "2026-07-24T09:23:42.313Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1077,8 +1077,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v4xvv0/save_71_on_gtfo_on_steam_historical_lowest/",
-    "steam_sales": "sale_2840770",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v4m2th/save_10_on_dinoblade_on_steam_1799/",
+    "steam_sales": "sale_1809540",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
   }
