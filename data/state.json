@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-24T15:27:48.398Z",
+  "lastRun": "2026-07-24T17:41:15.527Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ut1axj/save_55_on_shoomer_booter_on_steam/",
-        "postedAt": "2026-07-10T22:09:34.494Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1utagrv/save_90_on_homefront_199/",
         "postedAt": "2026-07-11T13:37:15.980Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v4m2th/save_10_on_dinoblade_on_steam_1799/",
         "postedAt": "2026-07-24T09:23:42.313Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v58to7/save_80_on_through_the_darkest_of_times_299/",
+        "postedAt": "2026-07-24T17:41:15.527Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1uebn9k/gta_6_physical_copies_are_a_code_in_a_box_as/",
-        "postedAt": "2026-06-24T16:51:02.530Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ueap0l/gta_6_locks_five_singleplayer_stores_behind_100/",
-        "postedAt": "2026-06-24T16:51:02.530Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ue81yd/the_new_sonic_game_uses_your_data_to_enhance_ai/",
-        "postedAt": "2026-06-24T16:51:02.530Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ue4yl6/a_systematic_pattern_of_wage_and_hour_violations/",
-        "postedAt": "2026-06-24T16:51:02.530Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ufh1db/sony_triggers_layoffs_at_bungie_and_even_marathon/",
         "postedAt": "2026-06-26T01:08:01.406Z"
       },
@@ -1077,7 +1061,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v4m2th/save_10_on_dinoblade_on_steam_1799/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v58to7/save_80_on_through_the_darkest_of_times_299/",
     "steam_sales": "sale_4088670",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
