@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-24T03:14:52.478Z",
+  "lastRun": "2026-07-24T06:29:34.693Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1usl7wj/save_75_on_workers_resources_soviet_republic_on/",
-        "postedAt": "2026-07-10T16:59:51.591Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ushgqm/dragon_ball_the_breakers_special_edition_87_off/",
-        "postedAt": "2026-07-10T16:59:51.591Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1usvmby/save_75_off_red_dead_redemption_2_on_steam/",
-        "postedAt": "2026-07-10T18:39:54.495Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1usv2hg/save_75_on_red_dead_redemption_2_on_steam/",
-        "postedAt": "2026-07-10T18:39:54.495Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1usuldr/save_90_on_code_vein_deluxe_edition_799_on_steam/",
         "postedAt": "2026-07-10T18:39:54.495Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v4m0vk/save_10_on_grim_dawn_fangs_of_asterkarn_on_steam/",
         "postedAt": "2026-07-23T23:00:36.773Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v4z8it/save_70_on_warhammer_40000_space_marine_2/",
+        "postedAt": "2026-07-24T06:29:34.693Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v4z5x3/save_70_on_hades_749/",
+        "postedAt": "2026-07-24T06:29:34.693Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v4xwpq/save_50_on_wwe_2k26_on_steam_currently_lowest/",
+        "postedAt": "2026-07-24T06:29:34.693Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v4xvv0/save_71_on_gtfo_on_steam_historical_lowest/",
+        "postedAt": "2026-07-24T06:29:34.693Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ue0ugp/devil_may_cry_remake_rumors_gain_momentum_as_new/",
-        "postedAt": "2026-06-24T03:17:01.242Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1udjvmf/the_ai_stigma_is_real_and_severely_punishes/",
-        "postedAt": "2026-06-24T03:17:01.242Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1udcih8/stop_killing_games_says_the_fight_goes_on_after/",
-        "postedAt": "2026-06-24T03:17:01.242Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ucymu1/valve_says_steam_machine_is_1049_because_it/",
-        "postedAt": "2026-06-24T03:17:01.242Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1uebn9k/gta_6_physical_copies_are_a_code_in_a_box_as/",
         "postedAt": "2026-06-24T16:51:02.530Z"
       },
@@ -1093,7 +1077,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v4m0vk/save_10_on_grim_dawn_fangs_of_asterkarn_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v4xvv0/save_71_on_gtfo_on_steam_historical_lowest/",
     "steam_sales": "sale_2840770",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
