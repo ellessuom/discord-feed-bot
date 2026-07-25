@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-25T11:15:01.351Z",
+  "lastRun": "2026-07-25T13:44:48.850Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uuo9m1/save_50_on_koala_kids_golf_589_developer/",
-        "postedAt": "2026-07-12T20:56:19.527Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uvc0ok/save_75_on_red_dead_redemption_2_on_steam/",
         "postedAt": "2026-07-13T15:44:01.352Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v5u2is/save_80_on_konbini_simulator_on_steam/",
         "postedAt": "2026-07-25T09:02:30.803Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v684lb/wiseman_no_more_breakups_10_off_until_aug_3rd/",
+        "postedAt": "2026-07-25T13:44:48.850Z"
       }
     ],
     "steam_sales": [
@@ -1077,7 +1077,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v5u2is/save_80_on_konbini_simulator_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v684lb/wiseman_no_more_breakups_10_off_until_aug_3rd/",
     "steam_sales": "sale_3241660",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v584lq/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
