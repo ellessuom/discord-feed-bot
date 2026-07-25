@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-07-25T03:13:04.614Z",
+  "lastRun": "2026-07-25T09:02:30.803Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uu91v7/save_90_on_ad_infinitum_349/",
-        "postedAt": "2026-07-12T13:37:13.864Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uu0riu/save_25_on_demon_siege_on_steam_the_bullet_heaven/",
-        "postedAt": "2026-07-12T13:37:13.864Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uuqqm5/save_33_on_brazilian_drug_dealer_3_i_opened_a/",
-        "postedAt": "2026-07-12T20:56:19.527Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uuo9m1/save_50_on_koala_kids_golf_589_developer/",
         "postedAt": "2026-07-12T20:56:19.527Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v5lx6q/save_80_on_food_store_simulator_on_steam/",
         "postedAt": "2026-07-24T23:04:30.356Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v5ykf0/save_80_on_perception_heart_and_mind_on_steam_099/",
+        "postedAt": "2026-07-25T09:02:30.803Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v5xcp0/save_30_on_phasmophobia/",
+        "postedAt": "2026-07-25T09:02:30.803Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v5u2is/save_80_on_konbini_simulator_on_steam/",
+        "postedAt": "2026-07-25T09:02:30.803Z"
       }
     ],
     "steam_sales": [
@@ -1061,7 +1061,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v5lx6q/save_80_on_food_store_simulator_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v5u2is/save_80_on_konbini_simulator_on_steam/",
     "steam_sales": "sale_3241660",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
