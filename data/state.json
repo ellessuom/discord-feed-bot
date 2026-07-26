@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-26T00:03:40.634Z",
+  "lastRun": "2026-07-26T07:38:10.455Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uv5zc5/save_50_on_stray_on_steam/",
-        "postedAt": "2026-07-13T15:44:01.352Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uv5oqj/save_15_on_cat_mail_co_on_steam/",
-        "postedAt": "2026-07-13T15:44:01.352Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uvgdzt/save_90_on_justin_wack_and_the_big_time_hack_199/",
-        "postedAt": "2026-07-13T17:58:17.940Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uvg5oy/sector_zero_is_20_off_till_23rd_july_319_physics/",
-        "postedAt": "2026-07-13T17:58:17.940Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uv5frp/save_40_on_dark_deity_2_on_steam/",
         "postedAt": "2026-07-13T17:58:17.940Z"
@@ -402,33 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v6gjwr/my_game_zona_origin_pcvr_is_45_off_on_steam/",
         "postedAt": "2026-07-25T19:14:38.269Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v6wz8b/save_66_on_fae_farm_on_steam/",
+        "postedAt": "2026-07-26T07:38:10.455Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v6wurq/save_70_on_f1_manager_2024_on_steam/",
+        "postedAt": "2026-07-26T07:38:10.455Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v6wu8p/save_60_on_planet_coaster_2_on_steam/",
+        "postedAt": "2026-07-26T07:38:10.455Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v6uomd/save_85_on_moonlighter_299/",
+        "postedAt": "2026-07-26T07:38:10.455Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_413150",
-        "postedAt": "2026-06-26T03:17:38.096Z"
-      },
-      {
-        "id": "sale_1326470",
-        "postedAt": "2026-06-26T03:17:38.096Z"
-      },
-      {
-        "id": "sale_2183900",
-        "postedAt": "2026-06-26T05:33:53.281Z"
-      },
-      {
-        "id": "sale_312520",
-        "postedAt": "2026-06-26T07:29:25.027Z"
-      },
-      {
-        "id": "sale_250900",
-        "postedAt": "2026-06-26T07:29:25.027Z"
-      },
-      {
-        "id": "sale_105600",
-        "postedAt": "2026-06-26T07:29:25.027Z"
-      },
       {
         "id": "sale_266410",
         "postedAt": "2026-06-26T09:15:17.847Z"
@@ -804,22 +780,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ufh1db/sony_triggers_layoffs_at_bungie_and_even_marathon/",
-        "postedAt": "2026-06-26T01:08:01.406Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ufg1lj/compulsion_games_crew_departs_in_droves_ahead_of/",
-        "postedAt": "2026-06-26T01:08:01.406Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1uffgle/xbox_console_prices_to_rise_by_100150/",
-        "postedAt": "2026-06-26T01:08:01.406Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ueyn7j/exxbox_workers_warn_of_potential_retaliation_in/",
-        "postedAt": "2026-06-26T01:08:01.406Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ug6h5u/the_game_business_major_games_retailer_warns/",
         "postedAt": "2026-06-26T15:01:01.622Z"
       },
@@ -1073,7 +1033,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v6gjwr/my_game_zona_origin_pcvr_is_45_off_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v6uomd/save_85_on_moonlighter_299/",
     "steam_sales": "sale_1874880",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v584lq/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
