@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-27T00:03:57.653Z",
+  "lastRun": "2026-07-27T08:34:54.992Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uv5ins/save_45_on_smash_hit_museum_on_steam/",
-        "postedAt": "2026-07-13T19:41:05.223Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uv5eed/save_80_on_paw_patrol_world_on_steam/",
-        "postedAt": "2026-07-13T19:41:05.223Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uvm637/cubuleto_90_off_for_250_handcrafted_puzzle_levels/",
         "postedAt": "2026-07-13T21:01:13.488Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v79ll8/save_60_on_metal_gear_solid_δ_snake_eater_on/",
         "postedAt": "2026-07-27T00:03:57.653Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v7ql2m/save_70_on_deep_rock_galactic_899/",
+        "postedAt": "2026-07-27T08:34:54.992Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v7mqr4/save_80_on_police_simulator_patrol_officers_on/",
+        "postedAt": "2026-07-27T08:34:54.992Z"
       }
     ],
     "steam_sales": [
@@ -1021,7 +1021,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v79ll8/save_60_on_metal_gear_solid_δ_snake_eater_on/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v7mqr4/save_80_on_police_simulator_patrol_officers_on/",
     "steam_sales": "sale_2417610",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v584lq/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
