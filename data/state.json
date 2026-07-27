@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-26T14:39:16.704Z",
+  "lastRun": "2026-07-27T00:03:57.653Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uv5zho/save_25_on_yapyap_on_steam/",
-        "postedAt": "2026-07-13T19:41:05.223Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uv5ins/save_45_on_smash_hit_museum_on_steam/",
         "postedAt": "2026-07-13T19:41:05.223Z"
@@ -402,21 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v6m449/my_game_project_hunt_is_50_off_on_steam/",
         "postedAt": "2026-07-26T12:06:57.292Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v79ll8/save_60_on_metal_gear_solid_δ_snake_eater_on/",
+        "postedAt": "2026-07-27T00:03:57.653Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1771300",
-        "postedAt": "2026-06-26T17:38:59.184Z"
-      },
-      {
-        "id": "sale_1118520",
-        "postedAt": "2026-06-26T18:45:20.302Z"
-      },
-      {
-        "id": "sale_3164500",
-        "postedAt": "2026-06-26T22:32:07.205Z"
-      },
       {
         "id": "sale_1623730",
         "postedAt": "2026-06-27T17:28:47.198Z"
@@ -788,25 +776,13 @@
       {
         "id": "sale_221100",
         "postedAt": "2026-07-26T14:39:16.704Z"
+      },
+      {
+        "id": "sale_2417610",
+        "postedAt": "2026-07-27T00:03:57.653Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ug6h5u/the_game_business_major_games_retailer_warns/",
-        "postedAt": "2026-06-26T15:01:01.622Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ug3lzt/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-06-26T15:01:01.622Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ufp9pa/arcade_archives_2_tekken_out_now_ps5_games/",
-        "postedAt": "2026-06-26T15:01:01.622Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ufgkcp/rollercoaster_tycoon_3_complete_edition/",
-        "postedAt": "2026-06-26T15:01:01.622Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ugzc05/haunted_chocolatier_is_taking_a_long_time_because/",
         "postedAt": "2026-06-27T14:38:01.821Z"
@@ -1045,8 +1021,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v6m449/my_game_project_hunt_is_50_off_on_steam/",
-    "steam_sales": "sale_221100",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v79ll8/save_60_on_metal_gear_solid_δ_snake_eater_on/",
+    "steam_sales": "sale_2417610",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v584lq/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
   }
