@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-07-27T12:28:26.291Z",
+  "lastRun": "2026-07-27T17:46:18.957Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uvse0j/save_30_on_pizza_oof_on_steam/",
-        "postedAt": "2026-07-14T03:24:39.996Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uvyy0d/save_76_on_ecommerce_simulator_2025_on_steam/",
-        "postedAt": "2026-07-14T06:15:46.084Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uvyx0z/save_75_on_rollercoaster_tycoon_3_complete/",
-        "postedAt": "2026-07-14T06:15:46.084Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uvyw8m/save_90_on_car_mechanic_simulator_2021_on_steam/",
         "postedAt": "2026-07-14T06:15:46.084Z"
@@ -402,13 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v7yu2p/save_10_on_mall_together_on_steam/",
         "postedAt": "2026-07-27T12:28:26.291Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v872hm/from_poland_with_love_2026_sale_on_steam_up_to_94/",
+        "postedAt": "2026-07-27T17:46:18.957Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v81pk7/save_90_on_poly_bridge_on_steam_081/",
+        "postedAt": "2026-07-27T17:46:18.957Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v7z5c9/save_10_on_high_times_10_1799/",
+        "postedAt": "2026-07-27T17:46:18.957Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1623730",
-        "postedAt": "2026-06-27T17:28:47.198Z"
-      },
       {
         "id": "sale_1144200",
         "postedAt": "2026-06-28T05:37:50.458Z"
@@ -780,25 +776,13 @@
       {
         "id": "sale_2417610",
         "postedAt": "2026-07-27T00:03:57.653Z"
+      },
+      {
+        "id": "sale_2684630",
+        "postedAt": "2026-07-27T17:46:18.957Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ugzc05/haunted_chocolatier_is_taking_a_long_time_because/",
-        "postedAt": "2026-06-27T14:38:01.821Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ugu3ty/playstation_console_sales_fell_to_their_lowest/",
-        "postedAt": "2026-06-27T14:38:01.821Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1uggjmr/nintendo_has_raised_its_employees_base_salary_by/",
-        "postedAt": "2026-06-27T14:38:01.821Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ugbs5f/valve_changes_advertised_steam_machine_hw/",
-        "postedAt": "2026-06-27T14:38:01.821Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ui64cq/playstation_6_bom_estimate_reportedly_rises_by/",
         "postedAt": "2026-06-28T22:28:01.415Z"
@@ -1021,8 +1005,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v7yu2p/save_10_on_mall_together_on_steam/",
-    "steam_sales": "sale_2417610",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v7z5c9/save_10_on_high_times_10_1799/",
+    "steam_sales": "sale_2684630",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v584lq/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
