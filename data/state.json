@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-07-27T08:34:54.992Z",
+  "lastRun": "2026-07-27T12:28:26.291Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uvm637/cubuleto_90_off_for_250_handcrafted_puzzle_levels/",
-        "postedAt": "2026-07-13T21:01:13.488Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uvqoog/save_50_on_post_void_on_steam_fun_quick_pickup/",
-        "postedAt": "2026-07-13T22:58:42.223Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uvse0j/save_30_on_pizza_oof_on_steam/",
         "postedAt": "2026-07-14T03:24:39.996Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v7mqr4/save_80_on_police_simulator_patrol_officers_on/",
         "postedAt": "2026-07-27T08:34:54.992Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v7yuch/save_90_on_sid_meiers_civilization_vi_on_steam/",
+        "postedAt": "2026-07-27T12:28:26.290Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v7yu2p/save_10_on_mall_together_on_steam/",
+        "postedAt": "2026-07-27T12:28:26.291Z"
       }
     ],
     "steam_sales": [
@@ -962,10 +962,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/683003412174864962",
-        "postedAt": "2026-06-27T11:34:56.685Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/678497276169028052",
         "postedAt": "2026-06-29T11:46:52.495Z"
       },
@@ -1016,14 +1012,18 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/677376450273214936",
         "postedAt": "2026-07-25T11:15:01.351Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/683003412174864962",
+        "postedAt": "2026-07-27T12:28:26.291Z"
       }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v7mqr4/save_80_on_police_simulator_patrol_officers_on/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v7yu2p/save_10_on_mall_together_on_steam/",
     "steam_sales": "sale_2417610",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v584lq/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273214936"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
