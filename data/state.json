@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-27T21:15:33.987Z",
+  "lastRun": "2026-07-27T23:07:29.939Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uvyw8m/save_90_on_car_mechanic_simulator_2021_on_steam/",
-        "postedAt": "2026-07-14T06:15:46.084Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uwbdho/save_85_on_tekken_7_5_year_low_last_seen_on_2021/",
         "postedAt": "2026-07-14T15:26:06.852Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v7z5c9/save_10_on_high_times_10_1799/",
         "postedAt": "2026-07-27T17:46:18.957Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1v89s44/save_20_on_gladiator_command_on_steam_399/",
+        "postedAt": "2026-07-27T23:07:29.939Z"
       }
     ],
     "steam_sales": [
@@ -792,6 +792,10 @@
       {
         "id": "sale_4713340",
         "postedAt": "2026-07-27T21:15:33.987Z"
+      },
+      {
+        "id": "sale_2215200",
+        "postedAt": "2026-07-27T23:07:29.939Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1017,8 +1021,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v7z5c9/save_10_on_high_times_10_1799/",
-    "steam_sales": "sale_4713340",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v89s44/save_20_on_gladiator_command_on_steam_399/",
+    "steam_sales": "sale_2215200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v584lq/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
