@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-28T11:22:01.199Z",
+  "lastRun": "2026-07-28T16:43:44.810Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3008130",
-        "postedAt": "2026-06-30T05:31:00.596Z"
-      },
-      {
         "id": "sale_431960",
         "postedAt": "2026-06-30T11:08:37.324Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_1903340",
         "postedAt": "2026-07-28T11:22:01.199Z"
+      },
+      {
+        "id": "sale_4594150",
+        "postedAt": "2026-07-28T16:43:44.810Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1046,7 +1046,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v8qete/save_80_on_the_witcher_3_wild_hunt_on_steam/",
-    "steam_sales": "sale_1903340",
+    "steam_sales": "sale_4594150",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v801fr/dragon_age_wont_return_says_series_producer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
