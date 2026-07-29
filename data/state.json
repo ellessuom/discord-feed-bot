@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-29T17:19:25.114Z",
+  "lastRun": "2026-07-29T19:23:37.568Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uypj6r/games_made_in_sweden_sale_2026/",
-        "postedAt": "2026-07-17T06:20:56.208Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uylp15/save_89_on_the_surge_1_2/",
         "postedAt": "2026-07-17T06:20:56.208Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v8sis5/save_60_on_forgive_me_father_2_on_steam/",
         "postedAt": "2026-07-29T17:19:25.114Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1va3dqc/cad_1299_save_74_on_monster_hunter_world_on_steam/",
+        "postedAt": "2026-07-29T19:23:37.568Z"
       }
     ],
     "steam_sales": [
@@ -1025,7 +1025,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v8sis5/save_60_on_forgive_me_father_2_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1va3dqc/cad_1299_save_74_on_monster_hunter_world_on_steam/",
     "steam_sales": "sale_4906890",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v801fr/dragon_age_wont_return_says_series_producer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
