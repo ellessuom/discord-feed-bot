@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-29T04:15:36.724Z",
+  "lastRun": "2026-07-29T10:43:13.449Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3711590",
-        "postedAt": "2026-07-03T14:19:25.305Z"
-      },
-      {
         "id": "sale_3375780",
         "postedAt": "2026-07-05T05:00:32.332Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_2050650",
         "postedAt": "2026-07-29T04:15:36.724Z"
+      },
+      {
+        "id": "sale_4906890",
+        "postedAt": "2026-07-29T10:43:13.449Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1030,7 +1030,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1v8siyn/save_36_on_nioh_3_on_steam/",
-    "steam_sales": "sale_2050650",
+    "steam_sales": "sale_4906890",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v801fr/dragon_age_wont_return_says_series_producer/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
