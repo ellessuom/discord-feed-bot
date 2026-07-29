@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-07-29T19:23:37.568Z",
+  "lastRun": "2026-07-29T21:01:01.121Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uylp15/save_89_on_the_surge_1_2/",
-        "postedAt": "2026-07-17T06:20:56.208Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uyei2d/save_87_on_the_surge_on_steam/",
         "postedAt": "2026-07-17T06:20:56.208Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1va3dqc/cad_1299_save_74_on_monster_hunter_world_on_steam/",
         "postedAt": "2026-07-29T19:23:37.568Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1va8vda/save_85_on_nobody_wants_to_die_374/",
+        "postedAt": "2026-07-29T21:01:01.121Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3375780",
-        "postedAt": "2026-07-05T05:00:32.332Z"
-      },
       {
         "id": "sale_371970",
         "postedAt": "2026-07-05T09:12:24.559Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_4906890",
         "postedAt": "2026-07-29T10:43:13.449Z"
+      },
+      {
+        "id": "sale_252490",
+        "postedAt": "2026-07-29T21:01:01.120Z"
       }
     ],
     "reddit_gamingnews": [
@@ -966,6 +966,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1v801fr/dragon_age_wont_return_says_series_producer/",
         "postedAt": "2026-07-28T08:42:02.508Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1v9yb4t/tham_luang_cave_vr_map_underwater_cave_diving/",
+        "postedAt": "2026-07-29T21:01:01.121Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1v9xjod/subnautica_and_pubg_franchises_drive_krafton_q2/",
+        "postedAt": "2026-07-29T21:01:01.121Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1v9whd6/pokémon_pokopia_expansion_pass_extended_trailer/",
+        "postedAt": "2026-07-29T21:01:01.121Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1v9lrml/only_the_survival_of_our_studio_would_make_us/",
+        "postedAt": "2026-07-29T21:01:01.121Z"
       }
     ],
     "steam_2073850": [
@@ -1025,9 +1041,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1va3dqc/cad_1299_save_74_on_monster_hunter_world_on_steam/",
-    "steam_sales": "sale_4906890",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v801fr/dragon_age_wont_return_says_series_producer/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1va8vda/save_85_on_nobody_wants_to_die_374/",
+    "steam_sales": "sale_252490",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v9lrml/only_the_survival_of_our_studio_would_make_us/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
 }
