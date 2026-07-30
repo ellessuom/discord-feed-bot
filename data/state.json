@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-30T11:11:01.631Z",
+  "lastRun": "2026-07-30T16:38:48.060Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uz5yg3/save_20_on_into_the_depths_on_steam_1199/",
-        "postedAt": "2026-07-17T19:17:10.578Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uzfkci/save_50_on_hollowdeep_on_steam/",
-        "postedAt": "2026-07-18T02:54:43.662Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uzf638/save_100_on_the_life_and_suffering_of_sir_brante/",
-        "postedAt": "2026-07-18T02:54:43.662Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uznb79/save_75_on_lord_of_the_click_4_on_steam/",
-        "postedAt": "2026-07-18T09:41:53.977Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uzvqbu/save_90_on_eldest_souls_199/",
         "postedAt": "2026-07-18T13:25:38.635Z"
@@ -402,21 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vaaafd/save_70_off_on_octopath_traveler/",
         "postedAt": "2026-07-30T08:34:17.947Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vauyuo/save_85_on_gears_5_historical_low/",
+        "postedAt": "2026-07-30T16:38:48.060Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vauc5v/save_50_on_beyblade_x_evobattle_on_steam/",
+        "postedAt": "2026-07-30T16:38:48.060Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vastjn/save_80_on_six_seals_on_steam_079/",
+        "postedAt": "2026-07-30T16:38:48.060Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vapsiu/save_30_on_baldurs_gate_3_historical_low_after_a/",
+        "postedAt": "2026-07-30T16:38:48.060Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1371980",
-        "postedAt": "2026-07-05T19:25:00.564Z"
-      },
-      {
-        "id": "sale_108600",
-        "postedAt": "2026-07-05T23:05:15.247Z"
-      },
-      {
-        "id": "sale_2749950",
-        "postedAt": "2026-07-06T18:58:47.827Z"
-      },
       {
         "id": "sale_2209900",
         "postedAt": "2026-07-07T08:29:10.881Z"
@@ -804,6 +792,18 @@
       {
         "id": "sale_1086940",
         "postedAt": "2026-07-30T08:34:17.947Z"
+      },
+      {
+        "id": "sale_3934270",
+        "postedAt": "2026-07-30T16:38:48.060Z"
+      },
+      {
+        "id": "sale_1097840",
+        "postedAt": "2026-07-30T16:38:48.060Z"
+      },
+      {
+        "id": "sale_4108000",
+        "postedAt": "2026-07-30T16:38:48.060Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1045,8 +1045,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vaaafd/save_70_off_on_octopath_traveler/",
-    "steam_sales": "sale_1086940",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vapsiu/save_30_on_baldurs_gate_3_historical_low_after_a/",
+    "steam_sales": "sale_4108000",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v9lrml/only_the_survival_of_our_studio_would_make_us/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
   }
