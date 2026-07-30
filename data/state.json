@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-29T23:01:25.871Z",
+  "lastRun": "2026-07-30T08:34:17.947Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uyei2d/save_87_on_the_surge_on_steam/",
-        "postedAt": "2026-07-17T06:20:56.208Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uyptjf/save_75_on_computer_repair_shop_on_steam/",
-        "postedAt": "2026-07-17T09:12:00.902Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uypskl/save_50_on_streamer_life_simulator_2_on_steam/",
-        "postedAt": "2026-07-17T09:12:00.902Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uya8nn/beyond_solar_80_off_until_july_19th/",
-        "postedAt": "2026-07-17T09:12:00.902Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1uz5yg3/save_20_on_into_the_depths_on_steam_1199/",
         "postedAt": "2026-07-17T19:17:10.578Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1va8vda/save_85_on_nobody_wants_to_die_374/",
         "postedAt": "2026-07-29T21:01:01.121Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vagf28/save_60_on_jdm_japanese_drift_master_on_steam/",
+        "postedAt": "2026-07-30T08:34:17.947Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vagev1/save_75_on_rally_mechanic_simulator_on_steam/",
+        "postedAt": "2026-07-30T08:34:17.947Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vagelb/save_50_on_preserve_on_steam_lowest/",
+        "postedAt": "2026-07-30T08:34:17.947Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vaaafd/save_70_off_on_octopath_traveler/",
+        "postedAt": "2026-07-30T08:34:17.947Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2536520",
-        "postedAt": "2026-07-05T19:25:00.564Z"
-      },
       {
         "id": "sale_1371980",
         "postedAt": "2026-07-05T19:25:00.564Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_4421010",
         "postedAt": "2026-07-29T23:01:25.871Z"
+      },
+      {
+        "id": "sale_1086940",
+        "postedAt": "2026-07-30T08:34:17.947Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1041,8 +1041,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1va8vda/save_85_on_nobody_wants_to_die_374/",
-    "steam_sales": "sale_4421010",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vaaafd/save_70_off_on_octopath_traveler/",
+    "steam_sales": "sale_1086940",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v9lrml/only_the_survival_of_our_studio_would_make_us/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
   }
