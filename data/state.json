@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-30T18:19:24.295Z",
+  "lastRun": "2026-07-30T20:16:55.185Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,14 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3017860",
-        "postedAt": "2026-07-07T20:02:44.785Z"
-      },
-      {
-        "id": "sale_648800",
-        "postedAt": "2026-07-08T15:24:51.055Z"
-      },
-      {
         "id": "sale_4380490",
         "postedAt": "2026-07-09T18:00:14.057Z"
       },
@@ -804,25 +796,17 @@
       {
         "id": "sale_2651280",
         "postedAt": "2026-07-30T18:19:24.295Z"
+      },
+      {
+        "id": "sale_1817070",
+        "postedAt": "2026-07-30T20:16:55.185Z"
+      },
+      {
+        "id": "sale_1817190",
+        "postedAt": "2026-07-30T20:16:55.185Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ujt0l9/ex_sony_boss_shawn_layden_doesnt_agree_with/",
-        "postedAt": "2026-06-30T18:46:01.969Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ujrnl7/us_bill_requiring_paid_games_to_be_playable_after/",
-        "postedAt": "2026-06-30T18:46:01.969Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ujo5sr/star_wars_eclipse_literally_cannot_be_finished/",
-        "postedAt": "2026-06-30T18:46:01.969Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1uj90b7/meccha_chameleon_becomes_steams_biggest_indie/",
-        "postedAt": "2026-06-30T18:46:01.969Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1uks0my/insider_claims_xbox_is_quietly_following_sony_in/",
         "postedAt": "2026-07-01T23:35:01.352Z"
@@ -1046,7 +1030,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vapsiu/save_30_on_baldurs_gate_3_historical_low_after_a/",
-    "steam_sales": "sale_2651280",
+    "steam_sales": "sale_1817190",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v9lrml/only_the_survival_of_our_studio_would_make_us/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
   }
