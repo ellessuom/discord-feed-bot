@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-30T08:34:17.947Z",
+  "lastRun": "2026-07-30T11:11:01.631Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1036,6 +1036,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/683003412174864962",
         "postedAt": "2026-07-27T12:28:26.291Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/714534317091455556",
+        "postedAt": "2026-07-30T11:11:01.631Z"
       }
     ]
   },
@@ -1044,6 +1048,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vaaafd/save_70_off_on_octopath_traveler/",
     "steam_sales": "sale_1086940",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v9lrml/only_the_survival_of_our_studio_would_make_us/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/683003412174864962"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
   }
 }
