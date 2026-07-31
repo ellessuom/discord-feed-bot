@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-31T12:58:48.831Z",
+  "lastRun": "2026-07-31T15:24:57.388Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v1ryyg/save_30_on_horse_runner_dx_349_new_update/",
-        "postedAt": "2026-07-20T20:24:29.278Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v2cqzh/monster_hunter_wilds_the_lowest_price/",
-        "postedAt": "2026-07-21T09:30:36.175Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v287ia/save_50_on_sea_of_stars_sunset_edition_on_steam/",
-        "postedAt": "2026-07-21T09:30:36.175Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v255eo/save_80_on_resident_evil_2_on_steam/",
-        "postedAt": "2026-07-21T09:30:36.175Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v2sscu/save_90_on_dogfight_1942_099/",
         "postedAt": "2026-07-21T20:20:29.358Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vbavcp/save_67_on_doom_the_dark_ages_on_steam/",
         "postedAt": "2026-07-31T12:58:48.831Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vbrj4d/save_30_on_ghost_squad_on_steam/",
+        "postedAt": "2026-07-31T15:24:57.388Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vbmt0s/save_50_on_oopsinc_emergency_center/",
+        "postedAt": "2026-07-31T15:24:57.388Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vbm6qk/save_20_on_spheroll_on_steam/",
+        "postedAt": "2026-07-31T15:24:57.388Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vbd46l/save_33_on_marvels_spiderman_2_on_steam/",
+        "postedAt": "2026-07-31T15:24:57.388Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_817628",
-        "postedAt": "2026-07-09T20:00:13.415Z"
-      },
       {
         "id": "sale_12210",
         "postedAt": "2026-07-09T21:38:47.322Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_489830",
         "postedAt": "2026-07-31T07:53:06.203Z"
+      },
+      {
+        "id": "sale_2436940",
+        "postedAt": "2026-07-31T15:24:57.388Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1029,8 +1029,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vbavcp/save_67_on_doom_the_dark_ages_on_steam/",
-    "steam_sales": "sale_489830",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vbd46l/save_33_on_marvels_spiderman_2_on_steam/",
+    "steam_sales": "sale_2436940",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v9lrml/only_the_survival_of_our_studio_would_make_us/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
   }
