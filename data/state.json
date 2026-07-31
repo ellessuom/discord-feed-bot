@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-07-30T22:09:37.202Z",
+  "lastRun": "2026-07-31T04:25:57.400Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1uzt8p7/save_56_on_last_outpost_44/",
-        "postedAt": "2026-07-18T13:25:38.635Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v0e5t5/save_40_on_to_the_basement_before_on_steam/",
-        "postedAt": "2026-07-19T03:40:44.191Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v0bsll/save_90_on_sniper_ghost_warrior_contracts_1_2/",
-        "postedAt": "2026-07-19T03:40:44.191Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v0bpyd/save_75_on_outlast_on_steam_374/",
-        "postedAt": "2026-07-19T03:40:44.191Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v0bml5/save_84_on_ace_combat_7_skies_unknown_on_steam_959/",
         "postedAt": "2026-07-19T03:40:44.191Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vage79/save_30_on_bills_must_be_paid_on_steam_lowest/",
         "postedAt": "2026-07-30T22:09:37.202Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vbdkwb/save_80_on_dishonored_2_on_steam/",
+        "postedAt": "2026-07-31T04:25:57.400Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vbb4xh/save_30_on_the_elder_scrolls_iv_oblivion/",
+        "postedAt": "2026-07-31T04:25:57.400Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vbavvx/save_60_on_metal_gear_solid_δ_snake_eater_on_steam/",
+        "postedAt": "2026-07-31T04:25:57.400Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vbauxp/save_33_on_marvels_spiderman_2_on_steam/",
+        "postedAt": "2026-07-31T04:25:57.400Z"
       }
     ],
     "steam_sales": [
@@ -1029,7 +1029,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vage79/save_30_on_bills_must_be_paid_on_steam_lowest/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vbauxp/save_33_on_marvels_spiderman_2_on_steam/",
     "steam_sales": "sale_3164500",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v9lrml/only_the_survival_of_our_studio_would_make_us/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
