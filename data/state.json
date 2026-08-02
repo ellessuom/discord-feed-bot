@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-01T11:20:28.714Z",
+  "lastRun": "2026-08-02T03:46:01.074Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v33qv5/saved_30_discount_for_marathon_lowest_price/",
-        "postedAt": "2026-07-22T03:34:09.048Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v39497/save_90_on_dead_island_2_499/",
         "postedAt": "2026-07-22T09:29:44.521Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vc0g6c/save_50_on_battle_food_mania_on_steam/",
         "postedAt": "2026-07-31T23:05:59.174Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vd5qqm/save_60_off_pixel_wizard/",
+        "postedAt": "2026-08-02T03:46:01.074Z"
       }
     ],
     "steam_sales": [
@@ -950,6 +950,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1v9lrml/only_the_survival_of_our_studio_would_make_us/",
         "postedAt": "2026-07-29T21:01:01.121Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vcxtnk/sony_doubles_down_on_axing_physical_game_discs/",
+        "postedAt": "2026-08-02T03:46:01.074Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vchewu/guillermo_del_toro_wants_extra_checkpoints_for/",
+        "postedAt": "2026-08-02T03:46:01.074Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vcghn3/the_ps6_and_next_xbox_will_still_probably_cost/",
+        "postedAt": "2026-08-02T03:46:01.074Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vbnpx7/weekly_rgamingnews_discussion_what_game_you_will/",
+        "postedAt": "2026-08-02T03:46:01.074Z"
       }
     ],
     "steam_2073850": [
@@ -1013,9 +1029,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vc0g6c/save_50_on_battle_food_mania_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vd5qqm/save_60_off_pixel_wizard/",
     "steam_sales": "sale_2001120",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1v9lrml/only_the_survival_of_our_studio_would_make_us/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vbnpx7/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273218198"
   }
 }
