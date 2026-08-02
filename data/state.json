@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-02T03:46:01.074Z",
+  "lastRun": "2026-08-02T22:59:22.600Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v39497/save_90_on_dead_island_2_499/",
-        "postedAt": "2026-07-22T09:29:44.521Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v38n1j/save_15_on_sunward_424/",
-        "postedAt": "2026-07-22T09:29:44.521Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v3ifsm/save_80_on_bru_boegie_episode_1_get_da_milk_099/",
         "postedAt": "2026-07-22T16:22:30.341Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vd5qqm/save_60_off_pixel_wizard/",
         "postedAt": "2026-08-02T03:46:01.074Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vdrnm0/save_35_on_cast_n_chill_on_steam_historical_low/",
+        "postedAt": "2026-08-02T22:59:22.600Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vdqnkd/save_25_on_the_legend_of_heroes_trails_beyond_the/",
+        "postedAt": "2026-08-02T22:59:22.600Z"
       }
     ],
     "steam_sales": [
@@ -1029,7 +1029,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vd5qqm/save_60_off_pixel_wizard/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vdqnkd/save_25_on_the_legend_of_heroes_trails_beyond_the/",
     "steam_sales": "sale_2001120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vbnpx7/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273218198"
