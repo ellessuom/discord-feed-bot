@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-03T19:43:49.069Z",
+  "lastRun": "2026-08-03T21:08:24.465Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v4z5x3/save_70_on_hades_749/",
-        "postedAt": "2026-07-24T06:29:34.693Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v4xwpq/save_50_on_wwe_2k26_on_steam_currently_lowest/",
-        "postedAt": "2026-07-24T06:29:34.693Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v4xvv0/save_71_on_gtfo_on_steam_historical_lowest/",
         "postedAt": "2026-07-24T06:29:34.693Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ve59xh/save_20_on_gacha_capsule_shop_simulator/",
         "postedAt": "2026-08-03T19:43:49.069Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vepzwa/save_50_on_brainrot_online_on_steam/",
+        "postedAt": "2026-08-03T21:08:24.465Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1veofju/save_90_on_robocop_rogue_city_399/",
+        "postedAt": "2026-08-03T21:08:24.465Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3280350",
-        "postedAt": "2026-07-11T04:16:12.632Z"
-      },
       {
         "id": "sale_367270",
         "postedAt": "2026-07-11T22:56:49.316Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2001120",
         "postedAt": "2026-08-01T11:20:28.714Z"
+      },
+      {
+        "id": "sale_3156770",
+        "postedAt": "2026-08-03T21:08:24.465Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1029,8 +1029,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ve59xh/save_20_on_gacha_capsule_shop_simulator/",
-    "steam_sales": "sale_2001120",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1veofju/save_90_on_robocop_rogue_city_399/",
+    "steam_sales": "sale_3156770",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vbnpx7/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
