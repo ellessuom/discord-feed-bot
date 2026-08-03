@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-03T08:33:15.493Z",
+  "lastRun": "2026-08-03T12:29:43.637Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -970,10 +970,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/694263045409472698",
-        "postedAt": "2026-07-04T12:09:29.185Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/678497909513126620",
         "postedAt": "2026-07-06T13:50:56.288Z"
       },
@@ -1024,6 +1020,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/677376450273218198",
         "postedAt": "2026-08-01T11:20:28.714Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/694263045409472698",
+        "postedAt": "2026-08-03T12:29:43.637Z"
       }
     ]
   },
@@ -1032,6 +1032,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vdzy97/save_30_on_baldurs_gate_3_on_steam_lowest/",
     "steam_sales": "sale_2001120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vbnpx7/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273218198"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
 }
