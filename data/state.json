@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-03T15:46:36.785Z",
+  "lastRun": "2026-08-03T19:43:49.069Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v4m0vk/save_10_on_grim_dawn_fangs_of_asterkarn_on_steam/",
-        "postedAt": "2026-07-23T23:00:36.773Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v4z8it/save_70_on_warhammer_40000_space_marine_2/",
-        "postedAt": "2026-07-24T06:29:34.693Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v4z5x3/save_70_on_hades_749/",
         "postedAt": "2026-07-24T06:29:34.693Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vdzygx/save_50_on_wwe_2k26_on_steam/",
         "postedAt": "2026-08-03T15:46:36.785Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1veiszg/save_50_on_the_hive_on_steam/",
+        "postedAt": "2026-08-03T19:43:49.069Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ve59xh/save_20_on_gacha_capsule_shop_simulator/",
+        "postedAt": "2026-08-03T19:43:49.069Z"
       }
     ],
     "steam_sales": [
@@ -1029,7 +1029,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vdzygx/save_50_on_wwe_2k26_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ve59xh/save_20_on_gacha_capsule_shop_simulator/",
     "steam_sales": "sale_2001120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vbnpx7/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
