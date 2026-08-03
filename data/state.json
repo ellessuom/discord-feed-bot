@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-02T22:59:22.600Z",
+  "lastRun": "2026-08-03T08:33:15.493Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v3ifsm/save_80_on_bru_boegie_episode_1_get_da_milk_099/",
-        "postedAt": "2026-07-22T16:22:30.341Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v406e2/save_75_on_undertale_on_steam/",
-        "postedAt": "2026-07-23T07:35:22.279Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v3s8s5/save_90_on_enemy_front_199/",
-        "postedAt": "2026-07-23T07:35:22.279Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v47wo0/save_80_on_saven_on_steam/",
-        "postedAt": "2026-07-23T10:27:27.291Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v4gkkz/save_55_on_city_game_studio_on_steam_899/",
         "postedAt": "2026-07-23T15:12:21.177Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vdqnkd/save_25_on_the_legend_of_heroes_trails_beyond_the/",
         "postedAt": "2026-08-02T22:59:22.600Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ve5bb8/save_60_on_the_backrooms_on_steam/",
+        "postedAt": "2026-08-03T08:33:15.493Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ve5apv/save_75_on_academia_school_simulator_on_steam/",
+        "postedAt": "2026-08-03T08:33:15.493Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ve03wy/save_70_on_loddlenaut_on_steam_lowest/",
+        "postedAt": "2026-08-03T08:33:15.493Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vdzy97/save_30_on_baldurs_gate_3_on_steam_lowest/",
+        "postedAt": "2026-08-03T08:33:15.493Z"
       }
     ],
     "steam_sales": [
@@ -1029,7 +1029,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vdqnkd/save_25_on_the_legend_of_heroes_trails_beyond_the/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vdzy97/save_30_on_baldurs_gate_3_on_steam_lowest/",
     "steam_sales": "sale_2001120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vbnpx7/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273218198"
