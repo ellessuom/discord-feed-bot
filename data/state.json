@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-03T12:29:43.637Z",
+  "lastRun": "2026-08-03T15:46:36.785Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v4gkkz/save_55_on_city_game_studio_on_steam_899/",
-        "postedAt": "2026-07-23T15:12:21.177Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v4qddm/save_75_on_toyful_wonderworld_a_weird_boomer/",
-        "postedAt": "2026-07-23T23:00:36.773Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v4ovx0/iron_rebellion_pilot_a_mech_in_vr_40_off/",
-        "postedAt": "2026-07-23T23:00:36.773Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v4nkjk/save_20_on_monster_girl_therapy_on_steam_my_game/",
-        "postedAt": "2026-07-23T23:00:36.773Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v4m0vk/save_10_on_grim_dawn_fangs_of_asterkarn_on_steam/",
         "postedAt": "2026-07-23T23:00:36.773Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vdzy97/save_30_on_baldurs_gate_3_on_steam_lowest/",
         "postedAt": "2026-08-03T08:33:15.493Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ve04n4/save_25_on_the_legend_of_heroes_trails_beyond_the/",
+        "postedAt": "2026-08-03T15:46:36.785Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ve047j/save_50_on_a_difficult_game_about_climbing_on/",
+        "postedAt": "2026-08-03T15:46:36.785Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ve03ki/save_80_on_super_mining_mechs_on_steam_lowest/",
+        "postedAt": "2026-08-03T15:46:36.785Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vdzygx/save_50_on_wwe_2k26_on_steam/",
+        "postedAt": "2026-08-03T15:46:36.785Z"
       }
     ],
     "steam_sales": [
@@ -1029,7 +1029,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vdzy97/save_30_on_baldurs_gate_3_on_steam_lowest/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vdzygx/save_50_on_wwe_2k26_on_steam/",
     "steam_sales": "sale_2001120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vbnpx7/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
