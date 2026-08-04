@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-04T14:26:19.869Z",
+  "lastRun": "2026-08-04T16:55:51.862Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v684lb/wiseman_no_more_breakups_10_off_until_aug_3rd/",
-        "postedAt": "2026-07-25T13:44:48.850Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v6gq1d/save_50_on_blasted_dice_on_steam/",
-        "postedAt": "2026-07-25T19:14:38.269Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v6gjwr/my_game_zona_origin_pcvr_is_45_off_on_steam/",
         "postedAt": "2026-07-25T19:14:38.269Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ves4c3/steam_the_outskirts_launch_discount_15_off/",
         "postedAt": "2026-08-04T14:26:19.869Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfey4h/save_30_on_hungry_horrors_1_day_only/",
+        "postedAt": "2026-08-04T16:55:51.862Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfbxcd/save_50_on_warsim_the_realm_of_aslona_on_steam/",
+        "postedAt": "2026-08-04T16:55:51.862Z"
       }
     ],
     "steam_sales": [
@@ -1045,7 +1045,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ves4c3/steam_the_outskirts_launch_discount_15_off/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vfbxcd/save_50_on_warsim_the_realm_of_aslona_on_steam/",
     "steam_sales": "sale_979690",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ved1hy/ubisoft_is_over_2b_in_debt_according_to_latest/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
