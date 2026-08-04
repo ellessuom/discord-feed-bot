@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-04T16:55:51.862Z",
+  "lastRun": "2026-08-04T18:41:51.383Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v6gjwr/my_game_zona_origin_pcvr_is_45_off_on_steam/",
-        "postedAt": "2026-07-25T19:14:38.269Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v6wz8b/save_66_on_fae_farm_on_steam/",
-        "postedAt": "2026-07-26T07:38:10.455Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v6wurq/save_70_on_f1_manager_2024_on_steam/",
-        "postedAt": "2026-07-26T07:38:10.455Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v6wu8p/save_60_on_planet_coaster_2_on_steam/",
-        "postedAt": "2026-07-26T07:38:10.455Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v6uomd/save_85_on_moonlighter_299/",
         "postedAt": "2026-07-26T07:38:10.455Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vfbxcd/save_50_on_warsim_the_realm_of_aslona_on_steam/",
         "postedAt": "2026-08-04T16:55:51.862Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfieql/save_50_on_tiny_049/",
+        "postedAt": "2026-08-04T18:41:51.383Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfhzt2/save_30_on_the_last_gas_station_on_steam/",
+        "postedAt": "2026-08-04T18:41:51.383Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfhyg0/save_80_on_assassins_creed_odyssey_on_steam/",
+        "postedAt": "2026-08-04T18:41:51.383Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfgwtm/save_50_on_peak_on_steam_historical_low_374_399/",
+        "postedAt": "2026-08-04T18:41:51.383Z"
       }
     ],
     "steam_sales": [
@@ -1045,7 +1045,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vfbxcd/save_50_on_warsim_the_realm_of_aslona_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vfgwtm/save_50_on_peak_on_steam_historical_low_374_399/",
     "steam_sales": "sale_979690",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ved1hy/ubisoft_is_over_2b_in_debt_according_to_latest/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
