@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-04T11:28:01.212Z",
+  "lastRun": "2026-08-04T14:26:19.869Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v5lx6q/save_80_on_food_store_simulator_on_steam/",
-        "postedAt": "2026-07-24T23:04:30.356Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v5ykf0/save_80_on_perception_heart_and_mind_on_steam_099/",
-        "postedAt": "2026-07-25T09:02:30.803Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v5xcp0/save_30_on_phasmophobia/",
-        "postedAt": "2026-07-25T09:02:30.803Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v5u2is/save_80_on_konbini_simulator_on_steam/",
-        "postedAt": "2026-07-25T09:02:30.803Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v684lb/wiseman_no_more_breakups_10_off_until_aug_3rd/",
         "postedAt": "2026-07-25T13:44:48.850Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1veyp1e/save_85_on_lego_city_undercover_on_steam/",
         "postedAt": "2026-08-04T11:28:01.212Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vf6ryd/save_50_on_screamer_on_steam/",
+        "postedAt": "2026-08-04T14:26:19.869Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vf6ddl/save_90_on_golf_with_your_friends_239/",
+        "postedAt": "2026-08-04T14:26:19.869Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vewoix/save_66_on_pathogen_x_on_steam_lowest/",
+        "postedAt": "2026-08-04T14:26:19.869Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ves4c3/steam_the_outskirts_launch_discount_15_off/",
+        "postedAt": "2026-08-04T14:26:19.869Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4090360",
-        "postedAt": "2026-07-12T13:37:13.864Z"
-      },
-      {
-        "id": "sale_526870",
-        "postedAt": "2026-07-12T20:56:19.527Z"
-      },
       {
         "id": "sale_892970",
         "postedAt": "2026-07-13T08:19:28.417Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_3404260",
         "postedAt": "2026-08-03T23:06:38.966Z"
+      },
+      {
+        "id": "sale_1478500",
+        "postedAt": "2026-08-04T14:26:19.869Z"
+      },
+      {
+        "id": "sale_979690",
+        "postedAt": "2026-08-04T14:26:19.869Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1045,8 +1045,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1veyp1e/save_85_on_lego_city_undercover_on_steam/",
-    "steam_sales": "sale_3404260",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ves4c3/steam_the_outskirts_launch_discount_15_off/",
+    "steam_sales": "sale_979690",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ved1hy/ubisoft_is_over_2b_in_debt_according_to_latest/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
