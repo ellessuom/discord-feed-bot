@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-08-05T12:57:29.738Z",
+  "lastRun": "2026-08-05T15:22:01.015Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v872hm/from_poland_with_love_2026_sale_on_steam_up_to_94/",
-        "postedAt": "2026-07-27T17:46:18.957Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v81pk7/save_90_on_poly_bridge_on_steam_081/",
-        "postedAt": "2026-07-27T17:46:18.957Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v7z5c9/save_10_on_high_times_10_1799/",
-        "postedAt": "2026-07-27T17:46:18.957Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v89s44/save_20_on_gladiator_command_on_steam_399/",
         "postedAt": "2026-07-27T23:07:29.939Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vfhvbo/save_50_on_paranormasight_the_seven_mysteries_of/",
         "postedAt": "2026-08-05T07:43:04.406Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vg2r2h/save_90_on_toem_a_photo_adventure_on_steam/",
+        "postedAt": "2026-08-05T15:22:01.015Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfjgyi/save_50_on_pih_on_steam/",
+        "postedAt": "2026-08-05T15:22:01.015Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfhwzq/save_60_on_live_a_live_on_steam/",
+        "postedAt": "2026-08-05T15:22:01.015Z"
       }
     ],
     "steam_sales": [
@@ -982,13 +982,25 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1ved1hy/ubisoft_is_over_2b_in_debt_according_to_latest/",
         "postedAt": "2026-08-04T11:28:01.212Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vg9t4j/you_pay_owner_price_they_give_you_tenant_rights/",
+        "postedAt": "2026-08-05T15:22:01.015Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vg76nc/marvel_rivals_sees_massive_file_size_reduction_on/",
+        "postedAt": "2026-08-05T15:22:01.015Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vfuzt2/danganronpa_22_devs_admit_the_games_delay_was/",
+        "postedAt": "2026-08-05T15:22:01.015Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
+        "postedAt": "2026-08-05T15:22:01.015Z"
       }
     ],
     "steam_2073850": [
-      {
-        "id": "https://store.steampowered.com/news/app/2073850/view/678497909513126620",
-        "postedAt": "2026-07-06T13:50:56.288Z"
-      },
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/677376450273221277",
         "postedAt": "2026-07-09T15:20:11.669Z"
@@ -1045,9 +1057,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vfhvbo/save_50_on_paranormasight_the_seven_mysteries_of/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vfhwzq/save_60_on_live_a_live_on_steam/",
     "steam_sales": "sale_1426210",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ved1hy/ubisoft_is_over_2b_in_debt_according_to_latest/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
 }
