@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-05T00:08:28.729Z",
+  "lastRun": "2026-08-05T07:43:04.406Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v7ql2m/save_70_on_deep_rock_galactic_899/",
-        "postedAt": "2026-07-27T08:34:54.992Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v7mqr4/save_80_on_police_simulator_patrol_officers_on/",
-        "postedAt": "2026-07-27T08:34:54.992Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v7yuch/save_90_on_sid_meiers_civilization_vi_on_steam/",
-        "postedAt": "2026-07-27T12:28:26.290Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v7yu2p/save_10_on_mall_together_on_steam/",
-        "postedAt": "2026-07-27T12:28:26.291Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v872hm/from_poland_with_love_2026_sale_on_steam_up_to_94/",
         "postedAt": "2026-07-27T17:46:18.957Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vflwjb/save_70_on_cyberpunk_2077_on_steam/",
         "postedAt": "2026-08-05T00:08:28.729Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfyl6s/save_90_on_going_under_249/",
+        "postedAt": "2026-08-05T07:43:04.406Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfwtyj/save_60_on_final_fantasy_xvi_on_steam/",
+        "postedAt": "2026-08-05T07:43:04.406Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfowqf/save_90_on_cruelty_squad_on_steam/",
+        "postedAt": "2026-08-05T07:43:04.406Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfhvbo/save_50_on_paranormasight_the_seven_mysteries_of/",
+        "postedAt": "2026-08-05T07:43:04.406Z"
       }
     ],
     "steam_sales": [
@@ -1045,7 +1045,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vflwjb/save_70_on_cyberpunk_2077_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vfhvbo/save_50_on_paranormasight_the_seven_mysteries_of/",
     "steam_sales": "sale_3527290",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ved1hy/ubisoft_is_over_2b_in_debt_according_to_latest/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
