@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-04T22:16:53.411Z",
+  "lastRun": "2026-08-05T00:08:28.729Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v6uomd/save_85_on_moonlighter_299/",
-        "postedAt": "2026-07-26T07:38:10.455Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v70sb7/save_20_the_boss_gangster/",
-        "postedAt": "2026-07-26T12:06:57.292Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v6m449/my_game_project_hunt_is_50_off_on_steam/",
-        "postedAt": "2026-07-26T12:06:57.292Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v79ll8/save_60_on_metal_gear_solid_δ_snake_eater_on/",
-        "postedAt": "2026-07-27T00:03:57.653Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v7ql2m/save_70_on_deep_rock_galactic_899/",
         "postedAt": "2026-07-27T08:34:54.992Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vfgwtm/save_50_on_peak_on_steam_historical_low_374_399/",
         "postedAt": "2026-08-04T18:41:51.383Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfovg4/save_60_on_final_fantasy_vii_remake_rebirth_twin/",
+        "postedAt": "2026-08-05T00:08:28.729Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vfot3g/60_off_nierautomata_game_of_the_yorha_edition/",
+        "postedAt": "2026-08-05T00:08:28.729Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vflxt2/save_40_on_cyberpunk_2077_phantom_liberty_on_steam/",
+        "postedAt": "2026-08-05T00:08:28.729Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vflwjb/save_70_on_cyberpunk_2077_on_steam/",
+        "postedAt": "2026-08-05T00:08:28.729Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_493520",
-        "postedAt": "2026-07-13T19:41:05.223Z"
-      },
       {
         "id": "sale_2697940",
         "postedAt": "2026-07-13T19:41:05.223Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1144200",
         "postedAt": "2026-08-04T22:16:53.411Z"
+      },
+      {
+        "id": "sale_3527290",
+        "postedAt": "2026-08-05T00:08:28.729Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1045,8 +1045,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vfgwtm/save_50_on_peak_on_steam_historical_low_374_399/",
-    "steam_sales": "sale_1144200",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vflwjb/save_70_on_cyberpunk_2077_on_steam/",
+    "steam_sales": "sale_3527290",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ved1hy/ubisoft_is_over_2b_in_debt_according_to_latest/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
