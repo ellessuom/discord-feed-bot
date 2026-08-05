@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-05T17:44:44.743Z",
+  "lastRun": "2026-08-05T19:41:38.404Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v89s44/save_20_on_gladiator_command_on_steam_399/",
-        "postedAt": "2026-07-27T23:07:29.939Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v8kfxd/save_30_on_unbeatable_on_steam_lowest_price/",
-        "postedAt": "2026-07-28T02:51:30.838Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v8kf5h/save_30_on_wandering_sword_on_steam_lowest_price/",
         "postedAt": "2026-07-28T02:51:30.838Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vfhwzq/save_60_on_live_a_live_on_steam/",
         "postedAt": "2026-08-05T15:22:01.015Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vgfo5z/save_85_on_akimbot_299/",
+        "postedAt": "2026-08-05T19:41:38.404Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vgfcl0/save_100_on_moonlighter_free/",
+        "postedAt": "2026-08-05T19:41:38.404Z"
       }
     ],
     "steam_sales": [
@@ -1057,7 +1057,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vfhwzq/save_60_on_live_a_live_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vgfcl0/save_100_on_moonlighter_free/",
     "steam_sales": "sale_2142790",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
