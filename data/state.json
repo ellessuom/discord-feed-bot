@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-05T07:43:04.406Z",
+  "lastRun": "2026-08-05T10:40:57.190Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2697940",
-        "postedAt": "2026-07-13T19:41:05.223Z"
-      },
-      {
         "id": "sale_275850",
         "postedAt": "2026-07-14T03:24:39.996Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_3527290",
         "postedAt": "2026-08-05T00:08:28.729Z"
+      },
+      {
+        "id": "sale_2909400",
+        "postedAt": "2026-08-05T10:40:57.190Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1046,7 +1046,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vfhvbo/save_50_on_paranormasight_the_seven_mysteries_of/",
-    "steam_sales": "sale_3527290",
+    "steam_sales": "sale_2909400",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1ved1hy/ubisoft_is_over_2b_in_debt_according_to_latest/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
   }
