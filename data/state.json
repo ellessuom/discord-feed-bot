@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-05T23:04:31.178Z",
+  "lastRun": "2026-08-06T02:54:48.589Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v8kf5h/save_30_on_wandering_sword_on_steam_lowest_price/",
-        "postedAt": "2026-07-28T02:51:30.838Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v8ketd/save_60_on_forever_skies_on_steam_lowest_price/",
-        "postedAt": "2026-07-28T02:51:30.838Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v8gyfa/save_10_on_forsaken_realms_vahrins_call_on_steam/",
-        "postedAt": "2026-07-28T02:51:30.838Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v8oezw/save_20_on_lego_batman_legacy_of_the_dark_knight/",
-        "postedAt": "2026-07-28T05:51:46.620Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v8o69h/mpe_insight_15_off_2974_3499/",
         "postedAt": "2026-07-28T05:51:46.620Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vgfcl0/save_100_on_moonlighter_free/",
         "postedAt": "2026-08-05T19:41:38.404Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vgr3wa/save_90_on_divinity_original_sin/",
+        "postedAt": "2026-08-06T02:54:48.589Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vgr3nk/save_90_on_the_night_of_the_rabbit_on_steam/",
+        "postedAt": "2026-08-06T02:54:48.589Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vgr0wi/save_50_on_peak_on_steam_lowest/",
+        "postedAt": "2026-08-06T02:54:48.589Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vglxqn/save_90_on_severed_steel_249/",
+        "postedAt": "2026-08-06T02:54:48.589Z"
       }
     ],
     "steam_sales": [
@@ -1057,7 +1057,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vgfcl0/save_100_on_moonlighter_free/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vglxqn/save_90_on_severed_steel_249/",
     "steam_sales": "sale_1627720",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
