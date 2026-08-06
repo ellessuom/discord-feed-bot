@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-06T02:54:48.589Z",
+  "lastRun": "2026-08-06T08:44:26.049Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v8o69h/mpe_insight_15_off_2974_3499/",
-        "postedAt": "2026-07-28T05:51:46.620Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v8ng4a/we_just_launched_our_biggest_update_of_the_year/",
-        "postedAt": "2026-07-28T05:51:46.620Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v8kecj/save_10_on_shift_at_midnight_on_steam_lowest_price/",
-        "postedAt": "2026-07-28T05:51:46.620Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v8qfbw/save_70_on_cyberpunk_2077_on_steam/",
-        "postedAt": "2026-07-28T08:42:02.508Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v8qete/save_80_on_the_witcher_3_wild_hunt_on_steam/",
         "postedAt": "2026-07-28T08:42:02.508Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vglxqn/save_90_on_severed_steel_249/",
         "postedAt": "2026-08-06T02:54:48.589Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vguku0/save_50_on_shambles_sons_of_apocalypse_on_steam/",
+        "postedAt": "2026-08-06T08:44:26.049Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vgujl6/save_80_on_konbini_simulator_on_steam/",
+        "postedAt": "2026-08-06T08:44:26.049Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vgs95o/i_just_released_my_solo_indie_game_and_i_wanted/",
+        "postedAt": "2026-08-06T08:44:26.049Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vgr456/save_90_on_just_cause_2_on_steam/",
+        "postedAt": "2026-08-06T08:44:26.049Z"
       }
     ],
     "steam_sales": [
@@ -1057,7 +1057,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vglxqn/save_90_on_severed_steel_249/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vgr456/save_90_on_just_cause_2_on_steam/",
     "steam_sales": "sale_1627720",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/694263045409472698"
