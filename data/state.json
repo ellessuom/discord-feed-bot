@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-07T16:01:18.440Z",
+  "lastRun": "2026-08-07T17:51:10.689Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vagelb/save_50_on_preserve_on_steam_lowest/",
-        "postedAt": "2026-07-30T08:34:17.947Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vaaafd/save_70_off_on_octopath_traveler/",
-        "postedAt": "2026-07-30T08:34:17.947Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vauyuo/save_85_on_gears_5_historical_low/",
         "postedAt": "2026-07-30T16:38:48.060Z"
@@ -402,17 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vh0rdz/save_20_on_hackhub_ultimate_hacker_simulator_on/",
         "postedAt": "2026-08-07T13:13:54.750Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vi6hn9/save_15_on_lumberjacked_on_steam/",
+        "postedAt": "2026-08-07T17:51:10.689Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vi6f75/save_100_on_breathedge_free/",
+        "postedAt": "2026-08-07T17:51:10.689Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4512570",
-        "postedAt": "2026-07-15T16:38:01.377Z"
-      },
-      {
-        "id": "sale_2524850",
-        "postedAt": "2026-07-15T18:11:38.346Z"
-      },
       {
         "id": "sale_4563790",
         "postedAt": "2026-07-15T20:14:05.328Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_4113940",
         "postedAt": "2026-08-07T13:13:54.750Z"
+      },
+      {
+        "id": "sale_4450620",
+        "postedAt": "2026-08-07T17:51:10.689Z"
+      },
+      {
+        "id": "sale_1118520",
+        "postedAt": "2026-08-07T17:51:10.689Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1049,8 +1049,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vh0rdz/save_20_on_hackhub_ultimate_hacker_simulator_on/",
-    "steam_sales": "sale_4113940",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vi6f75/save_100_on_breathedge_free/",
+    "steam_sales": "sale_1118520",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293020219"
   }
