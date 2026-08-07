@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-07T13:13:54.750Z",
+  "lastRun": "2026-08-07T16:01:18.440Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1040,6 +1040,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/703275952293019887",
         "postedAt": "2026-08-06T11:27:10.870Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/703275952293020219",
+        "postedAt": "2026-08-07T16:01:18.440Z"
       }
     ]
   },
@@ -1048,6 +1052,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vh0rdz/save_20_on_hackhub_ultimate_hacker_simulator_on/",
     "steam_sales": "sale_4113940",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293019887"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293020219"
   }
 }
