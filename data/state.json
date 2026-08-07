@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-06T11:27:10.870Z",
+  "lastRun": "2026-08-07T00:42:18.946Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,18 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_710230",
-        "postedAt": "2026-07-14T13:54:59.533Z"
-      },
-      {
-        "id": "sale_2947440",
-        "postedAt": "2026-07-14T21:04:10.427Z"
-      },
-      {
-        "id": "sale_886313",
-        "postedAt": "2026-07-14T23:00:12.144Z"
-      },
-      {
         "id": "sale_1304930",
         "postedAt": "2026-07-14T23:00:12.144Z"
       },
@@ -804,25 +792,21 @@
       {
         "id": "sale_1627720",
         "postedAt": "2026-08-05T23:04:31.178Z"
+      },
+      {
+        "id": "sale_2950790",
+        "postedAt": "2026-08-07T00:42:18.946Z"
+      },
+      {
+        "id": "sale_460930",
+        "postedAt": "2026-08-07T00:42:18.946Z"
+      },
+      {
+        "id": "sale_3812600",
+        "postedAt": "2026-08-07T00:42:18.946Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1uq7yrn/the_petition_against_sonys_decision_to_kill/",
-        "postedAt": "2026-07-07T22:14:01.482Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1upyz40/cyberpunk_life_sim_nivalis_retitled_ahead_of/",
-        "postedAt": "2026-07-07T22:14:01.482Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1uptruu/the_games_industry_reacts_to_xbox_layoffs_i_was/",
-        "postedAt": "2026-07-07T22:14:01.482Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1uppbnq/the_outer_worlds_and_grounded_studio_obsidian/",
-        "postedAt": "2026-07-07T22:14:01.482Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1usxesf/games_shouldnt_cost_80_if_theyre_digital_players/",
         "postedAt": "2026-07-10T20:27:01.420Z"
@@ -1062,7 +1046,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vgr456/save_90_on_just_cause_2_on_steam/",
-    "steam_sales": "sale_1627720",
+    "steam_sales": "sale_3812600",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293019887"
   }
