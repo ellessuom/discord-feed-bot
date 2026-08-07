@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-07T11:50:53.673Z",
+  "lastRun": "2026-08-07T13:13:54.750Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1va3dqc/cad_1299_save_74_on_monster_hunter_world_on_steam/",
-        "postedAt": "2026-07-29T19:23:37.568Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1va8vda/save_85_on_nobody_wants_to_die_374/",
-        "postedAt": "2026-07-29T21:01:01.121Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vagf28/save_60_on_jdm_japanese_drift_master_on_steam/",
-        "postedAt": "2026-07-30T08:34:17.947Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vagev1/save_75_on_rally_mechanic_simulator_on_steam/",
-        "postedAt": "2026-07-30T08:34:17.947Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vagelb/save_50_on_preserve_on_steam_lowest/",
         "postedAt": "2026-07-30T08:34:17.947Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vhabwq/save_84_on_tactical_mission_target_rush_on_steam/",
         "postedAt": "2026-08-07T11:50:53.673Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vhztm7/save_20_on_meowmi_city_cat_chaos_on_steam/",
+        "postedAt": "2026-08-07T13:13:54.750Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vhn1v4/save_40_on_cloverpit_on_steam_lowest/",
+        "postedAt": "2026-08-07T13:13:54.750Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vh56nc/save_30_on_steel_judgment_on_steam_i_am_the_dev/",
+        "postedAt": "2026-08-07T13:13:54.750Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vh0rdz/save_20_on_hackhub_ultimate_hacker_simulator_on/",
+        "postedAt": "2026-08-07T13:13:54.750Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4297840",
-        "postedAt": "2026-07-15T12:19:23.613Z"
-      },
       {
         "id": "sale_4512570",
         "postedAt": "2026-07-15T16:38:01.377Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2231380",
         "postedAt": "2026-08-07T10:56:35.174Z"
+      },
+      {
+        "id": "sale_4113940",
+        "postedAt": "2026-08-07T13:13:54.750Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1045,8 +1045,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vhabwq/save_84_on_tactical_mission_target_rush_on_steam/",
-    "steam_sales": "sale_2231380",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vh0rdz/save_20_on_hackhub_ultimate_hacker_simulator_on/",
+    "steam_sales": "sale_4113940",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293019887"
   }
