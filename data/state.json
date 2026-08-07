@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-07T05:43:33.634Z",
+  "lastRun": "2026-08-07T07:22:42.238Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v8sim2/save_70_on_the_medium_on_steam/",
-        "postedAt": "2026-07-28T22:08:51.303Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v948vq/sir_we_have_an_orc_problem_10_off809_newly/",
-        "postedAt": "2026-07-29T04:15:36.724Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v93oi5/save_20_on_into_the_grid_on_steam/",
-        "postedAt": "2026-07-29T04:15:36.724Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v91iil/save_25_on_five_hearts_under_one_roof_season2_on/",
-        "postedAt": "2026-07-29T04:15:36.724Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v8siyn/save_36_on_nioh_3_on_steam/",
         "postedAt": "2026-07-29T04:15:36.724Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vha8fs/save_95_on_tom_clancys_ghost_recon_breakpoint_on/",
         "postedAt": "2026-08-07T05:43:33.634Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vhn4qa/save_85_on_the_house_of_da_vinci_2_on_steam_lowest/",
+        "postedAt": "2026-08-07T07:22:42.238Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vhgxgz/save_85_on_deadlight_directors_cut_179/",
+        "postedAt": "2026-08-07T07:22:42.238Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vhb9ty/save_25_on_cairn_on_steam/",
+        "postedAt": "2026-08-07T07:22:42.238Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vhb3sq/save_40_on_cloverpit_on_steam_historical_low/",
+        "postedAt": "2026-08-07T07:22:42.238Z"
       }
     ],
     "steam_sales": [
@@ -1045,7 +1045,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vha8fs/save_95_on_tom_clancys_ghost_recon_breakpoint_on/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vhb3sq/save_40_on_cloverpit_on_steam_historical_low/",
     "steam_sales": "sale_3904850",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293019887"
