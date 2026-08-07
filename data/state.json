@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-07T00:42:18.946Z",
+  "lastRun": "2026-08-07T03:52:32.589Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1304930",
-        "postedAt": "2026-07-14T23:00:12.144Z"
-      },
-      {
         "id": "sale_3641000",
         "postedAt": "2026-07-15T04:08:24.678Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_3812600",
         "postedAt": "2026-08-07T00:42:18.946Z"
+      },
+      {
+        "id": "sale_3904850",
+        "postedAt": "2026-08-07T03:52:32.589Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1046,7 +1046,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vgr456/save_90_on_just_cause_2_on_steam/",
-    "steam_sales": "sale_3812600",
+    "steam_sales": "sale_3904850",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293019887"
   }
