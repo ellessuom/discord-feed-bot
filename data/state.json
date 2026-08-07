@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-07T07:22:42.238Z",
+  "lastRun": "2026-08-07T10:56:35.174Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v8siyn/save_36_on_nioh_3_on_steam/",
-        "postedAt": "2026-07-29T04:15:36.724Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1va00yn/gris_for_80_off/",
-        "postedAt": "2026-07-29T15:51:05.414Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v9y07w/steam_one_rotten_oath_35_off_454/",
-        "postedAt": "2026-07-29T15:51:05.414Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v9tjnd/save_20_on_reaper_actual_on_steam/",
-        "postedAt": "2026-07-29T15:51:05.414Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v9sv9s/save_70_on_echoes_of_the_end_enhanced_edition/",
         "postedAt": "2026-07-29T15:51:05.414Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vhb3sq/save_40_on_cloverpit_on_steam_historical_low/",
         "postedAt": "2026-08-07T07:22:42.238Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vhvd85/i_just_released_my_solo_indie_game_where_you/",
+        "postedAt": "2026-08-07T10:56:35.174Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vhjs7e/developer_ascii_3d_rpg_save_20_on_effulgence_rpg/",
+        "postedAt": "2026-08-07T10:56:35.174Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vhi9ra/save_80_on_veranoia_nightmare_of_case_37_on_steam/",
+        "postedAt": "2026-08-07T10:56:35.174Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vhey7c/save_75_on_katamari_damacy_reroll_on_steam/",
+        "postedAt": "2026-08-07T10:56:35.174Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3641000",
-        "postedAt": "2026-07-15T04:08:24.678Z"
-      },
       {
         "id": "sale_4297840",
         "postedAt": "2026-07-15T12:19:23.613Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_3904850",
         "postedAt": "2026-08-07T03:52:32.589Z"
+      },
+      {
+        "id": "sale_2231380",
+        "postedAt": "2026-08-07T10:56:35.174Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1045,8 +1045,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vhb3sq/save_40_on_cloverpit_on_steam_historical_low/",
-    "steam_sales": "sale_3904850",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vhey7c/save_75_on_katamari_damacy_reroll_on_steam/",
+    "steam_sales": "sale_2231380",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293019887"
   }
