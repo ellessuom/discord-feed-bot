@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-07T03:52:32.589Z",
+  "lastRun": "2026-08-07T05:43:33.634Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v8qete/save_80_on_the_witcher_3_wild_hunt_on_steam/",
-        "postedAt": "2026-07-28T08:42:02.508Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v99hn9/save_50_on_rogue_zodiacs_on_steam/",
-        "postedAt": "2026-07-28T22:08:51.302Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v944ir/save_89_on_sizeable_079/",
-        "postedAt": "2026-07-28T22:08:51.303Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1v8wbk8/city_climber_is_80_off_till_6th_august_099/",
-        "postedAt": "2026-07-28T22:08:51.303Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1v8sim2/save_70_on_the_medium_on_steam/",
         "postedAt": "2026-07-28T22:08:51.303Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vgr456/save_90_on_just_cause_2_on_steam/",
         "postedAt": "2026-08-06T08:44:26.049Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vhn2t4/save_95_on_tom_clancys_ghost_recon_wildlands_on/",
+        "postedAt": "2026-08-07T05:43:33.634Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vhgyqo/save_50_on_doom_the_dark_ages_revelations_dlc/",
+        "postedAt": "2026-08-07T05:43:33.634Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vhaoi6/save_95_on_tom_clancys_ghost_recon_wildlands_on/",
+        "postedAt": "2026-08-07T05:43:33.634Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vha8fs/save_95_on_tom_clancys_ghost_recon_breakpoint_on/",
+        "postedAt": "2026-08-07T05:43:33.634Z"
       }
     ],
     "steam_sales": [
@@ -1045,7 +1045,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vgr456/save_90_on_just_cause_2_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vha8fs/save_95_on_tom_clancys_ghost_recon_breakpoint_on/",
     "steam_sales": "sale_3904850",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293019887"
