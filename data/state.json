@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-08T10:37:45.277Z",
+  "lastRun": "2026-08-08T13:50:33.012Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_4563790",
-        "postedAt": "2026-07-15T20:14:05.328Z"
-      },
-      {
         "id": "sale_3892270",
         "postedAt": "2026-07-15T22:06:04.878Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_1118520",
         "postedAt": "2026-08-07T17:51:10.689Z"
+      },
+      {
+        "id": "sale_3017860",
+        "postedAt": "2026-08-08T13:50:33.012Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1050,7 +1050,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vislps/my_game_steinstern_spacewar_is_currently_60_off/",
-    "steam_sales": "sale_1118520",
+    "steam_sales": "sale_3017860",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293020219"
   }
