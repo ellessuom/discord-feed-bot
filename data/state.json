@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-08T07:00:26.074Z",
+  "lastRun": "2026-08-08T10:37:45.277Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vbb4mn/save_75_on_the_elder_scrolls_v_skyrim_special/",
-        "postedAt": "2026-07-31T07:53:06.203Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vbb3k2/save_85_on_the_witcher_2_assassins_of_kings/",
         "postedAt": "2026-07-31T07:53:06.203Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vin0j4/save_75_on_the_dwarves_on_steam/",
         "postedAt": "2026-08-08T07:00:26.074Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vislps/my_game_steinstern_spacewar_is_currently_60_off/",
+        "postedAt": "2026-08-08T10:37:45.277Z"
       }
     ],
     "steam_sales": [
@@ -1049,7 +1049,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vin0j4/save_75_on_the_dwarves_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vislps/my_game_steinstern_spacewar_is_currently_60_off/",
     "steam_sales": "sale_1118520",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293020219"
