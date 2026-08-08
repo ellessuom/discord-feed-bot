@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-08-08T05:01:39.703Z",
+  "lastRun": "2026-08-08T07:00:26.074Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vbauxp/save_33_on_marvels_spiderman_2_on_steam/",
-        "postedAt": "2026-07-31T04:25:57.400Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vbj2k3/90_on_nfs_rivals_historical_low_after_almost_two/",
-        "postedAt": "2026-07-31T07:53:06.203Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vbd1dn/save_90_on_80s_overdrive_on_steam_1/",
-        "postedAt": "2026-07-31T07:53:06.203Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vbb4mn/save_75_on_the_elder_scrolls_v_skyrim_special/",
         "postedAt": "2026-07-31T07:53:06.203Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vimyex/save_80_on_naild_099/",
         "postedAt": "2026-08-08T05:01:39.703Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vin1gv/save_50_on_coffee_talk_on_steam/",
+        "postedAt": "2026-08-08T07:00:26.074Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vin0sq/save_20_on_gacha_capsule_shop_simulator/",
+        "postedAt": "2026-08-08T07:00:26.074Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vin0j4/save_75_on_the_dwarves_on_steam/",
+        "postedAt": "2026-08-08T07:00:26.074Z"
       }
     ],
     "steam_sales": [
@@ -1049,7 +1049,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vimyex/save_80_on_naild_099/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vin0j4/save_75_on_the_dwarves_on_steam/",
     "steam_sales": "sale_1118520",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293020219"
