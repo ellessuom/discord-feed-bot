@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-07T21:42:48.691Z",
+  "lastRun": "2026-08-08T01:55:40.724Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vbdkwb/save_80_on_dishonored_2_on_steam/",
-        "postedAt": "2026-07-31T04:25:57.400Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vbb4xh/save_30_on_the_elder_scrolls_iv_oblivion/",
-        "postedAt": "2026-07-31T04:25:57.400Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vbavvx/save_60_on_metal_gear_solid_δ_snake_eater_on_steam/",
         "postedAt": "2026-07-31T04:25:57.400Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vic6bg/save_75_on_elex_on_steam/",
         "postedAt": "2026-08-07T21:42:48.691Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vigbu7/strange_brigade_deluxe_edition_60off/",
+        "postedAt": "2026-08-08T01:55:40.724Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vifg8p/save_80_on_destroy_all_humans_on_steam/",
+        "postedAt": "2026-08-08T01:55:40.724Z"
       }
     ],
     "steam_sales": [
@@ -1049,7 +1049,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vic6bg/save_75_on_elex_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vifg8p/save_80_on_destroy_all_humans_on_steam/",
     "steam_sales": "sale_1118520",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293020219"
