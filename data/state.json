@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-09T15:36:00.876Z",
+  "lastRun": "2026-08-09T20:37:38.557Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vbb3t1/save_50_on_legacy_of_kain_defiance_remastered_on/",
-        "postedAt": "2026-07-31T12:58:48.831Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vbavcp/save_67_on_doom_the_dark_ages_on_steam/",
         "postedAt": "2026-07-31T12:58:48.831Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vjc8ru/save_50_on_star_ocean_the_second_story_r_new/",
         "postedAt": "2026-08-09T02:03:11.381Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vjzl6u/save_80_on_the_raven_remastered_399/",
+        "postedAt": "2026-08-09T20:37:38.557Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1usxesf/games_shouldnt_cost_80_if_theyre_digital_players/",
-        "postedAt": "2026-07-10T20:27:01.420Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1usviov/playstation_streams_are_issuing_temporary_bans_to/",
-        "postedAt": "2026-07-10T20:27:01.420Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1usqh97/ps5_has_put_a_dampener_on_gaming_45_of/",
-        "postedAt": "2026-07-10T20:27:01.420Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1uskd7p/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-07-10T20:27:01.420Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1uveykn/games_done_quick_cancels_snk_sponsorship_live_on/",
         "postedAt": "2026-07-13T15:44:01.352Z"
       },
@@ -1081,7 +1065,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vjc8ru/save_50_on_star_ocean_the_second_story_r_new/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vjzl6u/save_80_on_the_raven_remastered_399/",
     "steam_sales": "sale_3017860",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vjbl3h/found_these_hidden_gems_at_my_local_library_sony/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
