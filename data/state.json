@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-09T02:03:11.381Z",
+  "lastRun": "2026-08-09T15:36:00.876Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -998,6 +998,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vhx94a/another_look_at_kingdom_hearts_4_seems_even_more/",
         "postedAt": "2026-08-08T15:34:00.966Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vjquu9/blizzard_is_now_the_top_performing_xbox_studio/",
+        "postedAt": "2026-08-09T15:36:00.876Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vjle36/gta_6_preorders_reach_unprecedented_and/",
+        "postedAt": "2026-08-09T15:36:00.876Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vjeqzj/ps5_beta_firmware_update_replaces_pssr_with_pssr/",
+        "postedAt": "2026-08-09T15:36:00.876Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vjbl3h/found_these_hidden_gems_at_my_local_library_sony/",
+        "postedAt": "2026-08-09T15:36:00.876Z"
       }
     ],
     "steam_2073850": [
@@ -1067,7 +1083,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vjc8ru/save_50_on_star_ocean_the_second_story_r_new/",
     "steam_sales": "sale_3017860",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vhx94a/another_look_at_kingdom_hearts_4_seems_even_more/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vjbl3h/found_these_hidden_gems_at_my_local_library_sony/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
 }
