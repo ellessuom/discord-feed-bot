@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-10T22:41:57.748Z",
+  "lastRun": "2026-08-10T23:39:03.420Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3712080",
-        "postedAt": "2026-07-16T17:23:19.703Z"
-      },
-      {
         "id": "sale_3869850",
         "postedAt": "2026-07-16T17:23:19.703Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_2057760",
         "postedAt": "2026-08-10T21:46:43.505Z"
+      },
+      {
+        "id": "sale_1687950",
+        "postedAt": "2026-08-10T23:39:03.420Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1062,7 +1062,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vkypg8/save_50_on_survivor_on_steam_survivor_will_be/",
-    "steam_sales": "sale_2057760",
+    "steam_sales": "sale_1687950",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vjbl3h/found_these_hidden_gems_at_my_local_library_sony/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
