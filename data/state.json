@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-10T19:02:51.411Z",
+  "lastRun": "2026-08-10T20:48:46.532Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vbd46l/save_33_on_marvels_spiderman_2_on_steam/",
-        "postedAt": "2026-07-31T15:24:57.388Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vc459v/save_84_on_cursed_treasure_2_on_steam_079/",
-        "postedAt": "2026-07-31T23:05:59.174Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vc0g6c/save_50_on_battle_food_mania_on_steam/",
-        "postedAt": "2026-07-31T23:05:59.174Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vd5qqm/save_60_off_pixel_wizard/",
-        "postedAt": "2026-08-02T03:46:01.074Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vdrnm0/save_35_on_cast_n_chill_on_steam_historical_low/",
         "postedAt": "2026-08-02T22:59:22.600Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vko4m8/save_75_on_aquanox_aquanox_2_199/",
         "postedAt": "2026-08-10T19:02:51.411Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vkrspr/save_66_on_spiritfall_deluxe_edition_on_steam/",
+        "postedAt": "2026-08-10T20:48:46.532Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vkrp6a/save_95_on_under_the_waves_on_steam/",
+        "postedAt": "2026-08-10T20:48:46.532Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vkr6kd/save_80_on_detroit_become_human_on_steam/",
+        "postedAt": "2026-08-10T20:48:46.532Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vkr3fd/save_50_on_papers_please_on_steam/",
+        "postedAt": "2026-08-10T20:48:46.532Z"
       }
     ],
     "steam_sales": [
@@ -1061,7 +1061,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vko4m8/save_75_on_aquanox_aquanox_2_199/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vkr3fd/save_50_on_papers_please_on_steam/",
     "steam_sales": "sale_1067360",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vjbl3h/found_these_hidden_gems_at_my_local_library_sony/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
