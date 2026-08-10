@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-10T20:48:46.532Z",
+  "lastRun": "2026-08-10T21:46:43.505Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vdrnm0/save_35_on_cast_n_chill_on_steam_historical_low/",
-        "postedAt": "2026-08-02T22:59:22.600Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vdqnkd/save_25_on_the_legend_of_heroes_trails_beyond_the/",
-        "postedAt": "2026-08-02T22:59:22.600Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ve5bb8/save_60_on_the_backrooms_on_steam/",
         "postedAt": "2026-08-03T08:33:15.493Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vkr3fd/save_50_on_papers_please_on_steam/",
         "postedAt": "2026-08-10T20:48:46.532Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vkw33a/save_65_on_persona_3_reload_on_steam/",
+        "postedAt": "2026-08-10T21:46:43.505Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vktrpp/save_52_on_goblin_and_coins_collection_on_steam/",
+        "postedAt": "2026-08-10T21:46:43.505Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3808690",
-        "postedAt": "2026-07-16T15:06:07.200Z"
-      },
       {
         "id": "sale_3712080",
         "postedAt": "2026-07-16T17:23:19.703Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1067360",
         "postedAt": "2026-08-10T17:55:22.408Z"
+      },
+      {
+        "id": "sale_2057760",
+        "postedAt": "2026-08-10T21:46:43.505Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1061,8 +1061,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vkr3fd/save_50_on_papers_please_on_steam/",
-    "steam_sales": "sale_1067360",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vktrpp/save_52_on_goblin_and_coins_collection_on_steam/",
+    "steam_sales": "sale_2057760",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vjbl3h/found_these_hidden_gems_at_my_local_library_sony/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
