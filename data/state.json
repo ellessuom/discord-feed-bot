@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-11T10:53:40.267Z",
+  "lastRun": "2026-08-11T17:01:02.343Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1veiszg/save_50_on_the_hive_on_steam/",
-        "postedAt": "2026-08-03T19:43:49.069Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ve59xh/save_20_on_gacha_capsule_shop_simulator/",
         "postedAt": "2026-08-03T19:43:49.069Z"
@@ -402,17 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vl4yjq/save_95_on_dustborn_on_steam_new_historic_low_15/",
         "postedAt": "2026-08-11T07:15:00.154Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vlll0u/save_30_on_black_myth_wukong_on_steam_lowest/",
+        "postedAt": "2026-08-11T17:01:02.343Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3981100",
-        "postedAt": "2026-07-17T17:16:25.215Z"
-      },
-      {
-        "id": "sale_2527160",
-        "postedAt": "2026-07-17T19:17:10.578Z"
-      },
       {
         "id": "sale_3950130",
         "postedAt": "2026-07-17T19:17:10.578Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_1703340",
         "postedAt": "2026-08-11T10:53:40.267Z"
+      },
+      {
+        "id": "sale_1574480",
+        "postedAt": "2026-08-11T17:01:02.343Z"
+      },
+      {
+        "id": "sale_1648360",
+        "postedAt": "2026-08-11T17:01:02.343Z"
       }
     ],
     "reddit_gamingnews": [
@@ -998,6 +998,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vjbl3h/found_these_hidden_gems_at_my_local_library_sony/",
         "postedAt": "2026-08-09T15:36:00.876Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vlijlj/aliens_fireteam_elite_on_nintendo_switch_shut/",
+        "postedAt": "2026-08-11T17:01:02.343Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vlfm4h/persona_4_revival_producer_says_remakes_of/",
+        "postedAt": "2026-08-11T17:01:02.343Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vld4uz/its_time_to_sue_sony_stop_killing_games_joins/",
+        "postedAt": "2026-08-11T17:01:02.343Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vlcpb8/alan_wake_2_hits_another_major_sales_milestone_3/",
+        "postedAt": "2026-08-11T17:01:02.343Z"
       }
     ],
     "steam_2073850": [
@@ -1061,9 +1077,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vl4yjq/save_95_on_dustborn_on_steam_new_historic_low_15/",
-    "steam_sales": "sale_1703340",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vjbl3h/found_these_hidden_gems_at_my_local_library_sony/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vlll0u/save_30_on_black_myth_wukong_on_steam_lowest/",
+    "steam_sales": "sale_1648360",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vlcpb8/alan_wake_2_hits_another_major_sales_milestone_3/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
 }
