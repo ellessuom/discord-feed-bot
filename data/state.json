@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-11T17:01:02.343Z",
+  "lastRun": "2026-08-11T19:07:13.494Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ve59xh/save_20_on_gacha_capsule_shop_simulator/",
-        "postedAt": "2026-08-03T19:43:49.069Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vepzwa/save_50_on_brainrot_online_on_steam/",
         "postedAt": "2026-08-03T21:08:24.465Z"
@@ -402,21 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vlll0u/save_30_on_black_myth_wukong_on_steam_lowest/",
         "postedAt": "2026-08-11T17:01:02.343Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vlpl8m/save_30_on_idle_deepcore_an_incremental_game/",
+        "postedAt": "2026-08-11T19:07:13.494Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3950130",
-        "postedAt": "2026-07-17T19:17:10.578Z"
-      },
-      {
-        "id": "sale_3219010",
-        "postedAt": "2026-07-17T22:53:37.114Z"
-      },
-      {
-        "id": "sale_739630",
-        "postedAt": "2026-07-17T22:53:37.114Z"
-      },
       {
         "id": "sale_3844970",
         "postedAt": "2026-07-17T23:55:56.791Z"
@@ -804,6 +792,18 @@
       {
         "id": "sale_1648360",
         "postedAt": "2026-08-11T17:01:02.343Z"
+      },
+      {
+        "id": "sale_2523770",
+        "postedAt": "2026-08-11T19:07:13.494Z"
+      },
+      {
+        "id": "sale_2358720",
+        "postedAt": "2026-08-11T19:07:13.494Z"
+      },
+      {
+        "id": "sale_3929470",
+        "postedAt": "2026-08-11T19:07:13.494Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1077,8 +1077,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vlll0u/save_30_on_black_myth_wukong_on_steam_lowest/",
-    "steam_sales": "sale_1648360",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vlpl8m/save_30_on_idle_deepcore_an_incremental_game/",
+    "steam_sales": "sale_3929470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vlcpb8/alan_wake_2_hits_another_major_sales_milestone_3/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
