@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-12T02:19:35.165Z",
+  "lastRun": "2026-08-12T08:21:21.668Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ver5vu/save_75_on_road_warden_illustrated_textbased_rpg/",
-        "postedAt": "2026-08-04T02:55:05.249Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1veqzyi/save_60_on_bomb_rush_cyberfunk_new_historical_low/",
-        "postedAt": "2026-08-04T02:55:05.249Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vf0gab/save_40_on_oneshot_on_steam/",
-        "postedAt": "2026-08-04T11:28:01.212Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vf0fri/save_40_on_katana_zero_on_steam/",
-        "postedAt": "2026-08-04T11:28:01.212Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vf0eob/save_25_on_ultrakill_on_steam/",
         "postedAt": "2026-08-04T11:28:01.212Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vm0koi/save_75_on_call_of_duty_modern_warfare_iii_on/",
         "postedAt": "2026-08-12T02:19:35.165Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vm7os4/save_75_on_hyper_light_drifter_on_steam/",
+        "postedAt": "2026-08-12T08:21:21.668Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vm7ggh/save_94_on_ultimate_fishing_simulator_119/",
+        "postedAt": "2026-08-12T08:21:21.668Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vm7aek/save_15_on_warhounds_on_steam/",
+        "postedAt": "2026-08-12T08:21:21.668Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vm29yf/save_85_on_farcry_5/",
+        "postedAt": "2026-08-12T08:21:21.668Z"
       }
     ],
     "steam_sales": [
@@ -1077,7 +1077,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vm0koi/save_75_on_call_of_duty_modern_warfare_iii_on/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vm29yf/save_85_on_farcry_5/",
     "steam_sales": "sale_553850",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vlcpb8/alan_wake_2_hits_another_major_sales_milestone_3/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
