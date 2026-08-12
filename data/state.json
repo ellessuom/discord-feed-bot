@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-12T13:19:24.052Z",
+  "lastRun": "2026-08-12T15:01:00.990Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1014,6 +1014,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vlcpb8/alan_wake_2_hits_another_major_sales_milestone_3/",
         "postedAt": "2026-08-11T17:01:02.343Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vmdykg/in_a_fascinating_use_of_free_will_old_school/",
+        "postedAt": "2026-08-12T15:01:00.990Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vmblq7/asobi_remote_play_app_lets_gamers_stream_ps4_and/",
+        "postedAt": "2026-08-12T15:01:00.990Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vm8g2v/crimson_desert_did_so_well_that_pearl_abysss/",
+        "postedAt": "2026-08-12T15:01:00.990Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vm4pjp/xbox_ceo_asha_sharma_gushes_about_elder_scrolls/",
+        "postedAt": "2026-08-12T15:01:00.990Z"
       }
     ],
     "steam_2073850": [
@@ -1075,7 +1091,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vm5gzp/save_40_on_brainkilled/",
     "steam_sales": "sale_553850",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vlcpb8/alan_wake_2_hits_another_major_sales_milestone_3/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vm4pjp/xbox_ceo_asha_sharma_gushes_about_elder_scrolls/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273216923"
   }
 }
