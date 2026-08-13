@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-13T16:59:57.120Z",
+  "lastRun": "2026-08-13T18:02:36.865Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vfieql/save_50_on_tiny_049/",
-        "postedAt": "2026-08-04T18:41:51.383Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vfhzt2/save_30_on_the_last_gas_station_on_steam/",
-        "postedAt": "2026-08-04T18:41:51.383Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vfhyg0/save_80_on_assassins_creed_odyssey_on_steam/",
-        "postedAt": "2026-08-04T18:41:51.383Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vfgwtm/save_50_on_peak_on_steam_historical_low_374_399/",
-        "postedAt": "2026-08-04T18:41:51.383Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vfovg4/save_60_on_final_fantasy_vii_remake_rebirth_twin/",
         "postedAt": "2026-08-05T00:08:28.729Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vmwanv/save_83_on_ea_play_on_steam_099/",
         "postedAt": "2026-08-13T13:21:16.290Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vni1os/save_50_on_kaiserpunk_on_steam_daily_deal/",
+        "postedAt": "2026-08-13T18:02:36.865Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vnhvsx/save_75_on_gears_of_war_reloaded_on_steam_999/",
+        "postedAt": "2026-08-13T18:02:36.865Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vnhbh3/save_100_on_deponia_free/",
+        "postedAt": "2026-08-13T18:02:36.865Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vnh1ec/save_40_on_die_in_the_dungeon_899/",
+        "postedAt": "2026-08-13T18:02:36.865Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1466060",
-        "postedAt": "2026-07-20T20:24:29.278Z"
-      },
-      {
-        "id": "sale_588030",
-        "postedAt": "2026-07-20T22:03:52.450Z"
-      },
       {
         "id": "sale_4069520",
         "postedAt": "2026-07-21T03:36:04.603Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_2542020",
         "postedAt": "2026-08-13T16:59:57.120Z"
+      },
+      {
+        "id": "sale_4208140",
+        "postedAt": "2026-08-13T18:02:36.865Z"
+      },
+      {
+        "id": "sale_4992070",
+        "postedAt": "2026-08-13T18:02:36.865Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1077,8 +1077,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vmwanv/save_83_on_ea_play_on_steam_099/",
-    "steam_sales": "sale_2542020",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vnh1ec/save_40_on_die_in_the_dungeon_899/",
+    "steam_sales": "sale_4992070",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vm4pjp/xbox_ceo_asha_sharma_gushes_about_elder_scrolls/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
   }
