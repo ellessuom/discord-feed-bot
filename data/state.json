@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-13T10:11:48.295Z",
+  "lastRun": "2026-08-13T11:51:19.087Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2936290",
-        "postedAt": "2026-07-20T15:53:53.725Z"
-      },
-      {
         "id": "sale_1453566",
         "postedAt": "2026-07-20T15:53:53.725Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_2552450",
         "postedAt": "2026-08-12T21:51:42.608Z"
+      },
+      {
+        "id": "sale_4243990",
+        "postedAt": "2026-08-13T11:51:19.087Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1078,7 +1078,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vmk2kt/save_80_on_road_96_399/",
-    "steam_sales": "sale_2552450",
+    "steam_sales": "sale_4243990",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vm4pjp/xbox_ceo_asha_sharma_gushes_about_elder_scrolls/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
   }
