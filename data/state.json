@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-13T18:02:36.865Z",
+  "lastRun": "2026-08-13T19:56:53.004Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vfovg4/save_60_on_final_fantasy_vii_remake_rebirth_twin/",
-        "postedAt": "2026-08-05T00:08:28.729Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vfot3g/60_off_nierautomata_game_of_the_yorha_edition/",
         "postedAt": "2026-08-05T00:08:28.729Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vnh1ec/save_40_on_die_in_the_dungeon_899/",
         "postedAt": "2026-08-13T18:02:36.865Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vnhgbk/save_40_on_zero_sievert_1199_new_hl/",
+        "postedAt": "2026-08-13T19:56:53.004Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4069520",
-        "postedAt": "2026-07-21T03:36:04.603Z"
-      },
       {
         "id": "sale_3764200",
         "postedAt": "2026-07-21T06:33:21.671Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_4992070",
         "postedAt": "2026-08-13T18:02:36.865Z"
+      },
+      {
+        "id": "sale_3315060",
+        "postedAt": "2026-08-13T19:56:53.003Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1077,8 +1077,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vnh1ec/save_40_on_die_in_the_dungeon_899/",
-    "steam_sales": "sale_4992070",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vnhgbk/save_40_on_zero_sievert_1199_new_hl/",
+    "steam_sales": "sale_3315060",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vm4pjp/xbox_ceo_asha_sharma_gushes_about_elder_scrolls/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
   }
