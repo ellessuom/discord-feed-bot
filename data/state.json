@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-14T13:16:01.072Z",
+  "lastRun": "2026-08-14T14:55:32.511Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vgr3nk/save_90_on_the_night_of_the_rabbit_on_steam/",
-        "postedAt": "2026-08-06T02:54:48.589Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vgr0wi/save_50_on_peak_on_steam_lowest/",
         "postedAt": "2026-08-06T02:54:48.589Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vnu162/save_43_on_simrail_the_railway_simulator_on_steam/",
         "postedAt": "2026-08-14T10:07:34.956Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vo9bff/glyphica_typing_survival_69930_off/",
+        "postedAt": "2026-08-14T14:55:32.511Z"
       }
     ],
     "steam_sales": [
@@ -1093,7 +1093,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vnu162/save_43_on_simrail_the_railway_simulator_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vo9bff/glyphica_typing_survival_69930_off/",
     "steam_sales": "sale_3091140",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vn99fr/community_forces_artificial_intelligence_tag_on/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
