@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-14T10:07:34.956Z",
+  "lastRun": "2026-08-14T13:16:01.072Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3279440",
-        "postedAt": "2026-07-21T14:03:37.070Z"
-      },
-      {
         "id": "sale_3590290",
         "postedAt": "2026-07-21T18:17:46.371Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_1313140",
         "postedAt": "2026-08-14T10:07:34.956Z"
+      },
+      {
+        "id": "sale_3091140",
+        "postedAt": "2026-08-14T13:16:01.072Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1014,6 +1014,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vm4pjp/xbox_ceo_asha_sharma_gushes_about_elder_scrolls/",
         "postedAt": "2026-08-12T15:01:00.990Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vo43na/weekly_rgamingnews_discussion_what_game_you_will/",
+        "postedAt": "2026-08-14T13:16:01.072Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vnx1m8/halo_cocreator_marcus_lehto_says_the_remake_halo/",
+        "postedAt": "2026-08-14T13:16:01.072Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vnjw9z/resident_evil_requiem_is_selling_just_as_many/",
+        "postedAt": "2026-08-14T13:16:01.072Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vn99fr/community_forces_artificial_intelligence_tag_on/",
+        "postedAt": "2026-08-14T13:16:01.072Z"
       }
     ],
     "steam_2073850": [
@@ -1078,8 +1094,8 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vnu162/save_43_on_simrail_the_railway_simulator_on_steam/",
-    "steam_sales": "sale_1313140",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vm4pjp/xbox_ceo_asha_sharma_gushes_about_elder_scrolls/",
+    "steam_sales": "sale_3091140",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vn99fr/community_forces_artificial_intelligence_tag_on/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
   }
 }
