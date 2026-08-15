@@ -1,14 +1,8 @@
 {
-  "lastRun": "2026-08-15T16:29:34.186Z",
-  "success": false,
-  "postsCount": 0,
+  "lastRun": "2026-08-15T17:24:02.345Z",
+  "success": true,
+  "postsCount": 4,
   "sourcesCount": 4,
-  "errors": [
-    {
-      "source": "reddit_gamingnews",
-      "message": "[fetchReddit(gamingnews)] Failed after 3 attempts: Status code 429",
-      "time": "2026-08-15T16:29:34.186Z"
-    }
-  ],
-  "nextRun": "2026-08-15T17:29:34.186Z"
+  "errors": [],
+  "nextRun": "2026-08-15T18:24:02.345Z"
 }
