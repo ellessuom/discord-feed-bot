@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-15T07:33:58.324Z",
+  "lastRun": "2026-08-15T09:29:53.829Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vgr456/save_90_on_just_cause_2_on_steam/",
-        "postedAt": "2026-08-06T08:44:26.049Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhn2t4/save_95_on_tom_clancys_ghost_recon_wildlands_on/",
-        "postedAt": "2026-08-07T05:43:33.634Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vhgyqo/save_50_on_doom_the_dark_ages_revelations_dlc/",
         "postedAt": "2026-08-07T05:43:33.634Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1voq1f4/save_40_on_mafia_the_old_country_on_steam/",
         "postedAt": "2026-08-15T02:55:17.730Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1voxozf/save_85_on_automachef_deluxe_254/",
+        "postedAt": "2026-08-15T09:29:53.829Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vow9t4/save_60_on_mafia_the_omertà_collection_on_steam/",
+        "postedAt": "2026-08-15T09:29:53.829Z"
       }
     ],
     "steam_sales": [
@@ -1077,7 +1077,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1voq1f4/save_40_on_mafia_the_old_country_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vow9t4/save_60_on_mafia_the_omertà_collection_on_steam/",
     "steam_sales": "sale_3236900",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vn99fr/community_forces_artificial_intelligence_tag_on/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
