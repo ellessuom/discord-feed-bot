@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-15T09:29:53.829Z",
+  "lastRun": "2026-08-15T10:26:41.918Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1018,10 +1018,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/689763250409046312",
-        "postedAt": "2026-07-16T10:14:32.256Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/703271513166449145",
         "postedAt": "2026-07-18T13:25:38.635Z"
       },
@@ -1072,6 +1068,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/547902498070855892",
         "postedAt": "2026-08-13T10:11:48.295Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/689763250409046312",
+        "postedAt": "2026-08-15T10:26:41.918Z"
       }
     ]
   },
@@ -1080,6 +1080,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vow9t4/save_60_on_mafia_the_omertà_collection_on_steam/",
     "steam_sales": "sale_3236900",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vn99fr/community_forces_artificial_intelligence_tag_on/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
 }
