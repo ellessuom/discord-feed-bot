@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-15T02:55:17.730Z",
+  "lastRun": "2026-08-15T07:33:58.324Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3590290",
-        "postedAt": "2026-07-21T18:17:46.371Z"
-      },
-      {
         "id": "sale_1145350",
         "postedAt": "2026-07-21T22:06:45.520Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_3091140",
         "postedAt": "2026-08-14T13:16:01.072Z"
+      },
+      {
+        "id": "sale_3236900",
+        "postedAt": "2026-08-15T07:33:58.324Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1078,7 +1078,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1voq1f4/save_40_on_mafia_the_old_country_on_steam/",
-    "steam_sales": "sale_3091140",
+    "steam_sales": "sale_3236900",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vn99fr/community_forces_artificial_intelligence_tag_on/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
   }
