@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-16T19:23:45.756Z",
+  "lastRun": "2026-08-16T21:24:05.731Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vha8fs/save_95_on_tom_clancys_ghost_recon_breakpoint_on/",
-        "postedAt": "2026-08-07T05:43:33.634Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhn4qa/save_85_on_the_house_of_da_vinci_2_on_steam_lowest/",
-        "postedAt": "2026-08-07T07:22:42.238Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhgxgz/save_85_on_deadlight_directors_cut_179/",
-        "postedAt": "2026-08-07T07:22:42.238Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhb9ty/save_25_on_cairn_on_steam/",
-        "postedAt": "2026-08-07T07:22:42.238Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vhb3sq/save_40_on_cloverpit_on_steam_historical_low/",
         "postedAt": "2026-08-07T07:22:42.238Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vq0nxn/developer_monster_collector_roguelike_dragn/",
         "postedAt": "2026-08-16T16:30:01.572Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vq7s1x/my_game_spheric_bombs_is_currently_on_sale_on/",
+        "postedAt": "2026-08-16T21:24:05.730Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vq4x0q/save_67_on_sally_face_episode_one_098_historic_low/",
+        "postedAt": "2026-08-16T21:24:05.731Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vq4vp4/save_80_on_detroit_become_human_on_steam/",
+        "postedAt": "2026-08-16T21:24:05.731Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vq1xvy/save_60_on_cult_of_the_lamb/",
+        "postedAt": "2026-08-16T21:24:05.731Z"
       }
     ],
     "steam_sales": [
@@ -1093,7 +1093,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vq0nxn/developer_monster_collector_roguelike_dragn/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vq1xvy/save_60_on_cult_of_the_lamb/",
     "steam_sales": "sale_728880",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vpbxt3/chris_hansen_banned_from_roblox_live_at_crimecon/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
