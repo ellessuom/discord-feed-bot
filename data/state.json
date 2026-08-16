@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-16T15:26:09.881Z",
+  "lastRun": "2026-08-16T16:30:01.572Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhaoi6/save_95_on_tom_clancys_ghost_recon_wildlands_on/",
-        "postedAt": "2026-08-07T05:43:33.634Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vha8fs/save_95_on_tom_clancys_ghost_recon_breakpoint_on/",
         "postedAt": "2026-08-07T05:43:33.634Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vpy5i0/save_66_on_nice_day_for_fishing_679/",
         "postedAt": "2026-08-16T15:26:09.881Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vq0nxn/developer_monster_collector_roguelike_dragn/",
+        "postedAt": "2026-08-16T16:30:01.572Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1145350",
-        "postedAt": "2026-07-21T22:06:45.520Z"
-      },
       {
         "id": "sale_4804480",
         "postedAt": "2026-07-21T22:06:45.520Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_3236900",
         "postedAt": "2026-08-15T07:33:58.324Z"
+      },
+      {
+        "id": "sale_1158310",
+        "postedAt": "2026-08-16T16:30:01.572Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1014,6 +1014,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vo7u08/the_lord_of_the_rings_war_in_the_north_dev_says/",
         "postedAt": "2026-08-15T17:24:02.345Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vpuldi/nomura_promises_kingdom_hearts_4_wont_be_delayed/",
+        "postedAt": "2026-08-16T16:30:01.572Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vpuftp/camping_keeper_reveals_its_first_trailer_build/",
+        "postedAt": "2026-08-16T16:30:01.572Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vpiozx/god_of_war_has_lasted_so_long_because_sony_santa/",
+        "postedAt": "2026-08-16T16:30:01.572Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vpbxt3/chris_hansen_banned_from_roblox_live_at_crimecon/",
+        "postedAt": "2026-08-16T16:30:01.572Z"
       }
     ],
     "steam_2073850": [
@@ -1077,9 +1093,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vpy5i0/save_66_on_nice_day_for_fishing_679/",
-    "steam_sales": "sale_3236900",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vo7u08/the_lord_of_the_rings_war_in_the_north_dev_says/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vq0nxn/developer_monster_collector_roguelike_dragn/",
+    "steam_sales": "sale_1158310",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vpbxt3/chris_hansen_banned_from_roblox_live_at_crimecon/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
 }
