@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-17T19:31:32.666Z",
+  "lastRun": "2026-08-17T20:31:29.533Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhey7c/save_75_on_katamari_damacy_reroll_on_steam/",
-        "postedAt": "2026-08-07T10:56:35.174Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhn3ah/save_51_on_wrap_house_simulator_on_steam_lowest/",
-        "postedAt": "2026-08-07T11:50:53.673Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhmyi0/save_20_on_sineus_arena_survivors_on_steam_lowest/",
-        "postedAt": "2026-08-07T11:50:53.673Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhexps/save_50_on_snufkin_melody_of_moominvalley_on/",
-        "postedAt": "2026-08-07T11:50:53.673Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vhabwq/save_84_on_tactical_mission_target_rush_on_steam/",
         "postedAt": "2026-08-07T11:50:53.673Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vqumof/save_6_on_teb_teb_editor_on_steam/",
         "postedAt": "2026-08-17T15:28:44.292Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vr39pm/save_26_on_potato_simulato_together_on_steam/",
+        "postedAt": "2026-08-17T20:31:29.533Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vr32m4/save_90_on_chorus/",
+        "postedAt": "2026-08-17T20:31:29.533Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vr32dv/save_60_on_kingdom_come_deliverance_ii_on_steam/",
+        "postedAt": "2026-08-17T20:31:29.533Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vr31wf/save_90_on_aliens_vs_predator_collection/",
+        "postedAt": "2026-08-17T20:31:29.533Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2699230",
-        "postedAt": "2026-07-23T15:12:21.177Z"
-      },
       {
         "id": "sale_4704690",
         "postedAt": "2026-07-23T17:27:14.558Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_4796830",
         "postedAt": "2026-08-17T19:31:32.666Z"
+      },
+      {
+        "id": "sale_1771300",
+        "postedAt": "2026-08-17T20:31:29.533Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1121,8 +1121,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vqumof/save_6_on_teb_teb_editor_on_steam/",
-    "steam_sales": "sale_4796830",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vr31wf/save_90_on_aliens_vs_predator_collection/",
+    "steam_sales": "sale_1771300",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vquyel/stonks9800_developer_says_sony_terminated_their/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
