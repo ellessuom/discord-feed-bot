@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-17T20:31:29.533Z",
+  "lastRun": "2026-08-17T21:29:21.104Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhabwq/save_84_on_tactical_mission_target_rush_on_steam/",
-        "postedAt": "2026-08-07T11:50:53.673Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhztm7/save_20_on_meowmi_city_cat_chaos_on_steam/",
-        "postedAt": "2026-08-07T13:13:54.750Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vhn1v4/save_40_on_cloverpit_on_steam_lowest/",
         "postedAt": "2026-08-07T13:13:54.750Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vr31wf/save_90_on_aliens_vs_predator_collection/",
         "postedAt": "2026-08-17T20:31:29.533Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vr55p9/save_75_on_outlast_2/",
+        "postedAt": "2026-08-17T21:29:21.104Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vr341g/save_75_on_hyper_demon/",
+        "postedAt": "2026-08-17T21:29:21.104Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4704690",
-        "postedAt": "2026-07-23T17:27:14.558Z"
-      },
       {
         "id": "sale_3440070",
         "postedAt": "2026-07-23T19:25:02.259Z"
@@ -804,25 +800,13 @@
       {
         "id": "sale_1771300",
         "postedAt": "2026-08-17T20:31:29.533Z"
+      },
+      {
+        "id": "sale_1643320",
+        "postedAt": "2026-08-17T21:29:21.104Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1v029n0/obsidian_was_reportedly_working_on_a_new_ip_that/",
-        "postedAt": "2026-07-18T20:56:02.019Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1uzx5qq/gamestop_ceo_ryan_cohen_says_sonys_decision_to_go/",
-        "postedAt": "2026-07-18T20:56:02.019Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1uzp2ac/bethesda_confirms_fallout_3_and_new_vegas/",
-        "postedAt": "2026-07-18T20:56:02.019Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1uywfyf/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-07-18T20:56:02.019Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1v61sfv/cory_barlog_confirms_the_next_god_of_war_game/",
         "postedAt": "2026-07-25T11:15:01.351Z"
@@ -1121,8 +1105,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vr31wf/save_90_on_aliens_vs_predator_collection/",
-    "steam_sales": "sale_1771300",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vr341g/save_75_on_hyper_demon/",
+    "steam_sales": "sale_1643320",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vquyel/stonks9800_developer_says_sony_terminated_their/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
