@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-16T21:24:05.731Z",
+  "lastRun": "2026-08-17T11:30:04.347Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3722330",
-        "postedAt": "2026-07-22T16:22:30.341Z"
-      },
-      {
         "id": "sale_4324480",
         "postedAt": "2026-07-22T16:22:30.341Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_728880",
         "postedAt": "2026-08-16T19:23:45.756Z"
+      },
+      {
+        "id": "sale_4164790",
+        "postedAt": "2026-08-17T11:30:04.347Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1094,7 +1094,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vq1xvy/save_60_on_cult_of_the_lamb/",
-    "steam_sales": "sale_728880",
+    "steam_sales": "sale_4164790",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vpbxt3/chris_hansen_banned_from_roblox_live_at_crimecon/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
