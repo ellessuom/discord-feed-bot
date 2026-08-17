@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-17T15:28:44.292Z",
+  "lastRun": "2026-08-17T16:32:31.674Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1913120",
-        "postedAt": "2026-07-22T18:11:22.386Z"
-      },
-      {
         "id": "sale_1845250",
         "postedAt": "2026-07-23T04:18:10.356Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_4579940",
         "postedAt": "2026-08-17T13:42:01.430Z"
+      },
+      {
+        "id": "sale_3849000",
+        "postedAt": "2026-08-17T16:32:31.674Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1106,7 +1106,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vqumof/save_6_on_teb_teb_editor_on_steam/",
-    "steam_sales": "sale_4579940",
+    "steam_sales": "sale_3849000",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vqebfw/kingdom_hearts_4_final_fantasy_15_might_finally/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
