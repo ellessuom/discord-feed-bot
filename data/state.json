@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-08-17T11:30:04.347Z",
+  "lastRun": "2026-08-17T12:52:15.250Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhb3sq/save_40_on_cloverpit_on_steam_historical_low/",
-        "postedAt": "2026-08-07T07:22:42.238Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhvd85/i_just_released_my_solo_indie_game_where_you/",
-        "postedAt": "2026-08-07T10:56:35.174Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhjs7e/developer_ascii_3d_rpg_save_20_on_effulgence_rpg/",
-        "postedAt": "2026-08-07T10:56:35.174Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vhi9ra/save_80_on_veranoia_nightmare_of_case_37_on_steam/",
         "postedAt": "2026-08-07T10:56:35.174Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vq1xvy/save_60_on_cult_of_the_lamb/",
         "postedAt": "2026-08-16T21:24:05.731Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vqq4c5/save_40_on_the_joust_on_steam/",
+        "postedAt": "2026-08-17T12:52:15.250Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vqctj5/steam_kairosoft_bundle_82_off_10872/",
+        "postedAt": "2026-08-17T12:52:15.250Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vq7qm4/my_game_rogue_battler_is_currently_on_sale_on/",
+        "postedAt": "2026-08-17T12:52:15.250Z"
       }
     ],
     "steam_sales": [
@@ -1093,7 +1093,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vq1xvy/save_60_on_cult_of_the_lamb/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vq7qm4/my_game_rogue_battler_is_currently_on_sale_on/",
     "steam_sales": "sale_4164790",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vpbxt3/chris_hansen_banned_from_roblox_live_at_crimecon/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
