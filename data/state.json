@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-17T21:29:21.104Z",
+  "lastRun": "2026-08-18T01:26:24.443Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,14 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3440070",
-        "postedAt": "2026-07-23T19:25:02.259Z"
-      },
-      {
-        "id": "sale_1149460",
-        "postedAt": "2026-07-23T21:09:12.665Z"
-      },
-      {
         "id": "sale_2840770",
         "postedAt": "2026-07-24T03:14:52.478Z"
       },
@@ -804,6 +796,14 @@
       {
         "id": "sale_1643320",
         "postedAt": "2026-08-17T21:29:21.104Z"
+      },
+      {
+        "id": "sale_694280",
+        "postedAt": "2026-08-18T01:26:24.443Z"
+      },
+      {
+        "id": "sale_1672970",
+        "postedAt": "2026-08-18T01:26:24.443Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1106,7 +1106,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vr341g/save_75_on_hyper_demon/",
-    "steam_sales": "sale_1643320",
+    "steam_sales": "sale_1672970",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vquyel/stonks9800_developer_says_sony_terminated_their/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
