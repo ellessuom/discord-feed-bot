@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-18T01:26:24.443Z",
+  "lastRun": "2026-08-18T02:59:19.389Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vhn1v4/save_40_on_cloverpit_on_steam_lowest/",
-        "postedAt": "2026-08-07T13:13:54.750Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vh56nc/save_30_on_steel_judgment_on_steam_i_am_the_dev/",
-        "postedAt": "2026-08-07T13:13:54.750Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vh0rdz/save_20_on_hackhub_ultimate_hacker_simulator_on/",
-        "postedAt": "2026-08-07T13:13:54.750Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vi6hn9/save_15_on_lumberjacked_on_steam/",
-        "postedAt": "2026-08-07T17:51:10.689Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vi6f75/save_100_on_breathedge_free/",
         "postedAt": "2026-08-07T17:51:10.689Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vr341g/save_75_on_hyper_demon/",
         "postedAt": "2026-08-17T21:29:21.104Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vrccsp/save_90_on_metro_2033/",
+        "postedAt": "2026-08-18T02:59:19.389Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vra26h/save_65_on_indika_on_steam_new_historical_low/",
+        "postedAt": "2026-08-18T02:59:19.389Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vr9qre/save_95_on_zombie_army_4_dead_war/",
+        "postedAt": "2026-08-18T02:59:19.389Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vr9glj/save_68_on_old_future_postapocalyptic_times_on/",
+        "postedAt": "2026-08-18T02:59:19.389Z"
       }
     ],
     "steam_sales": [
@@ -1105,7 +1105,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vr341g/save_75_on_hyper_demon/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vr9glj/save_68_on_old_future_postapocalyptic_times_on/",
     "steam_sales": "sale_1672970",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vquyel/stonks9800_developer_says_sony_terminated_their/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
