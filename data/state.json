@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-19T18:40:30.373Z",
+  "lastRun": "2026-08-19T21:29:08.222Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2417610",
-        "postedAt": "2026-07-27T00:03:57.653Z"
-      },
-      {
         "id": "sale_2684630",
         "postedAt": "2026-07-27T17:46:18.957Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_2688950",
         "postedAt": "2026-08-19T18:40:30.373Z"
+      },
+      {
+        "id": "sale_227300",
+        "postedAt": "2026-08-19T21:29:08.221Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1102,7 +1102,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vrx7k4/save_20_on_vice_vision_runner_on_steam_post_by/",
-    "steam_sales": "sale_2688950",
+    "steam_sales": "sale_227300",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vquyel/stonks9800_developer_says_sony_terminated_their/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
