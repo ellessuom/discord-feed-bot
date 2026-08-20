@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-20T21:32:05.445Z",
+  "lastRun": "2026-08-20T23:29:26.216Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vin0sq/save_20_on_gacha_capsule_shop_simulator/",
-        "postedAt": "2026-08-08T07:00:26.074Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vin0j4/save_75_on_the_dwarves_on_steam/",
         "postedAt": "2026-08-08T07:00:26.074Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vtrxzl/save_30_350_on_eclipsed_remnant/",
         "postedAt": "2026-08-20T18:45:52.510Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vtz9ds/save_35_on_eclipsium_on_steam_new_historical_low/",
+        "postedAt": "2026-08-20T23:29:26.216Z"
       }
     ],
     "steam_sales": [
@@ -1121,7 +1121,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vtrxzl/save_30_350_on_eclipsed_remnant/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vtz9ds/save_35_on_eclipsium_on_steam_new_historical_low/",
     "steam_sales": "sale_2432860",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vscktr/grand_theft_auto_6_leaker_says_they_wont_stop/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
