@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-20T09:38:36.378Z",
+  "lastRun": "2026-08-20T10:35:07.057Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1112,6 +1112,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/689763250409046312",
         "postedAt": "2026-08-15T10:26:41.918Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/685262822701007214",
+        "postedAt": "2026-08-20T10:35:07.057Z"
       }
     ]
   },
@@ -1120,6 +1124,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vsw0kx/save_85_on_lost_horizon_149/",
     "steam_sales": "sale_4321510",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vscktr/grand_theft_auto_6_leaker_says_they_wont_stop/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
 }
