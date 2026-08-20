@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-19T23:26:38.602Z",
+  "lastRun": "2026-08-20T03:00:39.340Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vic6bg/save_75_on_elex_on_steam/",
-        "postedAt": "2026-08-07T21:42:48.691Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vigbu7/strange_brigade_deluxe_edition_60off/",
-        "postedAt": "2026-08-08T01:55:40.724Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vifg8p/save_80_on_destroy_all_humans_on_steam/",
-        "postedAt": "2026-08-08T01:55:40.724Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vimyex/save_80_on_naild_099/",
-        "postedAt": "2026-08-08T05:01:39.703Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vin1gv/save_50_on_coffee_talk_on_steam/",
         "postedAt": "2026-08-08T07:00:26.074Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vrx7k4/save_20_on_vice_vision_runner_on_steam_post_by/",
         "postedAt": "2026-08-19T05:34:24.447Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vt6sb6/my_game_mothership_down_20_off_release_discount/",
+        "postedAt": "2026-08-20T03:00:39.340Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vt3p9d/save_40_on_wasted_bloodline_on_steam/",
+        "postedAt": "2026-08-20T03:00:39.340Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vsy1bo/save_90_on_amnesia_the_dark_descent_195/",
+        "postedAt": "2026-08-20T03:00:39.340Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vsw0kx/save_85_on_lost_horizon_149/",
+        "postedAt": "2026-08-20T03:00:39.340Z"
       }
     ],
     "steam_sales": [
@@ -1101,7 +1101,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vrx7k4/save_20_on_vice_vision_runner_on_steam_post_by/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vsw0kx/save_85_on_lost_horizon_149/",
     "steam_sales": "sale_4132330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vquyel/stonks9800_developer_says_sony_terminated_their/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
