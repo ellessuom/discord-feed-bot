@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-21T04:42:22.249Z",
+  "lastRun": "2026-08-21T05:36:25.117Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vislps/my_game_steinstern_spacewar_is_currently_60_off/",
-        "postedAt": "2026-08-08T10:37:45.277Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vj4f3p/caromble_is_30_off_during_steams_tiny_teams_event/",
         "postedAt": "2026-08-08T19:33:36.983Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vu5yal/save_85_on_total_war_warhammer_iii/",
         "postedAt": "2026-08-21T04:42:22.249Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vu6m1y/save_90_on_clid_the_snail_199/",
+        "postedAt": "2026-08-21T05:36:25.117Z"
       }
     ],
     "steam_sales": [
@@ -1121,7 +1121,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vu5yal/save_85_on_total_war_warhammer_iii/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vu6m1y/save_90_on_clid_the_snail_199/",
     "steam_sales": "sale_2432860",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vscktr/grand_theft_auto_6_leaker_says_they_wont_stop/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
