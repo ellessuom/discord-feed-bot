@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-21T10:34:25.064Z",
+  "lastRun": "2026-08-21T11:31:00.954Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1062,6 +1062,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vscktr/grand_theft_auto_6_leaker_says_they_wont_stop/",
         "postedAt": "2026-08-20T05:35:01.443Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vud4sw/weekly_rgamingnews_discussion_what_game_you_will/",
+        "postedAt": "2026-08-21T11:31:00.954Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vu82t7/dave_bautista_officially_set_as_kratos_in_god_of/",
+        "postedAt": "2026-08-21T11:31:00.954Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vtsb58/deus_ex_epic_mickey_creator_warren_spector/",
+        "postedAt": "2026-08-21T11:31:00.954Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
+        "postedAt": "2026-08-21T11:31:00.954Z"
       }
     ],
     "steam_2073850": [
@@ -1123,7 +1139,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vuatni/save_88_on_wayfinder_on_steam/",
     "steam_sales": "sale_4745140",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vscktr/grand_theft_auto_6_leaker_says_they_wont_stop/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
 }
