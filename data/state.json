@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-21T06:53:53.226Z",
+  "lastRun": "2026-08-21T10:34:25.064Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vj4f3p/caromble_is_30_off_during_steams_tiny_teams_event/",
-        "postedAt": "2026-08-08T19:33:36.983Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vj6h95/save_80_on_red_faction_guerrilla_remarstered_399/",
         "postedAt": "2026-08-08T21:34:35.261Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vu6m1y/save_90_on_clid_the_snail_199/",
         "postedAt": "2026-08-21T05:36:25.117Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vuatni/save_88_on_wayfinder_on_steam/",
+        "postedAt": "2026-08-21T10:34:25.064Z"
       }
     ],
     "steam_sales": [
@@ -1121,7 +1121,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vu6m1y/save_90_on_clid_the_snail_199/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vuatni/save_88_on_wayfinder_on_steam/",
     "steam_sales": "sale_4745140",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vscktr/grand_theft_auto_6_leaker_says_they_wont_stop/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
