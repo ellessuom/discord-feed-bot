@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-21T11:31:00.954Z",
+  "lastRun": "2026-08-21T12:55:55.886Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vj6h95/save_80_on_red_faction_guerrilla_remarstered_399/",
-        "postedAt": "2026-08-08T21:34:35.261Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vjc8ru/save_50_on_star_ocean_the_second_story_r_new/",
-        "postedAt": "2026-08-09T02:03:11.381Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vjzl6u/save_80_on_the_raven_remastered_399/",
-        "postedAt": "2026-08-09T20:37:38.557Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vkrare/save_95_on_beyond_two_souls_on_steam/",
-        "postedAt": "2026-08-10T19:02:51.411Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vkra9e/save_95_on_heavy_rain_on_steam/",
         "postedAt": "2026-08-10T19:02:51.411Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vuatni/save_88_on_wayfinder_on_steam/",
         "postedAt": "2026-08-21T10:34:25.064Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vuf0ri/save_75_on_gears_tactics_on_steam_historical_low/",
+        "postedAt": "2026-08-21T12:55:55.886Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vueg7l/save_10_on_tv_archive_tidy_up_together_on_steam/",
+        "postedAt": "2026-08-21T12:55:55.886Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vuefzn/save_10_on_mall_tidy_up_together_on_steam/",
+        "postedAt": "2026-08-21T12:55:55.886Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vue6zu/save_85_on_lord_of_rigel_4x_game_new_historic_low/",
+        "postedAt": "2026-08-21T12:55:55.886Z"
       }
     ],
     "steam_sales": [
@@ -1137,7 +1137,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vuatni/save_88_on_wayfinder_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vue6zu/save_85_on_lord_of_rigel_4x_game_new_historic_low/",
     "steam_sales": "sale_4745140",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
