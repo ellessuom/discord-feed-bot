@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-22T03:49:11.652Z",
+  "lastRun": "2026-08-22T07:35:15.854Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vktrpp/save_52_on_goblin_and_coins_collection_on_steam/",
-        "postedAt": "2026-08-10T21:46:43.505Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vkypg8/save_50_on_survivor_on_steam_survivor_will_be/",
         "postedAt": "2026-08-10T22:41:57.748Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vuzfqh/save_90_on_aliens_colonial_marines_collection_on/",
         "postedAt": "2026-08-22T03:49:11.652Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vv2t8m/save_38_on_how_to_fish/",
+        "postedAt": "2026-08-22T07:35:15.854Z"
       }
     ],
     "steam_sales": [
@@ -1137,7 +1137,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vuzfqh/save_90_on_aliens_colonial_marines_collection_on/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vv2t8m/save_38_on_how_to_fish/",
     "steam_sales": "sale_2679460",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
