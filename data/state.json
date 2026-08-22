@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-22T07:35:15.854Z",
+  "lastRun": "2026-08-22T10:27:39.420Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1082,10 +1082,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/704400583238353132",
-        "postedAt": "2026-07-23T10:27:27.291Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/677376450273214936",
         "postedAt": "2026-07-25T11:15:01.351Z"
       },
@@ -1132,6 +1128,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/685262822701007214",
         "postedAt": "2026-08-20T10:35:07.057Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/704400583238353132",
+        "postedAt": "2026-08-22T10:27:39.420Z"
       }
     ]
   },
@@ -1140,6 +1140,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vv2t8m/save_38_on_how_to_fish/",
     "steam_sales": "sale_2679460",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
   }
 }
