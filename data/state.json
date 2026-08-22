@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-22T10:27:39.420Z",
+  "lastRun": "2026-08-22T14:25:39.944Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vkypg8/save_50_on_survivor_on_steam_survivor_will_be/",
-        "postedAt": "2026-08-10T22:41:57.748Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vl2u9g/save_90_on_stone_4_souls_on_steam_1/",
         "postedAt": "2026-08-11T02:02:39.929Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vv2t8m/save_38_on_how_to_fish/",
         "postedAt": "2026-08-22T07:35:15.854Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vvcopx/save_65_on_the_world_ends_in_ohio_139/",
+        "postedAt": "2026-08-22T14:25:39.944Z"
       }
     ],
     "steam_sales": [
@@ -1137,7 +1137,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vv2t8m/save_38_on_how_to_fish/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vvcopx/save_65_on_the_world_ends_in_ohio_139/",
     "steam_sales": "sale_2679460",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
