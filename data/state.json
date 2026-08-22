@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-22T14:25:39.944Z",
+  "lastRun": "2026-08-22T15:25:46.553Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vl2u9g/save_90_on_stone_4_souls_on_steam_1/",
-        "postedAt": "2026-08-11T02:02:39.929Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vl2dzf/seven_suns_of_orion_424_15_off/",
-        "postedAt": "2026-08-11T02:02:39.929Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vl7ybg/save_90_on_yokus_island_express_199/",
         "postedAt": "2026-08-11T05:55:14.397Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vvcopx/save_65_on_the_world_ends_in_ohio_139/",
         "postedAt": "2026-08-22T14:25:39.944Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vveup5/save_25_on_menace_on_steam/",
+        "postedAt": "2026-08-22T15:25:46.553Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vveubr/save_38_on_how_to_fish_on_steam/",
+        "postedAt": "2026-08-22T15:25:46.553Z"
       }
     ],
     "steam_sales": [
@@ -1137,7 +1137,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vvcopx/save_65_on_the_world_ends_in_ohio_139/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vveubr/save_38_on_how_to_fish_on_steam/",
     "steam_sales": "sale_2679460",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
