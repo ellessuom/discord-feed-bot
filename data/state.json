@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-22T21:25:46.557Z",
+  "lastRun": "2026-08-22T22:26:23.711Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vl58y3/save_95_on_beyond_two_souls_on_steam_lowest/",
-        "postedAt": "2026-08-11T05:55:14.397Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vl4yjq/save_95_on_dustborn_on_steam_new_historic_low_15/",
-        "postedAt": "2026-08-11T07:15:00.154Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vlll0u/save_30_on_black_myth_wukong_on_steam_lowest/",
         "postedAt": "2026-08-11T17:01:02.343Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vvo4qj/steam_voyager_079_usd_60_off/",
         "postedAt": "2026-08-22T21:25:46.557Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vvpqo8/save_80_on_eternal_threads_399/",
+        "postedAt": "2026-08-22T22:26:23.711Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vvoyn4/save_80_on_the_pathless_on_steam_new_historical/",
+        "postedAt": "2026-08-22T22:26:23.711Z"
       }
     ],
     "steam_sales": [
@@ -1137,7 +1137,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vvo4qj/steam_voyager_079_usd_60_off/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vvoyn4/save_80_on_the_pathless_on_steam_new_historical/",
     "steam_sales": "sale_2679460",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
