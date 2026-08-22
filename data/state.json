@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-21T23:27:49.809Z",
+  "lastRun": "2026-08-22T01:26:23.387Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,14 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1086940",
-        "postedAt": "2026-07-30T08:34:17.947Z"
-      },
-      {
-        "id": "sale_3934270",
-        "postedAt": "2026-07-30T16:38:48.060Z"
-      },
-      {
         "id": "sale_1097840",
         "postedAt": "2026-07-30T16:38:48.060Z"
       },
@@ -804,6 +796,14 @@
       {
         "id": "sale_3817250",
         "postedAt": "2026-08-21T18:42:08.554Z"
+      },
+      {
+        "id": "sale_1868140",
+        "postedAt": "2026-08-22T01:26:23.387Z"
+      },
+      {
+        "id": "sale_3345950",
+        "postedAt": "2026-08-22T01:26:23.387Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1138,7 +1138,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vuvola/save_75_on_jump_king_on_steam_new_historical_low/",
-    "steam_sales": "sale_3817250",
+    "steam_sales": "sale_3345950",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
