@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-23T20:28:01.344Z",
+  "lastRun": "2026-08-23T23:24:57.105Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vn6i60/save_80_on_way_of_the_hunter/",
-        "postedAt": "2026-08-13T13:21:16.290Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vn4ypt/save_30_on_omni_growth_on_steam/",
         "postedAt": "2026-08-13T13:21:16.290Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vwh1ot/save_40_on_blue_prince_on_steam/",
         "postedAt": "2026-08-23T20:28:01.344Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vwm7f8/save_75_on_max_payne_2_the_fall_of_max_payne_on/",
+        "postedAt": "2026-08-23T23:24:57.105Z"
       }
     ],
     "steam_sales": [
@@ -1169,7 +1169,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vwh1ot/save_40_on_blue_prince_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vwm7f8/save_75_on_max_payne_2_the_fall_of_max_payne_on/",
     "steam_sales": "sale_1569580",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
