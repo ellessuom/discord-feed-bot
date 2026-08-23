@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-22T22:26:23.711Z",
+  "lastRun": "2026-08-23T01:40:42.502Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vlll0u/save_30_on_black_myth_wukong_on_steam_lowest/",
-        "postedAt": "2026-08-11T17:01:02.343Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vlpl8m/save_30_on_idle_deepcore_an_incremental_game/",
         "postedAt": "2026-08-11T19:07:13.494Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vvoyn4/save_80_on_the_pathless_on_steam_new_historical/",
         "postedAt": "2026-08-22T22:26:23.711Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vvtpbu/save_85_on_road_redemption_on_steam/",
+        "postedAt": "2026-08-23T01:40:42.502Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4108000",
-        "postedAt": "2026-07-30T16:38:48.060Z"
-      },
       {
         "id": "sale_2651280",
         "postedAt": "2026-07-30T18:19:24.295Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2679460",
         "postedAt": "2026-08-22T02:57:38.947Z"
+      },
+      {
+        "id": "sale_1332010",
+        "postedAt": "2026-08-23T01:40:42.502Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1137,8 +1137,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vvoyn4/save_80_on_the_pathless_on_steam_new_historical/",
-    "steam_sales": "sale_2679460",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vvtpbu/save_85_on_road_redemption_on_steam/",
+    "steam_sales": "sale_1332010",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
   }
