@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-23T13:35:23.734Z",
+  "lastRun": "2026-08-23T19:25:01.969Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vml7l8/save_70_on_kingdom_hearts_hd_1525_remix_1499_new/",
-        "postedAt": "2026-08-12T18:02:21.584Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vml0q4/my_game_putt_down_is_50_349_off_on_steam/",
         "postedAt": "2026-08-12T18:02:21.584Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vw6xxy/beyond_solar_149_85_off/",
         "postedAt": "2026-08-23T13:35:23.734Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vwfkps/save_90_on_kona_149/",
+        "postedAt": "2026-08-23T19:25:01.969Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1817190",
-        "postedAt": "2026-07-30T20:16:55.185Z"
-      },
       {
         "id": "sale_3164500",
         "postedAt": "2026-07-30T22:09:37.202Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_4005220",
         "postedAt": "2026-08-23T08:35:17.545Z"
+      },
+      {
+        "id": "sale_1569580",
+        "postedAt": "2026-08-23T19:25:01.969Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1078,6 +1078,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
         "postedAt": "2026-08-21T11:31:00.954Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vwg8nd/sonys_playstation_terms_of_service_reminder_email/",
+        "postedAt": "2026-08-23T19:25:01.969Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vwdi8w/former_rockstar_games_lead_says_gta_6_leaks_are_a/",
+        "postedAt": "2026-08-23T19:25:01.969Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vw7hwr/sony_sends_out_email_reminding_playstation_users/",
+        "postedAt": "2026-08-23T19:25:01.969Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1vw64w3/redfall_developers_begged_microsoft_to_come_back/",
+        "postedAt": "2026-08-23T19:25:01.969Z"
       }
     ],
     "steam_2073850": [
@@ -1137,9 +1153,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vw6xxy/beyond_solar_149_85_off/",
-    "steam_sales": "sale_4005220",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vwfkps/save_90_on_kona_149/",
+    "steam_sales": "sale_1569580",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vw64w3/redfall_developers_begged_microsoft_to_come_back/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
   }
 }
