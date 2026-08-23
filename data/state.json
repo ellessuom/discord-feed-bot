@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-08-23T08:35:17.545Z",
+  "lastRun": "2026-08-23T09:31:43.853Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vlpl8m/save_30_on_idle_deepcore_an_incremental_game/",
-        "postedAt": "2026-08-11T19:07:13.494Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vm0nip/save_74_on_ww2_rebuilder_on_steam_lowest/",
         "postedAt": "2026-08-12T02:19:35.165Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vvtpbu/save_85_on_road_redemption_on_steam/",
         "postedAt": "2026-08-23T01:40:42.502Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vw16vn/save_90_on_homefront_199/",
+        "postedAt": "2026-08-23T09:31:43.853Z"
       }
     ],
     "steam_sales": [
@@ -1137,7 +1137,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vvtpbu/save_85_on_road_redemption_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vw16vn/save_90_on_homefront_199/",
     "steam_sales": "sale_4005220",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
