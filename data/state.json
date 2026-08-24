@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-24T20:35:07.424Z",
+  "lastRun": "2026-08-24T21:33:35.299Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vnnwwd/save_65_on_persona_3_reload_on_steam_match_low/",
-        "postedAt": "2026-08-13T21:51:18.975Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vnnhmh/save_60_on_sonic_racing_crossworlds_on_steam/",
-        "postedAt": "2026-08-13T21:51:18.975Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vnngh2/yakuza_0_directors_cut_on_steam_45_off_historical/",
-        "postedAt": "2026-08-13T21:51:18.975Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vnu35a/save_60_on_sonic_racing_crossworlds_on_steam/",
-        "postedAt": "2026-08-14T02:19:38.456Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vnu2v5/save_50_on_demon_slayer_kimetsu_no_yaiba_the/",
         "postedAt": "2026-08-14T02:19:38.456Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vwz1f8/save_90_on_sherlock_holmes_crimes_and_punishments/",
         "postedAt": "2026-08-24T14:49:57.584Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxf4vk/save_100_on_dokimon_quest_free/",
+        "postedAt": "2026-08-24T21:33:35.299Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxaq2x/save_67_on_norco_on_steam/",
+        "postedAt": "2026-08-24T21:33:35.299Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vx8th4/save_90_on_control_ultimate_edition_on_steam/",
+        "postedAt": "2026-08-24T21:33:35.299Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vx8mta/save_60_on_atomfall_on_steam/",
+        "postedAt": "2026-08-24T21:33:35.299Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3293260",
-        "postedAt": "2026-07-31T17:43:37.759Z"
-      },
-      {
-        "id": "sale_2059170",
-        "postedAt": "2026-07-31T19:40:52.148Z"
-      },
       {
         "id": "sale_393380",
         "postedAt": "2026-07-31T23:05:59.174Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_2680010",
         "postedAt": "2026-08-24T20:35:07.424Z"
+      },
+      {
+        "id": "sale_801800",
+        "postedAt": "2026-08-24T21:33:35.299Z"
+      },
+      {
+        "id": "sale_302510",
+        "postedAt": "2026-08-24T21:33:35.299Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1149,8 +1149,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vwz1f8/save_90_on_sherlock_holmes_crimes_and_punishments/",
-    "steam_sales": "sale_2680010",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vx8mta/save_60_on_atomfall_on_steam/",
+    "steam_sales": "sale_302510",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
   }
