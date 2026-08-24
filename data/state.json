@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-24T16:42:41.996Z",
+  "lastRun": "2026-08-24T17:34:28.283Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3282300",
-        "postedAt": "2026-07-31T07:53:06.203Z"
-      },
-      {
         "id": "sale_1222680",
         "postedAt": "2026-07-31T07:53:06.203Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_1336490",
         "postedAt": "2026-08-24T16:42:41.996Z"
+      },
+      {
+        "id": "sale_4075620",
+        "postedAt": "2026-08-24T17:34:28.283Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1150,7 +1150,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vwz1f8/save_90_on_sherlock_holmes_crimes_and_punishments/",
-    "steam_sales": "sale_1336490",
+    "steam_sales": "sale_4075620",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
   }
