@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-24T13:56:28.540Z",
+  "lastRun": "2026-08-24T14:49:57.584Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vnhvsx/save_75_on_gears_of_war_reloaded_on_steam_999/",
-        "postedAt": "2026-08-13T18:02:36.865Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vnhbh3/save_100_on_deponia_free/",
-        "postedAt": "2026-08-13T18:02:36.865Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vnh1ec/save_40_on_die_in_the_dungeon_899/",
-        "postedAt": "2026-08-13T18:02:36.865Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vnhgbk/save_40_on_zero_sievert_1199_new_hl/",
-        "postedAt": "2026-08-13T19:56:53.004Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vnnwwd/save_65_on_persona_3_reload_on_steam_match_low/",
         "postedAt": "2026-08-13T21:51:18.975Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vww4bb/save_75_on_call_of_duty_modern_warfare_iii_on/",
         "postedAt": "2026-08-24T13:56:28.540Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vx23qe/save_30_on_stalker_2_heart_of_chornobyl_on_steam/",
+        "postedAt": "2026-08-24T14:49:57.584Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vwzpgr/my_indie_game_mycosis_is_75_off_on_steam_made/",
+        "postedAt": "2026-08-24T14:49:57.584Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vwz20h/save_88_on_pumpkin_jack_on_steam/",
+        "postedAt": "2026-08-24T14:49:57.584Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vwz1f8/save_90_on_sherlock_holmes_crimes_and_punishments/",
+        "postedAt": "2026-08-24T14:49:57.584Z"
       }
     ],
     "steam_sales": [
@@ -1149,7 +1149,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vww4bb/save_75_on_call_of_duty_modern_warfare_iii_on/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vwz1f8/save_90_on_sherlock_holmes_crimes_and_punishments/",
     "steam_sales": "sale_1569580",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
