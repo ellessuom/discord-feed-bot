@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-23T23:24:57.105Z",
+  "lastRun": "2026-08-24T13:56:28.540Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vn4ypt/save_30_on_omni_growth_on_steam/",
-        "postedAt": "2026-08-13T13:21:16.290Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vmzx6y/save_65_on_untitled_goose_game_on_steam/",
-        "postedAt": "2026-08-13T13:21:16.290Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vmwanv/save_83_on_ea_play_on_steam_099/",
-        "postedAt": "2026-08-13T13:21:16.290Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vni1os/save_50_on_kaiserpunk_on_steam_daily_deal/",
-        "postedAt": "2026-08-13T18:02:36.865Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vnhvsx/save_75_on_gears_of_war_reloaded_on_steam_999/",
         "postedAt": "2026-08-13T18:02:36.865Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vwm7f8/save_75_on_max_payne_2_the_fall_of_max_payne_on/",
         "postedAt": "2026-08-23T23:24:57.105Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vwz2ku/save_90_on_postal_2_on_steam/",
+        "postedAt": "2026-08-24T13:56:28.540Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vwyb5h/save_70_on_vanquish_on_steam/",
+        "postedAt": "2026-08-24T13:56:28.540Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vww559/save_90_on_clash_artifacts_of_chaos_on_steam/",
+        "postedAt": "2026-08-24T13:56:28.540Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vww4bb/save_75_on_call_of_duty_modern_warfare_iii_on/",
+        "postedAt": "2026-08-24T13:56:28.540Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1v61sfv/cory_barlog_confirms_the_next_god_of_war_game/",
-        "postedAt": "2026-07-25T11:15:01.351Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1v5xivz/playstation_network_back_online_after_outage/",
-        "postedAt": "2026-07-25T11:15:01.351Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1v58dzy/we_still_value_the_culture_of_physical_media_as/",
-        "postedAt": "2026-07-25T11:15:01.351Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1v584lq/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-07-25T11:15:01.351Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1v8loxj/even_japans_patent_officials_seem_exhausted_with/",
         "postedAt": "2026-07-28T08:42:02.508Z"
       },
@@ -1114,10 +1098,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/677376450273214936",
-        "postedAt": "2026-07-25T11:15:01.351Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/683003412174864962",
         "postedAt": "2026-07-27T12:28:26.291Z"
       },
@@ -1169,7 +1149,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vwm7f8/save_75_on_max_payne_2_the_fall_of_max_payne_on/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vww4bb/save_75_on_call_of_duty_modern_warfare_iii_on/",
     "steam_sales": "sale_1569580",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
