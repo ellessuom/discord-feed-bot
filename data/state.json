@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-25T06:55:20.962Z",
+  "lastRun": "2026-08-25T07:48:38.548Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vnu162/save_43_on_simrail_the_railway_simulator_on_steam/",
-        "postedAt": "2026-08-14T10:07:34.956Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vo9bff/glyphica_typing_survival_69930_off/",
-        "postedAt": "2026-08-14T14:55:32.511Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1voda2p/save_50_on_static_dread_the_lighthouse_on_steam/",
-        "postedAt": "2026-08-14T19:06:52.056Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1voc7xw/save_80_on_hammerwatch_195/",
-        "postedAt": "2026-08-14T19:06:52.056Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1voa212/idle_deepcore_30_discount/",
         "postedAt": "2026-08-14T19:06:52.056Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vxjymo/my_game_zona_project_x_vr_is_80_off_on_steam/",
         "postedAt": "2026-08-25T06:55:20.962Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxt07l/save_89_on_tomb_raider_anniversary_on_steam/",
+        "postedAt": "2026-08-25T07:48:38.548Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxsyxn/save_90_on_saints_row_the_third_remastered_on/",
+        "postedAt": "2026-08-25T07:48:38.548Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxsuoi/save_40_on_dice_of_kalma_on_steam/",
+        "postedAt": "2026-08-25T07:48:38.548Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxjz2l/save_50_on_one_more_dungeon_on_steam/",
+        "postedAt": "2026-08-25T07:48:38.548Z"
       }
     ],
     "steam_sales": [
@@ -1149,7 +1149,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vxjymo/my_game_zona_project_x_vr_is_80_off_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vxjz2l/save_50_on_one_more_dungeon_on_steam/",
     "steam_sales": "sale_3321460",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
