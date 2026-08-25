@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-25T01:33:59.637Z",
+  "lastRun": "2026-08-25T06:55:20.962Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vnu2jk/save_25_on_ice_cream_simulator_on_steam_lowest/",
-        "postedAt": "2026-08-14T06:17:28.454Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vnu25p/save_30_on_terrinoth_heroes_of_descent_on_steam/",
-        "postedAt": "2026-08-14T06:17:28.454Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vnu1r3/save_60_on_football_manager_26_on_steam_lowest/",
-        "postedAt": "2026-08-14T06:17:28.454Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vnu1fx/save_88_on_succubus_on_steam_lowest/",
-        "postedAt": "2026-08-14T10:07:34.956Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vnu162/save_43_on_simrail_the_railway_simulator_on_steam/",
         "postedAt": "2026-08-14T10:07:34.956Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vxeqo9/save_25_on_grunn_on_steam/",
         "postedAt": "2026-08-24T22:30:39.395Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxqye1/save_20_on_crimson_desert_on_steam_historical_low/",
+        "postedAt": "2026-08-25T06:55:20.962Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxogi0/save_40_on_unwanted_dungeon_on_steam/",
+        "postedAt": "2026-08-25T06:55:20.962Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxk17a/save_50_on_shadow_of_loot_box_on_steam/",
+        "postedAt": "2026-08-25T06:55:20.962Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxjymo/my_game_zona_project_x_vr_is_80_off_on_steam/",
+        "postedAt": "2026-08-25T06:55:20.962Z"
       }
     ],
     "steam_sales": [
@@ -1149,7 +1149,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vxeqo9/save_25_on_grunn_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vxjymo/my_game_zona_project_x_vr_is_80_off_on_steam/",
     "steam_sales": "sale_3321460",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
