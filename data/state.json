@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-25T10:37:08.957Z",
+  "lastRun": "2026-08-25T11:32:13.798Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1voq1f4/save_40_on_mafia_the_old_country_on_steam/",
-        "postedAt": "2026-08-15T02:55:17.730Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1voxozf/save_85_on_automachef_deluxe_254/",
-        "postedAt": "2026-08-15T09:29:53.829Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vow9t4/save_60_on_mafia_the_omertà_collection_on_steam/",
-        "postedAt": "2026-08-15T09:29:53.829Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vpy5i0/save_66_on_nice_day_for_fishing_679/",
-        "postedAt": "2026-08-16T15:26:09.881Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vq0nxn/developer_monster_collector_roguelike_dragn/",
         "postedAt": "2026-08-16T16:30:01.572Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vxvjjf/save_25_on_smash_hit_museum_on_steam/",
         "postedAt": "2026-08-25T10:37:08.957Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxx1fd/save_87_on_car_mechanic_simulator_2021_on_steam/",
+        "postedAt": "2026-08-25T11:32:13.798Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxwvss/save_50_on_teardown_on_steam/",
+        "postedAt": "2026-08-25T11:32:13.798Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxwlmu/save_71_on_ryse_son_of_rome_on_steam/",
+        "postedAt": "2026-08-25T11:32:13.798Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxwb3h/save_67_on_hero_siege_on_steam/",
+        "postedAt": "2026-08-25T11:32:13.798Z"
       }
     ],
     "steam_sales": [
@@ -1149,7 +1149,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vxvjjf/save_25_on_smash_hit_museum_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vxwb3h/save_67_on_hero_siege_on_steam/",
     "steam_sales": "sale_391220",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
