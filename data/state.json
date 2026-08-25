@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-25T07:48:38.548Z",
+  "lastRun": "2026-08-25T10:37:08.957Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1voa212/idle_deepcore_30_discount/",
-        "postedAt": "2026-08-14T19:06:52.056Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1voj8t0/10_of_on_it_never_ends/",
-        "postedAt": "2026-08-14T21:28:50.830Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1voq1f4/save_40_on_mafia_the_old_country_on_steam/",
         "postedAt": "2026-08-15T02:55:17.730Z"
@@ -402,21 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vxjz2l/save_50_on_one_more_dungeon_on_steam/",
         "postedAt": "2026-08-25T07:48:38.548Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxvtz6/save_75_on_euro_truck_simulator_2_on_steam/",
+        "postedAt": "2026-08-25T10:37:08.957Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vxvjjf/save_25_on_smash_hit_museum_on_steam/",
+        "postedAt": "2026-08-25T10:37:08.957Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2001120",
-        "postedAt": "2026-08-01T11:20:28.714Z"
-      },
-      {
-        "id": "sale_3156770",
-        "postedAt": "2026-08-03T21:08:24.465Z"
-      },
-      {
-        "id": "sale_3404260",
-        "postedAt": "2026-08-03T23:06:38.966Z"
-      },
       {
         "id": "sale_1478500",
         "postedAt": "2026-08-04T14:26:19.869Z"
@@ -804,6 +792,18 @@
       {
         "id": "sale_3321460",
         "postedAt": "2026-08-25T01:33:59.637Z"
+      },
+      {
+        "id": "sale_1144400",
+        "postedAt": "2026-08-25T10:37:08.957Z"
+      },
+      {
+        "id": "sale_346110",
+        "postedAt": "2026-08-25T10:37:08.957Z"
+      },
+      {
+        "id": "sale_391220",
+        "postedAt": "2026-08-25T10:37:08.957Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1149,8 +1149,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vxjz2l/save_50_on_one_more_dungeon_on_steam/",
-    "steam_sales": "sale_3321460",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vxvjjf/save_25_on_smash_hit_museum_on_steam/",
+    "steam_sales": "sale_391220",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
   }
