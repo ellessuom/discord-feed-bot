@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-08-26T13:00:10.724Z",
+  "lastRun": "2026-08-26T16:22:10.436Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vrccsp/save_90_on_metro_2033/",
-        "postedAt": "2026-08-18T02:59:19.389Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vra26h/save_65_on_indika_on_steam_new_historical_low/",
-        "postedAt": "2026-08-18T02:59:19.389Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vr9qre/save_95_on_zombie_army_4_dead_war/",
         "postedAt": "2026-08-18T02:59:19.389Z"
@@ -402,13 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vypoej/save_70_on_another_world_adventures_on_steam/",
         "postedAt": "2026-08-26T07:51:34.927Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vz0h06/save_88_on_eufloria_classic_on_steam_095/",
+        "postedAt": "2026-08-26T16:22:10.436Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1vyzei3/save_50_on_kings_blade_on_steam_449/",
+        "postedAt": "2026-08-26T16:22:10.436Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3904850",
-        "postedAt": "2026-08-07T03:52:32.589Z"
-      },
       {
         "id": "sale_2231380",
         "postedAt": "2026-08-07T10:56:35.174Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2634950",
         "postedAt": "2026-08-26T13:00:10.724Z"
+      },
+      {
+        "id": "sale_4423580",
+        "postedAt": "2026-08-26T16:22:10.436Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1145,8 +1145,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vypoej/save_70_on_another_world_adventures_on_steam/",
-    "steam_sales": "sale_2634950",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vyzei3/save_50_on_kings_blade_on_steam_449/",
+    "steam_sales": "sale_4423580",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
   }
