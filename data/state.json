@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-26T05:37:52.654Z",
+  "lastRun": "2026-08-26T06:56:15.371Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1627720",
-        "postedAt": "2026-08-05T23:04:31.178Z"
-      },
-      {
         "id": "sale_2950790",
         "postedAt": "2026-08-07T00:42:18.946Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_954740",
         "postedAt": "2026-08-26T04:44:12.502Z"
+      },
+      {
+        "id": "sale_1551360",
+        "postedAt": "2026-08-26T06:56:15.371Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1150,7 +1150,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vyn910/save_80_on_prison_architect_499/",
-    "steam_sales": "sale_954740",
+    "steam_sales": "sale_1551360",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/704400583238353132"
   }
