@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-28T01:23:26.372Z",
+  "lastRun": "2026-08-28T23:57:40.626Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vt3p9d/save_40_on_wasted_bloodline_on_steam/",
-        "postedAt": "2026-08-20T03:00:39.340Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vsy1bo/save_90_on_amnesia_the_dark_descent_195/",
-        "postedAt": "2026-08-20T03:00:39.340Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vsw0kx/save_85_on_lost_horizon_149/",
-        "postedAt": "2026-08-20T03:00:39.340Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vtrxzl/save_30_350_on_eclipsed_remnant/",
-        "postedAt": "2026-08-20T18:45:52.510Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vtz9ds/save_35_on_eclipsium_on_steam_new_historical_low/",
         "postedAt": "2026-08-20T23:29:26.216Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w003ch/save_90_on_röki_219/",
         "postedAt": "2026-08-28T01:23:26.372Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w154or/save_90_on_superepic_the_entertainment_war_on/",
+        "postedAt": "2026-08-28T23:57:40.626Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w0p99v/save_90_on_moving_out_deluxe_edition_339/",
+        "postedAt": "2026-08-28T23:57:40.626Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w0l2ot/sector_zero_is_20_off_till_5th_september_319/",
+        "postedAt": "2026-08-28T23:57:40.626Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w0k1rf/save_60_on_the_henry_stickmin_collection_on_steam/",
+        "postedAt": "2026-08-28T23:57:40.626Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2057760",
-        "postedAt": "2026-08-10T21:46:43.505Z"
-      },
-      {
-        "id": "sale_1687950",
-        "postedAt": "2026-08-10T23:39:03.420Z"
-      },
       {
         "id": "sale_1222140",
         "postedAt": "2026-08-11T02:02:39.929Z"
@@ -804,25 +796,17 @@
       {
         "id": "sale_1363080",
         "postedAt": "2026-08-28T01:23:26.372Z"
+      },
+      {
+        "id": "sale_1331550",
+        "postedAt": "2026-08-28T23:57:40.626Z"
+      },
+      {
+        "id": "sale_3722330",
+        "postedAt": "2026-08-28T23:57:40.626Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1v9yb4t/tham_luang_cave_vr_map_underwater_cave_diving/",
-        "postedAt": "2026-07-29T21:01:01.121Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1v9xjod/subnautica_and_pubg_franchises_drive_krafton_q2/",
-        "postedAt": "2026-07-29T21:01:01.121Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1v9whd6/pokémon_pokopia_expansion_pass_extended_trailer/",
-        "postedAt": "2026-07-29T21:01:01.121Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1v9lrml/only_the_survival_of_our_studio_would_make_us/",
-        "postedAt": "2026-07-29T21:01:01.121Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vcxtnk/sony_doubles_down_on_axing_physical_game_discs/",
         "postedAt": "2026-08-02T03:46:01.074Z"
@@ -1133,8 +1117,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w003ch/save_90_on_röki_219/",
-    "steam_sales": "sale_1363080",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w0k1rf/save_60_on_the_henry_stickmin_collection_on_steam/",
+    "steam_sales": "sale_3722330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508056965808434"
   }
