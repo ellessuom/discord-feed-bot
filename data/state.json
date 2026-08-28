@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-27T16:17:32.850Z",
+  "lastRun": "2026-08-28T01:23:26.372Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vrr5n5/my_game_author_sim_releases_with_a_10_discount_a/",
-        "postedAt": "2026-08-18T15:35:26.893Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vrzpm2/save_90_on_homefront_the_revolution_199/",
-        "postedAt": "2026-08-18T20:28:47.199Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vrx7k4/save_20_on_vice_vision_runner_on_steam_post_by/",
-        "postedAt": "2026-08-19T05:34:24.447Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vt6sb6/my_game_mothership_down_20_off_release_discount/",
-        "postedAt": "2026-08-20T03:00:39.340Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vt3p9d/save_40_on_wasted_bloodline_on_steam/",
         "postedAt": "2026-08-20T03:00:39.340Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vztl8r/my_game_decay_is_now_available_on_steam_with_a_15/",
         "postedAt": "2026-08-27T16:17:32.850Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w06qbz/save_60_on_powerwash_simulator/",
+        "postedAt": "2026-08-28T01:23:26.372Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w06j24/save_60_on_the_rogue_prince_of_persia/",
+        "postedAt": "2026-08-28T01:23:26.372Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w02b6l/save_60_on_cocoon_on_steam_historical_low_919_999/",
+        "postedAt": "2026-08-28T01:23:26.372Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w003ch/save_90_on_röki_219/",
+        "postedAt": "2026-08-28T01:23:26.372Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_53403",
-        "postedAt": "2026-08-10T06:12:42.520Z"
-      },
-      {
-        "id": "sale_1067360",
-        "postedAt": "2026-08-10T17:55:22.408Z"
-      },
       {
         "id": "sale_2057760",
         "postedAt": "2026-08-10T21:46:43.505Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_3718190",
         "postedAt": "2026-08-27T16:17:32.850Z"
+      },
+      {
+        "id": "sale_990080",
+        "postedAt": "2026-08-28T01:23:26.372Z"
+      },
+      {
+        "id": "sale_1363080",
+        "postedAt": "2026-08-28T01:23:26.372Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1133,8 +1133,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1vztl8r/my_game_decay_is_now_available_on_steam_with_a_15/",
-    "steam_sales": "sale_3718190",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w003ch/save_90_on_röki_219/",
+    "steam_sales": "sale_1363080",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508056965808434"
   }
