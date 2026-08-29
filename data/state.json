@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-29T13:07:00.265Z",
+  "lastRun": "2026-08-29T17:36:29.486Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vtz9ds/save_35_on_eclipsium_on_steam_new_historical_low/",
-        "postedAt": "2026-08-20T23:29:26.216Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vu5yal/save_85_on_total_war_warhammer_iii/",
-        "postedAt": "2026-08-21T04:42:22.249Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vu6m1y/save_90_on_clid_the_snail_199/",
-        "postedAt": "2026-08-21T05:36:25.117Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vuatni/save_88_on_wayfinder_on_steam/",
-        "postedAt": "2026-08-21T10:34:25.064Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vuf0ri/save_75_on_gears_tactics_on_steam_historical_low/",
         "postedAt": "2026-08-21T12:55:55.886Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w0k1rf/save_60_on_the_henry_stickmin_collection_on_steam/",
         "postedAt": "2026-08-28T23:57:40.626Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w1rwly/save_90_on_middleearth_the_shadow_bundle_on_steam/",
+        "postedAt": "2026-08-29T17:36:29.486Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w1nieh/save_86_on_fastraq_69/",
+        "postedAt": "2026-08-29T17:36:29.486Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w1iz31/the_mobius_machine_is_50_off_this_week_999/",
+        "postedAt": "2026-08-29T17:36:29.486Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w1iyk9/dawn_of_man_is_50_off_this_week_1249/",
+        "postedAt": "2026-08-29T17:36:29.486Z"
       }
     ],
     "steam_sales": [
@@ -1117,7 +1117,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w0k1rf/save_60_on_the_henry_stickmin_collection_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w1iyk9/dawn_of_man_is_50_off_this_week_1249/",
     "steam_sales": "sale_3722330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
