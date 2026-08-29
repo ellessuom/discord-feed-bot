@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-28T23:57:40.626Z",
+  "lastRun": "2026-08-29T13:07:00.265Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1066,10 +1066,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/714534317091455556",
-        "postedAt": "2026-07-30T11:11:01.631Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/677376450273218198",
         "postedAt": "2026-08-01T11:20:28.714Z"
       },
@@ -1112,6 +1108,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/678508056965808434",
         "postedAt": "2026-08-27T16:17:32.850Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/714534317091455556",
+        "postedAt": "2026-08-29T13:07:00.265Z"
       }
     ]
   },
@@ -1120,6 +1120,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w0k1rf/save_60_on_the_henry_stickmin_collection_on_steam/",
     "steam_sales": "sale_3722330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508056965808434"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
   }
 }
