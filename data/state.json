@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-08-31T21:49:54.602Z",
+  "lastRun": "2026-09-01T01:07:41.407Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vvoyn4/save_80_on_the_pathless_on_steam_new_historical/",
-        "postedAt": "2026-08-22T22:26:23.711Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vvtpbu/save_85_on_road_redemption_on_steam/",
-        "postedAt": "2026-08-23T01:40:42.502Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vw16vn/save_90_on_homefront_199/",
-        "postedAt": "2026-08-23T09:31:43.853Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vw2tk0/save_87_on_car_mechanic_simulator_2021_on_steam/",
-        "postedAt": "2026-08-23T10:27:52.080Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vw2t6l/save_85_on_animal_shelter_on_steam/",
         "postedAt": "2026-08-23T10:27:52.081Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w3k0pj/save_33_on_project_zomboid_on_steam/",
         "postedAt": "2026-08-31T21:49:54.602Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w3vjmy/30_off_palworld_2099_usd/",
+        "postedAt": "2026-09-01T01:07:41.407Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w3td2i/save_67_on_pacific_drive_on_steam/",
+        "postedAt": "2026-09-01T01:07:41.407Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w3n4mc/save_50_on_toyful_wonderworld_now_only_249/",
+        "postedAt": "2026-09-01T01:07:41.407Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w3m8bo/save_80_on_beyond_contact_399/",
+        "postedAt": "2026-09-01T01:07:41.407Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3929470",
-        "postedAt": "2026-08-11T19:07:13.494Z"
-      },
-      {
-        "id": "sale_553850",
-        "postedAt": "2026-08-11T22:49:08.810Z"
-      },
       {
         "id": "sale_2552430",
         "postedAt": "2026-08-12T21:51:42.608Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_2412960",
         "postedAt": "2026-08-31T21:49:54.602Z"
+      },
+      {
+        "id": "sale_962130",
+        "postedAt": "2026-09-01T01:07:41.407Z"
+      },
+      {
+        "id": "sale_251570",
+        "postedAt": "2026-09-01T01:07:41.407Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1113,8 +1113,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w3k0pj/save_33_on_project_zomboid_on_steam/",
-    "steam_sales": "sale_2412960",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w3m8bo/save_80_on_beyond_contact_399/",
+    "steam_sales": "sale_251570",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
   }
