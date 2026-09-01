@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-01T07:32:46.183Z",
+  "lastRun": "2026-09-01T13:19:01.948Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vw2t6l/save_85_on_animal_shelter_on_steam/",
-        "postedAt": "2026-08-23T10:27:52.081Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vw2sp8/save_94_on_ultimate_fishing_simulator_on_steam/",
-        "postedAt": "2026-08-23T10:27:52.081Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vw4gu6/save_70_on_strange_horticulture_on_steam/",
-        "postedAt": "2026-08-23T11:24:24.622Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vw5hb0/save_90_on_robocop_rogue_city_alex_murphy_edition/",
-        "postedAt": "2026-08-23T12:48:47.563Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vw4toz/save_40_on_tekken_8_on_steam/",
         "postedAt": "2026-08-23T12:48:47.563Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w3m8bo/save_80_on_beyond_contact_399/",
         "postedAt": "2026-09-01T01:07:41.407Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w4aipo/unreal_world_290_80_off/",
+        "postedAt": "2026-09-01T13:19:01.948Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w41zc2/save_80_on_the_escapists_299/",
+        "postedAt": "2026-09-01T13:19:01.948Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w3qr7m/save_75_on_ark_survival_ascended_on_steam/",
+        "postedAt": "2026-09-01T13:19:01.948Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w3kz5f/steam_plantera_2_golden_acorn_63_off_184/",
+        "postedAt": "2026-09-01T13:19:01.948Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2552450",
-        "postedAt": "2026-08-12T21:51:42.608Z"
-      },
       {
         "id": "sale_4243990",
         "postedAt": "2026-08-13T11:51:19.087Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_105600",
         "postedAt": "2026-09-01T07:32:46.183Z"
+      },
+      {
+        "id": "sale_1807120",
+        "postedAt": "2026-09-01T13:19:01.948Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1046,6 +1046,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
         "postedAt": "2026-08-23T20:28:01.344Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1w47hgj/the_witcher_4_development_literally_halts_if_a/",
+        "postedAt": "2026-09-01T13:19:01.948Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1w472tg/once_human_console_launch_trailer_xbox_series_xs/",
+        "postedAt": "2026-09-01T13:19:01.948Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1w3kw5m/gta_6_launch_could_cost_us_businesses_1_billion/",
+        "postedAt": "2026-09-01T13:19:01.948Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
+        "postedAt": "2026-09-01T13:19:01.948Z"
       }
     ],
     "steam_2073850": [
@@ -1097,9 +1113,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w3m8bo/save_80_on_beyond_contact_399/",
-    "steam_sales": "sale_105600",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w3kz5f/steam_plantera_2_golden_acorn_63_off_184/",
+    "steam_sales": "sale_1807120",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
   }
 }
