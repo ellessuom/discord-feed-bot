@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-01T13:19:01.948Z",
+  "lastRun": "2026-09-01T17:43:34.525Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vw4toz/save_40_on_tekken_8_on_steam/",
-        "postedAt": "2026-08-23T12:48:47.563Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vw4t9u/save_75_on_american_truck_simulator_on_steam/",
-        "postedAt": "2026-08-23T12:48:47.563Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vw4t2o/save_70_on_crusader_kings_iii_on_steam/",
-        "postedAt": "2026-08-23T12:48:47.563Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vw6xxy/beyond_solar_149_85_off/",
-        "postedAt": "2026-08-23T13:35:23.734Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vwfkps/save_90_on_kona_149/",
         "postedAt": "2026-08-23T19:25:01.969Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w3kz5f/steam_plantera_2_golden_acorn_63_off_184/",
         "postedAt": "2026-09-01T13:19:01.948Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w4icir/save_20_on_007_first_light_on_steam/",
+        "postedAt": "2026-09-01T17:43:34.525Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w4iaap/save_60_on_silent_hill_2_on_steam/",
+        "postedAt": "2026-09-01T17:43:34.525Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w4gkzo/save_90_on_sniper_ghost_warrior_contracts_299/",
+        "postedAt": "2026-09-01T17:43:34.525Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w4d7n2/save_65_on_you_shouldnt_be_here_069_developer/",
+        "postedAt": "2026-09-01T17:43:34.525Z"
       }
     ],
     "steam_sales": [
@@ -1113,7 +1113,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w3kz5f/steam_plantera_2_golden_acorn_63_off_184/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w4d7n2/save_65_on_you_shouldnt_be_here_069_developer/",
     "steam_sales": "sale_1807120",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
