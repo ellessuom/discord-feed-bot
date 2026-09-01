@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-09-01T17:43:34.525Z",
+  "lastRun": "2026-09-01T20:49:40.087Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vwfkps/save_90_on_kona_149/",
-        "postedAt": "2026-08-23T19:25:01.969Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vwhnci/save_80_on_lost_in_play_on_steam/",
-        "postedAt": "2026-08-23T20:28:01.344Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vwh1ot/save_40_on_blue_prince_on_steam/",
-        "postedAt": "2026-08-23T20:28:01.344Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vwm7f8/save_75_on_max_payne_2_the_fall_of_max_payne_on/",
         "postedAt": "2026-08-23T23:24:57.105Z"
@@ -402,17 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w4d7n2/save_65_on_you_shouldnt_be_here_069_developer/",
         "postedAt": "2026-09-01T17:43:34.525Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w4ovwn/save_60_on_another_crabs_treasure_on_steam/",
+        "postedAt": "2026-09-01T20:49:40.087Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w4k2ug/save_33_on_monster_girl_therapy_for_the_first/",
+        "postedAt": "2026-09-01T20:49:40.087Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w402kq/save_50_on_alien_grounds_on_steam/",
+        "postedAt": "2026-09-01T20:49:40.087Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4243990",
-        "postedAt": "2026-08-13T11:51:19.087Z"
-      },
-      {
-        "id": "sale_3636770",
-        "postedAt": "2026-08-13T13:21:16.290Z"
-      },
       {
         "id": "sale_2764460",
         "postedAt": "2026-08-13T16:59:57.120Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_1807120",
         "postedAt": "2026-09-01T13:19:01.948Z"
+      },
+      {
+        "id": "sale_1488462",
+        "postedAt": "2026-09-01T20:49:40.087Z"
+      },
+      {
+        "id": "sale_3905450",
+        "postedAt": "2026-09-01T20:49:40.087Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1113,8 +1113,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w4d7n2/save_65_on_you_shouldnt_be_here_069_developer/",
-    "steam_sales": "sale_1807120",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w402kq/save_50_on_alien_grounds_on_steam/",
+    "steam_sales": "sale_3905450",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
   }
