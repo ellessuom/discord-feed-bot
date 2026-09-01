@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-01T01:07:41.407Z",
+  "lastRun": "2026-09-01T07:32:46.183Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_2552430",
-        "postedAt": "2026-08-12T21:51:42.608Z"
-      },
-      {
         "id": "sale_2552450",
         "postedAt": "2026-08-12T21:51:42.608Z"
       },
@@ -804,25 +800,13 @@
       {
         "id": "sale_251570",
         "postedAt": "2026-09-01T01:07:41.407Z"
+      },
+      {
+        "id": "sale_105600",
+        "postedAt": "2026-09-01T07:32:46.183Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vcxtnk/sony_doubles_down_on_axing_physical_game_discs/",
-        "postedAt": "2026-08-02T03:46:01.074Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vchewu/guillermo_del_toro_wants_extra_checkpoints_for/",
-        "postedAt": "2026-08-02T03:46:01.074Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vcghn3/the_ps6_and_next_xbox_will_still_probably_cost/",
-        "postedAt": "2026-08-02T03:46:01.074Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vbnpx7/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-08-02T03:46:01.074Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vf2o25/its_too_much_valve_insider_warns_steam_frame/",
         "postedAt": "2026-08-04T11:28:01.212Z"
@@ -1114,7 +1098,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w3m8bo/save_80_on_beyond_contact_399/",
-    "steam_sales": "sale_251570",
+    "steam_sales": "sale_105600",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1vv63tc/after_pushing_gamers_to_all_digital_some/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
   }
