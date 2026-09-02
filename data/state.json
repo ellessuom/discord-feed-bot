@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-09-02T13:26:44.365Z",
+  "lastRun": "2026-09-02T17:46:10.862Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vww4bb/save_75_on_call_of_duty_modern_warfare_iii_on/",
-        "postedAt": "2026-08-24T13:56:28.540Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vx23qe/save_30_on_stalker_2_heart_of_chornobyl_on_steam/",
-        "postedAt": "2026-08-24T14:49:57.584Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vwzpgr/my_indie_game_mycosis_is_75_off_on_steam_made/",
-        "postedAt": "2026-08-24T14:49:57.584Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vwz20h/save_88_on_pumpkin_jack_on_steam/",
         "postedAt": "2026-08-24T14:49:57.584Z"
@@ -402,17 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w59qyd/save_82_on_bru_boegie_episode_1_get_da_milk_dev/",
         "postedAt": "2026-09-02T13:26:44.365Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w5hh57/save_80_on_saven_on_steam/",
+        "postedAt": "2026-09-02T17:46:10.862Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w5dm2n/save_80_on_tails_of_iron_499/",
+        "postedAt": "2026-09-02T17:46:10.862Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w5d02j/save_80_on_motogp25/",
+        "postedAt": "2026-09-02T17:46:10.862Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2542020",
-        "postedAt": "2026-08-13T16:59:57.120Z"
-      },
-      {
-        "id": "sale_4208140",
-        "postedAt": "2026-08-13T18:02:36.865Z"
-      },
       {
         "id": "sale_4992070",
         "postedAt": "2026-08-13T18:02:36.865Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_2947440",
         "postedAt": "2026-09-02T03:49:10.913Z"
+      },
+      {
+        "id": "sale_4656000",
+        "postedAt": "2026-09-02T17:46:10.862Z"
+      },
+      {
+        "id": "sale_648800",
+        "postedAt": "2026-09-02T17:46:10.862Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1109,8 +1109,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w59qyd/save_82_on_bru_boegie_episode_1_get_da_milk_dev/",
-    "steam_sales": "sale_2947440",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w5d02j/save_80_on_motogp25/",
+    "steam_sales": "sale_648800",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
   }
