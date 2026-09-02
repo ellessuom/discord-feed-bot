@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-02T17:46:10.862Z",
+  "lastRun": "2026-09-02T20:49:20.048Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vwz20h/save_88_on_pumpkin_jack_on_steam/",
-        "postedAt": "2026-08-24T14:49:57.584Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vwz1f8/save_90_on_sherlock_holmes_crimes_and_punishments/",
-        "postedAt": "2026-08-24T14:49:57.584Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxf4vk/save_100_on_dokimon_quest_free/",
-        "postedAt": "2026-08-24T21:33:35.299Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxaq2x/save_67_on_norco_on_steam/",
-        "postedAt": "2026-08-24T21:33:35.299Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vx8th4/save_90_on_control_ultimate_edition_on_steam/",
         "postedAt": "2026-08-24T21:33:35.299Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w5d02j/save_80_on_motogp25/",
         "postedAt": "2026-09-02T17:46:10.862Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w5mjnm/save_85_on_the_sinking_city_remastered_on_steam/",
+        "postedAt": "2026-09-02T20:49:20.048Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w5k3e5/save_85_on_grim_dawn_on_steam/",
+        "postedAt": "2026-09-02T20:49:20.048Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w5jssu/save_80_on_deaths_door_on_steam/",
+        "postedAt": "2026-09-02T20:49:20.048Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w5ixb2/save_40_on_the_séance_of_blake_manor_on_steam_new/",
+        "postedAt": "2026-09-02T20:49:20.048Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4992070",
-        "postedAt": "2026-08-13T18:02:36.865Z"
-      },
       {
         "id": "sale_3315060",
         "postedAt": "2026-08-13T19:56:53.003Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_648800",
         "postedAt": "2026-09-02T17:46:10.862Z"
+      },
+      {
+        "id": "sale_2350790",
+        "postedAt": "2026-09-02T20:49:20.048Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1109,8 +1109,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w5d02j/save_80_on_motogp25/",
-    "steam_sales": "sale_648800",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w5ixb2/save_40_on_the_séance_of_blake_manor_on_steam_new/",
+    "steam_sales": "sale_2350790",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
   }
