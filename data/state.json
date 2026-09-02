@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-09-02T03:49:10.913Z",
+  "lastRun": "2026-09-02T08:37:56.033Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vwm7f8/save_75_on_max_payne_2_the_fall_of_max_payne_on/",
-        "postedAt": "2026-08-23T23:24:57.105Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vwz2ku/save_90_on_postal_2_on_steam/",
-        "postedAt": "2026-08-24T13:56:28.540Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vwyb5h/save_70_on_vanquish_on_steam/",
-        "postedAt": "2026-08-24T13:56:28.540Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vww559/save_90_on_clash_artifacts_of_chaos_on_steam/",
         "postedAt": "2026-08-24T13:56:28.540Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w402kq/save_50_on_alien_grounds_on_steam/",
         "postedAt": "2026-09-01T20:49:40.087Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w54527/save_90_on_robocop_rogue_city_449/",
+        "postedAt": "2026-09-02T08:37:56.033Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w4wffe/save_47_on_empyrion_galactic_survival_complete/",
+        "postedAt": "2026-09-02T08:37:56.033Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w4svve/save_50_on_suikoden_iii_hd_remaster_gate_rune_and/",
+        "postedAt": "2026-09-02T08:37:56.033Z"
       }
     ],
     "steam_sales": [
@@ -1113,7 +1113,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w402kq/save_50_on_alien_grounds_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w4svve/save_50_on_suikoden_iii_hd_remaster_gate_rune_and/",
     "steam_sales": "sale_2947440",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
