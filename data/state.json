@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-09-03T17:41:47.617Z",
+  "lastRun": "2026-09-03T20:46:10.176Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxfa4d/save_50_on_fly_wheel_on_steam_099/",
-        "postedAt": "2026-08-24T22:30:39.395Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxeqo9/save_25_on_grunn_on_steam/",
-        "postedAt": "2026-08-24T22:30:39.395Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxqye1/save_20_on_crimson_desert_on_steam_historical_low/",
-        "postedAt": "2026-08-25T06:55:20.962Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vxogi0/save_40_on_unwanted_dungeon_on_steam/",
         "postedAt": "2026-08-25T06:55:20.962Z"
@@ -402,17 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w623n7/save_90_on_wrc_generations_the_fia_wrc_official/",
         "postedAt": "2026-09-03T17:41:47.616Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w6jjb9/save_80_on_worms_reloaded_399/",
+        "postedAt": "2026-09-03T20:46:10.176Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w6i0tb/save_50_play_for_free_until_11_september_on_sid/",
+        "postedAt": "2026-09-03T20:46:10.176Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w6gf1d/save_90_on_a_plague_tale_innocence_on_steam/",
+        "postedAt": "2026-09-03T20:46:10.176Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1142710",
-        "postedAt": "2026-08-13T22:48:47.943Z"
-      },
-      {
-        "id": "sale_1313140",
-        "postedAt": "2026-08-14T10:07:34.956Z"
-      },
       {
         "id": "sale_3091140",
         "postedAt": "2026-08-14T13:16:01.072Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_2406770",
         "postedAt": "2026-09-03T17:41:47.616Z"
+      },
+      {
+        "id": "sale_2183900",
+        "postedAt": "2026-09-03T20:46:10.176Z"
+      },
+      {
+        "id": "sale_311210",
+        "postedAt": "2026-09-03T20:46:10.176Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1097,8 +1097,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w623n7/save_90_on_wrc_generations_the_fia_wrc_official/",
-    "steam_sales": "sale_2406770",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w6gf1d/save_90_on_a_plague_tale_innocence_on_steam/",
+    "steam_sales": "sale_311210",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
   }
