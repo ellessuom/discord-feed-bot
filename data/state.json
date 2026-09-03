@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-03T03:48:53.617Z",
+  "lastRun": "2026-09-03T13:25:15.787Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vf2o25/its_too_much_valve_insider_warns_steam_frame/",
-        "postedAt": "2026-08-04T11:28:01.212Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vezgts/clair_obscur_expedition_33_leads_call_playstation/",
-        "postedAt": "2026-08-04T11:28:01.212Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1veovnq/itchio_game_bundle_offers_127_games_for_10_to/",
-        "postedAt": "2026-08-04T11:28:01.212Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1ved1hy/ubisoft_is_over_2b_in_debt_according_to_latest/",
-        "postedAt": "2026-08-04T11:28:01.212Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vg9t4j/you_pay_owner_price_they_give_you_tenant_rights/",
         "postedAt": "2026-08-05T15:22:01.015Z"
       },
@@ -1104,6 +1088,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/714534317091455556",
         "postedAt": "2026-08-29T13:07:00.265Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/678508690826854583",
+        "postedAt": "2026-09-03T13:25:15.786Z"
       }
     ]
   },
@@ -1112,6 +1100,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w5vonk/save_70_on_a_monsters_expedition_on_steam/",
     "steam_sales": "sale_2350790",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/714534317091455556"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
   }
 }
