@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-03T20:46:10.176Z",
+  "lastRun": "2026-09-04T03:51:58.594Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxogi0/save_40_on_unwanted_dungeon_on_steam/",
-        "postedAt": "2026-08-25T06:55:20.962Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxk17a/save_50_on_shadow_of_loot_box_on_steam/",
-        "postedAt": "2026-08-25T06:55:20.962Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxjymo/my_game_zona_project_x_vr_is_80_off_on_steam/",
-        "postedAt": "2026-08-25T06:55:20.962Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxt07l/save_89_on_tomb_raider_anniversary_on_steam/",
-        "postedAt": "2026-08-25T07:48:38.548Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vxsyxn/save_90_on_saints_row_the_third_remastered_on/",
         "postedAt": "2026-08-25T07:48:38.548Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w6gf1d/save_90_on_a_plague_tale_innocence_on_steam/",
         "postedAt": "2026-09-03T20:46:10.176Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w6t3ck/dragon_ball_the_breakers_special_edition_87_off/",
+        "postedAt": "2026-09-04T03:51:58.594Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w6qhyo/save_40_on_cabernet_on_steam_historical_low/",
+        "postedAt": "2026-09-04T03:51:58.594Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w6ne3j/bike_of_the_wild_is_now_free_for_a_limited_time/",
+        "postedAt": "2026-09-04T03:51:58.594Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w6kl1p/save_75_on_knights_night_on_steam_125/",
+        "postedAt": "2026-09-04T03:51:58.594Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3091140",
-        "postedAt": "2026-08-14T13:16:01.072Z"
-      },
       {
         "id": "sale_3236900",
         "postedAt": "2026-08-15T07:33:58.324Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_311210",
         "postedAt": "2026-09-03T20:46:10.176Z"
+      },
+      {
+        "id": "sale_1985810",
+        "postedAt": "2026-09-04T03:51:58.594Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1097,8 +1097,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w6gf1d/save_90_on_a_plague_tale_innocence_on_steam/",
-    "steam_sales": "sale_311210",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w6kl1p/save_75_on_knights_night_on_steam_125/",
+    "steam_sales": "sale_1985810",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
   }
