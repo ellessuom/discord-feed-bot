@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-04T13:19:56.985Z",
+  "lastRun": "2026-09-04T17:29:21.992Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxsyxn/save_90_on_saints_row_the_third_remastered_on/",
-        "postedAt": "2026-08-25T07:48:38.548Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxsuoi/save_40_on_dice_of_kalma_on_steam/",
-        "postedAt": "2026-08-25T07:48:38.548Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxjz2l/save_50_on_one_more_dungeon_on_steam/",
-        "postedAt": "2026-08-25T07:48:38.548Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxvtz6/save_75_on_euro_truck_simulator_2_on_steam/",
-        "postedAt": "2026-08-25T10:37:08.957Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vxvjjf/save_25_on_smash_hit_museum_on_steam/",
         "postedAt": "2026-08-25T10:37:08.957Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w6kl1p/save_75_on_knights_night_on_steam_125/",
         "postedAt": "2026-09-04T03:51:58.594Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w75g5a/save_75_on_red_dead_redemption_2_on_steam/",
+        "postedAt": "2026-09-04T17:29:21.992Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w75fxm/save_75_on_warhammer_40000_space_marine_2_on_steam/",
+        "postedAt": "2026-09-04T17:29:21.992Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w71ufa/save_90_on_alan_wake_on_steam/",
+        "postedAt": "2026-09-04T17:29:21.992Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w6vrjc/80_on_atomic_heart_new_historical_low/",
+        "postedAt": "2026-09-04T17:29:21.992Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vg9t4j/you_pay_owner_price_they_give_you_tenant_rights/",
-        "postedAt": "2026-08-05T15:22:01.015Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vg76nc/marvel_rivals_sees_massive_file_size_reduction_on/",
-        "postedAt": "2026-08-05T15:22:01.015Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vfuzt2/danganronpa_22_devs_admit_the_games_delay_was/",
-        "postedAt": "2026-08-05T15:22:01.015Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vfoa8l/ea_is_now_officially_owned_by_saudi_arabias/",
-        "postedAt": "2026-08-05T15:22:01.015Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vi6yr3/you_wont_be_disappointed_lies_of_p_director/",
         "postedAt": "2026-08-08T15:34:00.966Z"
       },
@@ -1097,7 +1081,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w6kl1p/save_75_on_knights_night_on_steam_125/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w6vrjc/80_on_atomic_heart_new_historical_low/",
     "steam_sales": "sale_2798330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
