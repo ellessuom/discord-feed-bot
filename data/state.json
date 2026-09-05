@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-05T10:17:27.189Z",
+  "lastRun": "2026-09-05T13:46:19.347Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vy6nrz/save_90_on_humankind_on_steam/",
-        "postedAt": "2026-08-25T19:35:07.538Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vy5r9o/save_85_on_psychonauts_2_on_steam/",
         "postedAt": "2026-08-25T19:35:07.538Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w71u90/save_25_on_heroes_of_might_and_magic_olden_era_on/",
         "postedAt": "2026-09-05T10:17:27.189Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w7yngg/save_80_on_perception_heart_and_mind_on_steam_099/",
+        "postedAt": "2026-09-05T13:46:19.347Z"
       }
     ],
     "steam_sales": [
@@ -1034,10 +1034,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/703275952293019887",
-        "postedAt": "2026-08-06T11:27:10.870Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/703275952293020219",
         "postedAt": "2026-08-07T16:01:18.440Z"
       },
@@ -1076,14 +1072,18 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/678508690826854583",
         "postedAt": "2026-09-03T13:25:15.786Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/703275952293019887",
+        "postedAt": "2026-09-05T13:46:19.347Z"
       }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w71u90/save_25_on_heroes_of_might_and_magic_olden_era_on/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w7yngg/save_80_on_perception_heart_and_mind_on_steam_099/",
     "steam_sales": "sale_2798330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293019887"
   }
 }
