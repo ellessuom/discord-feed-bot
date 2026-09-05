@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-05T18:54:12.634Z",
+  "lastRun": "2026-09-05T23:40:02.404Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1030,6 +1030,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
         "postedAt": "2026-09-01T13:19:01.948Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1w88kol/the_blood_of_dawnwalker_sells_1_million_copies_in/",
+        "postedAt": "2026-09-05T23:40:02.404Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1w7y3de/exold_school_runescape_dev_sentenced_for_stealing/",
+        "postedAt": "2026-09-05T23:40:02.404Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1w7t39m/after_a_massive_2021_office_expansion_bungie_is/",
+        "postedAt": "2026-09-05T23:40:02.404Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
+        "postedAt": "2026-09-05T23:40:02.404Z"
       }
     ],
     "steam_2073850": [
@@ -1083,7 +1099,7 @@
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w87aud/save_90_on_vampyr_on_steam/",
     "steam_sales": "sale_2798330",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293019887"
   }
 }
