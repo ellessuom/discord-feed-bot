@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-05T16:40:27.541Z",
+  "lastRun": "2026-09-05T18:54:12.634Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vyq5t6/fortune_fragments_is_20_until_august_31st/",
-        "postedAt": "2026-08-26T07:51:34.927Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vypoej/save_70_on_another_world_adventures_on_steam/",
         "postedAt": "2026-08-26T07:51:34.927Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w84wte/save_50_on_this_is_no_cave/",
         "postedAt": "2026-09-05T16:40:27.541Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w87aud/save_90_on_vampyr_on_steam/",
+        "postedAt": "2026-09-05T18:54:12.634Z"
       }
     ],
     "steam_sales": [
@@ -1081,7 +1081,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w84wte/save_50_on_this_is_no_cave/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w87aud/save_90_on_vampyr_on_steam/",
     "steam_sales": "sale_2798330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293019887"
