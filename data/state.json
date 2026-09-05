@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-09-05T13:46:19.347Z",
+  "lastRun": "2026-09-05T16:40:27.541Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vy5r9o/save_85_on_psychonauts_2_on_steam/",
-        "postedAt": "2026-08-25T19:35:07.538Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vyn910/save_80_on_prison_architect_499/",
-        "postedAt": "2026-08-26T05:37:52.654Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vyq5t6/fortune_fragments_is_20_until_august_31st/",
         "postedAt": "2026-08-26T07:51:34.927Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w7yngg/save_80_on_perception_heart_and_mind_on_steam_099/",
         "postedAt": "2026-09-05T13:46:19.347Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w85eew/save_75_on_blasted_dice_on_steam_historical_low/",
+        "postedAt": "2026-09-05T16:40:27.541Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w84wte/save_50_on_this_is_no_cave/",
+        "postedAt": "2026-09-05T16:40:27.541Z"
       }
     ],
     "steam_sales": [
@@ -1081,7 +1081,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w7yngg/save_80_on_perception_heart_and_mind_on_steam_099/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w84wte/save_50_on_this_is_no_cave/",
     "steam_sales": "sale_2798330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293019887"
