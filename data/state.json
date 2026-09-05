@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-04T20:33:43.969Z",
+  "lastRun": "2026-09-05T00:45:26.020Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vxwb3h/save_67_on_hero_siege_on_steam/",
-        "postedAt": "2026-08-25T11:32:13.798Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vy1r5o/save_20_on_kalaharis_end_on_steam/",
-        "postedAt": "2026-08-25T14:50:47.133Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vy0oyb/save_90_on_night_slashers_remake_on_steam_1/",
-        "postedAt": "2026-08-25T14:50:47.133Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vy6f42/save_15_on_forza_horizon_6_on_steam_historical_low/",
-        "postedAt": "2026-08-25T17:34:53.510Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vy61li/save_75_on_saints_row_2_249/",
         "postedAt": "2026-08-25T17:34:53.510Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w6wxjh/save_80_on_remember_me_599/",
         "postedAt": "2026-09-04T20:33:43.969Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w7hh7c/save_50_on_master_detective_archives_rain_code/",
+        "postedAt": "2026-09-05T00:45:26.020Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w7eziq/save_50_on_the_legend_of_heroes_trails_in_the_sky/",
+        "postedAt": "2026-09-05T00:45:26.020Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w7a96c/save_50_on_titanium_court_new_historical_low/",
+        "postedAt": "2026-09-05T00:45:26.020Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w71u2u/save_30_on_timberborn_on_steam/",
+        "postedAt": "2026-09-05T00:45:26.020Z"
       }
     ],
     "steam_sales": [
@@ -1081,7 +1081,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w6wxjh/save_80_on_remember_me_599/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w71u2u/save_30_on_timberborn_on_steam/",
     "steam_sales": "sale_2798330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
