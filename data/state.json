@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-06T16:04:23.978Z",
+  "lastRun": "2026-09-06T18:57:24.749Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vz9e0d/save_90_on_pixel_bundle_on_steam_alex_kidd_in/",
-        "postedAt": "2026-08-26T22:56:36.858Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vz76wt/save_80_on_terminator_resistance_799/",
         "postedAt": "2026-08-26T22:56:36.858Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w8ml2y/save_85_on_free_running_088/",
         "postedAt": "2026-09-06T08:31:54.559Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w91998/save_50_on_school_hero_on_steam_199/",
+        "postedAt": "2026-09-06T18:57:24.749Z"
       }
     ],
     "steam_sales": [
@@ -1097,7 +1097,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w8ml2y/save_85_on_free_running_088/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w91998/save_50_on_school_hero_on_steam_199/",
     "steam_sales": "sale_2798330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293020219"
