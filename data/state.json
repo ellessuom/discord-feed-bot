@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-06T08:31:54.559Z",
+  "lastRun": "2026-09-06T16:04:23.978Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1050,10 +1050,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/703275952293020219",
-        "postedAt": "2026-08-07T16:01:18.440Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/677376450273221277",
         "postedAt": "2026-08-08T15:34:00.966Z"
       },
@@ -1092,6 +1088,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/703275952293019887",
         "postedAt": "2026-09-05T13:46:19.347Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/703275952293020219",
+        "postedAt": "2026-09-06T16:04:23.978Z"
       }
     ]
   },
@@ -1100,6 +1100,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w8ml2y/save_85_on_free_running_088/",
     "steam_sales": "sale_2798330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293019887"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293020219"
   }
 }
