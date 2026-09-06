@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-06T18:57:24.749Z",
+  "lastRun": "2026-09-06T21:12:25.747Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vz76wt/save_80_on_terminator_resistance_799/",
-        "postedAt": "2026-08-26T22:56:36.858Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vzxy7y/save_70_on_supraland_six_inches_under_on_steam/",
         "postedAt": "2026-08-27T16:17:32.850Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w91998/save_50_on_school_hero_on_steam_199/",
         "postedAt": "2026-09-06T18:57:24.749Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w954hs/save_80_on_ridge_racer_unbounded_199/",
+        "postedAt": "2026-09-06T21:12:25.747Z"
       }
     ],
     "steam_sales": [
@@ -1097,7 +1097,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w91998/save_50_on_school_hero_on_steam_199/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w954hs/save_80_on_ridge_racer_unbounded_199/",
     "steam_sales": "sale_2798330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293020219"
