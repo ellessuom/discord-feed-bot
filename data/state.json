@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-09-06T21:12:25.747Z",
+  "lastRun": "2026-09-07T15:38:56.801Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vzxy7y/save_70_on_supraland_six_inches_under_on_steam/",
-        "postedAt": "2026-08-27T16:17:32.850Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vzxy18/save_80_on_supraland_on_steam/",
-        "postedAt": "2026-08-27T16:17:32.850Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1vztl8r/my_game_decay_is_now_available_on_steam_with_a_15/",
         "postedAt": "2026-08-27T16:17:32.850Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w954hs/save_80_on_ridge_racer_unbounded_199/",
         "postedAt": "2026-09-06T21:12:25.747Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w9n6n4/save_85_on_badland_game_of_the_year_edition_149/",
+        "postedAt": "2026-09-07T15:38:56.801Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w9n2bn/save_80_on_battle_food_mania_on_steam_099/",
+        "postedAt": "2026-09-07T15:38:56.801Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vi6yr3/you_wont_be_disappointed_lies_of_p_director/",
-        "postedAt": "2026-08-08T15:34:00.966Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vi0m84/gta_6_boss_responds_to_playstation_announcement/",
-        "postedAt": "2026-08-08T15:34:00.966Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vhxgan/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-08-08T15:34:00.966Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vhx94a/another_look_at_kingdom_hearts_4_seems_even_more/",
-        "postedAt": "2026-08-08T15:34:00.966Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vjquu9/blizzard_is_now_the_top_performing_xbox_studio/",
         "postedAt": "2026-08-09T15:36:00.876Z"
       },
@@ -1050,14 +1034,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/677376450273221277",
-        "postedAt": "2026-08-08T15:34:00.966Z"
-      },
-      {
-        "id": "https://store.steampowered.com/news/app/2073850/view/677376450273216923",
-        "postedAt": "2026-08-08T15:34:00.966Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/547902498070855892",
         "postedAt": "2026-08-13T10:11:48.295Z"
       },
@@ -1092,14 +1068,18 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/703275952293020219",
         "postedAt": "2026-09-06T16:04:23.978Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/677376450273221277",
+        "postedAt": "2026-09-07T15:38:56.801Z"
       }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w954hs/save_80_on_ridge_racer_unbounded_199/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w9n2bn/save_80_on_battle_food_mania_on_steam_099/",
     "steam_sales": "sale_2798330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293020219"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273221277"
   }
 }
