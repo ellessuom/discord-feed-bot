@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-07T15:38:56.801Z",
+  "lastRun": "2026-09-07T19:43:48.552Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1vztl8r/my_game_decay_is_now_available_on_steam_with_a_15/",
-        "postedAt": "2026-08-27T16:17:32.850Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w06qbz/save_60_on_powerwash_simulator/",
-        "postedAt": "2026-08-28T01:23:26.372Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w06j24/save_60_on_the_rogue_prince_of_persia/",
-        "postedAt": "2026-08-28T01:23:26.372Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w02b6l/save_60_on_cocoon_on_steam_historical_low_919_999/",
-        "postedAt": "2026-08-28T01:23:26.372Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w003ch/save_90_on_röki_219/",
         "postedAt": "2026-08-28T01:23:26.372Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w9n2bn/save_80_on_battle_food_mania_on_steam_099/",
         "postedAt": "2026-09-07T15:38:56.801Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wa1esw/save_90_on_parkasaurus_on_steam/",
+        "postedAt": "2026-09-07T19:43:48.552Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wa0fi8/save_90_on_rock_n_roll_will_never_die_149/",
+        "postedAt": "2026-09-07T19:43:48.552Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w9zynv/save_67_on_phoenix_wright_ace_attorney_trilogy_on/",
+        "postedAt": "2026-09-07T19:43:48.552Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1w9y0nu/save_30_on_resident_evil_requiem_historical_low/",
+        "postedAt": "2026-09-07T19:43:48.552Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1158310",
-        "postedAt": "2026-08-16T16:30:01.572Z"
-      },
-      {
-        "id": "sale_728880",
-        "postedAt": "2026-08-16T19:23:45.756Z"
-      },
       {
         "id": "sale_4164790",
         "postedAt": "2026-08-17T11:30:04.347Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_2798330",
         "postedAt": "2026-09-04T13:19:56.985Z"
+      },
+      {
+        "id": "sale_3357650",
+        "postedAt": "2026-09-07T19:43:48.552Z"
+      },
+      {
+        "id": "sale_3375110",
+        "postedAt": "2026-09-07T19:43:48.552Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1077,8 +1077,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w9n2bn/save_80_on_battle_food_mania_on_steam_099/",
-    "steam_sales": "sale_2798330",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w9y0nu/save_30_on_resident_evil_requiem_historical_low/",
+    "steam_sales": "sale_3375110",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273221277"
   }
