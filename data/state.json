@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-09-07T19:43:48.552Z",
+  "lastRun": "2026-09-07T22:40:06.351Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w003ch/save_90_on_röki_219/",
-        "postedAt": "2026-08-28T01:23:26.372Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w154or/save_90_on_superepic_the_entertainment_war_on/",
-        "postedAt": "2026-08-28T23:57:40.626Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w0p99v/save_90_on_moving_out_deluxe_edition_339/",
         "postedAt": "2026-08-28T23:57:40.626Z"
@@ -402,17 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w9y0nu/save_30_on_resident_evil_requiem_historical_low/",
         "postedAt": "2026-09-07T19:43:48.552Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wa6grz/save_85_on_away_the_survival_series_on_steam/",
+        "postedAt": "2026-09-07T22:40:06.351Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wa3x3w/save_20_on_pragmata_on_steam/",
+        "postedAt": "2026-09-07T22:40:06.351Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4164790",
-        "postedAt": "2026-08-17T11:30:04.347Z"
-      },
-      {
-        "id": "sale_4579940",
-        "postedAt": "2026-08-17T13:42:01.430Z"
-      },
       {
         "id": "sale_3849000",
         "postedAt": "2026-08-17T16:32:31.674Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_3375110",
         "postedAt": "2026-09-07T19:43:48.552Z"
+      },
+      {
+        "id": "sale_3764200",
+        "postedAt": "2026-09-07T22:40:06.351Z"
+      },
+      {
+        "id": "sale_3892270",
+        "postedAt": "2026-09-07T22:40:06.351Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1077,8 +1077,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1w9y0nu/save_30_on_resident_evil_requiem_historical_low/",
-    "steam_sales": "sale_3375110",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wa3x3w/save_20_on_pragmata_on_steam/",
+    "steam_sales": "sale_3892270",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273221277"
   }
