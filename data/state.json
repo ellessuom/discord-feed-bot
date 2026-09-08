@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-09-08T07:05:10.953Z",
+  "lastRun": "2026-09-08T17:09:25.325Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w1iz31/the_mobius_machine_is_50_off_this_week_999/",
-        "postedAt": "2026-08-29T17:36:29.486Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w1iyk9/dawn_of_man_is_50_off_this_week_1249/",
-        "postedAt": "2026-08-29T17:36:29.486Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w292mq/save_70_on_puddle_knights_299_299/",
         "postedAt": "2026-08-30T10:24:07.379Z"
@@ -402,17 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wab39s/save_75_on_undertale_on_steam/",
         "postedAt": "2026-09-08T07:05:10.953Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wau4m3/my_game_zona_origin_pcvr_is_50_off_on_steam/",
+        "postedAt": "2026-09-08T17:09:25.325Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1waqruy/save_55_on_koala_kids_golf_461_developer/",
+        "postedAt": "2026-09-08T17:09:25.325Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4796830",
-        "postedAt": "2026-08-17T19:31:32.666Z"
-      },
-      {
-        "id": "sale_1771300",
-        "postedAt": "2026-08-17T20:31:29.533Z"
-      },
       {
         "id": "sale_1643320",
         "postedAt": "2026-08-17T21:29:21.104Z"
@@ -804,25 +796,17 @@
       {
         "id": "sale_275850",
         "postedAt": "2026-09-08T01:02:00.532Z"
+      },
+      {
+        "id": "sale_3624140",
+        "postedAt": "2026-09-08T17:09:25.325Z"
+      },
+      {
+        "id": "sale_3669570",
+        "postedAt": "2026-09-08T17:09:25.325Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vjquu9/blizzard_is_now_the_top_performing_xbox_studio/",
-        "postedAt": "2026-08-09T15:36:00.876Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vjle36/gta_6_preorders_reach_unprecedented_and/",
-        "postedAt": "2026-08-09T15:36:00.876Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vjeqzj/ps5_beta_firmware_update_replaces_pssr_with_pssr/",
-        "postedAt": "2026-08-09T15:36:00.876Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vjbl3h/found_these_hidden_gems_at_my_local_library_sony/",
-        "postedAt": "2026-08-09T15:36:00.876Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vlijlj/aliens_fireteam_elite_on_nintendo_switch_shut/",
         "postedAt": "2026-08-11T17:01:02.343Z"
@@ -1077,8 +1061,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wab39s/save_75_on_undertale_on_steam/",
-    "steam_sales": "sale_275850",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1waqruy/save_55_on_koala_kids_golf_461_developer/",
+    "steam_sales": "sale_3669570",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273221277"
   }
