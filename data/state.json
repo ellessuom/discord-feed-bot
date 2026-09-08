@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-08T01:02:00.532Z",
+  "lastRun": "2026-09-08T07:05:10.953Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w0l2ot/sector_zero_is_20_off_till_5th_september_319/",
-        "postedAt": "2026-08-28T23:57:40.626Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w0k1rf/save_60_on_the_henry_stickmin_collection_on_steam/",
-        "postedAt": "2026-08-28T23:57:40.626Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w1rwly/save_90_on_middleearth_the_shadow_bundle_on_steam/",
-        "postedAt": "2026-08-29T17:36:29.486Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w1nieh/save_86_on_fastraq_69/",
-        "postedAt": "2026-08-29T17:36:29.486Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w1iz31/the_mobius_machine_is_50_off_this_week_999/",
         "postedAt": "2026-08-29T17:36:29.486Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wa9jlh/save_80_on_six_seals_on_steam_079/",
         "postedAt": "2026-09-08T01:02:00.532Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wab6xj/monster_hunter_wilds_25_off_2999_usd/",
+        "postedAt": "2026-09-08T07:05:10.953Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wab5o3/save_20_on_tower_of_gand_on_steam/",
+        "postedAt": "2026-09-08T07:05:10.953Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wab3uf/save_80_on_konbini_simulator_on_steam/",
+        "postedAt": "2026-09-08T07:05:10.953Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wab39s/save_75_on_undertale_on_steam/",
+        "postedAt": "2026-09-08T07:05:10.953Z"
       }
     ],
     "steam_sales": [
@@ -1077,7 +1077,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wa9jlh/save_80_on_six_seals_on_steam_079/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wab39s/save_75_on_undertale_on_steam/",
     "steam_sales": "sale_275850",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273221277"
