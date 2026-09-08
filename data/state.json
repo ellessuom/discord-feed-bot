@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-07T22:40:06.351Z",
+  "lastRun": "2026-09-08T01:02:00.532Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w0p99v/save_90_on_moving_out_deluxe_edition_339/",
-        "postedAt": "2026-08-28T23:57:40.626Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w0l2ot/sector_zero_is_20_off_till_5th_september_319/",
         "postedAt": "2026-08-28T23:57:40.626Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wa3x3w/save_20_on_pragmata_on_steam/",
         "postedAt": "2026-09-07T22:40:06.351Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wa9jlh/save_80_on_six_seals_on_steam_079/",
+        "postedAt": "2026-09-08T01:02:00.532Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3849000",
-        "postedAt": "2026-08-17T16:32:31.674Z"
-      },
       {
         "id": "sale_4796830",
         "postedAt": "2026-08-17T19:31:32.666Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_3892270",
         "postedAt": "2026-09-07T22:40:06.351Z"
+      },
+      {
+        "id": "sale_275850",
+        "postedAt": "2026-09-08T01:02:00.532Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1077,8 +1077,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wa3x3w/save_20_on_pragmata_on_steam/",
-    "steam_sales": "sale_3892270",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wa9jlh/save_80_on_six_seals_on_steam_079/",
+    "steam_sales": "sale_275850",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273221277"
   }
