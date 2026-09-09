@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-09T08:55:24.052Z",
+  "lastRun": "2026-09-09T13:36:30.049Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w2ieov/dev_minesweeper_ultimate_104_65/",
-        "postedAt": "2026-08-30T15:16:13.927Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w0jrax/save_15_on_sunward_424/",
-        "postedAt": "2026-08-30T15:16:13.927Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w0d2qr/save_80_on_hellbrella_on_steam_new_low/",
-        "postedAt": "2026-08-30T15:16:13.927Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w013aa/save_10_on_the_blood_mage_2_359359_release_sale/",
-        "postedAt": "2026-08-30T15:16:13.927Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w2odqy/save_50_on_payday_3/",
         "postedAt": "2026-08-30T19:12:23.417Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wbdkc6/save_75_on_knights_of_honor_249/",
         "postedAt": "2026-09-09T08:55:24.052Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wbkumq/rabbit_sinner_the_revelation_on_steam/",
+        "postedAt": "2026-09-09T13:36:30.049Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wbi5t2/save_60_on_teenage_mutant_ninja_turtles_the/",
+        "postedAt": "2026-09-09T13:36:30.049Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wbg7h6/save_67_on_gladiator_guild_manager_on_steam/",
+        "postedAt": "2026-09-09T13:36:30.049Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wbg6e4/save_75_on_arma_3_on_steam/",
+        "postedAt": "2026-09-09T13:36:30.049Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1672970",
-        "postedAt": "2026-08-18T01:26:24.443Z"
-      },
       {
         "id": "sale_1030840",
         "postedAt": "2026-08-18T15:35:26.893Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1453566",
         "postedAt": "2026-09-08T20:56:36.390Z"
+      },
+      {
+        "id": "sale_3971950",
+        "postedAt": "2026-09-09T13:36:30.049Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1061,8 +1061,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wbdkc6/save_75_on_knights_of_honor_249/",
-    "steam_sales": "sale_1453566",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wbg6e4/save_75_on_arma_3_on_steam/",
+    "steam_sales": "sale_3971950",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273221277"
   }
