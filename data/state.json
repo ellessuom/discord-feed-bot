@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-08T20:56:36.390Z",
+  "lastRun": "2026-09-09T08:55:24.052Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w0dpyp/save_90_on_foreclosed_on_steam/",
-        "postedAt": "2026-08-30T10:24:07.379Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w2ieov/dev_minesweeper_ultimate_104_65/",
         "postedAt": "2026-08-30T15:16:13.927Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wawbwd/save_90_on_children_of_morta_219_new_historical/",
         "postedAt": "2026-09-08T20:56:36.390Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wbdkc6/save_75_on_knights_of_honor_249/",
+        "postedAt": "2026-09-09T08:55:24.052Z"
       }
     ],
     "steam_sales": [
@@ -1061,7 +1061,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wawbwd/save_90_on_children_of_morta_219_new_historical/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wbdkc6/save_75_on_knights_of_honor_249/",
     "steam_sales": "sale_1453566",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273221277"
