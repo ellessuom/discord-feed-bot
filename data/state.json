@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-09T20:44:54.405Z",
+  "lastRun": "2026-09-09T23:05:18.541Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,14 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1030840",
-        "postedAt": "2026-08-18T15:35:26.893Z"
-      },
-      {
-        "id": "sale_1167630",
-        "postedAt": "2026-08-18T16:36:28.098Z"
-      },
-      {
         "id": "sale_1575990",
         "postedAt": "2026-08-18T18:43:14.731Z"
       },
@@ -804,6 +796,14 @@
       {
         "id": "sale_3971950",
         "postedAt": "2026-09-09T13:36:30.049Z"
+      },
+      {
+        "id": "sale_3123060",
+        "postedAt": "2026-09-09T23:05:18.541Z"
+      },
+      {
+        "id": "sale_1378990",
+        "postedAt": "2026-09-09T23:05:18.541Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1062,7 +1062,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wbsu38/save_20_on_into_the_grid_on_steam/",
-    "steam_sales": "sale_3971950",
+    "steam_sales": "sale_1378990",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273221277"
   }
