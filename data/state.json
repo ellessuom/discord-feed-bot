@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-09-09T13:36:30.049Z",
+  "lastRun": "2026-09-09T17:43:14.314Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w2odqy/save_50_on_payday_3/",
-        "postedAt": "2026-08-30T19:12:23.417Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w2o97w/save_80_on_the_messenger/",
-        "postedAt": "2026-08-30T19:12:23.417Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w2l80q/save_90_on_eldest_souls_199/",
-        "postedAt": "2026-08-30T19:12:23.417Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w2s250/my_space_roguelite_is_25_off/",
         "postedAt": "2026-08-30T22:33:23.215Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wbg6e4/save_75_on_arma_3_on_steam/",
         "postedAt": "2026-09-09T13:36:30.049Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wbrpcf/save_70_on_crash_bandicoot_4_its_about_time_on/",
+        "postedAt": "2026-09-09T17:43:14.314Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wbrnih/save_70_on_deep_rock_galactic_on_steam/",
+        "postedAt": "2026-09-09T17:43:14.314Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wbmvig/save_40_on_metal_gear_solid_v_the_phantom_pain_on/",
+        "postedAt": "2026-09-09T17:43:14.314Z"
       }
     ],
     "steam_sales": [
@@ -1061,7 +1061,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wbg6e4/save_75_on_arma_3_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wbmvig/save_40_on_metal_gear_solid_v_the_phantom_pain_on/",
     "steam_sales": "sale_3971950",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/677376450273221277"
