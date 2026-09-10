@@ -66,8 +66,8 @@ jobs:
       - name: Commit proposals state
         if: always() && inputs.mode != 'dry-run'
         run: |
-          git config user.name "Feed Bot"
-          git config user.email "bot@users.noreply.github.com"
+          git config user.name "Demousselle"
+          git config user.email "39221632+ellessuom@users.noreply.github.com"
           if [ -f data/proposals.json ]; then git add -f data/proposals.json; fi
           git commit -m "Update proposals state [skip ci]" || echo "No changes to commit"
           git pull --rebase origin main
