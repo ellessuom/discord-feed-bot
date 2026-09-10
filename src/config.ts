@@ -18,6 +18,17 @@ const DiscordConfigSchema = z.object({
     ),
 })
 
+const ProposalsConfigSchema = z
+  .object({
+    enabled: z.boolean().default(false),
+    bot_token: z.string().min(1, 'Discord bot token is required'),
+    general_channel_id: z.string().regex(/^\d+$/, 'Channel ID must be a numeric Discord snowflake'),
+    forum_channel_id: z.string().regex(/^\d+$/, 'Channel ID must be a numeric Discord snowflake'),
+    country_code: z.string().length(2).default('IE'),
+    language: z.string().min(1).default('english'),
+  })
+  .optional()
+
 const SettingsSchema = z
   .object({
     max_posts_per_run: z.number().int().min(1).max(100).default(10),
@@ -90,6 +101,7 @@ const ConfigSchema = z.object({
   discord: DiscordConfigSchema,
   sources: z.array(SourceSchema),
   settings: SettingsSchema,
+  proposals: ProposalsConfigSchema,
 })
 
 export interface Settings {
@@ -99,12 +111,23 @@ export interface Settings {
   post_order: 'newest_first' | 'oldest_first'
 }
 
+export interface ProposalsConfig {
+  enabled: boolean
+  bot_token: string
+  general_channel_id: string
+  forum_channel_id: string
+  country_code: string
+  language: string
+}
+
 export interface Config {
   discord: {
     webhook_url: string
   }
   sources: Source[]
   settings: Settings
+  /** Absent when the proposals feature is not configured at all. */
+  proposals?: ProposalsConfig | undefined
 }
 
 const __filename = fileURLToPath(import.meta.url)
@@ -167,9 +190,15 @@ export function loadConfig(): Config {
     post_order: result.data.settings?.post_order ?? 'newest_first',
   }
 
-  return {
+  const config: Config = {
     discord: result.data.discord,
     sources: result.data.sources as Source[],
     settings,
   }
+
+  if (result.data.proposals) {
+    config.proposals = result.data.proposals
+  }
+
+  return config
 }

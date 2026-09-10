@@ -40,3 +40,19 @@ settings:
   max_posts_per_run: 10
   include_images: true
   post_order: 'newest_first'
+
+# Game proposals: harvests Steam links out of a chat channel and catalogues each
+# game as a post in a forum channel. Requires a bot token (a webhook cannot read
+# messages) with the Message Content intent enabled.
+#
+# IMPORTANT: adding this block means DISCORD_BOT_TOKEN must be set wherever the
+# bot runs. loadConfig() throws on any unset ${VAR}, which would take the news
+# feed down with it -- see .github/workflows/feed.yml.
+#
+# proposals:
+#   enabled: true
+#   bot_token: '${DISCORD_BOT_TOKEN}'
+#   general_channel_id: '000000000000000000'  # channel to harvest links from
+#   forum_channel_id: '000000000000000000'    # forum channel to post into
+#   country_code: 'IE'                        # pins prices to one Steam region
+#   language: 'english'
