@@ -1,0 +1,933 @@
+{
+  "cursors": {
+    "newestScannedId": "1547690872274165831",
+    "oldestScannedId": "1305939645917565029",
+    "backfillComplete": true
+  },
+  "proposals": {
+    "app:1203620": {
+      "kind": "app",
+      "id": 1203620,
+      "name": "Enshrouded",
+      "url": "https://store.steampowered.com/app/1203620/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/062c788d22ecf236269da0f115150c0d3b7055a4/header.jpg?t=1782800102",
+      "description": "You are Flameborn, last ember of hope of a dying race. Awaken, survive the terror of a corrupting fog, and reclaim the lost beauty of your kingdom. Venture into a vast world, vanquish punishing bosses, build grand halls and forge your path in this co-op survival action RPG for up to 16 players.",
+      "price": {
+        "current": 3999,
+        "original": 3999,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 3999,
+        "checkedAt": "2026-09-10T19:24:01.512Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1500895308211552357",
+          "at": "2026-05-04T16:22:06.764000+00:00"
+        }
+      ],
+      "threadId": "1547689127162417284",
+      "starterMessageId": "1547689127162417284",
+      "tags": [
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:1857950": {
+      "kind": "app",
+      "id": 1857950,
+      "name": "VEIN",
+      "url": "https://store.steampowered.com/app/1857950/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857950/header.jpg?t=1780246681",
+      "description": "VEIN is a post-apocalyptic survival multiplayer sandbox game. Gather supplies to survive, explore abandoned buildings, defend your home, and rebuild society, whether alone or with friends.",
+      "price": {
+        "current": 2049,
+        "original": 2049,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 2049,
+        "checkedAt": "2026-09-10T19:24:08.900Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1501535754948444251",
+          "at": "2026-05-06T10:47:01.165000+00:00"
+        }
+      ],
+      "threadId": "1547689157864722443",
+      "starterMessageId": "1547689157864722443",
+      "tags": [
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:3341000": {
+      "kind": "app",
+      "id": 3341000,
+      "name": "Thick As Thieves",
+      "url": "https://store.steampowered.com/app/3341000/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/1bb597a16a8b245b9849e8d14368d99ad46e3e24/header.jpg?t=1782401957",
+      "description": "Thick as Thieves is a stealth-action heist game, playable solo or with a partner in crime in co-op multiplayer. Master the art of thievery through cunning gameplay across a 4-hour campaign in this dynamic new take on stealth.",
+      "price": {
+        "current": 499,
+        "original": 499,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 499,
+        "checkedAt": "2026-09-10T19:24:16.565Z"
+      },
+      "mentions": [
+        {
+          "userId": "256793091430678539",
+          "username": "geremir",
+          "messageId": "1513181390613516418",
+          "at": "2026-06-07T14:02:37.073000+00:00"
+        }
+      ],
+      "threadId": "1547689190429302917",
+      "starterMessageId": "1547689190429302917",
+      "tags": [
+        "under-10",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:2569760": {
+      "kind": "app",
+      "id": 2569760,
+      "name": "The Mound: Omen of Cthulhu",
+      "url": "https://store.steampowered.com/app/2569760/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/cefd63a1434b8a43790c7ea49a69b400257ef4cd/header_alt_assets_0.jpg?t=1788530496",
+      "description": "In up to four player co-op, form a group of explorers searching for treasure. In this cursed jungle, danger is everywhere and monstrous creatures alter reality. Stay clear-headed and tame the jungle before it devours you…",
+      "price": {
+        "current": 2399,
+        "original": 2999,
+        "discount": 20,
+        "currency": "EUR",
+        "lowestSeen": 2399,
+        "checkedAt": "2026-09-10T19:24:28.356Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1516832026270105695",
+          "at": "2026-06-17T15:48:56.439000+00:00"
+        }
+      ],
+      "threadId": "1547689239955767437",
+      "starterMessageId": "1547689239955767437",
+      "tags": [
+        "on-sale",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:1445790": {
+      "kind": "app",
+      "id": 1445790,
+      "name": "Make Way",
+      "url": "https://store.steampowered.com/app/1445790/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1445790/cbfd31257e15facf96de7d47424cd3e07f1c4ab4/header.jpg?t=1785494806",
+      "description": "Speed around loops, dart through train crossings, drift around helter skelters, and unleash wacky weaponry in this modern take on classic top-down multiplayer racing games such as Micro Machines and Mashed. The twist? You build the track.",
+      "price": {
+        "current": 1499,
+        "original": 1499,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 1499,
+        "checkedAt": "2026-09-10T19:24:36.996Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1520904374690512967",
+          "at": "2026-06-28T21:30:59.963000+00:00"
+        }
+      ],
+      "threadId": "1547689275863343105",
+      "starterMessageId": "1547689275863343105",
+      "tags": [
+        "local-multiplayer",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:3569420": {
+      "kind": "app",
+      "id": 3569420,
+      "name": "Chained Beasts",
+      "url": "https://store.steampowered.com/app/3569420/",
+      "status": "unreleased",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/106071e8dee9494ef99ba99780d98c196f92ce72/header_alt_assets_3.jpg?t=1788507817",
+      "description": "Chained Beasts is a 1-4 player co-op gladiator roguelike. Fight chaotic battles chained to your friends. Use your chains or the arena to beat up foes in creative ways and win over the bloodthirsty crowd. Endure physical and mental injuries to defeat fearsome bosses and survive the day.",
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1528360413706588180",
+          "at": "2026-07-19T11:18:38.191000+00:00"
+        }
+      ],
+      "threadId": "1547689306984808459",
+      "starterMessageId": "1547689306984808459",
+      "tags": [
+        "unreleased",
+        "co-op",
+        "local-multiplayer",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:4069520": {
+      "kind": "app",
+      "id": 4069520,
+      "name": "Super Battle Golf",
+      "url": "https://store.steampowered.com/app/4069520/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/89e942c838b6cb0bb0c2127c113a86c59d6ce92f/header_alt_assets_1.jpg?t=1784798117",
+      "description": "An online 1-8 player golf game where everyone plays at the same time. Swing, shoot, sabotage, and finish first by any means necessary in a free-for-all rush to the hole.",
+      "price": {
+        "current": 1249,
+        "original": 1249,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 1249,
+        "checkedAt": "2026-09-10T19:24:51.859Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1528905162549235823",
+          "at": "2026-07-20T23:23:16.436000+00:00"
+        }
+      ],
+      "threadId": "1547689338404479145",
+      "starterMessageId": "1547689338404479145",
+      "tags": [
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:3712080": {
+      "kind": "app",
+      "id": 3712080,
+      "name": "Funnel Runners",
+      "url": "https://store.steampowered.com/app/3712080/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3712080/5e03554f7fd68edf54813a8d5a576a8791672227/header.jpg?t=1784567934",
+      "description": "Trapped in a doomed city, you and up to 7 friends must scavenge parts, fix your van, and escape the brutal tornado that approaches. A first-person co-op survival game with escalating disasters and total environmental destruction.",
+      "price": {
+        "current": 1075,
+        "original": 1075,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 1075,
+        "checkedAt": "2026-09-10T19:24:59.640Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1529053170867638274",
+          "at": "2026-07-21T09:11:24.369000+00:00"
+        }
+      ],
+      "threadId": "1547689373196099646",
+      "starterMessageId": "1547689373196099646",
+      "tags": [
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:3059070": {
+      "kind": "app",
+      "id": 3059070,
+      "name": "The Headliners",
+      "url": "https://store.steampowered.com/app/3059070/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059070/62f137f87bbbe03ff34fe64f79aec4059532e849/header.jpg?t=1761229580",
+      "description": "Co-op horror game where you play in teams of 1 to 8 reckless journalists, ready to explore a city overrun by deadly creatures to snap spectacular footage. Your only goal: make the headlines without becoming one.",
+      "price": {
+        "current": 467,
+        "original": 779,
+        "discount": 40,
+        "currency": "EUR",
+        "lowestSeen": 467,
+        "checkedAt": "2026-09-10T19:25:07.820Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1529985478525321217",
+          "at": "2026-07-23T22:56:03.836000+00:00"
+        }
+      ],
+      "threadId": "1547689405265743973",
+      "starterMessageId": "1547689405265743973",
+      "tags": [
+        "on-sale",
+        "under-10",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:4534960": {
+      "kind": "app",
+      "id": 4534960,
+      "name": "Dear Passengers",
+      "url": "https://store.steampowered.com/app/4534960/",
+      "status": "unreleased",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7ddef53346afe3e3d4d479dbed740cdb38cfe09a/header.jpg?t=1787132605",
+      "description": "Play in co-op as the crew of the world’s worst airline. Your plane is falling apart, your cargo is illegal, and passenger safety barely makes the list.",
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1531075618488193135",
+          "at": "2026-07-26T23:07:53.457000+00:00"
+        }
+      ],
+      "threadId": "1547689461863686255",
+      "starterMessageId": "1547689461863686255",
+      "tags": [
+        "unreleased",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:3722330": {
+      "kind": "app",
+      "id": 3722330,
+      "name": "Shift At Midnight",
+      "url": "https://store.steampowered.com/app/3722330/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1789052327",
+      "description": "An online co-op detective horror for up to 3 players. Work together across randomly generated shifts to investigate your customers, as some are only pretending to be human. Make one mistake, and you’ll be forced to board up, set traps, and hide.",
+      "price": {
+        "current": 899,
+        "original": 999,
+        "discount": 10,
+        "currency": "EUR",
+        "lowestSeen": 899,
+        "checkedAt": "2026-09-10T19:25:28.504Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1531373111549628630",
+          "at": "2026-07-27T18:50:01.330000+00:00"
+        }
+      ],
+      "threadId": "1547689492297683127",
+      "starterMessageId": "1547689492297683127",
+      "tags": [
+        "on-sale",
+        "under-10",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:3892270": {
+      "kind": "app",
+      "id": 3892270,
+      "name": "Gamble With Your Friends",
+      "url": "https://store.steampowered.com/app/3892270/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1788800889",
+      "description": "An online 1-6 player co-op &quot;casino crawler&quot; where you and your friends share one bank account and one massive debt. Gamble, buy sketchy items, make terrible decisions, and climb an ominous casino tower to hit your loan shark’s daily quota in 5 minutes - or face the consequences.",
+      "price": {
+        "current": 482,
+        "original": 779,
+        "discount": 38,
+        "currency": "EUR",
+        "lowestSeen": 482,
+        "checkedAt": "2026-09-10T19:25:36.023Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1531786551556575282",
+          "at": "2026-07-28T22:12:53.109000+00:00"
+        }
+      ],
+      "threadId": "1547689523536990341",
+      "starterMessageId": "1547689523536990341",
+      "tags": [
+        "on-sale",
+        "under-10",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:1149460": {
+      "kind": "app",
+      "id": 1149460,
+      "name": "ICARUS",
+      "url": "https://store.steampowered.com/app/1149460/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1784744651",
+      "description": "ICARUS is a solo or multiplayer PvE survival game. Explore a savage wilderness in the aftermath of terraforming gone wrong. Complete narrative quests as either Open World operations or Individual Missions. Explore, build, craft and hunt while seeking your fortune and prospecting for exotic matter.",
+      "price": {
+        "current": 849,
+        "original": 3399,
+        "discount": 75,
+        "currency": "EUR",
+        "lowestSeen": 849,
+        "checkedAt": "2026-09-10T19:25:43.977Z"
+      },
+      "mentions": [
+        {
+          "userId": "202727571648020480",
+          "username": "sollace4781t",
+          "messageId": "1532434328758259824",
+          "at": "2026-07-30T17:06:55.229000+00:00"
+        }
+      ],
+      "threadId": "1547689560501264427",
+      "starterMessageId": "1547689560501264427",
+      "tags": [
+        "on-sale",
+        "under-10",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:1478500": {
+      "kind": "app",
+      "id": 1478500,
+      "name": "Big Walk",
+      "url": "https://store.steampowered.com/app/1478500/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
+      "description": "Hang out and get lost with close friends in a big world. A cooperative online walker-talker from the creators of Untitled Goose Game.",
+      "price": {
+        "current": 1899,
+        "original": 1899,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 1899,
+        "checkedAt": "2026-09-10T19:25:52.539Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1534310323820167298",
+          "at": "2026-08-04T21:21:27.306000+00:00"
+        }
+      ],
+      "threadId": "1547689592860188764",
+      "starterMessageId": "1547689592860188764",
+      "tags": [
+        "co-op",
+        "online-multiplayer"
+      ]
+    },
+    "app:3883570": {
+      "kind": "app",
+      "id": 3883570,
+      "name": "Invokyr",
+      "url": "https://store.steampowered.com/app/3883570/",
+      "status": "unreleased",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1788861659",
+      "description": "A co-op survival horror game about a cursed board game. Play with up to 5 friends. Roll the dice, survive the horrors that are summoned, and beat the Gamemaster to win your freedom.",
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1536286417729097839",
+          "at": "2026-08-10T08:13:44.808000+00:00"
+        }
+      ],
+      "threadId": "1547689624309080116",
+      "starterMessageId": "1547689624309080116",
+      "tags": [
+        "unreleased",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:1951780": {
+      "kind": "app",
+      "id": 1951780,
+      "name": "Jumping Jazz Cats",
+      "url": "https://store.steampowered.com/app/1951780/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1951780/header.jpg?t=1762769884",
+      "description": "Play, race and hang with your feline friends in this online platformer party game! Purrfect your pussycat parkour as you sprint, jump, bounce, swing, skid and slide through a collection of collaborative and competitive mini-games set in a grandiose cartoon mansion. Get jumpin', jazz cats!",
+      "price": {
+        "current": 224,
+        "original": 899,
+        "discount": 75,
+        "currency": "EUR",
+        "lowestSeen": 224,
+        "checkedAt": "2026-09-10T19:26:07.843Z"
+      },
+      "mentions": [
+        {
+          "userId": "256793091430678539",
+          "username": "geremir",
+          "messageId": "1539212057445015603",
+          "at": "2026-08-18T09:59:11.672000+00:00"
+        }
+      ],
+      "threadId": "1547689656672329911",
+      "starterMessageId": "1547689656672329911",
+      "tags": [
+        "on-sale",
+        "under-10",
+        "co-op",
+        "local-multiplayer",
+        "online-multiplayer"
+      ]
+    },
+    "app:4001890": {
+      "kind": "app",
+      "id": 4001890,
+      "name": "How to Fish",
+      "url": "https://store.steampowered.com/app/4001890/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
+      "description": "A 1-4 player physics based fishing simulator. While drinking and boating you suddenly crash into a small island. To work your way back home you have to learn How to Fish.",
+      "price": {
+        "current": 749,
+        "original": 749,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 749,
+        "checkedAt": "2026-09-10T19:26:15.341Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1540626718098853988",
+          "at": "2026-08-22T07:40:33.055000+00:00"
+        }
+      ],
+      "threadId": "1547689688444309645",
+      "starterMessageId": "1547689688444309645",
+      "tags": [
+        "under-10",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:3949040": {
+      "kind": "app",
+      "id": 3949040,
+      "name": "RV There Yet?",
+      "url": "https://store.steampowered.com/app/3949040/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/df3b0e300632f3cd1caf0aa9dc6213ebe79dac43/header_alt_assets_0.jpg?t=1789049074",
+      "description": "A co-op adventure about driving your Recreational Vehicle home.",
+      "price": {
+        "current": 467,
+        "original": 779,
+        "discount": 40,
+        "currency": "EUR",
+        "lowestSeen": 467,
+        "checkedAt": "2026-09-10T19:26:22.753Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1541885881361768568",
+          "at": "2026-08-25T19:04:00.971000+00:00"
+        }
+      ],
+      "threadId": "1547689719540875275",
+      "starterMessageId": "1547689719540875275",
+      "tags": [
+        "on-sale",
+        "under-10",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:3124540": {
+      "kind": "app",
+      "id": 3124540,
+      "name": "Far Far West",
+      "url": "https://store.steampowered.com/app/3124540/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/2d55092d45b1784dcc7cb0ba6ad3f919e62eb5d0/header.jpg?t=1787841818",
+      "description": "Yee-haw, Cowboys! Team up in this chaotic 1-4 player co-op shooter. Journey to the Far Far West to blast monsters, sling spells, complete missions, and collect bounties. Work as a team to get in, get paid and get out (mostly) alive.",
+      "price": {
+        "current": 1999,
+        "original": 1999,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 1999,
+        "checkedAt": "2026-09-10T19:26:31.880Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1543008464849215548",
+          "at": "2026-08-28T21:24:45.731000+00:00"
+        }
+      ],
+      "threadId": "1547689758657089570",
+      "starterMessageId": "1547689758657089570",
+      "tags": [
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:2918310": {
+      "kind": "app",
+      "id": 2918310,
+      "name": "Mama's Sleeping Angels",
+      "url": "https://store.steampowered.com/app/2918310/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918310/90b47fae2d1f4892049c57f7bf43a39e2df816a8/header.jpg?t=1778144855",
+      "description": "A 1 to 4 player Y2K dream-exploration game. Free your imaginary friends trapped to eternal sleep by the goddess Mama. Collect cursed items and use weapons to face the monsters in Mama's dreams.",
+      "price": {
+        "current": 649,
+        "original": 999,
+        "discount": 35,
+        "currency": "EUR",
+        "lowestSeen": 649,
+        "checkedAt": "2026-09-10T19:26:40.202Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1543009686406701168",
+          "at": "2026-08-28T21:29:36.973000+00:00"
+        }
+      ],
+      "threadId": "1547689792572227668",
+      "starterMessageId": "1547689792572227668",
+      "tags": [
+        "on-sale",
+        "under-10",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:4108000": {
+      "kind": "app",
+      "id": 4108000,
+      "name": "Machine Party",
+      "url": "https://store.steampowered.com/app/4108000/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1786561627",
+      "description": "Machine Party is a collection of violent party games where failure is lethal. Gather your friends and endure high stakes situations to prove your life is worth more than theirs. Survival is unlikely.",
+      "price": {
+        "current": 749,
+        "original": 749,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 749,
+        "checkedAt": "2026-09-10T19:26:47.915Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1543009710603636900",
+          "at": "2026-08-28T21:29:42.742000+00:00"
+        }
+      ],
+      "threadId": "1547689824553803789",
+      "starterMessageId": "1547689824553803789",
+      "tags": [
+        "under-10",
+        "co-op",
+        "local-multiplayer",
+        "online-multiplayer"
+      ]
+    },
+    "app:2661300": {
+      "kind": "app",
+      "id": 2661300,
+      "name": "Grounded 2",
+      "url": "https://store.steampowered.com/app/2661300/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b52405d3dd3d4bfd356cd9af7b399bcbc5a23f7e/header.jpg?t=1787010637",
+      "description": "Shrunk again, but the world is much larger. In this open-world, single-player or co-op survival adventure, craft weapons and armor, build your base, and traverse the playground on your buggy. But something else is out there—and it hasn’t forgotten you.",
+      "price": {
+        "current": 2999,
+        "original": 2999,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 2999,
+        "checkedAt": "2026-09-10T19:26:55.263Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1543270384659599592",
+          "at": "2026-08-29T14:45:32.280000+00:00"
+        }
+      ],
+      "threadId": "1547689856409403444",
+      "starterMessageId": "1547689856409403444",
+      "tags": [
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:2787320": {
+      "kind": "app",
+      "id": 2787320,
+      "name": "Revenge of the Savage Planet",
+      "url": "https://store.steampowered.com/app/2787320/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2787320/fe9c6fb0fc03a8f6884bca5662bab35f2d6a4824/header.jpg?t=1766069600",
+      "description": "Revenge of the Savage Planet is an upbeat, satirical action adventure Sci-Fi. Jump, shoot and collect your way across vibrant alien worlds, uncovering new gear and upgrades, while discovering various hidden secrets.",
+      "price": {
+        "current": 2999,
+        "original": 2999,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 2999,
+        "checkedAt": "2026-09-10T19:27:03.704Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1543270776772366478",
+          "at": "2026-08-29T14:47:05.767000+00:00"
+        }
+      ],
+      "threadId": "1547689891112947713",
+      "starterMessageId": "1547689891112947713",
+      "tags": [
+        "co-op",
+        "local-multiplayer",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:2780980": {
+      "kind": "app",
+      "id": 2780980,
+      "name": "LOCKDOWN Protocol",
+      "url": "https://store.steampowered.com/app/2780980/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780980/header.jpg?t=1780159963",
+      "description": "A first person social deduction game, combining real time action and communication, playable up to 16 players. While most players will cooperate to complete objectives to ensure victory, a small portion of dissidents will try their best to stop them at all cost, without being caught.",
+      "price": {
+        "current": 999,
+        "original": 999,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 999,
+        "checkedAt": "2026-09-10T19:27:11.252Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1544311345233535027",
+          "at": "2026-09-01T11:41:56.621000+00:00"
+        }
+      ],
+      "threadId": "1547689922905772126",
+      "starterMessageId": "1547689922905772126",
+      "tags": [
+        "under-10",
+        "co-op",
+        "online-multiplayer"
+      ]
+    },
+    "app:4374530": {
+      "kind": "app",
+      "id": 4374530,
+      "name": "Keep It Up!",
+      "url": "https://store.steampowered.com/app/4374530/",
+      "status": "unreleased",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4374530/4dbca015680720b823f3c037d7c9abf9e282cecd/header.jpg?t=1788455969",
+      "description": "Keep It Up! is a co-op slapstick physics game about keeping a balloon from touching the ground. You and up to three Facility test subjects scramble through chaotic obstacle rooms while slapping, jumping and colliding to keep the balloon up. Will you be able to Keep It Up!?",
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1544394197916844092",
+          "at": "2026-09-01T17:11:10.240000+00:00"
+        }
+      ],
+      "threadId": "1547689954254258227",
+      "starterMessageId": "1547689954254258227",
+      "tags": [
+        "unreleased",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:2909110": {
+      "kind": "app",
+      "id": 2909110,
+      "name": "Nuclear Nightmare",
+      "url": "https://store.steampowered.com/app/2909110/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909110/header.jpg?t=1772607251",
+      "description": "Venture forth as part of a specialized team of fellow players tasked with retrieving classified materials, evading the black goo virus, and the nightmarish entities it has spawned. With time running out before the US government initiates a devastating nuclear strike to contain the spreading menace.",
+      "price": {
+        "current": 689,
+        "original": 689,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 689,
+        "checkedAt": "2026-09-10T19:27:26.068Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1544445370149507234",
+          "at": "2026-09-01T20:34:30.651000+00:00"
+        }
+      ],
+      "threadId": "1547689985166155827",
+      "starterMessageId": "1547689985166155827",
+      "tags": [
+        "under-10",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:1144200": {
+      "kind": "app",
+      "id": 1144200,
+      "name": "Ready or Not",
+      "url": "https://store.steampowered.com/app/1144200/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1789019569",
+      "description": "Ready or Not is an intense, tactical, first-person shooter that depicts a modern-day world in which SWAT police units are called to defuse hostile and confronting situations.",
+      "price": {
+        "current": 2499,
+        "original": 4999,
+        "discount": 50,
+        "currency": "EUR",
+        "lowestSeen": 2499,
+        "checkedAt": "2026-09-10T19:27:33.667Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1547348159540232245",
+          "at": "2026-09-09T20:49:09.573000+00:00"
+        }
+      ],
+      "threadId": "1547690016946393092",
+      "starterMessageId": "1547690016946393092",
+      "tags": [
+        "on-sale",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:774291": {
+      "kind": "app",
+      "id": 774291,
+      "name": "Last Man Sitting",
+      "url": "https://store.steampowered.com/app/774291/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774291/f4b1c502ca199c254b21fc13b4f8cffeed8be28a/header.jpg?t=1780398055",
+      "description": "Shoot, hack and grind your way through waves of sentient office appliances in Megabonk-like roguelite action. Level up, unlock upgrades and play in singleplayer or up to 4-player coop while 360 no-scoping on an office chair!",
+      "price": {
+        "current": 249,
+        "original": 999,
+        "discount": 75,
+        "currency": "EUR",
+        "lowestSeen": 249,
+        "checkedAt": "2026-09-10T19:29:02.563Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1547664004325838968",
+          "at": "2026-09-10T17:44:12.838000+00:00"
+        }
+      ],
+      "threadId": "1547690048508399747",
+      "starterMessageId": "1547690048508399747",
+      "tags": [
+        "on-sale",
+        "under-10",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:1785150": {
+      "kind": "app",
+      "id": 1785150,
+      "name": "Friends vs Friends",
+      "url": "https://store.steampowered.com/app/1785150/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1785150/928a874b14168ffdcbd95989ac10e48a77302d53/header_alt_assets_9.jpg?t=1789035048",
+      "description": "A frantic, online PvP shooter that combines combat and deck building. Choose a character, customize your card-based loadout, and get ready for the fights of your life!",
+      "price": {
+        "current": 249,
+        "original": 999,
+        "discount": 75,
+        "currency": "EUR",
+        "lowestSeen": 249,
+        "checkedAt": "2026-09-10T19:27:48.756Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1547664012043358258",
+          "at": "2026-09-10T17:44:14.678000+00:00"
+        }
+      ],
+      "threadId": "1547690080410275931",
+      "starterMessageId": "1547690080410275931",
+      "tags": [
+        "on-sale",
+        "under-10",
+        "co-op",
+        "online-multiplayer"
+      ]
+    }
+  }
+}
