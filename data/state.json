@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-10T17:35:49.867Z",
+  "lastRun": "2026-09-10T22:21:47.302Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w36nps/save_55_on_loco_motive_on_steam_new_low/",
-        "postedAt": "2026-08-31T08:25:23.925Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w3khys/save_75_on_subnautica_on_steam/",
-        "postedAt": "2026-08-31T21:49:54.602Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w3k3of/save_25_on_enshrouded_on_steam/",
-        "postedAt": "2026-08-31T21:49:54.602Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w3k1go/save_70_on_sons_of_the_forest_on_steam_historical/",
-        "postedAt": "2026-08-31T21:49:54.602Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w3k0pj/save_33_on_project_zomboid_on_steam/",
         "postedAt": "2026-08-31T21:49:54.602Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wbsu38/save_20_on_into_the_grid_on_steam/",
         "postedAt": "2026-09-09T20:44:54.405Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wcq4y0/save_90_on_danganronpa_trigger_happy_havoc_on/",
+        "postedAt": "2026-09-10T22:21:47.302Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wcpt28/diablo_iv_is_1249_in_prep_for_blizzcon/",
+        "postedAt": "2026-09-10T22:21:47.302Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wcp6f4/save_50_on_red_dead_redemption_on_steam/",
+        "postedAt": "2026-09-10T22:21:47.302Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wcp049/save_75_on_death_stranding_directors_cut_on_steam/",
+        "postedAt": "2026-09-10T22:21:47.302Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2285550",
-        "postedAt": "2026-08-18T23:26:22.578Z"
-      },
-      {
-        "id": "sale_1371980",
-        "postedAt": "2026-08-19T01:33:53.073Z"
-      },
       {
         "id": "sale_1408027",
         "postedAt": "2026-08-19T16:35:45.204Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_3949040",
         "postedAt": "2026-09-10T17:35:49.867Z"
+      },
+      {
+        "id": "sale_2536520",
+        "postedAt": "2026-09-10T22:21:47.302Z"
+      },
+      {
+        "id": "sale_1390270",
+        "postedAt": "2026-09-10T22:21:47.302Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1049,8 +1049,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wbsu38/save_20_on_into_the_grid_on_steam/",
-    "steam_sales": "sale_3949040",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wcp049/save_75_on_death_stranding_directors_cut_on_steam/",
+    "steam_sales": "sale_1390270",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685264724715110535"
   }

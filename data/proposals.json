@@ -1,6 +1,6 @@
 {
   "cursors": {
-    "newestScannedId": "1547690872274165831",
+    "newestScannedId": "1547709337185689621",
     "oldestScannedId": "1305939645917565029",
     "backfillComplete": true
   },
@@ -927,6 +927,73 @@
         "under-10",
         "co-op",
         "online-multiplayer"
+      ]
+    },
+    "app:1943950": {
+      "kind": "app",
+      "id": 1943950,
+      "name": "Escape the Backrooms",
+      "url": "https://store.steampowered.com/app/1943950/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/a17d3df3956f11af6e09d1ccfde5339cc96024d0/header_alt_assets_3.jpg?t=1787829140",
+      "description": "Escape the Backrooms is a 1-4 player co-op horror exploration game. Traverse 30+ eerie backrooms levels while avoiding entities and other dangers. Try to escape but be warned: survival isn't guaranteed.",
+      "price": {
+        "current": 949,
+        "original": 949,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 949,
+        "checkedAt": "2026-09-10T22:21:48.586Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1547699768677892116",
+          "at": "2026-09-10T20:06:19.724000+00:00"
+        }
+      ],
+      "threadId": "1547733864087031960",
+      "starterMessageId": "1547733864087031960",
+      "tags": [
+        "under-10",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:311210": {
+      "kind": "app",
+      "id": 311210,
+      "name": "Call of Duty®: Black Ops III",
+      "url": "https://store.steampowered.com/app/311210/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
+      "description": "Call of Duty®: Black Ops III Zombies Chronicles Edition includes the full base game plus the Zombies Chronicles content expansion.",
+      "price": {
+        "current": 1499,
+        "original": 5999,
+        "discount": 75,
+        "currency": "EUR",
+        "lowestSeen": 1499,
+        "checkedAt": "2026-09-10T22:21:54.994Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1547709337185689621",
+          "at": "2026-09-10T20:44:21.034000+00:00"
+        }
+      ],
+      "threadId": "1547733895292784761",
+      "starterMessageId": "1547733895292784761",
+      "tags": [
+        "on-sale",
+        "co-op",
+        "local-multiplayer",
+        "online-multiplayer",
+        "singleplayer"
       ]
     }
   }
