@@ -249,6 +249,7 @@ Set in Repository → Settings → Secrets and variables → Actions:
 | Secret                | Required | Description                                             |
 | --------------------- | -------- | ------------------------------------------------------- |
 | `DISCORD_WEBHOOK_URL` | Yes      | Discord webhook URL                                     |
+| `DISCORD_BOT_TOKEN`   | For proposals | Bot token; required once the `proposals` config block exists |
 | `GITHUB_TOKEN`        | No       | For GitHub releases (authenticated = higher rate limit) |
 
 ### Manual Trigger
@@ -263,6 +264,72 @@ From UI (if configured):
 
 1. Open dashboard
 2. Click "Run Now" button
+
+## Game Proposals
+
+Harvests Steam store links out of a chat channel and catalogues each proposed game
+as a post in a Discord **forum channel**, with auto-applied tags, reaction voting,
+and prices that stay current.
+
+### Why this needs a bot token
+
+The news feed posts through a **webhook**, which is write-only — it cannot read
+channel history. Harvesting links requires a real bot user with the **Message
+Content** privileged intent (a toggle in the Developer Portal; no review needed
+under 100 servers).
+
+### Setup
+
+1. Developer Portal → New Application → Bot → copy the token into the
+   `DISCORD_BOT_TOKEN` secret.
+2. Enable **Message Content Intent**.
+3. Invite the bot with permission integer `326417599568`:
+   `https://discord.com/oauth2/authorize?client_id=<APP_ID>&scope=bot&permissions=326417599568`
+
+   | Permission | Why |
+   | --- | --- |
+   | View Channel, Read Message History | read the source channel |
+   | Send Messages | **this is what authorises creating forum posts** — `CREATE_PUBLIC_THREADS` is ignored in forums |
+   | Embed Links, Send Messages in Threads | post embeds and price-drop replies |
+   | Add Reactions | 👍/👎/🤷 voting and the ✅ capture marker |
+   | Manage Channels | provision the forum's tag set |
+   | Manage Threads | required by `--undo`; owning a thread does not grant deletion |
+
+4. Create a forum channel and copy both channel IDs (Developer Mode → right-click → Copy Channel ID).
+5. Uncomment and fill the `proposals` block in `config.yaml` (see `config.example.yaml`).
+
+### Running it
+
+| Command | What it does |
+| --- | --- |
+| `npm run proposals` | Incremental scan + price refresh. Runs hourly in `feed.yml`. |
+| `npm run proposals:dry-run` | Scans and prints findings. **Writes nothing.** |
+| `npm run proposals:backfill` | Walks the channel's entire history, oldest-first. |
+| `npm run proposals:undo` | Deletes every forum post this bot created and resets cursors. |
+
+Backfill, dry-run and undo also run from Actions → **Game Proposals (manual)**.
+
+**Run the dry run first.** If it reports messages scanned but no Steam links found,
+the Message Content intent is still off — every `content` field comes back empty.
+
+**Mute the forum before backfilling.** Each created post notifies channel followers.
+
+### Behaviour notes
+
+- **Prices are live.** The bot authored each post's starter message, so it edits it
+  in place on every price change. A drop also replies in-thread pinging whoever
+  proposed the game.
+- **Free games are not delisted games.** Steam returns `success:true, data:[]` for
+  free-to-play and unreleased titles, and `success:false` for genuinely delisted
+  ones. These are tracked as separate statuses.
+- **Packages and bundles are recorded but not resolved.** `/sub/` and `/bundle/`
+  ids live in a different id space from appids; resolving them needs the
+  `packagedetails` endpoint, which is not implemented yet.
+- **Forum posts auto-archive after 7 days** of inactivity, and Discord blocks
+  adding reactions to archived posts — so voting freezes on older entries. A price
+  drop unarchives the post and resurfaces it. This is accepted, not a bug.
+- **State lives in `data/proposals.json`**, deliberately separate from
+  `data/state.json`, which prunes entries at 30 days and caps 100 per source.
 
 ## Development
 

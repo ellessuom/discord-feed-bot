@@ -1,3 +1,5 @@
+import { HttpError } from './http-error'
+
 export interface RetryOptions {
   retries: number
   baseDelayMs: number
@@ -29,11 +31,20 @@ export async function withRetry<T>(
     } catch (error) {
       lastError = error as Error
 
+      // A 4xx that isn't a rate limit will fail identically on every retry.
+      if (error instanceof HttpError && !error.isRetryable) {
+        throw error
+      }
+
       if (attempt < retries) {
-        const delay = Math.min(baseDelayMs * Math.pow(2, attempt), maxDelayMs)
+        const backoff = Math.min(baseDelayMs * Math.pow(2, attempt), maxDelayMs)
+        // Discord tells us exactly how long to wait; prefer it over guessing.
+        const serverDelay = error instanceof HttpError ? error.retryAfterMs : undefined
+        const delay = serverDelay !== undefined ? Math.max(serverDelay, backoff) : backoff
         const opName = context?.operation ?? 'operation'
+        const reason = serverDelay !== undefined ? ' (Retry-After)' : ''
         console.warn(
-          `[${opName}] Retry attempt ${attempt + 1}/${retries} after ${delay}ms: ${lastError.message}`
+          `[${opName}] Retry attempt ${attempt + 1}/${retries} after ${delay}ms${reason}: ${lastError.message}`
         )
         await new Promise((resolve) => setTimeout(resolve, delay))
       }

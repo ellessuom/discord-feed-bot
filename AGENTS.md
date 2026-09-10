@@ -59,6 +59,33 @@ Non-obvious validation constraints in `src/config.ts`:
 - `[skip ci]` in commit messages prevents CI trigger (used for state commits)
 - feed.yml workflow commits state back to repo after fetching
 
+## Game Proposals Module (`src/proposals/`)
+
+Separate entry point (`npm run proposals`), not a `Source` type — sources are
+read-only fetch->NewsItem->post, proposals are read-write records with mutable
+state. Do not bend `NewsItem` to fit.
+
+Non-obvious constraints, all of them load-bearing:
+
+- **`data/proposals.json` must never be pruned.** `src/state.ts` prunes at 30 days
+  and 100 ids per source; the proposal backlog is permanent, which is why it does
+  not live in `state.json`.
+- **Steam `appdetails` cannot be batched with multiple filters.** `appids=a,b` with
+  no filters returns HTTP 400; only `filters=price_overview` permits batching.
+  Full metadata is one appid per request.
+- **Steam has three outcomes, not two**: `success:false` (delisted),
+  `success:true, data:[]` (free-to-play/unreleased), and a populated `data` object.
+  Collapsing the middle case mislabels every free game as delisted.
+- **`PATCH /channels/{id}` replaces `available_tags` wholesale**, and a tag sent
+  without its `id` is created fresh, silently un-applying the old one everywhere.
+  Always merge by name and preserve ids.
+- **Adding a `${VAR}` to config.yaml requires adding it to every workflow `env:`
+  block.** `substituteEnvVarsInObject` walks the whole config and throws on any
+  unset var, before validation - it would take the news feed down with it.
+- **`loadConfig` hand-builds its return value.** Adding a schema block is not
+  enough; extend the `Config` interface and the return literal too.
+- Thread deletion needs `MANAGE_THREADS`, not thread ownership.
+
 ## Source Types Entry Point
 
 `src/sources/index.ts` dispatches source fetching by type. All source implementations export a `fetch*` function.
