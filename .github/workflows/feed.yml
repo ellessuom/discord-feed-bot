@@ -28,16 +28,31 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      # DISCORD_BOT_TOKEN must be present here even though this step only posts
+      # news: loadConfig() substitutes every ${VAR} in config.yaml up front and
+      # throws on any that is unset, which would take the news feed down.
       - name: Run fetch
         run: npm run fetch
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
 
+      - name: Scan for game proposals
+        run: npm run proposals
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+
+      # always(): a failure in the proposals step must not discard the news state
+      # or the scan cursor, or the next run re-posts news and re-scans history.
       - name: Commit state and status
+        if: always()
         run: |
-          git config user.name "Feed Bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add -f data/state.json data/status.json
+          git config user.name "Demousselle"
+          git config user.email "39221632+ellessuom@users.noreply.github.com"
+          for f in data/state.json data/status.json data/proposals.json; do
+            if [ -f "$f" ]; then git add -f "$f"; fi
+          done
           git commit -m "Update feed state [skip ci]" || echo "No changes to commit"
           git pull --rebase origin main
           git push

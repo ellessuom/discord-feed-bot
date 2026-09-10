@@ -1,0 +1,74 @@
+name: Game Proposals (manual)
+
+# One-shot operations that must never run on the hourly cron: the initial
+# history backfill, a dry run, and the rollback that deletes every forum post
+# this bot created.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'What to run'
+        required: true
+        default: 'dry-run'
+        type: choice
+        options:
+          - dry-run
+          - backfill
+          - undo
+      limit:
+        description: 'Max pages of 100 messages to scan (blank = no limit)'
+        required: false
+        type: string
+
+# Shares the feed group so a backfill can never race the hourly state commit.
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run ${{ inputs.mode }}
+        run: |
+          ARGS=""
+          case "${{ inputs.mode }}" in
+            dry-run)  ARGS="--dry-run" ;;
+            backfill) ARGS="--backfill" ;;
+            undo)     ARGS="--undo" ;;
+          esac
+          if [ -n "${{ inputs.limit }}" ]; then
+            ARGS="$ARGS --limit=${{ inputs.limit }}"
+          fi
+          echo "Running: npm run proposals -- $ARGS"
+          npm run proposals -- $ARGS
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+
+      # A backfill that dies partway through must still persist its cursor,
+      # otherwise the resume starts from the beginning again.
+      - name: Commit proposals state
+        if: always() && inputs.mode != 'dry-run'
+        run: |
+          git config user.name "Demousselle"
+          git config user.email "39221632+ellessuom@users.noreply.github.com"
+          if [ -f data/proposals.json ]; then git add -f data/proposals.json; fi
+          git commit -m "Update proposals state [skip ci]" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push

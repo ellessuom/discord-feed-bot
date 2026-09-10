@@ -1,6 +1,7 @@
 import { describe, test, expect, beforeEach, afterEach } from 'vitest'
 import fs from 'node:fs'
 import path from 'node:path'
+import os from 'node:os'
 import { fileURLToPath } from 'node:url'
 
 interface PostedId {
@@ -19,22 +20,34 @@ const __dirname = path.dirname(__filename)
 const projectRoot = path.resolve(__dirname, '../..')
 const dataDir = path.resolve(projectRoot, 'data')
 const statePath = path.resolve(dataDir, 'state.json')
-const backupPath = path.resolve(dataDir, 'state.json.backup')
+
+// Several tests below rmSync the whole data/ directory, so the snapshot has to
+// live outside it -- a backup kept inside data/ is destroyed along with the
+// files it was protecting, which silently ate data/state.json, data/status.json
+// and (once the proposals feature landed) data/proposals.json on every local run.
+const backupDir = fs.mkdtempSync(path.join(os.tmpdir(), 'feed-bot-data-'))
+
+function listFiles(dir: string): string[] {
+  if (!fs.existsSync(dir)) return []
+  return fs.readdirSync(dir).filter((f) => fs.statSync(path.join(dir, f)).isFile())
+}
 
 function backupOriginalState() {
-  if (fs.existsSync(statePath)) {
-    fs.mkdirSync(path.dirname(backupPath), { recursive: true })
-    fs.copyFileSync(statePath, backupPath)
+  for (const file of listFiles(backupDir)) {
+    fs.unlinkSync(path.join(backupDir, file))
+  }
+  for (const file of listFiles(dataDir)) {
+    fs.copyFileSync(path.join(dataDir, file), path.join(backupDir, file))
   }
 }
 
 function restoreOriginalState() {
-  if (fs.existsSync(backupPath)) {
-    fs.mkdirSync(path.dirname(statePath), { recursive: true })
-    fs.copyFileSync(backupPath, statePath)
-    fs.unlinkSync(backupPath)
-  } else if (fs.existsSync(statePath)) {
-    fs.unlinkSync(statePath)
+  fs.mkdirSync(dataDir, { recursive: true })
+  for (const file of listFiles(dataDir)) {
+    fs.unlinkSync(path.join(dataDir, file))
+  }
+  for (const file of listFiles(backupDir)) {
+    fs.copyFileSync(path.join(backupDir, file), path.join(dataDir, file))
   }
 }
 

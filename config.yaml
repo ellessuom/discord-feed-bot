@@ -29,3 +29,10 @@ settings:
   max_items_per_source: 4
   include_images: true
   post_order: newest_first
+proposals:
+  enabled: true
+  bot_token: '${DISCORD_BOT_TOKEN}'
+  general_channel_id: '1305936883271860296'
+  forum_channel_id: '1547673898567475290'
+  country_code: 'IE'
+  language: 'english'
