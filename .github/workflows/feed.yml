@@ -48,8 +48,8 @@ jobs:
       - name: Commit state and status
         if: always()
         run: |
-          git config user.name "Feed Bot"
-          git config user.email "bot@users.noreply.github.com"
+          git config user.name "Demousselle"
+          git config user.email "39221632+ellessuom@users.noreply.github.com"
           for f in data/state.json data/status.json data/proposals.json; do
             if [ -f "$f" ]; then git add -f "$f"; fi
           done
