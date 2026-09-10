@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-10T13:27:40.941Z",
+  "lastRun": "2026-09-10T17:35:49.867Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,14 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3729550",
-        "postedAt": "2026-08-18T18:43:14.731Z"
-      },
-      {
-        "id": "sale_993090",
-        "postedAt": "2026-08-18T23:26:22.578Z"
-      },
-      {
         "id": "sale_2285550",
         "postedAt": "2026-08-18T23:26:22.578Z"
       },
@@ -804,25 +796,17 @@
       {
         "id": "sale_3768760",
         "postedAt": "2026-09-10T08:53:53.273Z"
+      },
+      {
+        "id": "sale_3195440",
+        "postedAt": "2026-09-10T17:35:49.867Z"
+      },
+      {
+        "id": "sale_3949040",
+        "postedAt": "2026-09-10T17:35:49.867Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vlijlj/aliens_fireteam_elite_on_nintendo_switch_shut/",
-        "postedAt": "2026-08-11T17:01:02.343Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vlfm4h/persona_4_revival_producer_says_remakes_of/",
-        "postedAt": "2026-08-11T17:01:02.343Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vld4uz/its_time_to_sue_sony_stop_killing_games_joins/",
-        "postedAt": "2026-08-11T17:01:02.343Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vlcpb8/alan_wake_2_hits_another_major_sales_milestone_3/",
-        "postedAt": "2026-08-11T17:01:02.343Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vmdykg/in_a_fascinating_use_of_free_will_old_school/",
         "postedAt": "2026-08-12T15:01:00.990Z"
@@ -1066,7 +1050,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wbsu38/save_20_on_into_the_grid_on_steam/",
-    "steam_sales": "sale_3768760",
+    "steam_sales": "sale_3949040",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685264724715110535"
   }
