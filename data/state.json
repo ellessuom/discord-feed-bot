@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-11T10:55:28.251Z",
+  "lastRun": "2026-09-11T14:56:03.362Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w3m8bo/save_80_on_beyond_contact_399/",
-        "postedAt": "2026-09-01T01:07:41.407Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w4aipo/unreal_world_290_80_off/",
-        "postedAt": "2026-09-01T13:19:01.948Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w41zc2/save_80_on_the_escapists_299/",
-        "postedAt": "2026-09-01T13:19:01.948Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w3qr7m/save_75_on_ark_survival_ascended_on_steam/",
-        "postedAt": "2026-09-01T13:19:01.948Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w3kz5f/steam_plantera_2_golden_acorn_63_off_184/",
         "postedAt": "2026-09-01T13:19:01.948Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wcoz6p/save_90_on_sniper_elite_5_on_steam/",
         "postedAt": "2026-09-11T10:55:28.251Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wdcqvv/save_40_on_shadowlight_on_steam/",
+        "postedAt": "2026-09-11T14:56:03.362Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wdbi2z/save_50_on_daice_on_steam/",
+        "postedAt": "2026-09-11T14:56:03.362Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wd9f1t/save_75_on_songs_of_conquest_749/",
+        "postedAt": "2026-09-11T14:56:03.362Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wcbk27/save_80_on_chernobylite_complete_edition_599/",
+        "postedAt": "2026-09-11T14:56:03.362Z"
       }
     ],
     "steam_sales": [
@@ -998,6 +998,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
         "postedAt": "2026-09-05T23:40:02.404Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1wdd01u/weekly_rgamingnews_discussion_what_game_you_will/",
+        "postedAt": "2026-09-11T14:56:03.362Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1wd5ifz/no_mans_sky_cosmos_update_trailer/",
+        "postedAt": "2026-09-11T14:56:03.362Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1wcu0vt/steam_enforces_australian_age_verification_via/",
+        "postedAt": "2026-09-11T14:56:03.362Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1wcit4n/that_surprised_me_ex_playstation_boss_shuhei/",
+        "postedAt": "2026-09-11T14:56:03.362Z"
       }
     ],
     "steam_2073850": [
@@ -1049,9 +1065,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wcoz6p/save_90_on_sniper_elite_5_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wcbk27/save_80_on_chernobylite_complete_edition_599/",
     "steam_sales": "sale_2668510",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1w7160d/weekly_rgamingnews_discussion_what_game_you_will/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wcit4n/that_surprised_me_ex_playstation_boss_shuhei/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685264724715110535"
   }
 }
