@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-09-12T19:03:45.690Z",
+  "lastRun": "2026-09-12T22:03:00.684Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w59qyd/save_82_on_bru_boegie_episode_1_get_da_milk_dev/",
-        "postedAt": "2026-09-02T13:26:44.365Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w5hh57/save_80_on_saven_on_steam/",
-        "postedAt": "2026-09-02T17:46:10.862Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w5dm2n/save_80_on_tails_of_iron_499/",
         "postedAt": "2026-09-02T17:46:10.862Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1weji8d/save_50_on_spheroll_049/",
         "postedAt": "2026-09-12T19:03:45.690Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wemxsi/save_85_on_thehunter_call_of_the_wild_292/",
+        "postedAt": "2026-09-12T22:03:00.684Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wemmcn/save_30_on_foolish_mortals_on_steam_new_low/",
+        "postedAt": "2026-09-12T22:03:00.684Z"
       }
     ],
     "steam_sales": [
@@ -1014,6 +1014,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1wdp142/sony_and_kojima_reportedly_clashed_over_physints/",
         "postedAt": "2026-09-12T16:52:02.012Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1we3ifg/rockstar_reveals_the_extreme_lengths_it_goes_to/",
+        "postedAt": "2026-09-12T22:03:00.684Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1we300l/playstation_architect_mark_cerny_nearing_the_end/",
+        "postedAt": "2026-09-12T22:03:00.684Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1wdmkcx/sacked_grand_theft_auto_worker_claims_rockstar/",
+        "postedAt": "2026-09-12T22:03:00.684Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1wdk4zc/nintendo_of_america_puts_tariff_refunds_towards/",
+        "postedAt": "2026-09-12T22:03:00.684Z"
       }
     ],
     "steam_2073850": [
@@ -1065,9 +1081,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1weji8d/save_50_on_spheroll_049/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wemmcn/save_30_on_foolish_mortals_on_steam_new_low/",
     "steam_sales": "sale_3393280",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdp142/sony_and_kojima_reportedly_clashed_over_physints/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdk4zc/nintendo_of_america_puts_tariff_refunds_towards/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
   }
 }
