@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-12T09:07:23.354Z",
+  "lastRun": "2026-09-12T13:27:54.610Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -1002,10 +1002,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/547902498070855892",
-        "postedAt": "2026-08-13T10:11:48.295Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/689763250409046312",
         "postedAt": "2026-08-15T10:26:41.918Z"
       },
@@ -1044,6 +1040,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/685264724715110535",
         "postedAt": "2026-09-10T13:27:40.941Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/547902498070855892",
+        "postedAt": "2026-09-12T13:27:54.610Z"
       }
     ]
   },
@@ -1052,6 +1052,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1we49w2/steam_quantum_odyssey_90930_off/",
     "steam_sales": "sale_3393280",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wcit4n/that_surprised_me_ex_playstation_boss_shuhei/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685264724715110535"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
   }
 }
