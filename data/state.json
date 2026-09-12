@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-12T16:52:02.012Z",
+  "lastRun": "2026-09-12T19:03:45.690Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w4svve/save_50_on_suikoden_iii_hd_remaster_gate_rune_and/",
-        "postedAt": "2026-09-02T08:37:56.033Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w59qyd/save_82_on_bru_boegie_episode_1_get_da_milk_dev/",
         "postedAt": "2026-09-02T13:26:44.365Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1weenye/save_80_on_world_of_zoo_199/",
         "postedAt": "2026-09-12T16:52:02.012Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1weji8d/save_50_on_spheroll_049/",
+        "postedAt": "2026-09-12T19:03:45.690Z"
       }
     ],
     "steam_sales": [
@@ -1065,7 +1065,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1weenye/save_80_on_world_of_zoo_199/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1weji8d/save_50_on_spheroll_049/",
     "steam_sales": "sale_3393280",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdp142/sony_and_kojima_reportedly_clashed_over_physints/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"

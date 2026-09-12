@@ -393,12 +393,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149460/header.jpg?t=1784744651",
       "description": "ICARUS is a solo or multiplayer PvE survival game. Explore a savage wilderness in the aftermath of terraforming gone wrong. Complete narrative quests as either Open World operations or Individual Missions. Explore, build, craft and hunt while seeking your fortune and prospecting for exotic matter.",
       "price": {
-        "current": 849,
+        "current": 3399,
         "original": 3399,
-        "discount": 75,
+        "discount": 0,
         "currency": "EUR",
         "lowestSeen": 849,
-        "checkedAt": "2026-09-10T19:25:43.977Z"
+        "checkedAt": "2026-09-12T19:03:47.599Z"
       },
       "mentions": [
         {
@@ -650,12 +650,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1786561627",
       "description": "Machine Party is a collection of violent party games where failure is lethal. Gather your friends and endure high stakes situations to prove your life is worth more than theirs. Survival is unlikely.",
       "price": {
-        "current": 749,
+        "current": 599,
         "original": 749,
-        "discount": 0,
+        "discount": 20,
         "currency": "EUR",
-        "lowestSeen": 749,
-        "checkedAt": "2026-09-10T19:26:47.915Z"
+        "lowestSeen": 599,
+        "checkedAt": "2026-09-12T19:03:48.032Z"
       },
       "mentions": [
         {
@@ -938,12 +938,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/a17d3df3956f11af6e09d1ccfde5339cc96024d0/header_alt_assets_3.jpg?t=1787829140",
       "description": "Escape the Backrooms is a 1-4 player co-op horror exploration game. Traverse 30+ eerie backrooms levels while avoiding entities and other dangers. Try to escape but be warned: survival isn't guaranteed.",
       "price": {
-        "current": 949,
+        "current": 759,
         "original": 949,
-        "discount": 0,
+        "discount": 20,
         "currency": "EUR",
-        "lowestSeen": 949,
-        "checkedAt": "2026-09-10T22:21:48.586Z"
+        "lowestSeen": 759,
+        "checkedAt": "2026-09-12T19:03:51.066Z"
       },
       "mentions": [
         {
