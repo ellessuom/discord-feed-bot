@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-09-13T18:39:31.187Z",
+  "lastRun": "2026-09-13T21:18:01.932Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w5mjnm/save_85_on_the_sinking_city_remastered_on_steam/",
-        "postedAt": "2026-09-02T20:49:20.048Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w5k3e5/save_85_on_grim_dawn_on_steam/",
-        "postedAt": "2026-09-02T20:49:20.048Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w5jssu/save_80_on_deaths_door_on_steam/",
-        "postedAt": "2026-09-02T20:49:20.048Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w5ixb2/save_40_on_the_séance_of_blake_manor_on_steam_new/",
         "postedAt": "2026-09-02T20:49:20.048Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wexbae/save_80_on_ftl_faster_than_light_on_steam_new/",
         "postedAt": "2026-09-13T11:24:22.384Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wfjiok/save_90_on_choochoo_charles_on_steam/",
+        "postedAt": "2026-09-13T21:18:01.932Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wfd4bg/save_80_on_planet_of_lana_on_steam/",
+        "postedAt": "2026-09-13T21:18:01.932Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wfd0tt/save_60_on_a_little_to_the_left_on_steam/",
+        "postedAt": "2026-09-13T21:18:01.932Z"
       }
     ],
     "steam_sales": [
@@ -1014,6 +1014,22 @@
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1wdk4zc/nintendo_of_america_puts_tariff_refunds_towards/",
         "postedAt": "2026-09-12T22:03:00.684Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1wew8a4/palworld_lead_john_buckley_worries_steam_early/",
+        "postedAt": "2026-09-13T21:18:01.932Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1weez0d/saber_exec_the_game_industry_must_look_beyond/",
+        "postedAt": "2026-09-13T21:18:01.932Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1we7nvs/mayhem_à_la_carte_official_reveal_trailer/",
+        "postedAt": "2026-09-13T21:18:01.932Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
+        "postedAt": "2026-09-13T21:18:01.932Z"
       }
     ],
     "steam_2073850": [
@@ -1065,9 +1081,9 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wexbae/save_80_on_ftl_faster_than_light_on_steam_new/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wfd0tt/save_60_on_a_little_to_the_left_on_steam/",
     "steam_sales": "sale_252490",
-    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdk4zc/nintendo_of_america_puts_tariff_refunds_towards/",
+    "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
   }
 }
