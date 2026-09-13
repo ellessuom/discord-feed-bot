@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-12T22:03:00.684Z",
+  "lastRun": "2026-09-13T05:48:10.150Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_4292950",
-        "postedAt": "2026-08-20T09:38:36.377Z"
-      },
-      {
         "id": "sale_4321510",
         "postedAt": "2026-08-20T09:38:36.378Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_3393280",
         "postedAt": "2026-09-11T23:59:27.802Z"
+      },
+      {
+        "id": "sale_4108000",
+        "postedAt": "2026-09-13T05:48:10.150Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1082,7 +1082,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wemmcn/save_30_on_foolish_mortals_on_steam_new_low/",
-    "steam_sales": "sale_3393280",
+    "steam_sales": "sale_4108000",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdk4zc/nintendo_of_america_puts_tariff_refunds_towards/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
   }
