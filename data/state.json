@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-13T11:24:22.384Z",
+  "lastRun": "2026-09-13T18:39:31.187Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_4321510",
-        "postedAt": "2026-08-20T09:38:36.378Z"
-      },
-      {
         "id": "sale_2163330",
         "postedAt": "2026-08-20T14:39:41.725Z"
       },
@@ -804,25 +800,13 @@
       {
         "id": "sale_4108000",
         "postedAt": "2026-09-13T05:48:10.150Z"
+      },
+      {
+        "id": "sale_252490",
+        "postedAt": "2026-09-13T18:39:31.187Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vo43na/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-08-14T13:16:01.072Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vnx1m8/halo_cocreator_marcus_lehto_says_the_remake_halo/",
-        "postedAt": "2026-08-14T13:16:01.072Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vnjw9z/resident_evil_requiem_is_selling_just_as_many/",
-        "postedAt": "2026-08-14T13:16:01.072Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vn99fr/community_forces_artificial_intelligence_tag_on/",
-        "postedAt": "2026-08-14T13:16:01.072Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vp5m3i/the_witcher_3_lead_says_designing_for_player/",
         "postedAt": "2026-08-15T17:24:02.345Z"
@@ -1082,7 +1066,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wexbae/save_80_on_ftl_faster_than_light_on_steam_new/",
-    "steam_sales": "sale_4108000",
+    "steam_sales": "sale_252490",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdk4zc/nintendo_of_america_puts_tariff_refunds_towards/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
   }
