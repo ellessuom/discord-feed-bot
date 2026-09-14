@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-09-14T10:26:12.807Z",
+  "lastRun": "2026-09-14T16:52:18.095Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w6jjb9/save_80_on_worms_reloaded_399/",
-        "postedAt": "2026-09-03T20:46:10.176Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w6i0tb/save_50_play_for_free_until_11_september_on_sid/",
-        "postedAt": "2026-09-03T20:46:10.176Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w6gf1d/save_90_on_a_plague_tale_innocence_on_steam/",
-        "postedAt": "2026-09-03T20:46:10.176Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w6t3ck/dragon_ball_the_breakers_special_edition_87_off/",
         "postedAt": "2026-09-04T03:51:58.594Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wfx1kl/save_35_on_all_hail_the_orb_on_steam/",
         "postedAt": "2026-09-14T10:26:12.807Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wg8sg1/save_50_on_the_hive_on_steam/",
+        "postedAt": "2026-09-14T16:52:18.095Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wg0qfj/save_75_on_call_of_duty_wwii_on_steam/",
+        "postedAt": "2026-09-14T16:52:18.095Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wfzgc0/save_70_on_the_thaumaturge_1049/",
+        "postedAt": "2026-09-14T16:52:18.095Z"
       }
     ],
     "steam_sales": [
@@ -1034,10 +1034,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/689763250409046312",
-        "postedAt": "2026-08-15T10:26:41.918Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/685262822701007214",
         "postedAt": "2026-08-20T10:35:07.057Z"
       },
@@ -1076,14 +1072,18 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/547902498070855892",
         "postedAt": "2026-09-12T13:27:54.610Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/689763250409046312",
+        "postedAt": "2026-09-14T16:52:18.095Z"
       }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wfx1kl/save_35_on_all_hail_the_orb_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wfzgc0/save_70_on_the_thaumaturge_1049/",
     "steam_sales": "sale_252490",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
 }
