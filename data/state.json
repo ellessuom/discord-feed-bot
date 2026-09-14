@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-13T21:18:01.932Z",
+  "lastRun": "2026-09-14T04:43:48.246Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w5ixb2/save_40_on_the_séance_of_blake_manor_on_steam_new/",
-        "postedAt": "2026-09-02T20:49:20.048Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w5vonk/save_70_on_a_monsters_expedition_on_steam/",
         "postedAt": "2026-09-03T03:48:53.617Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wfd0tt/save_60_on_a_little_to_the_left_on_steam/",
         "postedAt": "2026-09-13T21:18:01.932Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wfr9wo/save_20_on_machine_party/",
+        "postedAt": "2026-09-14T04:43:48.246Z"
       }
     ],
     "steam_sales": [
@@ -1081,7 +1081,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wfd0tt/save_60_on_a_little_to_the_left_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wfr9wo/save_20_on_machine_party/",
     "steam_sales": "sale_252490",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
