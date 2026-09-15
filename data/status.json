@@ -1,29 +1,14 @@
 {
-  "lastRun": "2026-09-15T14:44:31.502Z",
+  "lastRun": "2026-09-15T18:47:34.951Z",
   "success": false,
-  "postsCount": 0,
+  "postsCount": 5,
   "sourcesCount": 4,
   "errors": [
     {
       "source": "reddit_gamingnews",
       "message": "[fetchReddit(gamingnews)] Failed after 3 attempts: Status code 429",
-      "time": "2026-09-15T14:44:26.481Z"
-    },
-    {
-      "source": "steam_sales",
-      "message": "[postEmbeds(3 embeds)] Failed after 3 attempts: Discord API error: 429 Too Many Requests",
-      "time": "2026-09-15T14:44:31.502Z"
-    },
-    {
-      "source": "reddit_steamdeals",
-      "message": "[postEmbeds(3 embeds)] Failed after 3 attempts: Discord API error: 429 Too Many Requests",
-      "time": "2026-09-15T14:44:31.502Z"
-    },
-    {
-      "source": "reddit_steamdeals",
-      "message": "[postEmbeds(3 embeds)] Failed after 3 attempts: Discord API error: 429 Too Many Requests",
-      "time": "2026-09-15T14:44:31.502Z"
+      "time": "2026-09-15T18:47:34.508Z"
     }
   ],
-  "nextRun": "2026-09-15T15:44:31.502Z"
+  "nextRun": "2026-09-15T19:47:34.951Z"
 }

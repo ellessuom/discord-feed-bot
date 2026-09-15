@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-15T09:52:10.639Z",
+  "lastRun": "2026-09-15T18:47:34.950Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w7hh7c/save_50_on_master_detective_archives_rain_code/",
-        "postedAt": "2026-09-05T00:45:26.020Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w7eziq/save_50_on_the_legend_of_heroes_trails_in_the_sky/",
-        "postedAt": "2026-09-05T00:45:26.020Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w7a96c/save_50_on_titanium_court_new_historical_low/",
-        "postedAt": "2026-09-05T00:45:26.020Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w71u2u/save_30_on_timberborn_on_steam/",
-        "postedAt": "2026-09-05T00:45:26.020Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w7r4m5/save_51_on_nz78_on_steam/",
         "postedAt": "2026-09-05T05:26:27.715Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wgbp90/save_95_on_crown_wars_the_black_prince_199_new/",
         "postedAt": "2026-09-15T09:52:10.639Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wh91be/save_67_on_silver_197/",
+        "postedAt": "2026-09-15T18:47:34.950Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wh5cx9/save_50_on_lies_of_p_on_steam/",
+        "postedAt": "2026-09-15T18:47:34.950Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wh2can/defrag_incremental_25_off_299/",
+        "postedAt": "2026-09-15T18:47:34.950Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wg97nk/save_30_on_seven_suns_of_orion_374_usd/",
+        "postedAt": "2026-09-15T18:47:34.950Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3971650",
-        "postedAt": "2026-08-21T13:50:05.408Z"
-      },
       {
         "id": "sale_4131730",
         "postedAt": "2026-08-21T18:42:08.554Z"
@@ -804,25 +800,13 @@
       {
         "id": "sale_1426210",
         "postedAt": "2026-09-15T04:10:56.250Z"
+      },
+      {
+        "id": "sale_2402680",
+        "postedAt": "2026-09-15T18:47:34.950Z"
       }
     ],
     "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vpuldi/nomura_promises_kingdom_hearts_4_wont_be_delayed/",
-        "postedAt": "2026-08-16T16:30:01.572Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vpuftp/camping_keeper_reveals_its_first_trailer_build/",
-        "postedAt": "2026-08-16T16:30:01.572Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vpiozx/god_of_war_has_lasted_so_long_because_sony_santa/",
-        "postedAt": "2026-08-16T16:30:01.572Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vpbxt3/chris_hansen_banned_from_roblox_live_at_crimecon/",
-        "postedAt": "2026-08-16T16:30:01.572Z"
-      },
       {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vqs8b0/og_gears_of_war_lead_cliff_bleszinski_says/",
         "postedAt": "2026-08-17T13:42:01.430Z"
@@ -1065,8 +1049,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wgbp90/save_95_on_crown_wars_the_black_prince_199_new/",
-    "steam_sales": "sale_1426210",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wg97nk/save_30_on_seven_suns_of_orion_374_usd/",
+    "steam_sales": "sale_2402680",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
