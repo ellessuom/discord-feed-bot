@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-15T04:10:56.250Z",
+  "lastRun": "2026-09-15T09:52:10.639Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w7amho/save_50_on_shapez_2/",
-        "postedAt": "2026-09-04T20:33:43.969Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w793rr/save_50_on_chants_of_sennaar_on_steam/",
-        "postedAt": "2026-09-04T20:33:43.969Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w70fbk/save_90_on_sid_meiers_civilization_vi/",
-        "postedAt": "2026-09-04T20:33:43.969Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w6wxjh/save_80_on_remember_me_599/",
-        "postedAt": "2026-09-04T20:33:43.969Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w7hh7c/save_50_on_master_detective_archives_rain_code/",
         "postedAt": "2026-09-05T00:45:26.020Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wg98tg/save_20_on_clair_obscur_expedition_33_on_steam/",
         "postedAt": "2026-09-15T04:10:56.250Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wgv7bx/save_80_on_veranoia_nightmare_of_case_37_on_steam/",
+        "postedAt": "2026-09-15T09:52:10.639Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wgufhh/save_94_on_great_houses_of_calderia_147/",
+        "postedAt": "2026-09-15T09:52:10.639Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wgtg08/save_25_on_pibcremental_on_steam/",
+        "postedAt": "2026-09-15T09:52:10.639Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wgbp90/save_95_on_crown_wars_the_black_prince_199_new/",
+        "postedAt": "2026-09-15T09:52:10.639Z"
       }
     ],
     "steam_sales": [
@@ -1065,7 +1065,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wg98tg/save_20_on_clair_obscur_expedition_33_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wgbp90/save_95_on_crown_wars_the_black_prince_199_new/",
     "steam_sales": "sale_1426210",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
