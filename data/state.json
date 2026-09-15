@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-15T18:47:34.950Z",
+  "lastRun": "2026-09-15T21:59:40.945Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_4131730",
-        "postedAt": "2026-08-21T18:42:08.554Z"
-      },
-      {
         "id": "sale_3817250",
         "postedAt": "2026-08-21T18:42:08.554Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_2402680",
         "postedAt": "2026-09-15T18:47:34.950Z"
+      },
+      {
+        "id": "sale_4557380",
+        "postedAt": "2026-09-15T21:59:40.945Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1050,7 +1050,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wg97nk/save_30_on_seven_suns_of_orion_374_usd/",
-    "steam_sales": "sale_2402680",
+    "steam_sales": "sale_4557380",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
