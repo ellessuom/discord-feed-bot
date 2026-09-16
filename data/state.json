@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-09-16T19:54:47.466Z",
+  "lastRun": "2026-09-16T22:46:13.727Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w85eew/save_75_on_blasted_dice_on_steam_historical_low/",
-        "postedAt": "2026-09-05T16:40:27.541Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w84wte/save_50_on_this_is_no_cave/",
-        "postedAt": "2026-09-05T16:40:27.541Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w87aud/save_90_on_vampyr_on_steam/",
         "postedAt": "2026-09-05T18:54:12.634Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1whv17l/save_85_on_morbid_the_seven_acolytes_374/",
         "postedAt": "2026-09-16T19:54:47.466Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wi9z40/save_70_on_cassette_beasts_on_steam_599/",
+        "postedAt": "2026-09-16T22:46:13.727Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wi9wg8/save_75_on_tales_of_graces_f_remastered_on_steam/",
+        "postedAt": "2026-09-16T22:46:13.727Z"
       }
     ],
     "steam_sales": [
@@ -1017,7 +1017,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1whv17l/save_85_on_morbid_the_seven_acolytes_374/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wi9wg8/save_75_on_tales_of_graces_f_remastered_on_steam/",
     "steam_sales": "sale_4557380",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
