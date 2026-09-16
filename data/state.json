@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-16T11:10:19.189Z",
+  "lastRun": "2026-09-16T19:54:47.466Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w7s9z6/save_80_on_lost_planet_3_499/",
-        "postedAt": "2026-09-05T10:17:27.189Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w75gfl/save_40_on_island_market_simulator_on_steam/",
-        "postedAt": "2026-09-05T10:17:27.189Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w71u90/save_25_on_heroes_of_might_and_magic_olden_era_on/",
-        "postedAt": "2026-09-05T10:17:27.189Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w7yngg/save_80_on_perception_heart_and_mind_on_steam_099/",
-        "postedAt": "2026-09-05T13:46:19.347Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w85eew/save_75_on_blasted_dice_on_steam_historical_low/",
         "postedAt": "2026-09-05T16:40:27.541Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1whq0j8/save_55_on_hitman_world_of_assassination_deluxe/",
         "postedAt": "2026-09-16T11:10:19.189Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wi30xz/save_100_on_space_menace_free/",
+        "postedAt": "2026-09-16T19:54:47.466Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1why34h/save_75_on_rogue_zodiacs_on_steam/",
+        "postedAt": "2026-09-16T19:54:47.466Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1why0vu/save_40_on_one_rotten_oath_419/",
+        "postedAt": "2026-09-16T19:54:47.466Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1whv17l/save_85_on_morbid_the_seven_acolytes_374/",
+        "postedAt": "2026-09-16T19:54:47.466Z"
       }
     ],
     "steam_sales": [
@@ -808,38 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vqs8b0/og_gears_of_war_lead_cliff_bleszinski_says/",
-        "postedAt": "2026-08-17T13:42:01.430Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vqp468/thief_designer_says_that_the_immersive_sim/",
-        "postedAt": "2026-08-17T13:42:01.430Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vqnkvz/witcher_3_designer_says_it_wasnt_easy_to_convince/",
-        "postedAt": "2026-08-17T13:42:01.430Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vqebfw/kingdom_hearts_4_final_fantasy_15_might_finally/",
-        "postedAt": "2026-08-17T13:42:01.430Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vqwrbi/star_trek_elite_force_2s_story_was_rewritten/",
-        "postedAt": "2026-08-17T17:31:02.122Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vqwm18/barbie_and_hot_wheels_owner_mattel_launches/",
-        "postedAt": "2026-08-17T17:31:02.122Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vqwgyh/sony_announces_phantom_blade_zero_state_of_play/",
-        "postedAt": "2026-08-17T17:31:02.122Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vquyel/stonks9800_developer_says_sony_terminated_their/",
-        "postedAt": "2026-08-17T17:31:02.122Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vt1q02/roblox_argues_8yearold_waived_rights_in_wrongful/",
         "postedAt": "2026-08-20T05:35:01.443Z"
       },
@@ -1049,7 +1017,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1whq0j8/save_55_on_hitman_world_of_assassination_deluxe/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1whv17l/save_85_on_morbid_the_seven_acolytes_374/",
     "steam_sales": "sale_4557380",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
