@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-17T18:02:50.616Z",
+  "lastRun": "2026-09-17T21:59:37.016Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w954hs/save_80_on_ridge_racer_unbounded_199/",
-        "postedAt": "2026-09-06T21:12:25.747Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w9n6n4/save_85_on_badland_game_of_the_year_edition_149/",
-        "postedAt": "2026-09-07T15:38:56.801Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w9n2bn/save_80_on_battle_food_mania_on_steam_099/",
-        "postedAt": "2026-09-07T15:38:56.801Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wa1esw/save_90_on_parkasaurus_on_steam/",
-        "postedAt": "2026-09-07T19:43:48.552Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wa0fi8/save_90_on_rock_n_roll_will_never_die_149/",
         "postedAt": "2026-09-07T19:43:48.552Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wiuvnu/save_100_on_dying_light_the_beast_discharge/",
         "postedAt": "2026-09-17T18:02:50.616Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wj3bz7/save_60_on_assassins_creed_shadows_on_steam_2799/",
+        "postedAt": "2026-09-17T21:59:37.016Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wj2u8b/save_90_on_deus_ex_mankind_divided_on_steam/",
+        "postedAt": "2026-09-17T21:59:37.016Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wj2s7q/save_90_on_deus_ex_human_revolution/",
+        "postedAt": "2026-09-17T21:59:37.016Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wj2qlp/save_95_on_watch_dogs_2_on_steam/",
+        "postedAt": "2026-09-17T21:59:37.016Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1336490",
-        "postedAt": "2026-08-24T16:42:41.996Z"
-      },
-      {
-        "id": "sale_4075620",
-        "postedAt": "2026-08-24T17:34:28.283Z"
-      },
       {
         "id": "sale_3240220",
         "postedAt": "2026-08-24T18:46:58.267Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_2459550",
         "postedAt": "2026-09-17T18:02:50.616Z"
+      },
+      {
+        "id": "sale_3407390",
+        "postedAt": "2026-09-17T21:59:37.015Z"
+      },
+      {
+        "id": "sale_3159330",
+        "postedAt": "2026-09-17T21:59:37.015Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1021,8 +1021,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wiuvnu/save_100_on_dying_light_the_beast_discharge/",
-    "steam_sales": "sale_2459550",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wj2qlp/save_95_on_watch_dogs_2_on_steam/",
+    "steam_sales": "sale_3159330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/671754559586042064"
   }
