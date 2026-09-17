@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-17T13:13:42.436Z",
+  "lastRun": "2026-09-17T18:02:50.616Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w8j0ec/save_80_on_into_the_breach_on_steam/",
-        "postedAt": "2026-09-06T03:52:19.590Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w8oz2c/save_80_on_evil_west_on_steam/",
-        "postedAt": "2026-09-06T08:31:54.559Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w8ml2y/save_85_on_free_running_088/",
-        "postedAt": "2026-09-06T08:31:54.559Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w91998/save_50_on_school_hero_on_steam_199/",
-        "postedAt": "2026-09-06T18:57:24.749Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1w954hs/save_80_on_ridge_racer_unbounded_199/",
         "postedAt": "2026-09-06T21:12:25.747Z"
@@ -402,21 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wioztb/save_80_on_battle_chasers_nightwar_599/",
         "postedAt": "2026-09-17T13:13:42.436Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wizzuf/save_95_on_steep_on_steam_historical_low_149_149/",
+        "postedAt": "2026-09-17T18:02:50.616Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wizq88/save_90_on_far_cry_6_on_steam_historical_low/",
+        "postedAt": "2026-09-17T18:02:50.616Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wiv95t/save_90_on_borderlands_3_on_steam/",
+        "postedAt": "2026-09-17T18:02:50.616Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wiuvnu/save_100_on_dying_light_the_beast_discharge/",
+        "postedAt": "2026-09-17T18:02:50.616Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_753640",
-        "postedAt": "2026-08-23T03:06:58.802Z"
-      },
-      {
-        "id": "sale_4005220",
-        "postedAt": "2026-08-23T08:35:17.545Z"
-      },
-      {
-        "id": "sale_1569580",
-        "postedAt": "2026-08-23T19:25:01.969Z"
-      },
       {
         "id": "sale_1336490",
         "postedAt": "2026-08-24T16:42:41.996Z"
@@ -804,6 +792,18 @@
       {
         "id": "sale_4090260",
         "postedAt": "2026-09-17T07:24:17.289Z"
+      },
+      {
+        "id": "sale_1172710",
+        "postedAt": "2026-09-17T18:02:50.615Z"
+      },
+      {
+        "id": "sale_2977260",
+        "postedAt": "2026-09-17T18:02:50.615Z"
+      },
+      {
+        "id": "sale_2459550",
+        "postedAt": "2026-09-17T18:02:50.616Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1021,8 +1021,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wioztb/save_80_on_battle_chasers_nightwar_599/",
-    "steam_sales": "sale_4090260",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wiuvnu/save_100_on_dying_light_the_beast_discharge/",
+    "steam_sales": "sale_2459550",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/671754559586042064"
   }

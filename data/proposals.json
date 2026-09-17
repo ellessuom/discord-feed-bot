@@ -971,12 +971,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
       "description": "Call of Duty®: Black Ops III Zombies Chronicles Edition includes the full base game plus the Zombies Chronicles content expansion.",
       "price": {
-        "current": 1499,
+        "current": 5999,
         "original": 5999,
-        "discount": 75,
+        "discount": 0,
         "currency": "EUR",
         "lowestSeen": 1499,
-        "checkedAt": "2026-09-10T22:21:54.994Z"
+        "checkedAt": "2026-09-17T18:02:52.688Z"
       },
       "mentions": [
         {
