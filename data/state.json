@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-16T22:46:13.727Z",
+  "lastRun": "2026-09-17T01:12:18.340Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,14 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3817250",
-        "postedAt": "2026-08-21T18:42:08.554Z"
-      },
-      {
-        "id": "sale_1868140",
-        "postedAt": "2026-08-22T01:26:23.387Z"
-      },
-      {
         "id": "sale_3345950",
         "postedAt": "2026-08-22T01:26:23.387Z"
       },
@@ -804,6 +796,14 @@
       {
         "id": "sale_4557380",
         "postedAt": "2026-09-15T21:59:40.945Z"
+      },
+      {
+        "id": "sale_294100",
+        "postedAt": "2026-09-17T01:12:18.340Z"
+      },
+      {
+        "id": "sale_3447040",
+        "postedAt": "2026-09-17T01:12:18.340Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1018,7 +1018,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wi9wg8/save_75_on_tales_of_graces_f_remastered_on_steam/",
-    "steam_sales": "sale_4557380",
+    "steam_sales": "sale_3447040",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/689763250409046312"
   }
