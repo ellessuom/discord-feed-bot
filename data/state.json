@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-18T10:52:22.201Z",
+  "lastRun": "2026-09-18T14:51:40.952Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1waqruy/save_55_on_koala_kids_golf_461_developer/",
-        "postedAt": "2026-09-08T17:09:25.325Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wb0byv/developer_here_spherebuddie_64_available_for_18/",
         "postedAt": "2026-09-08T20:56:36.390Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wjit1r/save_75_on_anno_1800_on_steam_1499/",
         "postedAt": "2026-09-18T10:52:22.201Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wjnvas/save_30_on_fortune_avenue_on_steam_489/",
+        "postedAt": "2026-09-18T14:51:40.952Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4560660",
-        "postedAt": "2026-08-24T19:33:04.358Z"
-      },
       {
         "id": "sale_2680010",
         "postedAt": "2026-08-24T20:35:07.424Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_12210",
         "postedAt": "2026-09-18T05:40:30.429Z"
+      },
+      {
+        "id": "sale_4110220",
+        "postedAt": "2026-09-18T14:51:40.952Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1021,8 +1021,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wjit1r/save_75_on_anno_1800_on_steam_1499/",
-    "steam_sales": "sale_12210",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wjnvas/save_30_on_fortune_avenue_on_steam_489/",
+    "steam_sales": "sale_4110220",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/671754559586042064"
   }
