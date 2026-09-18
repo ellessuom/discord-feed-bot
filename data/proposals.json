@@ -838,12 +838,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1789019569",
       "description": "Ready or Not is an intense, tactical, first-person shooter that depicts a modern-day world in which SWAT police units are called to defuse hostile and confronting situations.",
       "price": {
-        "current": 2499,
+        "current": 4999,
         "original": 4999,
-        "discount": 50,
+        "discount": 0,
         "currency": "EUR",
         "lowestSeen": 2499,
-        "checkedAt": "2026-09-10T19:27:33.667Z"
+        "checkedAt": "2026-09-18T18:11:03.413Z"
       },
       "mentions": [
         {
