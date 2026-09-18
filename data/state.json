@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-17T21:59:37.016Z",
+  "lastRun": "2026-09-18T00:06:58.900Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wa0fi8/save_90_on_rock_n_roll_will_never_die_149/",
-        "postedAt": "2026-09-07T19:43:48.552Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w9zynv/save_67_on_phoenix_wright_ace_attorney_trilogy_on/",
-        "postedAt": "2026-09-07T19:43:48.552Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1w9y0nu/save_30_on_resident_evil_requiem_historical_low/",
-        "postedAt": "2026-09-07T19:43:48.552Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wa6grz/save_85_on_away_the_survival_series_on_steam/",
-        "postedAt": "2026-09-07T22:40:06.351Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wa3x3w/save_20_on_pragmata_on_steam/",
         "postedAt": "2026-09-07T22:40:06.351Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wj2qlp/save_95_on_watch_dogs_2_on_steam/",
         "postedAt": "2026-09-17T21:59:37.016Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wj72j7/aethers_echo_yazids_paradoxis_75_off_this_week_054/",
+        "postedAt": "2026-09-18T00:06:58.900Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wj3ng7/save_84_on_dragons_dogma_dark_arisen_479/",
+        "postedAt": "2026-09-18T00:06:58.900Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wj2y6d/save_90_on_tom_clancys_the_division_on_steam/",
+        "postedAt": "2026-09-18T00:06:58.900Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wj04jx/publisher_save_35_on_brazilian_drug_dealer_3_i/",
+        "postedAt": "2026-09-18T00:06:58.900Z"
       }
     ],
     "steam_sales": [
@@ -1021,7 +1021,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wj2qlp/save_95_on_watch_dogs_2_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wj04jx/publisher_save_35_on_brazilian_drug_dealer_3_i/",
     "steam_sales": "sale_3159330",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/671754559586042064"
