@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-18T00:06:58.900Z",
+  "lastRun": "2026-09-18T05:40:30.429Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wa3x3w/save_20_on_pragmata_on_steam/",
-        "postedAt": "2026-09-07T22:40:06.351Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wa9jlh/save_80_on_six_seals_on_steam_079/",
-        "postedAt": "2026-09-08T01:02:00.532Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wab6xj/monster_hunter_wilds_25_off_2999_usd/",
-        "postedAt": "2026-09-08T07:05:10.953Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wab5o3/save_20_on_tower_of_gand_on_steam/",
-        "postedAt": "2026-09-08T07:05:10.953Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wab3uf/save_80_on_konbini_simulator_on_steam/",
         "postedAt": "2026-09-08T07:05:10.953Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wj04jx/publisher_save_35_on_brazilian_drug_dealer_3_i/",
         "postedAt": "2026-09-18T00:06:58.900Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wjf44a/save_90_on_immortals_fenyx_rising_historical_low/",
+        "postedAt": "2026-09-18T05:40:30.429Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wjenum/rivals_of_aether_2_50_off_1393_matches_atl/",
+        "postedAt": "2026-09-18T05:40:30.429Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wj65zy/save_30_on_age_of_clicks_mix_of_strategy_and/",
+        "postedAt": "2026-09-18T05:40:30.429Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wj3czf/save_90_on_jetborne_racing_on_steam/",
+        "postedAt": "2026-09-18T05:40:30.429Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3240220",
-        "postedAt": "2026-08-24T18:46:58.267Z"
-      },
-      {
-        "id": "sale_4195110",
-        "postedAt": "2026-08-24T18:46:58.267Z"
-      },
       {
         "id": "sale_4560660",
         "postedAt": "2026-08-24T19:33:04.358Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_3159330",
         "postedAt": "2026-09-17T21:59:37.015Z"
+      },
+      {
+        "id": "sale_2369390",
+        "postedAt": "2026-09-18T05:40:30.429Z"
+      },
+      {
+        "id": "sale_12210",
+        "postedAt": "2026-09-18T05:40:30.429Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1021,8 +1021,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wj04jx/publisher_save_35_on_brazilian_drug_dealer_3_i/",
-    "steam_sales": "sale_3159330",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wj3czf/save_90_on_jetborne_racing_on_steam/",
+    "steam_sales": "sale_12210",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/671754559586042064"
   }
