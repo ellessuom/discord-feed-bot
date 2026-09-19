@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-19T00:00:29.433Z",
+  "lastRun": "2026-09-19T04:30:21.343Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wbg6e4/save_75_on_arma_3_on_steam/",
-        "postedAt": "2026-09-09T13:36:30.049Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wbrpcf/save_70_on_crash_bandicoot_4_its_about_time_on/",
-        "postedAt": "2026-09-09T17:43:14.314Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wbrnih/save_70_on_deep_rock_galactic_on_steam/",
-        "postedAt": "2026-09-09T17:43:14.314Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wbmvig/save_40_on_metal_gear_solid_v_the_phantom_pain_on/",
-        "postedAt": "2026-09-09T17:43:14.314Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wbvbp9/save_30_on_timberborn_on_steam/",
         "postedAt": "2026-09-09T20:44:54.405Z"
@@ -402,17 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wjyjvs/save_30_on_fate_of_fire_kyvedy_guardiah_on_steam/",
         "postedAt": "2026-09-18T21:31:10.394Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wkbn47/save_70_on_stranger_of_paradise_final_fantasy/",
+        "postedAt": "2026-09-19T04:30:21.343Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wkbm2y/save_70_on_final_fantasy_xv_windows_edition_on/",
+        "postedAt": "2026-09-19T04:30:21.343Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wkaxmn/save_25_on_the_adventures_of_elliot_the/",
+        "postedAt": "2026-09-19T04:30:21.343Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wkakt1/save_70_on_musashi_vs_cthulhu_on_steam/",
+        "postedAt": "2026-09-19T04:30:21.343Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3321460",
-        "postedAt": "2026-08-25T01:33:59.637Z"
-      },
-      {
-        "id": "sale_1144400",
-        "postedAt": "2026-08-25T10:37:08.957Z"
-      },
       {
         "id": "sale_346110",
         "postedAt": "2026-08-25T10:37:08.957Z"
@@ -804,6 +796,14 @@
       {
         "id": "sale_1462040",
         "postedAt": "2026-09-19T00:00:29.433Z"
+      },
+      {
+        "id": "sale_3240220",
+        "postedAt": "2026-09-19T04:30:21.343Z"
+      },
+      {
+        "id": "sale_3640200",
+        "postedAt": "2026-09-19T04:30:21.343Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1041,8 +1041,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wjyjvs/save_30_on_fate_of_fire_kyvedy_guardiah_on_steam/",
-    "steam_sales": "sale_1462040",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wkakt1/save_70_on_musashi_vs_cthulhu_on_steam/",
+    "steam_sales": "sale_3640200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/671754559586042348"
   }
