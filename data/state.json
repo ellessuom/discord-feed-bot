@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-09-19T04:30:21.343Z",
+  "lastRun": "2026-09-19T09:17:45.420Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wbvbp9/save_30_on_timberborn_on_steam/",
-        "postedAt": "2026-09-09T20:44:54.405Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wbuxcy/save_93_on_tower_of_time_167/",
-        "postedAt": "2026-09-09T20:44:54.405Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wbt4re/panzer_deck_is_releasing_on_september_22_for_14/",
         "postedAt": "2026-09-09T20:44:54.405Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wkakt1/save_70_on_musashi_vs_cthulhu_on_steam/",
         "postedAt": "2026-09-19T04:30:21.343Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wkbki3/save_60_on_romancing_saga_2_revenge_of_the_seven/",
+        "postedAt": "2026-09-19T09:17:45.420Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wjn862/echoes_of_the_end_enhanced_edition_80_799/",
+        "postedAt": "2026-09-19T09:17:45.420Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vt1q02/roblox_argues_8yearold_waived_rights_in_wrongful/",
-        "postedAt": "2026-08-20T05:35:01.443Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vso42a/gta_6_suffers_second_day_of_leaks_as_group/",
-        "postedAt": "2026-08-20T05:35:01.443Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vsikfg/behold_the_whole_story_of_steams_economy_in_one/",
-        "postedAt": "2026-08-20T05:35:01.443Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vscktr/grand_theft_auto_6_leaker_says_they_wont_stop/",
-        "postedAt": "2026-08-20T05:35:01.443Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vud4sw/weekly_rgamingnews_discussion_what_game_you_will/",
         "postedAt": "2026-08-21T11:31:00.954Z"
       },
@@ -1041,7 +1025,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wkakt1/save_70_on_musashi_vs_cthulhu_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wjn862/echoes_of_the_end_enhanced_edition_80_799/",
     "steam_sales": "sale_3640200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/671754559586042348"
