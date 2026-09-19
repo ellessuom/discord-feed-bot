@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-19T09:17:45.420Z",
+  "lastRun": "2026-09-19T13:47:34.365Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -970,10 +970,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/685262822701007214",
-        "postedAt": "2026-08-20T10:35:07.057Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/704400583238353132",
         "postedAt": "2026-08-22T10:27:39.420Z"
       },
@@ -1020,6 +1016,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/671754559586042348",
         "postedAt": "2026-09-18T18:11:01.571Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/685262822701007214",
+        "postedAt": "2026-09-19T13:47:34.365Z"
       }
     ]
   },
@@ -1028,6 +1028,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wjn862/echoes_of_the_end_enhanced_edition_80_799/",
     "steam_sales": "sale_3640200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/671754559586042348"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
 }
