@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-19T13:47:34.365Z",
+  "lastRun": "2026-09-19T20:18:44.879Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wbt4re/panzer_deck_is_releasing_on_september_22_for_14/",
-        "postedAt": "2026-09-09T20:44:54.405Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wbsu38/save_20_on_into_the_grid_on_steam/",
-        "postedAt": "2026-09-09T20:44:54.405Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wcq4y0/save_90_on_danganronpa_trigger_happy_havoc_on/",
-        "postedAt": "2026-09-10T22:21:47.302Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wcpt28/diablo_iv_is_1249_in_prep_for_blizzcon/",
-        "postedAt": "2026-09-10T22:21:47.302Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wcp6f4/save_50_on_red_dead_redemption_on_steam/",
         "postedAt": "2026-09-10T22:21:47.302Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wjn862/echoes_of_the_end_enhanced_edition_80_799/",
         "postedAt": "2026-09-19T09:17:45.420Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wktqrd/save_30_on_the_hundred_line_last_defense_academy/",
+        "postedAt": "2026-09-19T20:18:44.879Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wktnci/save_35_on_anno_117_pax_romana_on_steam/",
+        "postedAt": "2026-09-19T20:18:44.879Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wkt2ku/save_40_on_jump_space_on_steam/",
+        "postedAt": "2026-09-19T20:18:44.879Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wkrv90/save_90_on_akimbot_199/",
+        "postedAt": "2026-09-19T20:18:44.879Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_346110",
-        "postedAt": "2026-08-25T10:37:08.957Z"
-      },
       {
         "id": "sale_391220",
         "postedAt": "2026-08-25T10:37:08.957Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_3640200",
         "postedAt": "2026-09-19T04:30:21.343Z"
+      },
+      {
+        "id": "sale_2950790",
+        "postedAt": "2026-09-19T20:18:44.879Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1025,8 +1025,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wjn862/echoes_of_the_end_enhanced_edition_80_799/",
-    "steam_sales": "sale_3640200",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wkrv90/save_90_on_akimbot_199/",
+    "steam_sales": "sale_2950790",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
