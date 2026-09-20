@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-09-20T10:58:17.345Z",
+  "lastRun": "2026-09-20T18:07:37.755Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wdbhsl/save_80_on_mordhau_on_steam/",
-        "postedAt": "2026-09-11T10:55:28.251Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wcydkg/save_40_on_cronos_the_new_dawn_on_steam/",
-        "postedAt": "2026-09-11T10:55:28.251Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wcwg0c/save_90_on_crime_boss_rockay_city_199/",
         "postedAt": "2026-09-11T10:55:28.251Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wldzdf/save_20_on_doloc_town_on_steam/",
         "postedAt": "2026-09-20T10:58:17.345Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wlmtj2/save_85_on_wall_world_on_steam/",
+        "postedAt": "2026-09-20T18:07:37.755Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wlmszp/zero_stress_king_got_v20_and_a_discount_20_399/",
+        "postedAt": "2026-09-20T18:07:37.755Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vud4sw/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-08-21T11:31:00.954Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vu82t7/dave_bautista_officially_set_as_kratos_in_god_of/",
-        "postedAt": "2026-08-21T11:31:00.954Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vtsb58/deus_ex_epic_mickey_creator_warren_spector/",
-        "postedAt": "2026-08-21T11:31:00.954Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1vtfbnl/ea_staff_fear_new_saudi_arabia_owners_will_police/",
-        "postedAt": "2026-08-21T11:31:00.954Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1vwg8nd/sonys_playstation_terms_of_service_reminder_email/",
         "postedAt": "2026-08-23T19:25:01.969Z"
       },
@@ -1025,7 +1009,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wldzdf/save_20_on_doloc_town_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wlmszp/zero_stress_king_got_v20_and_a_discount_20_399/",
     "steam_sales": "sale_817628",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
