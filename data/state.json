@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-20T05:53:51.589Z",
+  "lastRun": "2026-09-20T10:58:17.345Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wcp049/save_75_on_death_stranding_directors_cut_on_steam/",
-        "postedAt": "2026-09-10T22:21:47.302Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wdbhsl/save_80_on_mordhau_on_steam/",
         "postedAt": "2026-09-11T10:55:28.251Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wl3h57/troubleshooter_abandoned_children/",
         "postedAt": "2026-09-20T05:53:51.589Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wldzdf/save_20_on_doloc_town_on_steam/",
+        "postedAt": "2026-09-20T10:58:17.345Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_391220",
-        "postedAt": "2026-08-25T10:37:08.957Z"
-      },
       {
         "id": "sale_1623730",
         "postedAt": "2026-08-25T17:34:53.510Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2950790",
         "postedAt": "2026-09-19T20:18:44.879Z"
+      },
+      {
+        "id": "sale_817628",
+        "postedAt": "2026-09-20T10:58:17.345Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1025,8 +1025,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wl3h57/troubleshooter_abandoned_children/",
-    "steam_sales": "sale_2950790",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wldzdf/save_20_on_doloc_town_on_steam/",
+    "steam_sales": "sale_817628",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
