@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-19T20:18:44.879Z",
+  "lastRun": "2026-09-20T05:53:51.589Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wcp6f4/save_50_on_red_dead_redemption_on_steam/",
-        "postedAt": "2026-09-10T22:21:47.302Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wcp049/save_75_on_death_stranding_directors_cut_on_steam/",
         "postedAt": "2026-09-10T22:21:47.302Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wkrv90/save_90_on_akimbot_199/",
         "postedAt": "2026-09-19T20:18:44.879Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wl3h57/troubleshooter_abandoned_children/",
+        "postedAt": "2026-09-20T05:53:51.589Z"
       }
     ],
     "steam_sales": [
@@ -1025,7 +1025,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wkrv90/save_90_on_akimbot_199/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wl3h57/troubleshooter_abandoned_children/",
     "steam_sales": "sale_2950790",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
