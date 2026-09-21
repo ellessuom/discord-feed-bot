@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-09-21T20:53:44.162Z",
+  "lastRun": "2026-09-21T23:56:40.479Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wd9f1t/save_75_on_songs_of_conquest_749/",
-        "postedAt": "2026-09-11T14:56:03.362Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wcbk27/save_80_on_chernobylite_complete_edition_599/",
-        "postedAt": "2026-09-11T14:56:03.362Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wcofh5/save_66_on_nova_drift_on_steam/",
-        "postedAt": "2026-09-11T18:19:08.091Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wcizir/under_a_desert_sun_seekers_of_the_cursed_vessel/",
         "postedAt": "2026-09-11T18:19:08.091Z"
@@ -402,13 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wmjlks/save_20_on_author_sim_featured_in_the_out_of_the/",
         "postedAt": "2026-09-21T20:53:44.162Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wmq7w7/save_50_on_samson_on_steam_1249_ends_on_october/",
+        "postedAt": "2026-09-21T23:56:40.479Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wmq6eq/save_80_on_trailer_park_tycoon_raccoon_ranch_on/",
+        "postedAt": "2026-09-21T23:56:40.479Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wmpwtv/save_80_on_remnant_ii_on_steam_new_historical_low/",
+        "postedAt": "2026-09-21T23:56:40.479Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_381210",
-        "postedAt": "2026-08-25T20:33:27.360Z"
-      },
       {
         "id": "sale_607080",
         "postedAt": "2026-08-25T23:28:07.685Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_3510740",
         "postedAt": "2026-09-21T16:53:50.593Z"
+      },
+      {
+        "id": "sale_2552430",
+        "postedAt": "2026-09-21T23:56:40.479Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1005,8 +1005,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wmjlks/save_20_on_author_sim_featured_in_the_out_of_the/",
-    "steam_sales": "sale_3510740",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wmpwtv/save_80_on_remnant_ii_on_steam_new_historical_low/",
+    "steam_sales": "sale_2552430",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
