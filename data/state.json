@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-20T18:07:37.755Z",
+  "lastRun": "2026-09-21T04:44:31.642Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1623730",
-        "postedAt": "2026-08-25T17:34:53.510Z"
-      },
-      {
         "id": "sale_2483190",
         "postedAt": "2026-08-25T17:34:53.510Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_817628",
         "postedAt": "2026-09-20T10:58:17.345Z"
+      },
+      {
+        "id": "sale_1757300",
+        "postedAt": "2026-09-21T04:44:31.642Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1010,7 +1010,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wlmszp/zero_stress_king_got_v20_and_a_discount_20_399/",
-    "steam_sales": "sale_817628",
+    "steam_sales": "sale_1757300",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
