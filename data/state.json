@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-09-21T04:44:31.642Z",
+  "lastRun": "2026-09-21T16:53:50.593Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wcwg0c/save_90_on_crime_boss_rockay_city_199/",
-        "postedAt": "2026-09-11T10:55:28.251Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wcoz6p/save_90_on_sniper_elite_5_on_steam/",
-        "postedAt": "2026-09-11T10:55:28.251Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wdcqvv/save_40_on_shadowlight_on_steam/",
         "postedAt": "2026-09-11T14:56:03.362Z"
@@ -402,21 +394,17 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wlmszp/zero_stress_king_got_v20_and_a_discount_20_399/",
         "postedAt": "2026-09-20T18:07:37.755Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wmgfti/cinnaboi_baked_brawl/",
+        "postedAt": "2026-09-21T16:53:50.593Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wmaqg6/save_90_on_the_last_oricru_final_cut_199/",
+        "postedAt": "2026-09-21T16:53:50.593Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2483190",
-        "postedAt": "2026-08-25T17:34:53.510Z"
-      },
-      {
-        "id": "sale_1174180",
-        "postedAt": "2026-08-25T18:44:26.212Z"
-      },
-      {
-        "id": "sale_2431080",
-        "postedAt": "2026-08-25T19:35:07.538Z"
-      },
       {
         "id": "sale_381210",
         "postedAt": "2026-08-25T20:33:27.360Z"
@@ -804,6 +792,18 @@
       {
         "id": "sale_1757300",
         "postedAt": "2026-09-21T04:44:31.642Z"
+      },
+      {
+        "id": "sale_4019220",
+        "postedAt": "2026-09-21T16:53:50.593Z"
+      },
+      {
+        "id": "sale_4364730",
+        "postedAt": "2026-09-21T16:53:50.593Z"
+      },
+      {
+        "id": "sale_3510740",
+        "postedAt": "2026-09-21T16:53:50.593Z"
       }
     ],
     "reddit_gamingnews": [
@@ -954,10 +954,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/704400583238353132",
-        "postedAt": "2026-08-22T10:27:39.420Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/678508056965808434",
         "postedAt": "2026-08-27T16:17:32.850Z"
       },
@@ -1009,8 +1005,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wlmszp/zero_stress_king_got_v20_and_a_discount_20_399/",
-    "steam_sales": "sale_1757300",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wmaqg6/save_90_on_the_last_oricru_final_cut_199/",
+    "steam_sales": "sale_3510740",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
