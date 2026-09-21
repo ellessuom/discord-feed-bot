@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-09-21T16:53:50.593Z",
+  "lastRun": "2026-09-21T20:53:44.162Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wdcqvv/save_40_on_shadowlight_on_steam/",
-        "postedAt": "2026-09-11T14:56:03.362Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wdbi2z/save_50_on_daice_on_steam/",
-        "postedAt": "2026-09-11T14:56:03.362Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wd9f1t/save_75_on_songs_of_conquest_749/",
         "postedAt": "2026-09-11T14:56:03.362Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wmaqg6/save_90_on_the_last_oricru_final_cut_199/",
         "postedAt": "2026-09-21T16:53:50.593Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wmnskt/save_60_on_screamer_2399/",
+        "postedAt": "2026-09-21T20:53:44.162Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wmjlks/save_20_on_author_sim_featured_in_the_out_of_the/",
+        "postedAt": "2026-09-21T20:53:44.162Z"
       }
     ],
     "steam_sales": [
@@ -1005,7 +1005,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wmaqg6/save_90_on_the_last_oricru_final_cut_199/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wmjlks/save_20_on_author_sim_featured_in_the_out_of_the/",
     "steam_sales": "sale_3510740",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
