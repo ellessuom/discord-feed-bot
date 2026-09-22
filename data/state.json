@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-21T23:56:40.479Z",
+  "lastRun": "2026-09-22T04:33:14.087Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wcizir/under_a_desert_sun_seekers_of_the_cursed_vessel/",
-        "postedAt": "2026-09-11T18:19:08.091Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wbjd97/transport_fever_2_90/",
         "postedAt": "2026-09-11T18:19:08.091Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wmpwtv/save_80_on_remnant_ii_on_steam_new_historical_low/",
         "postedAt": "2026-09-21T23:56:40.479Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wmzhri/save_80_on_poubelle_city_on_steam_my_game_is/",
+        "postedAt": "2026-09-22T04:33:14.087Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_607080",
-        "postedAt": "2026-08-25T23:28:07.685Z"
-      },
       {
         "id": "sale_954740",
         "postedAt": "2026-08-26T04:44:12.502Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2552430",
         "postedAt": "2026-09-21T23:56:40.479Z"
+      },
+      {
+        "id": "sale_1222140",
+        "postedAt": "2026-09-22T04:33:14.087Z"
       }
     ],
     "reddit_gamingnews": [
@@ -1005,8 +1005,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wmpwtv/save_80_on_remnant_ii_on_steam_new_historical_low/",
-    "steam_sales": "sale_2552430",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wmzhri/save_80_on_poubelle_city_on_steam_my_game_is/",
+    "steam_sales": "sale_1222140",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
