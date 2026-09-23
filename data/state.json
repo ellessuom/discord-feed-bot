@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-23T16:29:13.703Z",
+  "lastRun": "2026-09-23T20:02:43.932Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1we49w2/steam_quantum_odyssey_90930_off/",
-        "postedAt": "2026-09-12T09:07:23.354Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1weenye/save_80_on_world_of_zoo_199/",
         "postedAt": "2026-09-12T16:52:02.012Z"
@@ -402,21 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wo4s23/save_80_on_metal_eden_399_new_historical_low/",
         "postedAt": "2026-09-23T16:29:13.703Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1woehw4/save_20_on_beast_of_reincarnation_new_historical/",
+        "postedAt": "2026-09-23T20:02:43.932Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1874880",
-        "postedAt": "2026-08-26T22:56:36.858Z"
-      },
-      {
-        "id": "sale_221100",
-        "postedAt": "2026-08-26T22:56:36.858Z"
-      },
-      {
-        "id": "sale_3124540",
-        "postedAt": "2026-08-27T16:17:32.850Z"
-      },
       {
         "id": "sale_3718190",
         "postedAt": "2026-08-27T16:17:32.850Z"
@@ -804,6 +792,18 @@
       {
         "id": "sale_599140",
         "postedAt": "2026-09-23T16:29:13.703Z"
+      },
+      {
+        "id": "sale_4146760",
+        "postedAt": "2026-09-23T20:02:43.932Z"
+      },
+      {
+        "id": "sale_3431300",
+        "postedAt": "2026-09-23T20:02:43.932Z"
+      },
+      {
+        "id": "sale_2085540",
+        "postedAt": "2026-09-23T20:02:43.932Z"
       }
     ],
     "reddit_gamingnews": [
@@ -973,8 +973,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wo4s23/save_80_on_metal_eden_399_new_historical_low/",
-    "steam_sales": "sale_599140",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1woehw4/save_20_on_beast_of_reincarnation_new_historical/",
+    "steam_sales": "sale_2085540",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
