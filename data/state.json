@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-22T21:53:46.178Z",
+  "lastRun": "2026-09-23T05:40:39.408Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,10 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_4423580",
-        "postedAt": "2026-08-26T16:22:10.436Z"
-      },
-      {
         "id": "sale_4627110",
         "postedAt": "2026-08-26T19:06:11.803Z"
       },
@@ -804,6 +800,10 @@
       {
         "id": "sale_1374860",
         "postedAt": "2026-09-22T21:53:46.178Z"
+      },
+      {
+        "id": "sale_3208930",
+        "postedAt": "2026-09-23T05:40:39.408Z"
       }
     ],
     "reddit_gamingnews": [
@@ -974,7 +974,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wnmpvo/save_25_on_beat_saber_on_steam_historical_low/",
-    "steam_sales": "sale_1374860",
+    "steam_sales": "sale_3208930",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
