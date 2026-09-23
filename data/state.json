@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-23T05:40:39.408Z",
+  "lastRun": "2026-09-23T16:29:13.703Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1we69o9/save_80_on_food_store_simulator_on_steam/",
-        "postedAt": "2026-09-12T09:07:23.354Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1we49w2/steam_quantum_odyssey_90930_off/",
         "postedAt": "2026-09-12T09:07:23.354Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wnmpvo/save_25_on_beat_saber_on_steam_historical_low/",
         "postedAt": "2026-09-22T21:53:46.178Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wo4s23/save_80_on_metal_eden_399_new_historical_low/",
+        "postedAt": "2026-09-23T16:29:13.703Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4627110",
-        "postedAt": "2026-08-26T19:06:11.803Z"
-      },
       {
         "id": "sale_1874880",
         "postedAt": "2026-08-26T22:56:36.858Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_3208930",
         "postedAt": "2026-09-23T05:40:39.408Z"
+      },
+      {
+        "id": "sale_599140",
+        "postedAt": "2026-09-23T16:29:13.703Z"
       }
     ],
     "reddit_gamingnews": [
@@ -973,8 +973,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wnmpvo/save_25_on_beat_saber_on_steam_historical_low/",
-    "steam_sales": "sale_3208930",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wo4s23/save_80_on_metal_eden_399_new_historical_low/",
+    "steam_sales": "sale_599140",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
