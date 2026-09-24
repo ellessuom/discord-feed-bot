@@ -550,12 +550,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/df3b0e300632f3cd1caf0aa9dc6213ebe79dac43/header_alt_assets_0.jpg?t=1789049074",
       "description": "A co-op adventure about driving your Recreational Vehicle home.",
       "price": {
-        "current": 467,
+        "current": 779,
         "original": 779,
-        "discount": 40,
+        "discount": 0,
         "currency": "EUR",
         "lowestSeen": 467,
-        "checkedAt": "2026-09-10T19:26:22.753Z"
+        "checkedAt": "2026-09-24T14:45:08.113Z"
       },
       "mentions": [
         {
