@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-24T03:59:18.888Z",
+  "lastRun": "2026-09-24T09:14:15.609Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1weenye/save_80_on_world_of_zoo_199/",
-        "postedAt": "2026-09-12T16:52:02.012Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1weji8d/save_50_on_spheroll_049/",
         "postedAt": "2026-09-12T19:03:45.690Z"
@@ -402,21 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1woehw4/save_20_on_beast_of_reincarnation_new_historical/",
         "postedAt": "2026-09-23T20:02:43.932Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wopgta/save_34_on_ball_x_pit/",
+        "postedAt": "2026-09-24T09:14:15.609Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1331550",
-        "postedAt": "2026-08-28T23:57:40.626Z"
-      },
-      {
-        "id": "sale_3722330",
-        "postedAt": "2026-08-28T23:57:40.626Z"
-      },
-      {
-        "id": "sale_1149460",
-        "postedAt": "2026-08-29T23:08:42.711Z"
-      },
       {
         "id": "sale_739630",
         "postedAt": "2026-08-30T04:42:21.071Z"
@@ -804,6 +792,18 @@
       {
         "id": "sale_3861710",
         "postedAt": "2026-09-24T03:59:18.888Z"
+      },
+      {
+        "id": "sale_3020510",
+        "postedAt": "2026-09-24T09:14:15.609Z"
+      },
+      {
+        "id": "sale_3101040",
+        "postedAt": "2026-09-24T09:14:15.609Z"
+      },
+      {
+        "id": "sale_2879840",
+        "postedAt": "2026-09-24T09:14:15.609Z"
       }
     ],
     "reddit_gamingnews": [
@@ -973,8 +973,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1woehw4/save_20_on_beast_of_reincarnation_new_historical/",
-    "steam_sales": "sale_3861710",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wopgta/save_34_on_ball_x_pit/",
+    "steam_sales": "sale_2879840",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685262822701007214"
   }
