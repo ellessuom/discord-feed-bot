@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-24T14:45:06.077Z",
+  "lastRun": "2026-09-24T18:54:28.974Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1weji8d/save_50_on_spheroll_049/",
-        "postedAt": "2026-09-12T19:03:45.690Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wemxsi/save_85_on_thehunter_call_of_the_wild_292/",
-        "postedAt": "2026-09-12T22:03:00.684Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wemmcn/save_30_on_foolish_mortals_on_steam_new_low/",
-        "postedAt": "2026-09-12T22:03:00.684Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wezy1b/save_50_on_slay_the_princess_the_pristine_cut_849/",
-        "postedAt": "2026-09-13T11:24:22.384Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wexbae/save_80_on_ftl_faster_than_light_on_steam_new/",
         "postedAt": "2026-09-13T11:24:22.384Z"
@@ -402,25 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wopgta/save_34_on_ball_x_pit/",
         "postedAt": "2026-09-24T09:14:15.609Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wp89ho/save_90_on_code_vein_on_steam/",
+        "postedAt": "2026-09-24T18:54:28.974Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wp88xn/save_85_on_kingdom_come_deliverance_on_steam_449/",
+        "postedAt": "2026-09-24T18:54:28.974Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wp7ty6/save_90_on_ori_and_the_will_of_the_wisps_on_steam/",
+        "postedAt": "2026-09-24T18:54:28.974Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wp7g3l/save_33_on_the_last_of_us_part_ii_remastered_on/",
+        "postedAt": "2026-09-24T18:54:28.974Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_108600",
-        "postedAt": "2026-08-31T21:49:54.602Z"
-      },
-      {
-        "id": "sale_1326470",
-        "postedAt": "2026-08-31T21:49:54.602Z"
-      },
-      {
-        "id": "sale_1203620",
-        "postedAt": "2026-08-31T21:49:54.602Z"
-      },
-      {
-        "id": "sale_2412960",
-        "postedAt": "2026-08-31T21:49:54.602Z"
-      },
       {
         "id": "sale_962130",
         "postedAt": "2026-09-01T01:07:41.407Z"
@@ -804,6 +788,22 @@
       {
         "id": "sale_4209920",
         "postedAt": "2026-09-24T14:45:06.077Z"
+      },
+      {
+        "id": "sale_2531310",
+        "postedAt": "2026-09-24T18:54:28.974Z"
+      },
+      {
+        "id": "sale_2796640",
+        "postedAt": "2026-09-24T18:54:28.974Z"
+      },
+      {
+        "id": "sale_2161700",
+        "postedAt": "2026-09-24T18:54:28.974Z"
+      },
+      {
+        "id": "sale_335300",
+        "postedAt": "2026-09-24T18:54:28.974Z"
       }
     ],
     "reddit_gamingnews": [
@@ -977,8 +977,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wopgta/save_34_on_ball_x_pit/",
-    "steam_sales": "sale_4209920",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wp7g3l/save_33_on_the_last_of_us_part_ii_remastered_on/",
+    "steam_sales": "sale_335300",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685265994960077835"
   }
