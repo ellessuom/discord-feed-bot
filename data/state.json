@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-25T01:16:51.084Z",
+  "lastRun": "2026-09-25T13:26:50.165Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wfx1kl/save_35_on_all_hail_the_orb_on_steam/",
-        "postedAt": "2026-09-14T10:26:12.807Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wg8sg1/save_50_on_the_hive_on_steam/",
-        "postedAt": "2026-09-14T16:52:18.095Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wg0qfj/save_75_on_call_of_duty_wwii_on_steam/",
-        "postedAt": "2026-09-14T16:52:18.095Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wfzgc0/save_70_on_the_thaumaturge_1049/",
-        "postedAt": "2026-09-14T16:52:18.095Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wga34f/save_75_on_halflife_alyx_on_steam/",
         "postedAt": "2026-09-14T23:45:15.223Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wp7s7s/save_90_on_jagged_alliance_3_on_steam_new/",
         "postedAt": "2026-09-25T01:16:51.084Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wprzpc/save_90_on_kingdom_rush_on_steam/",
+        "postedAt": "2026-09-25T13:26:50.165Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wpq5mb/save_75_on_mass_effect_legendary_edition_on_steam/",
+        "postedAt": "2026-09-25T13:26:50.165Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wpq5dh/save_75_on_quantum_break_on_steam/",
+        "postedAt": "2026-09-25T13:26:50.165Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wpjjkk/save_50_on_the_last_of_us_part_i_on_steam/",
+        "postedAt": "2026-09-25T13:26:50.165Z"
       }
     ],
     "steam_sales": [
@@ -977,7 +977,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wp7s7s/save_90_on_jagged_alliance_3_on_steam_new/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wpjjkk/save_50_on_the_last_of_us_part_i_on_steam/",
     "steam_sales": "sale_1771300",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685265994960077835"
