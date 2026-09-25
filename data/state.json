@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-24T22:08:39.085Z",
+  "lastRun": "2026-09-25T01:16:51.084Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wfr9wo/save_20_on_machine_party/",
-        "postedAt": "2026-09-14T04:43:48.246Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wfymxb/save_75_on_crypt_robbery_on_steam/",
-        "postedAt": "2026-09-14T10:26:12.807Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wfxo6y/save_100_on_crystal_crisis_free/",
-        "postedAt": "2026-09-14T10:26:12.807Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wfx1wc/save_93_on_mordheim_city_of_the_damned_on_steam/",
-        "postedAt": "2026-09-14T10:26:12.807Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wfx1kl/save_35_on_all_hail_the_orb_on_steam/",
         "postedAt": "2026-09-14T10:26:12.807Z"
@@ -402,21 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wp7n5o/save_90_on_metro_exodus_on_steam/",
         "postedAt": "2026-09-24T22:08:39.085Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wp8apt/save_90_on_homefront_the_revolution_on_steam/",
+        "postedAt": "2026-09-25T01:16:51.084Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wp83lv/save_50_on_ninja_gaiden_4_on_steam_new_historical/",
+        "postedAt": "2026-09-25T01:16:51.084Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wp801b/save_70_on_castlevania_advance_collection_on/",
+        "postedAt": "2026-09-25T01:16:51.084Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wp7s7s/save_90_on_jagged_alliance_3_on_steam_new/",
+        "postedAt": "2026-09-25T01:16:51.084Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1488462",
-        "postedAt": "2026-09-01T20:49:40.087Z"
-      },
-      {
-        "id": "sale_3905450",
-        "postedAt": "2026-09-01T20:49:40.087Z"
-      },
-      {
-        "id": "sale_2947440",
-        "postedAt": "2026-09-02T03:49:10.913Z"
-      },
       {
         "id": "sale_4656000",
         "postedAt": "2026-09-02T17:46:10.862Z"
@@ -804,6 +792,18 @@
       {
         "id": "sale_570940",
         "postedAt": "2026-09-24T22:08:39.085Z"
+      },
+      {
+        "id": "sale_94174",
+        "postedAt": "2026-09-25T01:16:51.084Z"
+      },
+      {
+        "id": "sale_374320",
+        "postedAt": "2026-09-25T01:16:51.084Z"
+      },
+      {
+        "id": "sale_1771300",
+        "postedAt": "2026-09-25T01:16:51.084Z"
       }
     ],
     "reddit_gamingnews": [
@@ -977,8 +977,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wp7n5o/save_90_on_metro_exodus_on_steam/",
-    "steam_sales": "sale_570940",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wp7s7s/save_90_on_jagged_alliance_3_on_steam_new/",
+    "steam_sales": "sale_1771300",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685265994960077835"
   }
