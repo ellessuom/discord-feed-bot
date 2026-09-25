@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-25T13:26:50.165Z",
+  "lastRun": "2026-09-25T18:21:33.961Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wga34f/save_75_on_halflife_alyx_on_steam/",
-        "postedAt": "2026-09-14T23:45:15.223Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wg9mtd/save_30_on_baldurs_gate_3_on_steam/",
-        "postedAt": "2026-09-14T23:45:15.223Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wg9lvc/save_85_on_titanfall_2_ultimate_edition_on_steam/",
-        "postedAt": "2026-09-14T23:45:15.223Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wg9cqw/save_43_on_nioh_3_on_steam_new_historical_low/",
-        "postedAt": "2026-09-14T23:45:15.223Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wgn21p/save_50_off_project_wingman/",
         "postedAt": "2026-09-15T04:10:56.250Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wpjjkk/save_50_on_the_last_of_us_part_i_on_steam/",
         "postedAt": "2026-09-25T13:26:50.165Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wq2ceh/save_30_on_hades_ii_on_steam/",
+        "postedAt": "2026-09-25T18:21:33.961Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wq2brt/save_75_on_hades_on_steam/",
+        "postedAt": "2026-09-25T18:21:33.961Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wpwg39/save_50_on_pentiment_on_steam/",
+        "postedAt": "2026-09-25T18:21:33.961Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wpqavb/save_75_on_south_park_snow_day_on_steam/",
+        "postedAt": "2026-09-25T18:21:33.961Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4656000",
-        "postedAt": "2026-09-02T17:46:10.862Z"
-      },
       {
         "id": "sale_648800",
         "postedAt": "2026-09-02T17:46:10.862Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1771300",
         "postedAt": "2026-09-25T01:16:51.084Z"
+      },
+      {
+        "id": "sale_227300",
+        "postedAt": "2026-09-25T18:21:33.961Z"
       }
     ],
     "reddit_gamingnews": [
@@ -977,8 +977,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wpjjkk/save_50_on_the_last_of_us_part_i_on_steam/",
-    "steam_sales": "sale_1771300",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wpqavb/save_75_on_south_park_snow_day_on_steam/",
+    "steam_sales": "sale_227300",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685265994960077835"
   }
