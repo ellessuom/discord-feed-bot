@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-25T22:06:25.640Z",
+  "lastRun": "2026-09-26T01:19:08.659Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wgv7bx/save_80_on_veranoia_nightmare_of_case_37_on_steam/",
-        "postedAt": "2026-09-15T09:52:10.639Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wgufhh/save_94_on_great_houses_of_calderia_147/",
-        "postedAt": "2026-09-15T09:52:10.639Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wgtg08/save_25_on_pibcremental_on_steam/",
-        "postedAt": "2026-09-15T09:52:10.639Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wgbp90/save_95_on_crown_wars_the_black_prince_199_new/",
-        "postedAt": "2026-09-15T09:52:10.639Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wh91be/save_67_on_silver_197/",
         "postedAt": "2026-09-15T18:47:34.950Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wq4t6s/mexican_entertainment_system_2026_sale/",
         "postedAt": "2026-09-25T22:06:25.640Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wqa7kb/save_80_on_pathfinder_wrath_of_the_righteous/",
+        "postedAt": "2026-09-26T01:19:08.659Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wqa25w/save_60_on_nierautomata_on_steam/",
+        "postedAt": "2026-09-26T01:19:08.659Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wq9esl/save_50_on_the_witcher_3_wild_hunt_complete/",
+        "postedAt": "2026-09-26T01:19:08.659Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wq8e7o/save_75_on_descenders_on_steam/",
+        "postedAt": "2026-09-26T01:19:08.659Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2406770",
-        "postedAt": "2026-09-03T17:41:47.616Z"
-      },
       {
         "id": "sale_2183900",
         "postedAt": "2026-09-03T20:46:10.176Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1145350",
         "postedAt": "2026-09-25T22:06:25.640Z"
+      },
+      {
+        "id": "sale_526870",
+        "postedAt": "2026-09-26T01:19:08.659Z"
       }
     ],
     "reddit_gamingnews": [
@@ -977,8 +977,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wq4t6s/mexican_entertainment_system_2026_sale/",
-    "steam_sales": "sale_1145350",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wq8e7o/save_75_on_descenders_on_steam/",
+    "steam_sales": "sale_526870",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685265994960077835"
   }
