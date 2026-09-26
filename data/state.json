@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-26T12:49:55.518Z",
+  "lastRun": "2026-09-26T16:57:39.174Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1whrn9b/save_25_on_mewgenics_2174/",
-        "postedAt": "2026-09-16T11:10:19.189Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1whq0j8/save_55_on_hitman_world_of_assassination_deluxe/",
         "postedAt": "2026-09-16T11:10:19.189Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wpt7zr/save_90_on_that_flipping_mountain_on_steam/",
         "postedAt": "2026-09-26T12:49:55.518Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wqtchz/save_90_on_red_faction_armageddon_199/",
+        "postedAt": "2026-09-26T16:57:39.174Z"
       }
     ],
     "steam_sales": [
@@ -922,10 +922,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/678508056965808434",
-        "postedAt": "2026-08-27T16:17:32.850Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/714534317091455556",
         "postedAt": "2026-08-29T13:07:00.265Z"
       },
@@ -972,14 +968,18 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/685265994960077835",
         "postedAt": "2026-09-24T14:45:06.077Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/678508056965808434",
+        "postedAt": "2026-09-26T16:57:39.174Z"
       }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wpt7zr/save_90_on_that_flipping_mountain_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wqtchz/save_90_on_red_faction_armageddon_199/",
     "steam_sales": "sale_526870",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685265994960077835"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508056965808434"
   }
 }
