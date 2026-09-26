@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-09-26T01:19:08.659Z",
+  "lastRun": "2026-09-26T07:19:10.760Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wh91be/save_67_on_silver_197/",
-        "postedAt": "2026-09-15T18:47:34.950Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wh5cx9/save_50_on_lies_of_p_on_steam/",
-        "postedAt": "2026-09-15T18:47:34.950Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wh2can/defrag_incremental_25_off_299/",
-        "postedAt": "2026-09-15T18:47:34.950Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wg97nk/save_30_on_seven_suns_of_orion_374_usd/",
-        "postedAt": "2026-09-15T18:47:34.950Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1whf09v/save_95_on_tt_isle_of_man_ride_on_the_edge_3_on/",
         "postedAt": "2026-09-16T00:10:50.927Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wq8e7o/save_75_on_descenders_on_steam/",
         "postedAt": "2026-09-26T01:19:08.659Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wq8bt5/save_80_on_goat_simulator_goaty_on_steam/",
+        "postedAt": "2026-09-26T07:19:10.760Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wq8b26/save_80_on_thronebreaker_the_witcher_tales_on/",
+        "postedAt": "2026-09-26T07:19:10.760Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wq8ahf/save_80_on_a_story_about_my_uncle_on_steam/",
+        "postedAt": "2026-09-26T07:19:10.760Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wpq5yh/save_70_on_cassette_beasts_on_steam/",
+        "postedAt": "2026-09-26T07:19:10.760Z"
       }
     ],
     "steam_sales": [
@@ -977,7 +977,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wq8e7o/save_75_on_descenders_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wpq5yh/save_70_on_cassette_beasts_on_steam/",
     "steam_sales": "sale_526870",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685265994960077835"
