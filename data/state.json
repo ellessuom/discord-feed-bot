@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-09-26T07:19:10.760Z",
+  "lastRun": "2026-09-26T12:49:55.518Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1whf09v/save_95_on_tt_isle_of_man_ride_on_the_edge_3_on/",
-        "postedAt": "2026-09-16T00:10:50.927Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1whmtvh/save_90_on_mxgp_2021_the_official_motocross/",
-        "postedAt": "2026-09-16T05:47:34.522Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1whrn9b/save_25_on_mewgenics_2174/",
         "postedAt": "2026-09-16T11:10:19.189Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wpq5yh/save_70_on_cassette_beasts_on_steam/",
         "postedAt": "2026-09-26T07:19:10.760Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wpwqfw/tavern_master_80_off_299_ends_september_28/",
+        "postedAt": "2026-09-26T12:49:55.518Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wpt7zr/save_90_on_that_flipping_mountain_on_steam/",
+        "postedAt": "2026-09-26T12:49:55.518Z"
       }
     ],
     "steam_sales": [
@@ -977,7 +977,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wpq5yh/save_70_on_cassette_beasts_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wpt7zr/save_90_on_that_flipping_mountain_on_steam/",
     "steam_sales": "sale_526870",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685265994960077835"
