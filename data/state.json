@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-27T18:09:46.647Z",
+  "lastRun": "2026-09-27T21:55:53.648Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wi9wg8/save_75_on_tales_of_graces_f_remastered_on_steam/",
-        "postedAt": "2026-09-16T22:46:13.727Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wioztb/save_80_on_battle_chasers_nightwar_599/",
         "postedAt": "2026-09-17T13:13:42.436Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wrl7nh/save_60_on_rematch_on_steam_999_alltime_low/",
         "postedAt": "2026-09-27T18:09:46.647Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wruven/save_75_on_obscure_collection_on_steam/",
+        "postedAt": "2026-09-27T21:55:53.648Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_311210",
-        "postedAt": "2026-09-03T20:46:10.176Z"
-      },
       {
         "id": "sale_1985810",
         "postedAt": "2026-09-04T03:51:58.594Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_524220",
         "postedAt": "2026-09-27T07:50:47.660Z"
+      },
+      {
+        "id": "sale_1057090",
+        "postedAt": "2026-09-27T21:55:53.648Z"
       }
     ],
     "reddit_gamingnews": [
@@ -993,8 +993,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wrl7nh/save_60_on_rematch_on_steam_999_alltime_low/",
-    "steam_sales": "sale_524220",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wruven/save_75_on_obscure_collection_on_steam/",
+    "steam_sales": "sale_1057090",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508056965808434"
   }
