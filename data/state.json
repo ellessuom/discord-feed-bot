@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-09-28T06:30:05.381Z",
+  "lastRun": "2026-09-28T21:42:32.345Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wizzuf/save_95_on_steep_on_steam_historical_low_149_149/",
-        "postedAt": "2026-09-17T18:02:50.616Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wizq88/save_90_on_far_cry_6_on_steam_historical_low/",
-        "postedAt": "2026-09-17T18:02:50.616Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wiv95t/save_90_on_borderlands_3_on_steam/",
-        "postedAt": "2026-09-17T18:02:50.616Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wiuvnu/save_100_on_dying_light_the_beast_discharge/",
         "postedAt": "2026-09-17T18:02:50.616Z"
@@ -402,13 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1ws4zuk/save_95_on_agents_of_mayhem_149/",
         "postedAt": "2026-09-28T06:30:05.381Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wsl8wl/steam_desiro_059_usd_40_off/",
+        "postedAt": "2026-09-28T21:42:32.345Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wskon4/save_85_on_darksiders_genesis_449/",
+        "postedAt": "2026-09-28T21:42:32.345Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wsjafi/save_90_on_duke_nukem_3d_20th_anniversary_world/",
+        "postedAt": "2026-09-28T21:42:32.345Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1985810",
-        "postedAt": "2026-09-04T03:51:58.594Z"
-      },
       {
         "id": "sale_2798330",
         "postedAt": "2026-09-04T13:19:56.985Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1057090",
         "postedAt": "2026-09-27T21:55:53.648Z"
+      },
+      {
+        "id": "sale_4623570",
+        "postedAt": "2026-09-28T21:42:32.345Z"
       }
     ],
     "reddit_gamingnews": [
@@ -938,10 +938,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/714534317091455556",
-        "postedAt": "2026-08-29T13:07:00.265Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/678508690826854583",
         "postedAt": "2026-09-03T13:25:15.786Z"
       },
@@ -993,8 +989,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ws4zuk/save_95_on_agents_of_mayhem_149/",
-    "steam_sales": "sale_1057090",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wsjafi/save_90_on_duke_nukem_3d_20th_anniversary_world/",
+    "steam_sales": "sale_4623570",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508056965808434"
   }
