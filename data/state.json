@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-27T21:55:53.648Z",
+  "lastRun": "2026-09-28T06:30:05.381Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wioztb/save_80_on_battle_chasers_nightwar_599/",
-        "postedAt": "2026-09-17T13:13:42.436Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wizzuf/save_95_on_steep_on_steam_historical_low_149_149/",
         "postedAt": "2026-09-17T18:02:50.616Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wruven/save_75_on_obscure_collection_on_steam/",
         "postedAt": "2026-09-27T21:55:53.648Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ws4zuk/save_95_on_agents_of_mayhem_149/",
+        "postedAt": "2026-09-28T06:30:05.381Z"
       }
     ],
     "steam_sales": [
@@ -993,7 +993,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wruven/save_75_on_obscure_collection_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1ws4zuk/save_95_on_agents_of_mayhem_149/",
     "steam_sales": "sale_1057090",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508056965808434"
