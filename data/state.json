@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-28T21:42:32.345Z",
+  "lastRun": "2026-09-29T15:32:31.140Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wiuvnu/save_100_on_dying_light_the_beast_discharge/",
-        "postedAt": "2026-09-17T18:02:50.616Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wj3bz7/save_60_on_assassins_creed_shadows_on_steam_2799/",
         "postedAt": "2026-09-17T21:59:37.016Z"
@@ -402,13 +398,13 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wsjafi/save_90_on_duke_nukem_3d_20th_anniversary_world/",
         "postedAt": "2026-09-28T21:42:32.345Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wtb8cl/save_85_on_darksiders_warmastered_edition_299/",
+        "postedAt": "2026-09-29T15:32:31.140Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2798330",
-        "postedAt": "2026-09-04T13:19:56.985Z"
-      },
       {
         "id": "sale_3357650",
         "postedAt": "2026-09-07T19:43:48.552Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_4623570",
         "postedAt": "2026-09-28T21:42:32.345Z"
+      },
+      {
+        "id": "sale_3398110",
+        "postedAt": "2026-09-29T15:32:31.140Z"
       }
     ],
     "reddit_gamingnews": [
@@ -989,8 +989,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wsjafi/save_90_on_duke_nukem_3d_20th_anniversary_world/",
-    "steam_sales": "sale_4623570",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wtb8cl/save_85_on_darksiders_warmastered_edition_299/",
+    "steam_sales": "sale_3398110",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508056965808434"
   }
