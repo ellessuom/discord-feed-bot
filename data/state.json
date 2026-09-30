@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-09-29T20:33:56.145Z",
+  "lastRun": "2026-09-30T06:27:17.352Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wj3bz7/save_60_on_assassins_creed_shadows_on_steam_2799/",
-        "postedAt": "2026-09-17T21:59:37.016Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wj2u8b/save_90_on_deus_ex_mankind_divided_on_steam/",
-        "postedAt": "2026-09-17T21:59:37.016Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wj2s7q/save_90_on_deus_ex_human_revolution/",
-        "postedAt": "2026-09-17T21:59:37.016Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wj2qlp/save_95_on_watch_dogs_2_on_steam/",
         "postedAt": "2026-09-17T21:59:37.016Z"
@@ -402,13 +390,21 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wtb8cl/save_85_on_darksiders_warmastered_edition_299/",
         "postedAt": "2026-09-29T15:32:31.140Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wtxlij/save_50_on_dark_souls_series/",
+        "postedAt": "2026-09-30T06:27:17.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wtxbja/save_90_on_townsmen_a_kingdom_rebuilt_199/",
+        "postedAt": "2026-09-30T06:27:17.352Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wtwu47/save_90_on_galgun_double_peace_on_steam/",
+        "postedAt": "2026-09-30T06:27:17.352Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3375110",
-        "postedAt": "2026-09-07T19:43:48.552Z"
-      },
       {
         "id": "sale_3764200",
         "postedAt": "2026-09-07T22:40:06.351Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_4114220",
         "postedAt": "2026-09-29T20:33:56.145Z"
+      },
+      {
+        "id": "sale_1488490",
+        "postedAt": "2026-09-30T06:27:17.352Z"
       }
     ],
     "reddit_gamingnews": [
@@ -989,8 +989,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wtb8cl/save_85_on_darksiders_warmastered_edition_299/",
-    "steam_sales": "sale_4114220",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wtwu47/save_90_on_galgun_double_peace_on_steam/",
+    "steam_sales": "sale_1488490",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508056965808434"
   }
