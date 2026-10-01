@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-10-01T16:10:46.430Z",
+  "lastRun": "2026-10-01T21:41:08.548Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wj2y6d/save_90_on_tom_clancys_the_division_on_steam/",
-        "postedAt": "2026-09-18T00:06:58.900Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wj04jx/publisher_save_35_on_brazilian_drug_dealer_3_i/",
-        "postedAt": "2026-09-18T00:06:58.900Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wjf44a/save_90_on_immortals_fenyx_rising_historical_low/",
-        "postedAt": "2026-09-18T05:40:30.429Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wjenum/rivals_of_aether_2_50_off_1393_matches_atl/",
-        "postedAt": "2026-09-18T05:40:30.429Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wj65zy/save_30_on_age_of_clicks_mix_of_strategy_and/",
         "postedAt": "2026-09-18T05:40:30.429Z"
@@ -402,25 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wuxyk2/save_25_on_pih_on_steam/",
         "postedAt": "2026-10-01T16:10:46.430Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wv5s00/save_90_on_monster_hunter_rise_on_steam_new/",
+        "postedAt": "2026-10-01T21:41:08.548Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wv5bye/save_90_on_the_talos_principle_2_on_steam_new/",
+        "postedAt": "2026-10-01T21:41:08.548Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wv568s/save_90_on_the_elder_scrolls_v_skyrim_special/",
+        "postedAt": "2026-10-01T21:41:08.548Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wv54h9/save_60_on_cyberpunk_2077_ultimate_edition_on/",
+        "postedAt": "2026-10-01T21:41:08.548Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3892270",
-        "postedAt": "2026-09-07T22:40:06.351Z"
-      },
-      {
-        "id": "sale_275850",
-        "postedAt": "2026-09-08T01:02:00.532Z"
-      },
-      {
-        "id": "sale_3624140",
-        "postedAt": "2026-09-08T17:09:25.325Z"
-      },
-      {
-        "id": "sale_3669570",
-        "postedAt": "2026-09-08T17:09:25.325Z"
-      },
       {
         "id": "sale_1144200",
         "postedAt": "2026-09-08T20:56:36.390Z"
@@ -804,6 +788,22 @@
       {
         "id": "sale_1706510",
         "postedAt": "2026-09-30T22:56:33.696Z"
+      },
+      {
+        "id": "sale_1091500",
+        "postedAt": "2026-10-01T21:41:08.548Z"
+      },
+      {
+        "id": "sale_1304930",
+        "postedAt": "2026-10-01T21:41:08.548Z"
+      },
+      {
+        "id": "sale_489830",
+        "postedAt": "2026-10-01T21:41:08.548Z"
+      },
+      {
+        "id": "sale_2406770",
+        "postedAt": "2026-10-01T21:41:08.548Z"
       }
     ],
     "reddit_gamingnews": [
@@ -977,8 +977,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wuxyk2/save_25_on_pih_on_steam/",
-    "steam_sales": "sale_1706510",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wv54h9/save_60_on_cyberpunk_2077_ultimate_edition_on/",
+    "steam_sales": "sale_2406770",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/686392527015641287"
   }
