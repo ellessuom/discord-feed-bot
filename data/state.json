@@ -1,12 +1,8 @@
 {
-  "lastRun": "2026-09-30T22:56:33.696Z",
+  "lastRun": "2026-10-01T16:10:46.430Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wj3ng7/save_84_on_dragons_dogma_dark_arisen_479/",
-        "postedAt": "2026-09-18T00:06:58.900Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wj2y6d/save_90_on_tom_clancys_the_division_on_steam/",
         "postedAt": "2026-09-18T00:06:58.900Z"
@@ -402,6 +398,10 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wu82bg/nouveau_jeu_voxelforge_sur_steam_à_venir_très/",
         "postedAt": "2026-09-30T18:57:25.630Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wuxyk2/save_25_on_pih_on_steam/",
+        "postedAt": "2026-10-01T16:10:46.430Z"
       }
     ],
     "steam_sales": [
@@ -808,22 +808,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1w47hgj/the_witcher_4_development_literally_halts_if_a/",
-        "postedAt": "2026-09-01T13:19:01.948Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1w472tg/once_human_console_launch_trailer_xbox_series_xs/",
-        "postedAt": "2026-09-01T13:19:01.948Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1w3kw5m/gta_6_launch_could_cost_us_businesses_1_billion/",
-        "postedAt": "2026-09-01T13:19:01.948Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1w3dn2o/playstation_wants_to_prove_in_court_that_you_dont/",
-        "postedAt": "2026-09-01T13:19:01.948Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1w88kol/the_blood_of_dawnwalker_sells_1_million_copies_in/",
         "postedAt": "2026-09-05T23:40:02.404Z"
       },
@@ -984,14 +968,18 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/678508056965808434",
         "postedAt": "2026-09-26T16:57:39.174Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/686392527015641287",
+        "postedAt": "2026-10-01T16:10:46.430Z"
       }
     ]
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wu82bg/nouveau_jeu_voxelforge_sur_steam_à_venir_très/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wuxyk2/save_25_on_pih_on_steam/",
     "steam_sales": "sale_1706510",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508056965808434"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/686392527015641287"
   }
 }
