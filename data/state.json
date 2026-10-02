@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-10-02T15:34:41.392Z",
+  "lastRun": "2026-10-02T20:31:19.488Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wjsmpo/save_10_on_paver_tidy_up_together_on_steam/",
-        "postedAt": "2026-09-18T18:11:01.571Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wk2up6/save_80_on_dragon_quest_monsters_the_dark_prince/",
-        "postedAt": "2026-09-18T21:31:10.394Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wk2ni1/save_75_on_final_fantasy_vii_remake_intergrade_on/",
-        "postedAt": "2026-09-18T21:31:10.394Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wk2lky/save_70_on_final_fantasy_vii_rebirth_on_steam/",
-        "postedAt": "2026-09-18T21:31:10.394Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wjyjvs/save_30_on_fate_of_fire_kyvedy_guardiah_on_steam/",
         "postedAt": "2026-09-18T21:31:10.394Z"
@@ -402,21 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wvpomo/save_70_on_cyberpunk_2077_on_steam/",
         "postedAt": "2026-10-02T15:34:41.392Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ww04dv/save_60_on_diplomacy_is_not_an_option_on_steam/",
+        "postedAt": "2026-10-02T20:31:19.488Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wvyiwy/save_90_on_deaths_door_on_steam/",
+        "postedAt": "2026-10-02T20:31:19.488Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wvppkp/save_70_on_kingdom_hearts_hd_1525_remix_on_steam/",
+        "postedAt": "2026-10-02T20:31:19.488Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wvpmte/save_85_on_bioshock_2_remastered_on_steam/",
+        "postedAt": "2026-10-02T20:31:19.488Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3949040",
-        "postedAt": "2026-09-10T17:35:49.867Z"
-      },
-      {
-        "id": "sale_2536520",
-        "postedAt": "2026-09-10T22:21:47.302Z"
-      },
-      {
-        "id": "sale_1390270",
-        "postedAt": "2026-09-10T22:21:47.302Z"
-      },
       {
         "id": "sale_4739660",
         "postedAt": "2026-09-11T00:52:56.317Z"
@@ -804,6 +792,18 @@
       {
         "id": "sale_413150",
         "postedAt": "2026-10-02T15:34:41.392Z"
+      },
+      {
+        "id": "sale_1817070",
+        "postedAt": "2026-10-02T20:31:19.488Z"
+      },
+      {
+        "id": "sale_2183900",
+        "postedAt": "2026-10-02T20:31:19.488Z"
+      },
+      {
+        "id": "sale_2651280",
+        "postedAt": "2026-10-02T20:31:19.488Z"
       }
     ],
     "reddit_gamingnews": [
@@ -977,8 +977,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wvpomo/save_70_on_cyberpunk_2077_on_steam/",
-    "steam_sales": "sale_413150",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wvpmte/save_85_on_bioshock_2_remastered_on_steam/",
+    "steam_sales": "sale_2651280",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/686392527015641287"
   }
