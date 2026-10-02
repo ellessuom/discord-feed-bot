@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-10-02T08:11:20.941Z",
+  "lastRun": "2026-10-02T15:34:41.392Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wjit1r/save_75_on_anno_1800_on_steam_1499/",
-        "postedAt": "2026-09-18T10:52:22.201Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wjnvas/save_30_on_fortune_avenue_on_steam_489/",
-        "postedAt": "2026-09-18T14:51:40.952Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wjvvtd/save_100_on_deadshot_free/",
-        "postedAt": "2026-09-18T18:11:01.571Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wjvcwe/save_80_on_dead_rising_3_apocalypse_edition_599/",
-        "postedAt": "2026-09-18T18:11:01.571Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wjsmpo/save_10_on_paver_tidy_up_together_on_steam/",
         "postedAt": "2026-09-18T18:11:01.571Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wv6da0/save_95_on_mirrors_edge_catalyst_on_steam/",
         "postedAt": "2026-10-02T08:11:20.941Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wvr37r/save_75_on_divinity_original_sin_2_definitive/",
+        "postedAt": "2026-10-02T15:34:41.392Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wvpxiz/save_90_on_middleearth_shadow_of_war_on_steam/",
+        "postedAt": "2026-10-02T15:34:41.392Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wvprda/save_80_on_atomic_heart_on_steam/",
+        "postedAt": "2026-10-02T15:34:41.392Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wvpomo/save_70_on_cyberpunk_2077_on_steam/",
+        "postedAt": "2026-10-02T15:34:41.392Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3195440",
-        "postedAt": "2026-09-10T17:35:49.867Z"
-      },
       {
         "id": "sale_3949040",
         "postedAt": "2026-09-10T17:35:49.867Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_4001890",
         "postedAt": "2026-10-02T08:11:20.941Z"
+      },
+      {
+        "id": "sale_413150",
+        "postedAt": "2026-10-02T15:34:41.392Z"
       }
     ],
     "reddit_gamingnews": [
@@ -977,8 +977,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wv6da0/save_95_on_mirrors_edge_catalyst_on_steam/",
-    "steam_sales": "sale_4001890",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wvpomo/save_70_on_cyberpunk_2077_on_steam/",
+    "steam_sales": "sale_413150",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/686392527015641287"
   }
