@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-10-01T21:41:08.548Z",
+  "lastRun": "2026-10-02T01:26:25.292Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,22 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1144200",
-        "postedAt": "2026-09-08T20:56:36.390Z"
-      },
-      {
-        "id": "sale_1453566",
-        "postedAt": "2026-09-08T20:56:36.390Z"
-      },
-      {
-        "id": "sale_3971950",
-        "postedAt": "2026-09-09T13:36:30.049Z"
-      },
-      {
-        "id": "sale_3123060",
-        "postedAt": "2026-09-09T23:05:18.541Z"
-      },
-      {
         "id": "sale_1378990",
         "postedAt": "2026-09-09T23:05:18.541Z"
       },
@@ -804,6 +788,22 @@
       {
         "id": "sale_2406770",
         "postedAt": "2026-10-01T21:41:08.548Z"
+      },
+      {
+        "id": "sale_814380",
+        "postedAt": "2026-10-02T01:26:25.292Z"
+      },
+      {
+        "id": "sale_1174180",
+        "postedAt": "2026-10-02T01:26:25.292Z"
+      },
+      {
+        "id": "sale_2138330",
+        "postedAt": "2026-10-02T01:26:25.292Z"
+      },
+      {
+        "id": "sale_2483190",
+        "postedAt": "2026-10-02T01:26:25.292Z"
       }
     ],
     "reddit_gamingnews": [
@@ -978,7 +978,7 @@
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wv54h9/save_60_on_cyberpunk_2077_ultimate_edition_on/",
-    "steam_sales": "sale_2406770",
+    "steam_sales": "sale_2483190",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/686392527015641287"
   }
