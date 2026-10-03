@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-10-03T20:49:05.576Z",
+  "lastRun": "2026-10-03T23:38:31.806Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wmnskt/save_60_on_screamer_2399/",
-        "postedAt": "2026-09-21T20:53:44.162Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wmjlks/save_20_on_author_sim_featured_in_the_out_of_the/",
-        "postedAt": "2026-09-21T20:53:44.162Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wmq7w7/save_50_on_samson_on_steam_1249_ends_on_october/",
-        "postedAt": "2026-09-21T23:56:40.479Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wmq6eq/save_80_on_trailer_park_tycoon_raccoon_ranch_on/",
-        "postedAt": "2026-09-21T23:56:40.479Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wmpwtv/save_80_on_remnant_ii_on_steam_new_historical_low/",
         "postedAt": "2026-09-21T23:56:40.479Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wwt375/save_90_on_the_incredible_adventures_of_van/",
         "postedAt": "2026-10-03T20:49:05.576Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wwtmb5/save_90_on_construction_simulator_on_steam_new_low/",
+        "postedAt": "2026-10-03T23:38:31.806Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wwtkps/save_90_on_a_jugglers_tale_on_steam/",
+        "postedAt": "2026-10-03T23:38:31.806Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wwtid0/save_90_on_pluralys_on_steam_new_low/",
+        "postedAt": "2026-10-03T23:38:31.806Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wwt3l7/save_90_on_thehunter_call_of_the_wild_on_steam/",
+        "postedAt": "2026-10-03T23:38:31.806Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_2668510",
-        "postedAt": "2026-09-11T00:52:56.317Z"
-      },
       {
         "id": "sale_4150860",
         "postedAt": "2026-09-11T21:36:41.560Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_3764200",
         "postedAt": "2026-10-03T20:49:05.575Z"
+      },
+      {
+        "id": "sale_553850",
+        "postedAt": "2026-10-03T23:38:31.806Z"
       }
     ],
     "reddit_gamingnews": [
@@ -977,8 +977,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wwt375/save_90_on_the_incredible_adventures_of_van/",
-    "steam_sales": "sale_3764200",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wwt3l7/save_90_on_thehunter_call_of_the_wild_on_steam/",
+    "steam_sales": "sale_553850",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
   }
