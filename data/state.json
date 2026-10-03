@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-10-03T00:17:17.577Z",
+  "lastRun": "2026-10-03T06:14:26.619Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wkakt1/save_70_on_musashi_vs_cthulhu_on_steam/",
-        "postedAt": "2026-09-19T04:30:21.343Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wkbki3/save_60_on_romancing_saga_2_revenge_of_the_seven/",
-        "postedAt": "2026-09-19T09:17:45.420Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wjn862/echoes_of_the_end_enhanced_edition_80_799/",
-        "postedAt": "2026-09-19T09:17:45.420Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wktqrd/save_30_on_the_hundred_line_last_defense_academy/",
-        "postedAt": "2026-09-19T20:18:44.879Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wktnci/save_35_on_anno_117_pax_romana_on_steam/",
         "postedAt": "2026-09-19T20:18:44.879Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wvsaw4/save_55_on_hifi_rush_on_steam/",
         "postedAt": "2026-10-03T00:17:17.577Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wwel1y/save_95_on_outward_definitive_edition_199/",
+        "postedAt": "2026-10-03T06:14:26.619Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1ww55me/save_85_on_generation_zero_on_steam/",
+        "postedAt": "2026-10-03T06:14:26.619Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wvs2jq/save_20_on_profits_2167_planetary_resource/",
+        "postedAt": "2026-10-03T06:14:26.619Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wvkiw1/save_90_on_robocop_rogue_city_alex_murphy_edition/",
+        "postedAt": "2026-10-03T06:14:26.619Z"
       }
     ],
     "steam_sales": [
@@ -977,7 +977,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wvsaw4/save_55_on_hifi_rush_on_steam/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wvkiw1/save_90_on_robocop_rogue_city_alex_murphy_edition/",
     "steam_sales": "sale_2651280",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/686392527015641287"
