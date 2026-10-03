@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-10-03T17:06:56.366Z",
+  "lastRun": "2026-10-03T20:49:05.576Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wlmtj2/save_85_on_wall_world_on_steam/",
-        "postedAt": "2026-09-20T18:07:37.755Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wlmszp/zero_stress_king_got_v20_and_a_discount_20_399/",
-        "postedAt": "2026-09-20T18:07:37.755Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wmgfti/cinnaboi_baked_brawl/",
-        "postedAt": "2026-09-21T16:53:50.593Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wmaqg6/save_90_on_the_last_oricru_final_cut_199/",
-        "postedAt": "2026-09-21T16:53:50.593Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wmnskt/save_60_on_screamer_2399/",
         "postedAt": "2026-09-21T20:53:44.162Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wvh0zy/save_75_on_splinter_cell_legacy_collection_on/",
         "postedAt": "2026-10-03T17:06:56.366Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wwtmi7/save_90_on_solasta_crown_of_the_magister_on_steam/",
+        "postedAt": "2026-10-03T20:49:05.575Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wwtk46/save_85_on_made_in_abyss_binary_star_falling_into/",
+        "postedAt": "2026-10-03T20:49:05.575Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wwtjig/save_90_on_nobody_wants_to_die_on_steam_new_low/",
+        "postedAt": "2026-10-03T20:49:05.576Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wwt375/save_90_on_the_incredible_adventures_of_van/",
+        "postedAt": "2026-10-03T20:49:05.576Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_1850570",
-        "postedAt": "2026-09-11T00:52:56.317Z"
-      },
       {
         "id": "sale_2668510",
         "postedAt": "2026-09-11T00:52:56.317Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_2215430",
         "postedAt": "2026-10-03T12:21:34.728Z"
+      },
+      {
+        "id": "sale_3764200",
+        "postedAt": "2026-10-03T20:49:05.575Z"
       }
     ],
     "reddit_gamingnews": [
@@ -977,8 +977,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wvh0zy/save_75_on_splinter_cell_legacy_collection_on/",
-    "steam_sales": "sale_2215430",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wwt375/save_90_on_the_incredible_adventures_of_van/",
+    "steam_sales": "sale_3764200",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
   }
