@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-10-04T12:02:56.628Z",
+  "lastRun": "2026-10-04T17:22:30.566Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wngb5v/save_67_on_grand_theft_auto_the_trilogy_the/",
-        "postedAt": "2026-09-22T18:38:20.582Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wndnx8/idle_deepcore_40_discount/",
-        "postedAt": "2026-09-22T18:38:20.582Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wnmpvo/save_25_on_beat_saber_on_steam_historical_low/",
         "postedAt": "2026-09-22T21:53:46.178Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wx8uk8/save_80_on_detention_239/",
         "postedAt": "2026-10-04T12:02:56.628Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wxfwpx/save_30_on_memory_wastes_full_version_on_steam_699/",
+        "postedAt": "2026-10-04T17:22:30.566Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wxcuoe/save_90_on_plateup_on_steam/",
+        "postedAt": "2026-10-04T17:22:30.566Z"
       }
     ],
     "steam_sales": [
@@ -977,7 +977,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wx8uk8/save_80_on_detention_239/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wxcuoe/save_90_on_plateup_on_steam/",
     "steam_sales": "sale_1623730",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
