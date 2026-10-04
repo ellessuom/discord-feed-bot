@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-10-04T17:22:30.566Z",
+  "lastRun": "2026-10-04T21:05:10.735Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wnmpvo/save_25_on_beat_saber_on_steam_historical_low/",
-        "postedAt": "2026-09-22T21:53:46.178Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wo4s23/save_80_on_metal_eden_399_new_historical_low/",
-        "postedAt": "2026-09-23T16:29:13.703Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1woehw4/save_20_on_beast_of_reincarnation_new_historical/",
-        "postedAt": "2026-09-23T20:02:43.932Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wopgta/save_34_on_ball_x_pit/",
-        "postedAt": "2026-09-24T09:14:15.609Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wp89ho/save_90_on_code_vein_on_steam/",
         "postedAt": "2026-09-24T18:54:28.974Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wxcuoe/save_90_on_plateup_on_steam/",
         "postedAt": "2026-10-04T17:22:30.566Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wxpzaq/save_88_on_tails_of_iron_299/",
+        "postedAt": "2026-10-04T21:05:10.735Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wxpatd/save_75_on_school_hero_on_steam_100/",
+        "postedAt": "2026-10-04T21:05:10.735Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wxp8r3/save_84_on_alien_grounds_on_steam/",
+        "postedAt": "2026-10-04T21:05:10.735Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wxn8bx/save_66_on_needy_streamer_overload/",
+        "postedAt": "2026-10-04T21:05:10.735Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_3393280",
-        "postedAt": "2026-09-11T23:59:27.802Z"
-      },
       {
         "id": "sale_4108000",
         "postedAt": "2026-09-13T05:48:10.150Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_1623730",
         "postedAt": "2026-10-04T12:02:56.628Z"
+      },
+      {
+        "id": "sale_108600",
+        "postedAt": "2026-10-04T21:05:10.735Z"
       }
     ],
     "reddit_gamingnews": [
@@ -977,8 +977,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wxcuoe/save_90_on_plateup_on_steam/",
-    "steam_sales": "sale_1623730",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wxn8bx/save_66_on_needy_streamer_overload/",
+    "steam_sales": "sale_108600",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
   }
