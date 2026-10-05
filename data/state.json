@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-10-05T00:35:52.173Z",
+  "lastRun": "2026-10-05T15:43:19.312Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wp88xn/save_85_on_kingdom_come_deliverance_on_steam_449/",
-        "postedAt": "2026-09-24T18:54:28.974Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wp7ty6/save_90_on_ori_and_the_will_of_the_wisps_on_steam/",
-        "postedAt": "2026-09-24T18:54:28.974Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wp7g3l/save_33_on_the_last_of_us_part_ii_remastered_on/",
-        "postedAt": "2026-09-24T18:54:28.974Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wp9o8i/save_50_off_on_dark_souls_3_2999/",
-        "postedAt": "2026-09-24T22:08:39.085Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wp82fb/save_70_on_persona_3_reload_on_steam_new/",
         "postedAt": "2026-09-24T22:08:39.085Z"
@@ -402,6 +386,22 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wxmwi0/steam_cybrid_674_55_off/",
         "postedAt": "2026-10-05T00:35:52.173Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wy6cz7/my_game_decay_is_20_off_on_steam/",
+        "postedAt": "2026-10-05T15:43:19.312Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wy4ea9/my_space_roguelite_is_40_off/",
+        "postedAt": "2026-10-05T15:43:19.312Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wy3mp4/save_33_on_monster_girl_therapy_on_steam_my_game/",
+        "postedAt": "2026-10-05T15:43:19.312Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wy2f47/save_90_on_tom_clancys_the_division_2_on_steam/",
+        "postedAt": "2026-10-05T15:43:19.312Z"
       }
     ],
     "steam_sales": [
@@ -922,10 +922,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/703275952293019887",
-        "postedAt": "2026-09-05T13:46:19.347Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/703275952293020219",
         "postedAt": "2026-09-06T16:04:23.978Z"
       },
@@ -977,7 +973,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wxmwi0/steam_cybrid_674_55_off/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wy2f47/save_90_on_tom_clancys_the_division_2_on_steam/",
     "steam_sales": "sale_108600",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
