@@ -1,24 +1,8 @@
 {
-  "lastRun": "2026-10-05T15:43:19.312Z",
+  "lastRun": "2026-10-05T22:24:56.620Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wp82fb/save_70_on_persona_3_reload_on_steam_new/",
-        "postedAt": "2026-09-24T22:08:39.085Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wp7w8z/save_85_on_darksiders_ultimate_edition_on_steam/",
-        "postedAt": "2026-09-24T22:08:39.085Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wp7n5o/save_90_on_metro_exodus_on_steam/",
-        "postedAt": "2026-09-24T22:08:39.085Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wp8apt/save_90_on_homefront_the_revolution_on_steam/",
-        "postedAt": "2026-09-25T01:16:51.084Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wp83lv/save_50_on_ninja_gaiden_4_on_steam_new_historical/",
         "postedAt": "2026-09-25T01:16:51.084Z"
@@ -402,13 +386,25 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wy2f47/save_90_on_tom_clancys_the_division_2_on_steam/",
         "postedAt": "2026-10-05T15:43:19.312Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wylfq4/oro_cade_3d_puzzler_is_30_off_and_now_has_macos/",
+        "postedAt": "2026-10-05T22:24:56.620Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wykznh/save_30_on_resident_evil_requiem_on_steam/",
+        "postedAt": "2026-10-05T22:24:56.620Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wyegjy/my_arcade_farming_game_is_30_off/",
+        "postedAt": "2026-10-05T22:24:56.620Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wybiai/save_90_on_europa_universalis_iv_499/",
+        "postedAt": "2026-10-05T22:24:56.620Z"
       }
     ],
     "steam_sales": [
-      {
-        "id": "sale_4108000",
-        "postedAt": "2026-09-13T05:48:10.150Z"
-      },
       {
         "id": "sale_252490",
         "postedAt": "2026-09-13T18:39:31.187Z"
@@ -804,6 +800,10 @@
       {
         "id": "sale_108600",
         "postedAt": "2026-10-04T21:05:10.735Z"
+      },
+      {
+        "id": "sale_1326470",
+        "postedAt": "2026-10-05T22:24:56.620Z"
       }
     ],
     "reddit_gamingnews": [
@@ -973,8 +973,8 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wy2f47/save_90_on_tom_clancys_the_division_2_on_steam/",
-    "steam_sales": "sale_108600",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wybiai/save_90_on_europa_universalis_iv_499/",
+    "steam_sales": "sale_1326470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
   }
