@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-10-06T09:55:58.492Z",
+  "lastRun": "2026-10-06T16:36:50.749Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -906,10 +906,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/703275952293020219",
-        "postedAt": "2026-09-06T16:04:23.978Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/677376450273221277",
         "postedAt": "2026-09-07T15:38:56.801Z"
       },
@@ -952,6 +948,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/678508690826854583",
         "postedAt": "2026-10-03T17:06:56.366Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/703275952293020219",
+        "postedAt": "2026-10-06T16:36:50.749Z"
       }
     ]
   },
@@ -960,6 +960,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wyt719/save_67_percent_on_ghosts_n_goblins_resurrection/",
     "steam_sales": "sale_1326470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293020219"
   }
 }
