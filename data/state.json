@@ -1,20 +1,8 @@
 {
-  "lastRun": "2026-10-06T16:36:50.749Z",
+  "lastRun": "2026-10-06T21:30:42.576Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wpq5dh/save_75_on_quantum_break_on_steam/",
-        "postedAt": "2026-09-25T13:26:50.165Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wpjjkk/save_50_on_the_last_of_us_part_i_on_steam/",
-        "postedAt": "2026-09-25T13:26:50.165Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wq2ceh/save_30_on_hades_ii_on_steam/",
-        "postedAt": "2026-09-25T18:21:33.961Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wq2brt/save_75_on_hades_on_steam/",
         "postedAt": "2026-09-25T18:21:33.961Z"
@@ -402,6 +390,18 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wyt719/save_67_percent_on_ghosts_n_goblins_resurrection/",
         "postedAt": "2026-10-06T09:55:58.492Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wzc0da/save_85_on_saints_row_2_149/",
+        "postedAt": "2026-10-06T21:30:42.576Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wzazrt/this_game_is_so_cheap_and_look_so_cool_i_want_it/",
+        "postedAt": "2026-10-06T21:30:42.576Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wz8u6b/lostbound_48930_off/",
+        "postedAt": "2026-10-06T21:30:42.576Z"
       }
     ],
     "steam_sales": [
@@ -957,7 +957,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wyt719/save_67_percent_on_ghosts_n_goblins_resurrection/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wz8u6b/lostbound_48930_off/",
     "steam_sales": "sale_1326470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293020219"
