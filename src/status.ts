@@ -1,11 +1,8 @@
 import fs from 'node:fs'
 import path from 'node:path'
-import { fileURLToPath } from 'node:url'
+import { dataDir } from './paths'
 
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
-const projectRoot = path.resolve(__dirname, '..')
-const statusPath = path.resolve(projectRoot, 'data', 'status.json')
+const statusPath = path.resolve(dataDir, 'status.json')
 
 const MAX_ERRORS = 20
 

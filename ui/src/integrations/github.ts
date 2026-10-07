@@ -151,6 +151,7 @@ interface RawConfig {
   }
   sources?: RawSource[]
   settings?: Partial<Settings>
+  [block: string]: unknown
 }
 
 function validateSource(source: RawSource, index: number): Source {
@@ -273,6 +274,14 @@ export function parseConfig(yamlContent: string): Config {
     config.sources = raw.sources.map((s, i) => validateSource(s, i))
   }
 
+  // Saving rewrites the whole file, so anything not carried here is deleted from config.yaml.
+  const extra = Object.fromEntries(
+    Object.entries(raw).filter(([key]) => !['discord', 'sources', 'settings'].includes(key))
+  )
+  if (Object.keys(extra).length > 0) {
+    config.extra = extra
+  }
+
   return config
 }
 
@@ -293,6 +302,7 @@ export function serializeConfig(config: Config): string {
       return { ...base, ...source }
     }),
     settings: config.settings,
+    ...config.extra,
   }
 
   return yaml.stringify(raw, { lineWidth: 0 })

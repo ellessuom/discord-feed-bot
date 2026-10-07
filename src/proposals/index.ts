@@ -262,8 +262,15 @@ async function refreshPrices(
   return changed
 }
 
-async function undo(client: DiscordClient, store: ProposalsFile): Promise<void> {
+async function undo(client: DiscordClient, store: ProposalsFile, dryRun: boolean): Promise<void> {
   const withThreads = Object.entries(store.proposals).filter(([, p]) => p.threadId)
+
+  if (dryRun) {
+    console.log(`Undo dry run: would delete ${withThreads.length} forum post(s):`)
+    for (const [, proposal] of withThreads) console.log(`  - ${proposal.name}`)
+    return
+  }
+
   console.log(`Deleting ${withThreads.length} forum post(s) created by this bot...`)
 
   for (const [key, proposal] of withThreads) {
@@ -301,7 +308,7 @@ async function main(): Promise<void> {
   const store = loadProposals()
 
   if (mode.undo) {
-    await undo(client, store)
+    await undo(client, store, mode.dryRun)
     return
   }
 

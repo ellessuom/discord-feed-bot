@@ -39,9 +39,18 @@ tsconfig.json enables:
 
 ## Test Setup
 
-- Tests in `src/**/__tests__/` directories
-- Tests modify `config.yaml` at project root, backing up and restoring
+- Tests in `src/**/__tests__/` directories (UI tests in `ui/src/**/__tests__/`, run by the root Vitest via the `@` alias)
+- Tests modify `config.yaml` at project root, backing up and restoring — so never `git add -A`; stage files by name
 - Test framework: Vitest with `globals: true`
+
+## Safety Rules (live Discord server, public repo)
+
+- `main` deploys itself: the hourly workflow posts to the real server and commits state. Work on a feature branch; merge by PR only after asking.
+- Dev runs use `CONFIG_PATH=config.dev.yaml DATA_DIR=data-dev` (both gitignored) with a dev Discord app/test server — never production IDs or `data/`.
+- Secrets (`OPENAI_API_KEY`, `STEAM_API_KEY`, `CF_*`, `ITAD_KEY`, …) are read from `process.env`, never added to `config.yaml`: `loadConfig()` throws on any unset `${VAR}`, which would take the feed down.
+- Never handle secret values in chat; the user sets them with `gh secret set` / `wrangler secret put` in their own terminal.
+- `npm run proposals:undo` deletes every forum thread irreversibly; it is local-only (removed from the manual workflow) and denied in `.claude/settings.json`.
+- `data/proposals.json` is a permanent backlog — never delete or regenerate it.
 
 ## Config Validation Rules
 
