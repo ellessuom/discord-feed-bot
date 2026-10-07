@@ -54,9 +54,16 @@ async function main(): Promise<void> {
   }
   const weekly = async (period: Period) => {
     const iso = (ms: number) => new Date(ms).toISOString()
-    const proposals = Object.values(loadProposals().proposals)
-      .filter((p) => p.kind === 'app')
+    // Released, buyable proposals that someone in the group still doesn't own.
+    const priced = Object.values(loadProposals().proposals)
+      .filter((p) => p.kind === 'app' && p.status === 'priced')
       .map((p) => p.id)
+    const ownedByAll = new Set(
+      (await query<{ appid: number }>(sql.OWNED_BY_ALL, [JSON.stringify(priced)])).map(
+        (r) => r.appid
+      )
+    )
+    const proposals = priced.filter((appid) => !ownedByAll.has(appid))
     const [samples, posted, onSale] = await Promise.all([
       query<Sample>(sql.VOICE_SAMPLES, [
         String(Math.floor(period.from / 1000)),
@@ -70,7 +77,7 @@ async function main(): Promise<void> {
     const names = await query<{ appid: number; name: string }>(sql.APP_NAMES, [
       JSON.stringify(stats.games.map(([appid]) => appid)),
     ])
-    return renderWeekly(
+    const message = renderWeekly(
       stats,
       new Map(names.map((n) => [n.appid, n.name])),
       period.from,
@@ -78,6 +85,7 @@ async function main(): Promise<void> {
       { posted, sales: onSale && { proposals: proposals.length, onSale } },
       now
     )
+    return { message, steam: onSale !== null }
   }
 
   // A preview never falls through to the real, recorded run, even without WRAPUP_KIND.
@@ -86,7 +94,7 @@ async function main(): Promise<void> {
     : undefined
   if (preview) {
     const period = { key: 'preview', from: now - (preview === 'daily' ? 1 : 7) * DAY_MS, to: now }
-    const message = preview === 'daily' ? (await daily(period)).message : await weekly(period)
+    const message = (preview === 'daily' ? await daily(period) : await weekly(period)).message
     await post(TEST_CHANNEL_ID, message ?? `Preview: nothing to post for ${preview}.`)
     console.log(`Posted a ${preview} preview to #test.`)
     return
@@ -124,10 +132,11 @@ async function main(): Promise<void> {
       { sql: sql.PURGE_VOICE, params: [String(Math.floor((now - 400 * DAY_MS) / 1000))] },
       { sql: sql.PURGE_SPEND, params: [new Date(now - 62 * DAY_MS).toISOString().slice(0, 10)] },
     ])
-    const message = await weekly(due.weekly)
+    const { message, steam } = await weekly(due.weekly)
     if (message) await post(WEEKLY_CHANNEL_ID, message)
     await d1Batch([record(due.weekly.key)])
-    log.push(`weekly recap: ${message ? 'posted' : 'quiet week'}`)
+    // No counts or names: a missing Steam just says so, so a changed API doesn't go unnoticed.
+    log.push(`weekly recap: ${message ? 'posted' : 'quiet week'}${steam ? '' : ' (no Steam)'}`)
   }
 
   console.log(`Wrap-ups: ${log.join(', ') || 'nothing due'}.`)

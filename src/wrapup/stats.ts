@@ -235,15 +235,16 @@ function newsLines({ posted, sales }: GameNews, now: number): string[] {
   const lines: string[] = []
   const total = posted.reduce((sum, row) => sum + Number(row.n), 0)
   if (total > 0) {
-    const parts = posted
-      .filter((row) => Number(row.n) > 0)
-      .map((row) => plural(Number(row.n), KINDS[row.kind] ?? [row.kind, row.kind]))
+    const parts = posted.map((row) =>
+      plural(Number(row.n), KINDS[row.kind] ?? [row.kind, row.kind])
+    )
     lines.push(`${plural(total, ['post', 'posts'])} in #game-news last week: ${parts.join(', ')}`)
   }
   if (sales && sales.onSale.length > 0) {
     const ending = sales.onSale
       .filter((d) => d.endsAt !== null && d.endsAt > now && d.endsAt <= now + 7 * 86_400_000)
-      .sort((a, b) => (a.endsAt ?? 0) - (b.endsAt ?? 0))
+      // Seasonal sales all end at once: then the biggest discounts are the ones named.
+      .sort((a, b) => (a.endsAt ?? 0) - (b.endsAt ?? 0) || b.pct - a.pct)
     const weekday = (ms: number) =>
       new Date(ms).toLocaleDateString('en-GB', { weekday: 'short', timeZone: ZONE })
     const shown = ending

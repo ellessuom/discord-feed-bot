@@ -165,8 +165,9 @@ export async function fetchDiscounts(
   const input = {
     ids: appids.map((appid) => ({ appid })),
     context: { language: region.lang, country_code: region.cc },
-    data_request: { include_all_purchase_options: true },
   }
+  // ponytail: one GET for every appid; Steam rejects the URL past ~270 seven-digit appids
+  // (HTTP 400, so the sale line just drops out). Batch it if the backlog ever gets there.
   const response = await fetch(
     `https://api.steampowered.com/IStoreBrowseService/GetItems/v1/?input_json=${encodeURIComponent(JSON.stringify(input))}`,
     { signal: AbortSignal.timeout(10_000) }

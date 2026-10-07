@@ -148,8 +148,15 @@ describe('alerts SQL', () => {
     expect(
       db.prepare(sql.POSTED_BY_KIND).all('2026-10-05T05:00:00Z', '2026-10-12T05:00:00Z')
     ).toEqual([
-      { kind: 'patch', n: 1 },
       { kind: 'sale', n: 2 },
+      { kind: 'patch', n: 1 },
     ])
+  })
+
+  test('games every linked member owns', () => {
+    db.exec(`INSERT INTO members VALUES ('a', 'sa', 'A', '1', NULL), ('b', 'sb', 'B', '2', NULL)`)
+    db.exec(`INSERT INTO owned_games VALUES ('sa', 1, 0, 0), ('sb', 1, 0, 0), ('sa', 2, 0, 0),
+      ('sz', 2, 0, 0)`) // sz isn't linked
+    expect(db.prepare(sql.OWNED_BY_ALL).all(JSON.stringify([1, 2, 3]))).toEqual([{ appid: 1 }])
   })
 })
