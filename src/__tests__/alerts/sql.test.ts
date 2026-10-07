@@ -75,7 +75,7 @@ describe('alerts SQL', () => {
     db.exec(`INSERT INTO owned_games VALUES ('s1', 1, 600, 0), ('s9', 2, 5, 0)`)
     db.exec(`INSERT INTO wishlist VALUES ('s1', 3, NULL)`)
     expect(db.prepare(sql.OWNED).all()).toEqual([
-      { discord_id: 'd1', appid: 1, playtime_forever: 600 },
+      { discord_id: 'd1', appid: 1, playtime_forever: 600, playtime_2weeks: 0 },
     ])
     expect(db.prepare(sql.WISHLIST).all()).toEqual([{ discord_id: 'd1', appid: 3 }])
   })
@@ -90,5 +90,47 @@ describe('alerts SQL', () => {
       .all()
       .map((row) => row.appid)
     expect(order).toEqual([2, 1, 3])
+  })
+
+  test('wrap-ups: overflow from the last day, rare kinds first, then marked listed', () => {
+    const alert = (key: string, kind: string) => ({ key, kind, appid: 1, line: key })
+    db.prepare(sql.UPSERT_ALERTS).run(
+      JSON.stringify([alert('sale:1:1', 'sale'), alert('patch:9', 'patch')]),
+      'overflow',
+      '2026-10-08T12:00:00Z'
+    )
+    db.prepare(sql.UPSERT_ALERTS).run(
+      JSON.stringify([alert('sale:1:2', 'sale')]),
+      'overflow',
+      '2026-10-06T12:00:00Z'
+    )
+    const since = '2026-10-07T18:00:00Z'
+    expect(
+      db
+        .prepare(sql.OVERFLOW_SINCE)
+        .all(since)
+        .map((r) => r.key)
+    ).toEqual(['patch:9', 'sale:1:1'])
+    db.prepare(sql.MARK_LISTED).run(JSON.stringify(['patch:9', 'sale:1:1']))
+    expect(db.prepare(sql.OVERFLOW_SINCE).all(since)).toEqual([])
+    expect(db.prepare(sql.POSTED_SINCE).all(since)).toEqual([{ n: 0 }])
+  })
+
+  test('voice samples by a range bound as strings, like the D1 REST API', () => {
+    db.exec(`INSERT INTO voice_samples VALUES (100, 'a', 'v', NULL), (200, 'a', 'v', 5),
+      (300, 'a', 'v', NULL)`)
+    expect(
+      db
+        .prepare(sql.VOICE_SAMPLES)
+        .all('100', '300')
+        .map((r) => r.ts)
+    ).toEqual([100, 200])
+    db.prepare(sql.PURGE_VOICE).run('200')
+    expect(
+      db
+        .prepare(sql.VOICE_SAMPLES)
+        .all('0', '1000')
+        .map((r) => r.ts)
+    ).toEqual([200, 300])
   })
 })

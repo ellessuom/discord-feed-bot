@@ -4,7 +4,7 @@
 export const MEMBERS = 'SELECT discord_id FROM members ORDER BY linked_at'
 
 /** Most recently played first: buildLibrary keeps this order, and metaQueue scans in it. */
-export const OWNED = `SELECT m.discord_id, o.appid, o.playtime_forever FROM owned_games o
+export const OWNED = `SELECT m.discord_id, o.appid, o.playtime_forever, o.playtime_2weeks FROM owned_games o
   JOIN members m ON m.steam_id = o.steam_id
   ORDER BY o.playtime_2weeks DESC, o.playtime_forever DESC`
 
@@ -62,3 +62,29 @@ export const INSERT_PICKS = `INSERT OR IGNORE INTO discover (appid, name, rank, 
   SELECT json_extract(value, '$.appid'), json_extract(value, '$.name'),
          json_extract(value, '$.rank'), json_extract(value, '$.reviews'), ?2
   FROM json_each(?1)`
+
+// Wrap-ups (src/wrapup/). Their own rows in `alerts` use status 'done', never 'posted',
+// which POSTED_SINCE counts toward the daily cap.
+
+/** ?1: ISO time 24 h ago. Alerts that didn't get their own post, rare kinds first. */
+export const OVERFLOW_SINCE = `SELECT key, appid, line FROM alerts
+  WHERE status = 'overflow' AND created_at >= ?1
+  ORDER BY CASE kind WHEN 'sale' THEN 1 ELSE 0 END, created_at`
+
+/** ?1: JSON array of keys, so the next daily digest doesn't list them again. */
+export const MARK_LISTED = `UPDATE alerts SET status = 'listed'
+  WHERE key IN (SELECT value FROM json_each(?1))`
+
+/** ?1..?2: unix seconds [from, to). */
+export const VOICE_SAMPLES = `SELECT ts, discord_id, channel_id, appid FROM voice_samples
+  WHERE ts >= ?1 AND ts < ?2`
+
+/** ?1: JSON array of appids. */
+export const APP_NAMES = `SELECT appid, name FROM app_meta
+  WHERE name IS NOT NULL AND appid IN (SELECT value FROM json_each(?1))`
+
+/** ?1: unix seconds 400 days ago (PRIVACY.md). */
+export const PURGE_VOICE = 'DELETE FROM voice_samples WHERE ts < ?1'
+
+/** ?1: UTC date about 2 months ago. */
+export const PURGE_SPEND = 'DELETE FROM ai_spend WHERE day < ?1'

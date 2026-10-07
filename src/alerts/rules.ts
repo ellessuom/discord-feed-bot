@@ -4,6 +4,8 @@ import type { SteamLookup, SteamPrice } from '../proposals/steam'
 
 export const DAILY_CAP = 5
 export const META_PER_RUN = 150
+/** #test while the alerts are being tried out; #game-news once they go live. */
+export const ALERTS_CHANNEL_ID = '1557377666246770729'
 const DAY_MS = 86_400_000
 const SALE_DISCOUNT = 40
 const PLAYED_MINUTES = 120
@@ -39,12 +41,16 @@ export interface PriceHistory {
 
 export interface Alert {
   key: string
-  kind: 'sale' | 'ea' | 'release'
+  kind: 'sale' | 'ea' | 'release' | 'patch'
   appid: number
   /** Game only, never people: it's stored and shown in the daily wrap-up. */
   line: string
   price?: SteamPrice
   lowestSince?: string
+  /** Patch notes: the AI's bullets (absent when it won't get a slot), the post, who played lately. */
+  summary?: string
+  url?: string
+  players?: string[]
 }
 
 export function buildLibrary(
@@ -218,9 +224,13 @@ export function isNew(alert: Alert, existing: Map<string, string>, now: number):
   return alert.kind === 'sale' && Date.parse(postedAt) < now - REPOST_AFTER_MS
 }
 
-/** Best first: Early Access / release (rare, one-off), then lowest-seen, then biggest discount. */
+/**
+ * Best first: Early Access / release (rare, one-off), then patch notes for games the
+ * group is playing, then lowest-seen, then biggest discount.
+ */
 export function rank(alerts: Alert[]): Alert[] {
-  const score = (a: Alert) => (a.kind !== 'sale' ? 2 : a.lowestSince ? 1 : 0)
+  const score = (a: Alert) =>
+    a.kind === 'ea' || a.kind === 'release' ? 3 : a.kind === 'patch' ? 2 : a.lowestSince ? 1 : 0
   return [...alerts].sort(
     (a, b) =>
       score(b) - score(a) || (b.price?.discount_percent ?? 0) - (a.price?.discount_percent ?? 0)
@@ -272,5 +282,25 @@ export function buildAlertEmbed(alert: Alert, app: AppMeta, library: Library): D
       inline: true,
     })
   }
+  return embed
+}
+
+/** Patch notes for a game someone in the group is playing; mentions never ping. */
+export function buildPatchEmbed(alert: Alert, app: AppMeta): DiscordEmbed {
+  const embed: DiscordEmbed = {
+    title: alert.line.slice(0, 256),
+    url: alert.url ?? `https://store.steampowered.com/app/${app.appid}/`,
+    color: STEAM_COLOR,
+    description: alert.summary ?? 'A new update is out; the full notes are on Steam.',
+    fields: [],
+  }
+  if (alert.players && alert.players.length > 0) {
+    embed.fields?.push({
+      name: 'Played lately',
+      value: alert.players.map((id) => `<@${id}>`).join(', '),
+      inline: true,
+    })
+  }
+  if (app.header_image) embed.image = { url: app.header_image }
   return embed
 }

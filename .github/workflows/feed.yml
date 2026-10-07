@@ -51,10 +51,24 @@ jobs:
 
       # Sales, Early Access exits and releases (src/alerts/). State lives in D1, so it
       # never commits; it runs even if an earlier step failed, and fails loudly itself.
+      # Patch notes are summarized by OpenAI only while the AI_ENABLED repo variable is
+      # "true"; without it (or the key) the step just skips them.
       - name: Post game alerts
         if: ${{ !cancelled() }}
         timeout-minutes: 10
         run: npm run alerts
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          CF_D1_TOKEN: ${{ secrets.CF_D1_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          AI_ENABLED: ${{ vars.AI_ENABLED }}
+
+      # The 18:00 digest of alerts over the daily cap and the Monday voice recap
+      # (src/wrapup/). D1 only, no AI; each runs once and a missed one catches up.
+      - name: Post wrap-ups
+        if: ${{ !cancelled() }}
+        timeout-minutes: 5
+        run: npm run wrapup
         env:
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
           CF_D1_TOKEN: ${{ secrets.CF_D1_TOKEN }}
