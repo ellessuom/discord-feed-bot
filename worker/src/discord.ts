@@ -8,7 +8,13 @@ export const TEST_CHANNEL_ID = '1557377666246770729'
  * Members who agreed to have voice time recorded for the weekly stats (see PRIVACY.md).
  * Opt-in only: to opt someone out, remove their ID here and delete their voice_samples rows.
  */
-export const VOICE_OPT_IN: string[] = []
+export const VOICE_OPT_IN: string[] = [
+  '344398473489154058',
+  '1487935364629926089',
+  '1177970658571993218',
+  '202727571648020480',
+  '762724688479649832',
+]
 
 const STRING = 3
 const USER = 6
