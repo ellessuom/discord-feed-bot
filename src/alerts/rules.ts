@@ -3,7 +3,7 @@ import { formatPrice } from '../proposals/forum'
 import type { SteamLookup, SteamPrice } from '../proposals/steam'
 
 export const DAILY_CAP = 5
-export const META_PER_RUN = 40
+export const META_PER_RUN = 150
 const DAY_MS = 86_400_000
 const SALE_DISCOUNT = 40
 const PLAYED_MINUTES = 120
@@ -72,22 +72,22 @@ const mostPlayed = (library: Library, appid: number): number =>
   Math.max(0, ...(library.owners.get(appid)?.values() ?? []))
 
 /**
- * Which apps to look up on the store this run: new wishlisted apps first (they
- * need a name and image before they can alert), then played, then all owned;
- * then Early Access / unreleased apps once a day, and empty lookups once a week.
+ * Which apps to look up on the store this run. Only apps that can ever alert:
+ * wishlisted, or played ≥2 h by someone (an owned game nobody has played can't
+ * fire a sale). New wishlisted apps first, then new owned ones most recently
+ * played first (the OWNED query's order); then Early Access / unreleased apps
+ * once a day, and empty lookups once a week.
  */
 export function metaQueue(library: Library, meta: Map<number, AppMeta>, now: number): number[] {
-  const wished = [...library.wishers.keys()]
-  const owned = [...library.owners.keys()]
-  const inLibrary = (appid: number) => library.owners.has(appid) || library.wishers.has(appid)
+  const tracked = (appid: number) =>
+    library.wishers.has(appid) || mostPlayed(library, appid) >= PLAYED_MINUTES
   const isNew = (appid: number) => !meta.has(appid)
   const olderThan = (row: AppMeta, ms: number) => Date.parse(row.fetched_at) < now - ms
-  const rows = [...meta.values()].filter((row) => inLibrary(row.appid))
+  const rows = [...meta.values()].filter((row) => tracked(row.appid))
 
   const tiers = [
-    wished.filter(isNew),
-    owned.filter((appid) => isNew(appid) && mostPlayed(library, appid) >= PLAYED_MINUTES),
-    owned.filter(isNew),
+    [...library.wishers.keys()].filter(isNew),
+    [...library.owners.keys()].filter((appid) => isNew(appid) && tracked(appid)),
     rows
       .filter((r) => r.has_data && (r.early_access || r.coming_soon) && olderThan(r, DAY_MS))
       .map((r) => r.appid),

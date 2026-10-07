@@ -137,14 +137,27 @@ describe('priceCandidates', () => {
 })
 
 describe('metaQueue', () => {
-  test('new wishlisted apps come first, then stale Early Access rows', () => {
+  test('new wishlisted apps come first, then new played ones in library order, then stale Early Access rows', () => {
     const lib = buildLibrary(
       [{ discord_id: 'a' }],
-      [{ discord_id: 'a', appid: 1, playtime_forever: 0 }],
+      [
+        { discord_id: 'a', appid: 1, playtime_forever: 600 },
+        { discord_id: 'a', appid: 3, playtime_forever: 120 },
+        { discord_id: 'a', appid: 2, playtime_forever: 900 },
+      ],
       [{ discord_id: 'a', appid: 9 }]
     )
     const meta = new Map([[1, app({ early_access: 1, fetched_at: days(2) })]])
-    expect(metaQueue(lib, meta, NOW)).toEqual([9, 1])
+    expect(metaQueue(lib, meta, NOW)).toEqual([9, 3, 2, 1])
+  })
+
+  test('an owned game nobody has played 2 h is never looked up, since it can never alert', () => {
+    const lib = buildLibrary(
+      [{ discord_id: 'a' }],
+      [{ discord_id: 'a', appid: 1, playtime_forever: 119 }],
+      []
+    )
+    expect(metaQueue(lib, new Map(), NOW)).toEqual([])
   })
 })
 

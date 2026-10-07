@@ -79,4 +79,16 @@ describe('alerts SQL', () => {
     ])
     expect(db.prepare(sql.WISHLIST).all()).toEqual([{ discord_id: 'd1', appid: 3 }])
   })
+
+  test('owned games come most recently played first, then by hours', () => {
+    db.exec(`INSERT INTO members VALUES ('d1', 's1', 'A', '2026-10-01', NULL)`)
+    db.exec(
+      `INSERT INTO owned_games VALUES ('s1', 1, 9000, 0), ('s1', 2, 300, 60), ('s1', 3, 600, 0)`
+    )
+    const order = db
+      .prepare(sql.OWNED)
+      .all()
+      .map((row) => row.appid)
+    expect(order).toEqual([2, 1, 3])
+  })
 })
