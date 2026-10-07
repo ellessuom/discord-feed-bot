@@ -9,8 +9,7 @@ BOT_ENABLED = "true"
 [[d1_databases]]
 binding = "DB"
 database_name = "palace-bot"
-# Placeholder until `wrangler d1 create palace-bot` is run; local dev doesn't need the real id.
-database_id = "00000000-0000-0000-0000-000000000000"
+database_id = "21fe060c-591b-4f64-a7c3-156956dea5fd"
 
 [triggers]
 # Each run re-syncs at most one member whose library is older than a day.
