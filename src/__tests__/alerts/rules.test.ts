@@ -159,6 +159,18 @@ describe('metaQueue', () => {
     )
     expect(metaQueue(lib, new Map(), NOW)).toEqual([])
   })
+
+  test('a game two people own is looked up even unplayed, for /together', () => {
+    const lib = buildLibrary(
+      [{ discord_id: 'a' }, { discord_id: 'b' }],
+      [
+        { discord_id: 'a', appid: 1, playtime_forever: 0 },
+        { discord_id: 'b', appid: 1, playtime_forever: 0 },
+      ],
+      []
+    )
+    expect(metaQueue(lib, new Map(), NOW)).toEqual([1])
+  })
 })
 
 describe('isNew and rank', () => {

@@ -6,6 +6,7 @@
 import { d1Batch, d1Query, ensureSchema } from '../d1'
 import { DiscordClient } from '../discord/client'
 import { fetchAppDetails, fetchPrices, type SteamPrice } from '../proposals/steam'
+import { fetchPicks } from './picks'
 import {
   DAILY_CAP,
   buildAlertEmbed,
@@ -26,6 +27,8 @@ import * as sql from './sql'
 /** #test while the alerts are being tried out; #game-news once they go live. */
 const ALERTS_CHANNEL_ID = '1557377666246770729'
 const REGION = { cc: 'IE', lang: 'english' }
+/** "Daily", with slack for a run that starts a little early. */
+const PICKS_EVERY_MS = 20 * 3_600_000
 
 async function main(): Promise<void> {
   if (!process.env.CF_D1_TOKEN) {
@@ -83,6 +86,12 @@ async function main(): Promise<void> {
     throw new Error('Every Steam request failed')
   }
 
+  // Co-op picks for /together. A nice-to-have from an undocumented search, so any
+  // Steam failure just keeps the current list.
+  const picksAt = (await query<{ at: string | null }>(sql.PICKS_UPDATED))[0]?.at
+  const picks =
+    !picksAt || Date.parse(picksAt) < now - PICKS_EVERY_MS ? await fetchPicks().catch(() => []) : []
+
   const priceRows: { appid: number; final: number; initial: number; currency: string }[] = []
   for (const [appid, price] of prices) {
     const app = meta.get(appid)
@@ -133,12 +142,19 @@ async function main(): Promise<void> {
   await d1Batch([
     { sql: sql.UPSERT_META, params: [JSON.stringify(metaUpdates)] },
     { sql: sql.INSERT_PRICES, params: [JSON.stringify(priceRows), nowIso] },
+    ...(picks.length > 0
+      ? [
+          { sql: sql.DELETE_PICKS },
+          { sql: sql.INSERT_PICKS, params: [JSON.stringify(picks), nowIso] },
+        ]
+      : []),
   ])
 
   // Counts only: Actions logs are public.
   console.log(
     `Alerts: ${metaUpdates.length} store lookup(s), ${prices.size} price(s), ` +
       `${priceRows.length} price change(s), ${toPost.length} posted, ${overflow.length} over the daily cap` +
+      (picks.length > 0 ? `, ${picks.length} co-op pick(s)` : '') +
       (steamErrors > 0 ? ', stopped early on a Steam error' : '') +
       '.'
   )

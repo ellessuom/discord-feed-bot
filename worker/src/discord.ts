@@ -56,6 +56,11 @@ export const COMMANDS = [
       { type: STRING, name: 'game', description: 'Game name or Steam store link', required: true },
     ],
   },
+  {
+    name: 'together',
+    description: 'Co-op games the people in your voice channel can play, or buy, together',
+    contexts: GUILD_ONLY,
+  },
 ]
 
 export interface Interaction {
