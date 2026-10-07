@@ -2,6 +2,13 @@
 export const APPLICATION_ID = '1547676115693346946'
 export const PUBLIC_KEY = '707103b118a335695decdbaefc1d5356d9d1786f053aa873cf5ac477b33fb2c0'
 export const GUILD_ID = '1305936883271860294' // Caesar's Palace
+/** Private channel for bot warnings (and testing new posts before they go public). */
+export const TEST_CHANNEL_ID = '1557377666246770729'
+/**
+ * Members who agreed to have voice time recorded for the weekly stats (see PRIVACY.md).
+ * Opt-in only: to opt someone out, remove their ID here and delete their voice_samples rows.
+ */
+export const VOICE_OPT_IN: string[] = []
 
 const STRING = 3
 const USER = 6
@@ -60,6 +67,22 @@ export function option(interaction: Interaction, name: string): string {
 
 export function isAdmin(interaction: Interaction): boolean {
   return (BigInt(interaction.member?.permissions ?? '0') & ADMINISTRATOR) === ADMINISTRATOR
+}
+
+/** Bot-authenticated Discord REST call; errors carry the status only, never the token. */
+export async function discordApi(token: string, path: string, init: RequestInit = {}) {
+  return fetch(`https://discord.com/api/v10${path}`, {
+    ...init,
+    headers: { Authorization: `Bot ${token}`, 'content-type': 'application/json' },
+  })
+}
+
+export async function postMessage(token: string, channelId: string, content: string) {
+  const response = await discordApi(token, `/channels/${channelId}/messages`, {
+    method: 'POST',
+    body: JSON.stringify({ content, allowed_mentions: { parse: [] } }),
+  })
+  if (!response.ok) console.error(`postMessage failed: HTTP ${response.status}`)
 }
 
 /** Replaces the "thinking…" placeholder. Mentions render as names but never ping. */

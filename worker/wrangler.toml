@@ -12,5 +12,6 @@ database_name = "palace-bot"
 database_id = "21fe060c-591b-4f64-a7c3-156956dea5fd"
 
 [triggers]
-# Each run re-syncs at most one member whose library is older than a day.
-crons = ["*/30 * * * *"]
+# Every 2 min: voice sample, the hourly GitHub feed dispatch (minute 0), and a
+# re-sync of at most one member whose library is older than a day.
+crons = ["*/2 * * * *"]

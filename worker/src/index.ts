@@ -7,10 +7,14 @@ import {
 import { GUILD_ID, PUBLIC_KEY, editReply, isAdmin, option, type Interaction } from './discord'
 import { findApp, getPlayer, parseProfileInput, resolveSteamId } from './steam'
 import { syncMember, syncStalestMember } from './sync'
+import { runClock } from './clock'
+import { pollVoice } from './voice'
 
 interface Env {
   DB: D1Database
   STEAM_API_KEY: string
+  DISCORD_BOT_TOKEN: string
+  GITHUB_DISPATCH_TOKEN: string
   BOT_ENABLED?: string
 }
 
@@ -85,9 +89,19 @@ export default {
     })
   },
 
-  async scheduled(_event: ScheduledEvent, env: Env): Promise<void> {
+  async scheduled(event: ScheduledEvent, env: Env): Promise<void> {
     if (env.BOT_ENABLED === 'false') return
-    await syncStalestMember(env.DB, env.STEAM_API_KEY)
+    // Independent jobs: a GitHub, Discord or Steam outage in one must not stop the others.
+    const jobs = await Promise.allSettled([
+      runClock(event.scheduledTime, env.GITHUB_DISPATCH_TOKEN, env.DISCORD_BOT_TOKEN),
+      pollVoice(env.DB, env.DISCORD_BOT_TOKEN, env.STEAM_API_KEY, event.scheduledTime),
+      syncStalestMember(env.DB, env.STEAM_API_KEY),
+    ])
+    for (const job of jobs) {
+      if (job.status === 'rejected') {
+        console.error(job.reason instanceof Error ? job.reason.message : job.reason)
+      }
+    }
   },
 }
 

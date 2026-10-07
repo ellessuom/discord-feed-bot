@@ -107,12 +107,12 @@ Non-obvious constraints, all of them load-bearing:
 
 ## Worker (`worker/`)
 
-- Cloudflare Worker for slash commands (`/link`, `/unlink`, `/owns`) plus a cron that re-syncs one stale Steam library per run
+- Cloudflare Worker for slash commands (`/link`, `/unlink`, `/owns`) plus a `*/2` cron that (independently) samples voice for `VOICE_OPT_IN` members, re-syncs one stale Steam library, and at minute 0 dispatches `feed.yml` — GitHub's own `schedule` only fires every 3–7 h, so the Worker is the clock
 - Separate package, **not** a root workspace (keeps wrangler out of the hourly `npm ci`): `npm ci --prefix worker`
 - Wrangler needs Node 22 (`.nvmrc`)
 - Commands: `npm run typecheck --prefix worker`, `npm run dev --prefix worker`; its tests live in `worker/src/__tests__/` and run with the root `npm test`
 - Private data (Steam links, libraries) lives in D1 only — see `worker/schema.sql` (additive changes only) and `PRIVACY.md`
 - Actions reach the same D1 through `src/d1.ts` (REST, `CF_D1_TOKEN` from the step's `env:`). It's optional: without the token, ownership on forum cards is skipped. Never copy D1 results into `data/` (public)
-- Fixed IDs (application, public key, guild) are constants in `worker/src/discord.ts`; secrets (`STEAM_API_KEY`) are Worker secrets
+- Fixed IDs (application, public key, guild) are constants in `worker/src/discord.ts`; secrets (`STEAM_API_KEY`, `DISCORD_BOT_TOKEN`, `GITHUB_DISPATCH_TOKEN`) are Worker secrets. Voice tracking is opt-in only (`VOICE_OPT_IN`)
 - `BOT_ENABLED = "false"` in `wrangler.toml` / dashboard is the kill switch
 - `scripts/register.ts` registers commands (admin-only unless `--public`) and can set the interactions endpoint; the user runs it with their own bot token
