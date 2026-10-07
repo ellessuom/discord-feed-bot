@@ -1,0 +1,16 @@
+name = "palace-bot"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+
+[vars]
+# Kill switch: set to "false" (dashboard or here + deploy) and every command answers "paused".
+BOT_ENABLED = "true"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "palace-bot"
+database_id = "21fe060c-591b-4f64-a7c3-156956dea5fd"
+
+[triggers]
+# Each run re-syncs at most one member whose library is older than a day.
+crons = ["*/30 * * * *"]

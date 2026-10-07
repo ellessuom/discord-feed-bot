@@ -104,3 +104,14 @@ Non-obvious constraints, all of them load-bearing:
 - Path alias: `@/*` maps to `ui/src/*`
 - ESLint has special rules for `src/components/ui/*.tsx` files
 - Build: `tsc -b && vite build` (typecheck then build)
+
+## Worker (`worker/`)
+
+- Cloudflare Worker for slash commands (`/link`, `/unlink`, `/owns`) plus a cron that re-syncs one stale Steam library per run
+- Separate package, **not** a root workspace (keeps wrangler out of the hourly `npm ci`): `npm ci --prefix worker`
+- Wrangler needs Node 22 (`.nvmrc`)
+- Commands: `npm run typecheck --prefix worker`, `npm run dev --prefix worker`; its tests live in `worker/src/__tests__/` and run with the root `npm test`
+- Private data (Steam links, libraries) lives in D1 only — see `worker/schema.sql` (additive changes only) and `PRIVACY.md`
+- Fixed IDs (application, public key, guild) are constants in `worker/src/discord.ts`; secrets (`STEAM_API_KEY`) are Worker secrets
+- `BOT_ENABLED = "false"` in `wrangler.toml` / dashboard is the kill switch
+- `scripts/register.ts` registers commands (admin-only unless `--public`) and can set the interactions endpoint; the user runs it with their own bot token
