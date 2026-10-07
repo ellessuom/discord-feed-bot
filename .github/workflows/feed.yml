@@ -37,11 +37,14 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
 
+      # CF_D1_TOKEN is read straight from the environment (not config.yaml) and is optional:
+      # without it the forum just skips the "Owned by" fields.
       - name: Scan for game proposals
         run: npm run proposals
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          CF_D1_TOKEN: ${{ secrets.CF_D1_TOKEN }}
 
       # always(): a failure in the proposals step must not discard the news state
       # or the scan cursor, or the next run re-posts news and re-scans history.

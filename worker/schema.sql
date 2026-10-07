@@ -24,3 +24,10 @@ CREATE TABLE IF NOT EXISTS wishlist (
   PRIMARY KEY (steam_id, appid)
 );
 CREATE INDEX IF NOT EXISTS wishlist_by_app ON wishlist (appid);
+
+-- Written by the hourly proposals job: the "Owned by" fields last shown on each
+-- forum card, so a card is only edited when ownership changes.
+CREATE TABLE IF NOT EXISTS proposal_owners (
+  appid INTEGER PRIMARY KEY,
+  rendered TEXT NOT NULL
+);
