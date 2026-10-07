@@ -1,6 +1,7 @@
 /**
  * Wrap-ups, a step of the hourly feed run: the daily digest of alerts that went over
- * the 5-a-day cap (from 18:00), and the weekly voice recap (from Monday 12:00). Each is
+ * the 5-a-day cap (from 18:00), and the weekly recap (from Monday 12:00): voice time,
+ * plus what went to #game-news and which #game-proposals games are on sale. Each is
  * recorded in `alerts` once done, so a missed run catches up on the next one.
  * `--preview` (wrapup-preview.yml) posts to #test, ignores the schedule, records nothing.
  * Code writes every word: no AI here. Logs counts only, because Actions logs are public.
@@ -9,6 +10,8 @@ import { d1Batch, d1Query, ensureSchema } from '../d1'
 import { DiscordClient } from '../discord/client'
 import { ALERTS_CHANNEL_ID } from '../alerts/rules'
 import * as sql from '../alerts/sql'
+import { fetchDiscounts } from '../proposals/steam'
+import { loadProposals } from '../proposals/store'
 import {
   dailyDue,
   renderDaily,
@@ -23,6 +26,7 @@ const TEST_CHANNEL_ID = '1557377666246770729'
 /** #test until the first recap has been checked there; then #general. */
 const WEEKLY_CHANNEL_ID = TEST_CHANNEL_ID
 const DAY_MS = 86_400_000
+const REGION = { cc: 'IE', lang: 'english' }
 
 async function main(): Promise<void> {
   if (!process.env.CF_D1_TOKEN) {
@@ -49,15 +53,39 @@ async function main(): Promise<void> {
     return { message: renderDaily(rows), keys: rows.map((row) => row.key) }
   }
   const weekly = async (period: Period) => {
-    const samples = await query<Sample>(sql.VOICE_SAMPLES, [
-      String(Math.floor(period.from / 1000)),
-      String(Math.floor(period.to / 1000)),
+    const iso = (ms: number) => new Date(ms).toISOString()
+    // Released, buyable proposals that someone in the group still doesn't own.
+    const priced = Object.values(loadProposals().proposals)
+      .filter((p) => p.kind === 'app' && p.status === 'priced')
+      .map((p) => p.id)
+    const ownedByAll = new Set(
+      (await query<{ appid: number }>(sql.OWNED_BY_ALL, [JSON.stringify(priced)])).map(
+        (r) => r.appid
+      )
+    )
+    const proposals = priced.filter((appid) => !ownedByAll.has(appid))
+    const [samples, posted, onSale] = await Promise.all([
+      query<Sample>(sql.VOICE_SAMPLES, [
+        String(Math.floor(period.from / 1000)),
+        String(Math.floor(period.to / 1000)),
+      ]),
+      query<{ kind: string; n: number }>(sql.POSTED_BY_KIND, [iso(period.from), iso(period.to)]),
+      // Fail-soft: without Steam the recap just leaves out the sale line.
+      fetchDiscounts(proposals, REGION).catch(() => null),
     ])
     const stats = voiceStats(samples)
     const names = await query<{ appid: number; name: string }>(sql.APP_NAMES, [
       JSON.stringify(stats.games.map(([appid]) => appid)),
     ])
-    return renderWeekly(stats, new Map(names.map((n) => [n.appid, n.name])), period.from, period.to)
+    const message = renderWeekly(
+      stats,
+      new Map(names.map((n) => [n.appid, n.name])),
+      period.from,
+      period.to,
+      { posted, sales: onSale && { proposals: proposals.length, onSale } },
+      now
+    )
+    return { message, steam: onSale !== null }
   }
 
   // A preview never falls through to the real, recorded run, even without WRAPUP_KIND.
@@ -66,7 +94,7 @@ async function main(): Promise<void> {
     : undefined
   if (preview) {
     const period = { key: 'preview', from: now - (preview === 'daily' ? 1 : 7) * DAY_MS, to: now }
-    const message = preview === 'daily' ? (await daily(period)).message : await weekly(period)
+    const message = (preview === 'daily' ? await daily(period) : await weekly(period)).message
     await post(TEST_CHANNEL_ID, message ?? `Preview: nothing to post for ${preview}.`)
     console.log(`Posted a ${preview} preview to #test.`)
     return
@@ -104,10 +132,11 @@ async function main(): Promise<void> {
       { sql: sql.PURGE_VOICE, params: [String(Math.floor((now - 400 * DAY_MS) / 1000))] },
       { sql: sql.PURGE_SPEND, params: [new Date(now - 62 * DAY_MS).toISOString().slice(0, 10)] },
     ])
-    const message = await weekly(due.weekly)
+    const { message, steam } = await weekly(due.weekly)
     if (message) await post(WEEKLY_CHANNEL_ID, message)
     await d1Batch([record(due.weekly.key)])
-    log.push(`weekly recap: ${message ? 'posted' : 'quiet week'}`)
+    // No counts or names: a missing Steam just says so, so a changed API doesn't go unnoticed.
+    log.push(`weekly recap: ${message ? 'posted' : 'quiet week'}${steam ? '' : ' (no Steam)'}`)
   }
 
   console.log(`Wrap-ups: ${log.join(', ') || 'nothing due'}.`)

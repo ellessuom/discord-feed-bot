@@ -1,5 +1,7 @@
 /** Wrap-up maths and text, kept pure so the tests can pin every number. */
+import { cap } from '../ai'
 import { newsUrl } from '../alerts/patches'
+import type { SteamDiscount } from '../proposals/steam'
 
 const ZONE = 'Europe/Dublin'
 const TICK_MINUTES = 2 // the Worker samples voice every 2 min
@@ -183,18 +185,9 @@ const range = (from: number, to: number): string => {
 
 const at = (id: string) => `<@${id}>`
 
-/** null on a week with no time together: nothing worth posting. */
-export function renderWeekly(
-  stats: VoiceStats,
-  names: Map<number, string>,
-  from: number,
-  to: number
-): string | null {
-  if (stats.minutes === 0) return null
-  const lines = [
-    `**The week in voice** (${range(from, to)})`,
-    `**Together:** ${duration(stats.minutes)}`,
-  ]
+function voiceLines(stats: VoiceStats, names: Map<number, string>): string[] {
+  if (stats.minutes === 0) return ['**Together:** nobody was in voice together this week']
+  const lines = [`**Together:** ${duration(stats.minutes)}`]
   if (stats.longest) {
     lines.push(
       `**Longest session:** ${duration(stats.longest.minutes)} on ${evening(stats.longest.start)}, ` +
@@ -219,8 +212,81 @@ export function renderWeekly(
   lines.push(
     `**Per person:** ${stats.people.map(([id, m]) => `${at(id)} ${duration(m)}`).join(' · ')}`
   )
-  return lines.join('\n')
+  return lines
 }
+
+export interface GameNews {
+  /** What went to #game-news over the same week, per alert kind. */
+  posted: { kind: string; n: number }[]
+  /** #game-proposals games on sale now; null when Steam couldn't be reached. */
+  sales: { proposals: number; onSale: SteamDiscount[] } | null
+}
+
+const KINDS: Record<string, [string, string]> = {
+  sale: ['deal', 'deals'],
+  patch: ['patch note', 'patch notes'],
+  ea: ['Early Access exit', 'Early Access exits'],
+  release: ['release', 'releases'],
+}
+const plural = (n: number, [one, many]: [string, string]) => `${n} ${n === 1 ? one : many}`
+const ENDING_SHOWN = 5
+
+function newsLines({ posted, sales }: GameNews, now: number): string[] {
+  const lines: string[] = []
+  const total = posted.reduce((sum, row) => sum + Number(row.n), 0)
+  if (total > 0) {
+    const parts = posted.map((row) =>
+      plural(Number(row.n), KINDS[row.kind] ?? [row.kind, row.kind])
+    )
+    lines.push(`${plural(total, ['post', 'posts'])} in #game-news last week: ${parts.join(', ')}`)
+  }
+  if (sales && sales.onSale.length > 0) {
+    const ending = sales.onSale
+      .filter((d) => d.endsAt !== null && d.endsAt > now && d.endsAt <= now + 7 * 86_400_000)
+      // Seasonal sales all end at once: then the biggest discounts are the ones named.
+      .sort((a, b) => (a.endsAt ?? 0) - (b.endsAt ?? 0) || b.pct - a.pct)
+    const weekday = (ms: number) =>
+      new Date(ms).toLocaleDateString('en-GB', { weekday: 'short', timeZone: ZONE })
+    const shown = ending
+      .slice(0, ENDING_SHOWN)
+      .map(
+        (d) =>
+          `[${escapeLink(d.name)}](<https://store.steampowered.com/app/${d.appid}/>) −${d.pct}% (${weekday(d.endsAt ?? 0)})`
+      )
+    const more = ending.length - shown.length
+    lines.push(
+      `${sales.onSale.length} of ${sales.proposals} #game-proposals games are on sale` +
+        (shown.length > 0
+          ? `. Ending this week: ${shown.join(' · ')}${more > 0 ? ` · +${more} more` : ''}`
+          : '')
+    )
+  }
+  return lines
+}
+
+/** null when there's nothing to say: no time together and no game news. */
+export function renderWeekly(
+  stats: VoiceStats,
+  names: Map<number, string>,
+  from: number,
+  to: number,
+  news: GameNews,
+  now: number
+): string | null {
+  const gameNews = newsLines(news, now)
+  if (stats.minutes === 0 && gameNews.length === 0) return null
+  return cap(
+    [
+      `**The week** (${range(from, to)})`,
+      ...voiceLines(stats, names),
+      ...(gameNews.length > 0 ? ['', '**Game news**', ...gameNews] : []),
+    ].join('\n'),
+    2000
+  )
+}
+
+/** A bracket in a game or post title would end Discord's link text early. */
+const escapeLink = (text: string) => text.replace(/[[\]]/g, '\\$&')
 
 const DIGEST_LINES = 8
 
@@ -234,8 +300,7 @@ export function renderDaily(
     const url = key.startsWith('patch:')
       ? newsUrl(appid, key.slice('patch:'.length))
       : `https://store.steampowered.com/app/${appid}/`
-    // A bracket in a game or post title would end the link text early.
-    return [`• [${line.replace(/[[\]]/g, '\\$&')}](<${url}>)`]
+    return [`• [${escapeLink(line)}](<${url}>)`]
   })
   if (lines.length === 0) return null
 

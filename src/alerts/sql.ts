@@ -88,3 +88,14 @@ export const PURGE_VOICE = 'DELETE FROM voice_samples WHERE ts < ?1'
 
 /** ?1: UTC date about 2 months ago. */
 export const PURGE_SPEND = 'DELETE FROM ai_spend WHERE day < ?1'
+
+/** ?1..?2: ISO times [from, to). What the alerts job posted to #game-news, per kind. */
+export const POSTED_BY_KIND = `SELECT kind, COUNT(*) AS n FROM alerts
+  WHERE status = 'posted' AND created_at >= ?1 AND created_at < ?2
+  GROUP BY kind ORDER BY n DESC, kind`
+
+/** ?1: JSON array of appids. The ones every linked member owns: their sales don't matter. */
+export const OWNED_BY_ALL = `SELECT o.appid FROM owned_games o
+  JOIN members m ON m.steam_id = o.steam_id
+  WHERE o.appid IN (SELECT value FROM json_each(?1))
+  GROUP BY o.appid HAVING COUNT(*) = (SELECT COUNT(*) FROM members)`

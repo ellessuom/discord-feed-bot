@@ -67,18 +67,52 @@ describe('voiceStats', () => {
       [DRG, 'Deep Rock Galactic'],
       [LETHAL, 'Lethal Company'],
     ])
-    const week = weeklyDue(Date.parse('2026-10-12T11:00:00Z')) // Monday 12:00 Dublin
+    const now = Date.parse('2026-10-12T11:00:00Z') // Monday 12:00 Dublin
+    const week = weeklyDue(now)
     expect(week).not.toBeNull()
-    expect(renderWeekly(stats, names, week?.from ?? 0, week?.to ?? 0)).toMatchInlineSnapshot(`
-      "**The week in voice** (5 Oct to 11 Oct)
+    const days = (n: number) => now + n * 86_400_000
+    const news = {
+      posted: [
+        { kind: 'sale', n: 9 },
+        { kind: 'patch', n: 3 },
+        { kind: 'release', n: 1 },
+      ],
+      sales: {
+        proposals: 32,
+        onSale: [
+          { appid: 2, name: 'Enshrouded [Deluxe]', pct: 30, endsAt: days(6) },
+          { appid: 1, name: 'VEIN', pct: 20, endsAt: days(3) },
+          { appid: 3, name: 'Later Sale', pct: 50, endsAt: days(10) }, // not this week
+          { appid: 4, name: 'No End Date', pct: 10, endsAt: null },
+        ],
+      },
+    }
+    expect(renderWeekly(stats, names, week?.from ?? 0, week?.to ?? 0, news, now))
+      .toMatchInlineSnapshot(`
+      "**The week** (5 Oct to 11 Oct)
       **Together:** 40 min
       **Longest session:** 24 min on Friday, <@a> <@b> <@c>
       **Busiest evening:** Friday, 34 min
       **Most time together:** <@a> & <@b> 24 min · <@a> & <@c> 14 min · <@b> & <@c> 10 min
       **Played together:** Deep Rock Galactic 24 min · Lethal Company 10 min
-      **Per person:** <@a> 34 min · <@b> 30 min · <@c> 20 min"
+      **Per person:** <@a> 34 min · <@b> 30 min · <@c> 20 min
+
+      **Game news**
+      13 posts in #game-news last week: 9 deals, 3 patch notes, 1 release
+      4 of 32 #game-proposals games are on sale. Ending this week: [VEIN](<https://store.steampowered.com/app/1/>) −20% (Thu) · [Enshrouded \\[Deluxe\\]](<https://store.steampowered.com/app/2/>) −30% (Sun)"
     `)
-    expect(renderWeekly(voiceStats([]), names, 0, 1)).toBeNull()
+  })
+
+  test('a week with no voice time still posts the game news; one with neither posts nothing', () => {
+    const quiet = voiceStats([])
+    const news = { posted: [{ kind: 'sale', n: 1 }], sales: null }
+    expect(renderWeekly(quiet, new Map(), 0, 1, news, 0)).toContain(
+      '**Together:** nobody was in voice together this week'
+    )
+    expect(renderWeekly(quiet, new Map(), 0, 1, news, 0)).toContain(
+      '1 post in #game-news last week: 1 deal'
+    )
+    expect(renderWeekly(quiet, new Map(), 0, 1, { posted: [], sales: null }, 0)).toBeNull()
   })
 })
 

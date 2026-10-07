@@ -133,4 +133,30 @@ describe('alerts SQL', () => {
         .map((r) => r.ts)
     ).toEqual([200, 300])
   })
+
+  test('posts per kind in a week: only what was actually posted', () => {
+    const row = (key: string, kind: string) => ({ key, kind, appid: 1, line: key })
+    const insert = (rows: object[], status: string, at: string) =>
+      db.prepare(sql.UPSERT_ALERTS).run(JSON.stringify(rows), status, at)
+    insert(
+      [row('sale:1:1', 'sale'), row('sale:2:1', 'sale'), row('patch:1', 'patch')],
+      'posted',
+      '2026-10-06T10:00:00Z'
+    )
+    insert([row('sale:3:1', 'sale')], 'overflow', '2026-10-06T10:00:00Z')
+    insert([row('sale:4:1', 'sale')], 'posted', '2026-09-30T10:00:00Z') // the week before
+    expect(
+      db.prepare(sql.POSTED_BY_KIND).all('2026-10-05T05:00:00Z', '2026-10-12T05:00:00Z')
+    ).toEqual([
+      { kind: 'sale', n: 2 },
+      { kind: 'patch', n: 1 },
+    ])
+  })
+
+  test('games every linked member owns', () => {
+    db.exec(`INSERT INTO members VALUES ('a', 'sa', 'A', '1', NULL), ('b', 'sb', 'B', '2', NULL)`)
+    db.exec(`INSERT INTO owned_games VALUES ('sa', 1, 0, 0), ('sb', 1, 0, 0), ('sa', 2, 0, 0),
+      ('sz', 2, 0, 0)`) // sz isn't linked
+    expect(db.prepare(sql.OWNED_BY_ALL).all(JSON.stringify([1, 2, 3]))).toEqual([{ appid: 1 }])
+  })
 })

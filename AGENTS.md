@@ -125,6 +125,9 @@ as `overflow` for the daily wrap-up). All state is in D1 (`app_meta`,
 - Daily digest from 18:00 Dublin: the last day's `overflow` alerts, to the alerts channel,
   then marked `listed`. Weekly voice recap from Monday 12:00 Dublin (the previous Monday to
   Monday, 169 h when the clocks go back), which also runs the 400-day voice purge.
+  Its "Game news" section counts last week's #game-news posts per kind and lists
+  #game-proposals games on sale (live, Steam `IStoreBrowseService/GetItems`, the only API
+  with sale end dates), flagging those ending within 7 days; fail-soft without Steam.
 - Each records a `wrapup:*` key in `alerts` with status `done`, never `posted`: `POSTED_SINCE`
   counts `posted` rows toward the 5-a-day alert cap. A missed run catches up later the same
   day (daily) or week (weekly).
