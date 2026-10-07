@@ -46,11 +46,17 @@ describe('sanitize', () => {
   test('strips every link, mention and invite the model wrote', () => {
     const text = [
       'Try [this guide](https://evil.example/login) first ([reddit.com](https://reddit.com/x)).',
-      'More at https://evil.example/a or <https://evil.example/b>',
+      'More at https://evil.example/a or <https://evil.example/b> or HTTPS://EVIL.example/c',
+      'Launch steam://run/1 now',
       'Ask <@123> or <@&456> in <#789>, @everyone, join discord.gg/abc',
     ].join('\n')
     expect(sanitize(text, 500)).toBe(
-      ['Try this guide first.', 'More at  or', 'Ask  or  in , everyone, join'].join('\n')
+      [
+        'Try this guide first.',
+        'More at  or  or',
+        'Launch  now',
+        'Ask  or  in , everyone, join',
+      ].join('\n')
     )
   })
 

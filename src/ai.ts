@@ -145,7 +145,7 @@ export function sanitize(text: string, max: number): string {
   const clean = text
     .replace(/ ?\(\[[^\]]*\]\([^)]*\)\)/g, '') // inline citations: ([site](url))
     .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1') // masked links keep their text
-    .replace(/<?https?:\/\/[^\s>]+>?/g, '')
+    .replace(/<?\b[a-z][a-z0-9+.-]*:\/\/[^\s>]+>?/gi, '') // any scheme, any case
     .replace(/\b(?:discord\.gg|discord(?:app)?\.com\/invite)\/\S+/gi, '')
     .replace(/<(?:@[!&]?|#)\d+>/g, '')
     .replace(/@(everyone|here)\b/gi, '$1')
