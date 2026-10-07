@@ -1,4 +1,14 @@
-import { cap, reserve, respond, sanitize, settle, ASK_RESERVE_USD, type Sql } from '../../src/ai'
+import {
+  AiError,
+  ASK_PER_PERSON_DAY,
+  ASK_RESERVE_USD,
+  cap,
+  reserve,
+  respond,
+  sanitize,
+  settle,
+  type Sql,
+} from '../../src/ai'
 import { findApp, gameFacts, type GameFacts } from './steam'
 
 /** Also used by /owns. ?1: appid. */
@@ -36,7 +46,7 @@ When suggesting games for the group, say who already owns them.
 const OFF_TOPIC =
   'I only answer questions about video games: specs, co-op, controllers, what people think, or what to play next.'
 const REFUSALS = {
-  person: "You've used your 5 questions today, more tomorrow.",
+  person: `You've used your ${ASK_PER_PERSON_DAY} questions today, more tomorrow.`,
   day: "That's enough /ask for today, back tomorrow.",
   month: "This month's AI budget is used up, back on the 1st.",
 }
@@ -64,13 +74,23 @@ export async function askGate(env: AskEnv, callerId: string, now: number): Promi
   return refusal ? REFUSALS[refusal] : null
 }
 
-/** Mentions become "someone": OpenAI never sees a Discord ID. */
-export const cleanQuestion = (question: string): string =>
-  question
-    .replace(/<(?:@[!&]?|#)\d+>/g, 'someone')
+/** Discord IDs of the people @tagged in a question. */
+export const taggedIds = (question: string): string[] => [
+  ...new Set([...question.matchAll(/<@!?(\d+)>/g)].map((m) => m[1] as string)),
+]
+
+/**
+ * OpenAI never sees a Discord ID: a tagged person becomes their Friend label from
+ * `people` (render turns it back into the tag), anything else "someone".
+ */
+export function cleanQuestion(question: string, people: string[] = []): string {
+  return question
+    .replace(/<@!?(\d+)>/g, (_, id: string) => friend(people, id) ?? 'someone')
+    .replace(/<(?:@&|#)\d+>/g, 'someone')
     .replace(/\s+/g, ' ')
     .trim()
     .slice(0, 300)
+}
 
 const normalize = (name: string) => name.toLowerCase().replace(/[^a-z0-9]/g, '')
 /** Steam's search returns its best fuzzy match; keep it only if it's plausibly the same game. */
@@ -93,12 +113,17 @@ const friend = (members: string[], id: string) => {
 }
 const hours = (minutes: number) => (minutes < 60 ? 'under 1 h' : `${Math.round(minutes / 60)} h`)
 
-/** Everything the model knows about the group, with people only as Friend A, B… */
+/**
+ * Everything the model knows about the group, with people only as Friend A, B…
+ * `unlinked`: people tagged in the question who haven't linked Steam (labelled after
+ * the members), so the model says so instead of guessing who was meant.
+ */
 export function factsBlock(
   members: string[],
   callerId: string,
   games: GameBlock[],
-  library: { name: string; owners: string }[]
+  library: { name: string; owners: string }[],
+  unlinked: string[] = []
 ): string {
   const asker = friend(members, callerId)
   const lines =
@@ -108,6 +133,10 @@ export function factsBlock(
           `The group: ${members.length} friends who linked Steam, Friend A to ${friend(members, members.at(-1) as string)}. ` +
             (asker ? `The asker is ${asker}.` : "The asker hasn't linked Steam."),
         ]
+  const people = [...members, ...unlinked]
+  for (const id of unlinked) {
+    lines.push(`${friend(people, id)} hasn't linked Steam, so you know nothing about their games.`)
+  }
 
   for (const { facts, owners, wishers, lowest } of games) {
     const name = (id: string) => friend(members, id) as string
@@ -151,21 +180,26 @@ export function factsBlock(
   return lines.join('\n')
 }
 
-/** Friend X → a mention (renders as a name, never pings), then the code-picked sources. */
+/**
+ * Friend X → a mention (renders as a name, never pings) in the echoed question and the
+ * answer, then the code-picked sources.
+ */
 export function render(
   callerId: string,
   question: string,
   text: string,
   sources: string[],
-  members: string[]
+  people: string[]
 ): string {
+  const tag = (clean: string) =>
+    clean.replace(/\bFriend ([A-Z])\b/g, (match, letter: string) => {
+      const id = people[letter.charCodeAt(0) - 65]
+      return id ? `<@${id}>` : match
+    })
   // The question is echoed too, so it gets the same link strip as the answer.
-  const head = `> <@${callerId}>: ${sanitize(question, 300)}`
+  const head = `> <@${callerId}>: ${tag(sanitize(question, 300))}`
   const foot = sources.length > 0 ? `\n-# Sources: ${sources.map((u) => `<${u}>`).join(' · ')}` : ''
-  const answer = sanitize(text, 1500).replace(/\bFriend ([A-Z])\b/g, (match, letter: string) => {
-    const id = members[letter.charCodeAt(0) - 65]
-    return id ? `<@${id}>` : match
-  })
+  const answer = tag(sanitize(text, 1500))
   return `${head}\n${cap(answer, 2000 - head.length - foot.length - 1)}${foot}`
 }
 
@@ -207,9 +241,11 @@ export async function ask(
   const deadline = Date.now() + 26_000
   const apiKey = env.OPENAI_API_KEY ?? ''
   const q = cleanQuestion(question)
+  let spent = 0
   // The reservation already covers the cost, so a failed settlement never costs the answer.
-  const settleCost = (usd: number) =>
-    settle(d1Sql(env.DB), 'ask', callerId, usd - ASK_RESERVE_USD, now).catch(() => {})
+  // calls = -1 gives the question back when OpenAI never answered it.
+  const settleCost = (usd: number, calls = 0) =>
+    settle(d1Sql(env.DB), 'ask', callerId, usd - ASK_RESERVE_USD, now, calls).catch(() => {})
   try {
     const triage = await respond(
       apiKey,
@@ -238,6 +274,7 @@ export async function ask(
     )
     // A cut-off reply (many games named) still gets an answer, just without Steam facts;
     // the answer prompt refuses off-topic questions too.
+    spent = triage.usd
     const { on_topic = true, games = [] } = parseTriage(triage.text)
     if (!on_topic) {
       await settleCost(triage.usd)
@@ -254,19 +291,23 @@ export async function ask(
     const members = ((memberRows?.results ?? []) as { discord_id: string }[]).map(
       (m) => m.discord_id
     )
+    const unlinked = taggedIds(question).filter((id) => !members.includes(id))
+    const people = [...members, ...unlinked]
+    const labelled = cleanQuestion(question, people)
     const blocks = await gameBlocks(env.DB, found)
     const facts = factsBlock(
       members,
       callerId,
       blocks,
-      (libraryRows?.results ?? []) as { name: string; owners: string }[]
+      (libraryRows?.results ?? []) as { name: string; owners: string }[],
+      unlinked
     )
 
     const answer = await respond(
       apiKey,
       {
         instructions: ANSWER,
-        input: `${facts}\n\nQuestion: ${q}`,
+        input: `${facts}\n\nQuestion: ${labelled}`,
         tools: [
           {
             type: 'web_search',
@@ -282,11 +323,34 @@ export async function ask(
     await settleCost(triage.usd + answer.usd)
     const text = answer.text.trim()
     return text.startsWith('OFF_TOPIC')
-      ? render(callerId, q, OFF_TOPIC, [], [])
-      : render(callerId, q, text || "I couldn't find an answer to that.", answer.sources, members)
+      ? render(callerId, labelled, OFF_TOPIC, [], people)
+      : render(
+          callerId,
+          labelled,
+          text || "I couldn't find an answer to that.",
+          answer.sources,
+          people
+        )
   } catch (error) {
-    if (isTimeout(error))
+    if (isTimeout(error)) {
+      // OpenAI may have billed a cut-off call, so the cost stays held; the question doesn't count.
+      await settleCost(ASK_RESERVE_USD, -1)
       return render(callerId, q, 'That one took too long, try a narrower question.', [], [])
+    }
+    if (error instanceof AiError) {
+      // A refused call isn't billed: hand back the reservation and the question.
+      console.error(`/ask: ${error.message}`)
+      await settleCost(spent, -1)
+      return render(
+        callerId,
+        q,
+        error.code === 'insufficient_quota'
+          ? 'The AI is out of credit right now, so I can’t answer. Try again later.'
+          : 'The AI couldn’t answer right now. Try again in a minute.',
+        [],
+        []
+      )
+    }
     throw error
   }
 }

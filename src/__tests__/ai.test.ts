@@ -1,5 +1,16 @@
-import { beforeEach, describe, expect, test } from 'vitest'
-import { readResponse, reserve, sanitize, settle, type Sql } from '../ai'
+import { afterEach, beforeEach, describe, expect, test, vi } from 'vitest'
+import {
+  AiError,
+  ASK_DAY_USD,
+  ASK_PER_PERSON_DAY,
+  ASK_RESERVE_USD,
+  readResponse,
+  reserve,
+  respond,
+  sanitize,
+  settle,
+  type Sql,
+} from '../ai'
 import { schemaStatements } from '../d1'
 
 // node:sqlite (Node 22) is loaded at runtime: vite-node rewrites `node:` imports.
@@ -88,15 +99,18 @@ describe('the spend meter', () => {
     ])
   })
 
-  test('5 questions per person per day', async () => {
-    for (let i = 0; i < 5; i++) expect(await reserve(sql, 'a', NOW)).toBeNull()
+  test(`${ASK_PER_PERSON_DAY} questions per person per day`, async () => {
+    for (let i = 0; i < ASK_PER_PERSON_DAY; i++) {
+      expect(await reserve(sql, 'a', NOW)).toBeNull()
+      await settle(sql, 'ask', 'a', 0.002 - ASK_RESERVE_USD, NOW) // a cheap answer
+    }
     expect(await reserve(sql, 'a', NOW)).toBe('person')
     expect(await reserve(sql, 'b', NOW)).toBeNull()
     expect(await reserve(sql, 'a', NOW + 86_400_000)).toBeNull()
   })
 
   test('the group day cap, then the month cap including the jobs', async () => {
-    await settle(sql, 'ask', 'x', 0.23, NOW)
+    await settle(sql, 'ask', 'x', ASK_DAY_USD - 0.02, NOW)
     expect(await reserve(sql, 'a', NOW)).toBe('day')
     expect(await reserve(sql, 'a', NOW + 86_400_000)).toBeNull()
 
@@ -104,5 +118,19 @@ describe('the spend meter', () => {
     expect(await reserve(sql, 'a', NOW + 86_400_000)).toBe('month')
     // A new month starts from zero.
     expect(await reserve(sql, 'a', Date.parse('2026-11-01T00:00:00Z'))).toBeNull()
+  })
+})
+
+describe('respond', () => {
+  afterEach(() => {
+    vi.unstubAllGlobals()
+  })
+
+  test("a refusal carries OpenAI's error code, never its message", async () => {
+    const body = { error: { code: 'insufficient_quota', message: 'could echo the prompt' } }
+    vi.stubGlobal('fetch', async () => new Response(JSON.stringify(body), { status: 429 }))
+    const error = await respond('key', { input: 'x' }).catch((e: unknown) => e)
+    expect(error).toBeInstanceOf(AiError)
+    expect((error as AiError).message).toBe('OpenAI failed: HTTP 429 (insufficient_quota)')
   })
 })
