@@ -150,9 +150,10 @@ OpenAI calls (`gpt-6-luna`, Responses API, `store: false`) and the D1 spend mete
 - **Code decides every link**: `sanitize()` strips all URLs, links, mentions and invites from
   model text; `/ask` shows only cited sources picked by code, as bare `<url>`s.
 - **Caps** (constants at the top): $1.80/month for all AI (the OpenAI project's $2 hard
-  limit is the backstop), `/ask` $1.50/month, $0.25/day, 5 questions per person per day.
+  limit is the backstop), `/ask` $1.50/month, $0.50/day, 20 questions per person per day.
   Each question reserves its worst case before calling OpenAI and settles after, so a
-  timeout or crash is already counted. D1 binds params as strings: compare sums in JS.
+  timeout or crash is already counted; a question OpenAI refused or timed out doesn't count
+  toward the per-person limit. D1 binds params as strings: compare sums in JS.
 - **Kill switches**: `AI_ENABLED` in `worker/wrangler.toml` for `/ask` (a deploy re-applies it
   over a dashboard edit, like `BOT_ENABLED`), and the `AI_ENABLED` repo variable for Actions.
 - OpenAI never gets Discord names or IDs: people are "Friend A", "Friend B"… and code swaps

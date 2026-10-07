@@ -1,5 +1,5 @@
 import { expect, test } from 'vitest'
-import { cleanQuestion, factsBlock, render, sameGame, type GameBlock } from '../ask'
+import { cleanQuestion, factsBlock, render, sameGame, taggedIds, type GameBlock } from '../ask'
 
 const facts = (overrides: Partial<GameBlock['facts']> = {}): GameBlock['facts'] => ({
   appid: 3241660,
@@ -97,5 +97,20 @@ test('Steam matches are kept only when the names plausibly agree', () => {
 test('questions lose Discord IDs before reaching OpenAI', () => {
   expect(cleanQuestion('does <@123> own\n  Valheim in <#456>?')).toBe(
     'does someone own Valheim in someone?'
+  )
+})
+
+test('a tagged member becomes their Friend label for OpenAI, and their tag again in the reply', () => {
+  const question = 'how many hours has <@222> played REPO? and <@999>?'
+  const members = ['111', '222']
+  const unlinked = taggedIds(question).filter((id) => !members.includes(id))
+  const people = [...members, ...unlinked]
+  const labelled = cleanQuestion(question, people)
+  expect(labelled).toBe('how many hours has Friend B played REPO? and Friend C?')
+  expect(factsBlock(members, '111', [], [], unlinked)).toContain(
+    "Friend C hasn't linked Steam, so you know nothing about their games."
+  )
+  expect(render('111', labelled, 'Friend B has played 12 h.', [], people)).toBe(
+    '> <@111>: how many hours has <@222> played REPO? and <@999>?\n<@222> has played 12 h.'
   )
 })

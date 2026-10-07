@@ -15,8 +15,9 @@ const PER_SEARCH = 0.01
 export const MONTH_USD = 1.8
 export const ASK_MONTH_USD = 1.5
 /** So a launch-day frenzy can't eat the month. */
-export const ASK_DAY_USD = 0.25
-export const ASK_PER_PERSON_DAY = 5
+export const ASK_DAY_USD = 0.5
+/** A safety cap: most days nobody asks anything. */
+export const ASK_PER_PERSON_DAY = 20
 /** Held per question before OpenAI is called (worst case ≈ $0.022), settled after. */
 export const ASK_RESERVE_USD = 0.03
 
@@ -60,6 +61,16 @@ export function readResponse(body: ResponseBody): AiResult {
   }
 }
 
+/** OpenAI refused the call (no credit, bad key, rate limit…), so it wasn't billed. */
+export class AiError extends Error {
+  constructor(
+    readonly status: number,
+    readonly code: string | null
+  ) {
+    super(`OpenAI failed: HTTP ${status}${code ? ` (${code})` : ''}`)
+  }
+}
+
 /** One Responses API call. `store: false`: OpenAI keeps nothing for later retrieval. */
 export async function respond(
   apiKey: string,
@@ -72,8 +83,12 @@ export async function respond(
     body: JSON.stringify({ model: MODEL, store: false, reasoning: { effort: 'none' }, ...body }),
     signal: signal ?? null,
   })
-  // Status only: an error body can echo the prompt, and Actions logs are public.
-  if (!response.ok) throw new Error(`OpenAI failed: HTTP ${response.status}`)
+  if (!response.ok) {
+    // OpenAI's error code only (e.g. insufficient_quota), never its message: that can
+    // echo the prompt, and Actions logs are public.
+    const body = (await response.json().catch(() => null)) as { error?: { code?: string } } | null
+    throw new AiError(response.status, body?.error?.code ?? null)
+  }
   return readResponse((await response.json()) as ResponseBody)
 }
 
