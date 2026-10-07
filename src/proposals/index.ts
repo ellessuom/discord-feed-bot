@@ -1,4 +1,5 @@
 import { loadConfig, type ProposalsConfig } from '../config'
+import { d1Query } from '../d1'
 import { DiscordClient } from '../discord/client'
 import { HttpError } from '../utils/http-error'
 import { loadProposals, saveProposals } from './store'
@@ -11,7 +12,10 @@ import {
   forumRequiresTag,
   formatPrice,
   nameFromUrlSlug,
+  ownershipFields,
+  pingTargets,
   priceFrom,
+  type Ownership,
 } from './forum'
 import { proposalKey, type Proposal, type ProposalKey, type ProposalsFile } from './types'
 
@@ -210,7 +214,8 @@ async function processMessages(
 async function refreshPrices(
   client: DiscordClient,
   store: ProposalsFile,
-  config: ProposalsConfig
+  config: ProposalsConfig,
+  ownership: Ownership | undefined
 ): Promise<number> {
   const tracked = Object.values(store.proposals).filter(
     (p) => p.kind === 'app' && p.threadId && p.status !== 'delisted'
@@ -243,23 +248,108 @@ async function refreshPrices(
     if (proposal.status === 'free' && fresh.final > 0) proposal.status = 'priced'
     changed++
 
-    await editStarterMessage(client, proposal, buildProposalEmbed(proposal))
-    saveProposals(store)
+    await editStarterMessage(client, proposal, buildProposalEmbed(proposal, undefined, ownership))
 
     if (dropped && previous) {
-      const mentionList = [...new Set(proposal.mentions.map((m) => `<@${m.userId}>`))].join(' ')
+      const targets = pingTargets(proposal, ownership)
+      const mentionList = targets.map((id) => `<@${id}> `).join('')
       const was = formatPrice(previous.current, previous.currency)
       const now = formatPrice(fresh.final, fresh.currency)
       const lowest = proposal.price.lowestSeen
       const isLow = lowest >= fresh.final
       const suffix = isLow ? ' — lowest price seen so far.' : ''
       await client.createMessage(proposal.threadId as string, {
-        content: `${mentionList} **${proposal.name}** dropped: ~~${was}~~ → **${now}** (${fresh.discount_percent}% off)${suffix}`,
+        content: `${mentionList}**${proposal.name}** dropped: ~~${was}~~ → **${now}** (${fresh.discount_percent}% off)${suffix}`,
+        allowed_mentions: { parse: [], users: targets },
       })
     }
+    // Saved only after the ping: if it fails, the next run still sees the drop and retries.
+    saveProposals(store)
   }
 
   return changed
+}
+
+/** Best-effort: without D1 (no token, outage, schema not applied yet) the forum works as before. */
+async function loadOwnership(store: ProposalsFile): Promise<Ownership | undefined> {
+  const appids = Object.values(store.proposals)
+    .filter((p) => p.kind === 'app' && p.threadId)
+    .map((p) => p.id)
+  try {
+    const [members, rows] = await Promise.all([
+      d1Query<{ discord_id: string }>('SELECT discord_id FROM members ORDER BY linked_at'),
+      d1Query<{ discord_id: string; appid: number; owns: number }>(
+        `SELECT m.discord_id, o.appid, 1 AS owns FROM owned_games o
+           JOIN members m ON m.steam_id = o.steam_id
+           WHERE o.appid IN (SELECT value FROM json_each(?1))
+         UNION ALL
+         SELECT m.discord_id, w.appid, 0 FROM wishlist w
+           JOIN members m ON m.steam_id = w.steam_id
+           WHERE w.appid IN (SELECT value FROM json_each(?1))`,
+        [JSON.stringify(appids)]
+      ),
+    ])
+    if (!members || !rows) return undefined
+
+    const ownership: Ownership = {
+      members: members.map((m) => m.discord_id),
+      owners: new Map(),
+      wishlisters: new Map(),
+    }
+    for (const row of rows) {
+      const byApp = row.owns ? ownership.owners : ownership.wishlisters
+      const ids = byApp.get(row.appid) ?? new Set<string>()
+      byApp.set(row.appid, ids.add(row.discord_id))
+    }
+    console.log(`Ownership: ${ownership.members.length} linked member(s).`)
+    return ownership
+  } catch (error) {
+    console.warn(
+      `Skipping ownership (D1 unavailable): ${error instanceof Error ? error.message : error}`
+    )
+    return undefined
+  }
+}
+
+/**
+ * Re-renders a card only when its "Owned by" fields change. The last render is
+ * kept in D1, because data/proposals.json is public and must not reveal who owns what.
+ */
+async function refreshOwnership(
+  client: DiscordClient,
+  store: ProposalsFile,
+  ownership: Ownership
+): Promise<number> {
+  const rows = await d1Query<{ appid: number; rendered: string }>(
+    'SELECT appid, rendered FROM proposal_owners'
+  )
+  const previous = new Map((rows ?? []).map((r) => [r.appid, r.rendered]))
+  const changed: { appid: number; rendered: string }[] = []
+
+  for (const proposal of Object.values(store.proposals)) {
+    if (proposal.kind !== 'app' || !proposal.threadId) continue
+    const rendered = JSON.stringify(ownershipFields(proposal.id, ownership))
+    if (previous.get(proposal.id) === rendered) continue
+    try {
+      await editStarterMessage(client, proposal, buildProposalEmbed(proposal, undefined, ownership))
+      changed.push({ appid: proposal.id, rendered })
+    } catch (error) {
+      // One deleted thread shouldn't block every card after it; it's retried next run.
+      console.warn(
+        `  Could not update ${proposal.name}: ${error instanceof Error ? error.message : error}`
+      )
+    }
+  }
+
+  if (changed.length > 0) {
+    await d1Query(
+      `INSERT INTO proposal_owners (appid, rendered)
+       SELECT json_extract(value, '$.appid'), json_extract(value, '$.rendered') FROM json_each(?1) WHERE true
+       ON CONFLICT (appid) DO UPDATE SET rendered = excluded.rendered`,
+      [JSON.stringify(changed)]
+    )
+  }
+  return changed.length
 }
 
 async function undo(client: DiscordClient, store: ProposalsFile, dryRun: boolean): Promise<void> {
@@ -401,11 +491,24 @@ async function main(): Promise<void> {
   }
   saveProposals(store)
 
-  const priceChanges = mode.backfill ? 0 : await refreshPrices(client, store, proposalsConfig)
+  const ownership = mode.backfill ? undefined : await loadOwnership(store)
+  const priceChanges = mode.backfill
+    ? 0
+    : await refreshPrices(client, store, proposalsConfig, ownership)
   saveProposals(store)
 
+  let ownershipChanges = 0
+  if (ownership) {
+    try {
+      ownershipChanges = await refreshOwnership(client, store, ownership)
+    } catch (error) {
+      console.warn(`Ownership refresh failed: ${error instanceof Error ? error.message : error}`)
+    }
+  }
+
   console.log(
-    `Done. ${created} new post(s), ${updated} re-mention(s), ${priceChanges} price change(s).` +
+    `Done. ${created} new post(s), ${updated} re-mention(s), ${priceChanges} price change(s), ` +
+      `${ownershipChanges} ownership update(s).` +
       (mode.backfill && store.cursors.backfillComplete ? ' Backfill complete.' : '')
   )
 }

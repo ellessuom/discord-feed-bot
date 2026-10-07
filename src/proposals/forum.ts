@@ -146,7 +146,51 @@ export function priceLine(proposal: Proposal): string {
   return `**${current}**`
 }
 
-export function buildProposalEmbed(proposal: Proposal, details?: SteamAppDetails): DiscordEmbed {
+/** Who has which game, read from the Worker's D1. Only Steam-linked members appear. */
+export interface Ownership {
+  /** Every linked Discord ID, in a stable order so renders compare equal. */
+  members: string[]
+  owners: Map<number, Set<string>>
+  wishlisters: Map<number, Set<string>>
+}
+
+type EmbedField = NonNullable<DiscordEmbed['fields']>[number]
+
+export function ownershipFields(appid: number, ownership: Ownership): EmbedField[] {
+  if (ownership.members.length === 0) return []
+  const owners = ownership.owners.get(appid) ?? new Set()
+  const wishers = ownership.wishlisters.get(appid) ?? new Set()
+  const owning = ownership.members.filter((id) => owners.has(id))
+  const missing = ownership.members.filter((id) => !owners.has(id))
+  return [
+    {
+      name: 'Owned by',
+      value: owning.map((id) => `<@${id}>`).join(', ') || 'Nobody yet',
+      inline: true,
+    },
+    {
+      name: "Doesn't own",
+      value:
+        missing.map((id) => `<@${id}>${wishers.has(id) ? ' (wishlisted)' : ''}`).join(', ') ||
+        'Everyone has it',
+      inline: true,
+    },
+  ]
+}
+
+/** Price-drop pings: whoever proposed or wishlisted it, minus anyone who already owns it. */
+export function pingTargets(proposal: Proposal, ownership?: Ownership): string[] {
+  const owners = ownership?.owners.get(proposal.id) ?? new Set()
+  const wishers = ownership?.wishlisters.get(proposal.id) ?? []
+  const interested = [...proposal.mentions.map((m) => m.userId), ...wishers]
+  return [...new Set(interested)].filter((id) => !owners.has(id))
+}
+
+export function buildProposalEmbed(
+  proposal: Proposal,
+  details?: SteamAppDetails,
+  ownership?: Ownership
+): DiscordEmbed {
   const embed: DiscordEmbed = {
     title: proposal.name.slice(0, 256),
     url: proposal.url,
@@ -170,6 +214,10 @@ export function buildProposalEmbed(proposal: Proposal, details?: SteamAppDetails
       value: formatPrice(lowest, proposal.price.currency),
       inline: true,
     })
+  }
+
+  if (ownership && proposal.kind === 'app') {
+    embed.fields?.push(...ownershipFields(proposal.id, ownership))
   }
 
   const rawDescription = details?.shortDescription ?? proposal.description

@@ -21,8 +21,10 @@ never committed to this (public) repository.
 
 ## What it's used for
 
-Showing who owns or wishlisted a game (`/owns`), and, as the bot grows, deal
-alerts for games your friends play, game-night suggestions and playtime recaps.
+Showing who owns or wishlisted a game (`/owns` and the #game-proposals cards),
+pinging you when a game you wishlisted or proposed drops in price (unless you
+already own it), and, as the bot grows, deal alerts for games your friends play,
+game-night suggestions and playtime recaps.
 It is not shared with anyone outside the server.
 
 ## Updates and removal

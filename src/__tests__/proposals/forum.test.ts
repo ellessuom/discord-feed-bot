@@ -7,6 +7,9 @@ import {
   priceLine,
   priceFrom,
   buildProposalEmbed,
+  ownershipFields,
+  pingTargets,
+  type Ownership,
 } from '../../proposals/forum'
 import type { DiscordClient, ForumTag } from '../../discord/client'
 import type { Proposal } from '../../proposals/types'
@@ -251,5 +254,33 @@ describe('buildProposalEmbed', () => {
   test('links the embed to the store page', () => {
     const embed = buildProposalEmbed(proposal())
     expect(embed.url).toBe('https://store.steampowered.com/app/1/')
+  })
+})
+
+describe('ownership', () => {
+  // u1 proposed app 1 and owns it; u2 wishlisted it; u3 has neither.
+  const ownership: Ownership = {
+    members: ['u1', 'u2', 'u3'],
+    owners: new Map([[1, new Set(['u1'])]]),
+    wishlisters: new Map([[1, new Set(['u2'])]]),
+  }
+
+  test('the card lists owners and everyone else, marking wishlists', () => {
+    const fields = buildProposalEmbed(proposal(), undefined, ownership).fields ?? []
+    expect(fields.find((f) => f.name === 'Owned by')?.value).toBe('<@u1>')
+    expect(fields.find((f) => f.name === "Doesn't own")?.value).toBe('<@u2> (wishlisted), <@u3>')
+  })
+
+  test('no linked members means no ownership fields', () => {
+    expect(ownershipFields(1, { ...ownership, members: [] })).toEqual([])
+  })
+
+  test('price drops ping proposers and wishlisters, never owners', () => {
+    expect(pingTargets(proposal(), ownership)).toEqual(['u2'])
+    expect(pingTargets(proposal({ mentions: [] }), ownership)).toEqual(['u2'])
+  })
+
+  test('without D1 every proposer is pinged, as before', () => {
+    expect(pingTargets(proposal())).toEqual(['u1'])
   })
 })

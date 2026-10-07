@@ -177,7 +177,14 @@ export class DiscordClient {
     )
   }
 
-  async createMessage(channelId: string, payload: { content?: string; embeds?: DiscordEmbed[] }) {
+  async createMessage(
+    channelId: string,
+    payload: {
+      content?: string
+      embeds?: DiscordEmbed[]
+      allowed_mentions?: { parse: string[]; users?: string[] }
+    }
+  ) {
     return this.throttledWrite(() =>
       this.request<DiscordMessage>(
         'POST',
