@@ -88,8 +88,9 @@ describe('when wrap-ups are due (Dublin time)', () => {
     const due = weeklyDue(Date.parse('2026-10-12T11:00:00Z'))
     expect(due).toEqual({
       key: 'wrapup:weekly:2026-10-12',
-      from: Date.parse('2026-10-04T23:00:00Z'),
-      to: Date.parse('2026-10-11T23:00:00Z'),
+      // Monday 06:00 IST to Monday 06:00 IST.
+      from: Date.parse('2026-10-05T05:00:00Z'),
+      to: Date.parse('2026-10-12T05:00:00Z'),
     })
     expect(weeklyDue(Date.parse('2026-10-15T09:00:00Z'))?.key).toBe('wrapup:weekly:2026-10-12')
   })
@@ -107,9 +108,31 @@ describe('when wrap-ups are due (Dublin time)', () => {
 })
 
 test('the daily digest lists what went over the cap, with store links', () => {
-  const rows = Array.from({ length: 10 }, (_, i) => ({ appid: i + 1, line: `Game ${i + 1} −50%` }))
+  const rows = Array.from({ length: 10 }, (_, i) => ({
+    key: `sale:${i + 1}:100`,
+    appid: i + 1,
+    line: `Game ${i + 1} −50%`,
+  }))
   const message = renderDaily(rows)
   expect(message?.split('\n')[1]).toBe('• [Game 1 −50%](<https://store.steampowered.com/app/1/>)')
   expect(message?.split('\n').at(-1)).toBe('+2 more')
   expect(renderDaily([])).toBeNull()
+})
+
+test('patch rows link to the notes, and brackets in titles stay inside the link', () => {
+  expect(renderDaily([{ key: 'patch:42', appid: 7, line: 'Game: [Update] 1.2' }])).toBe(
+    '**Also today** (past the 5-a-day limit)\n' +
+      '• [Game: \\[Update\\] 1.2](<https://store.steampowered.com/news/app/7/view/42>)'
+  )
+})
+
+test('long lines: the digest stays under 2,000 characters and keeps the "+N more" line', () => {
+  const rows = Array.from({ length: 8 }, (_, i) => ({
+    key: `patch:${i}`,
+    appid: i + 1,
+    line: 'x'.repeat(200),
+  }))
+  const message = renderDaily(rows) ?? ''
+  expect(message.length).toBeLessThanOrEqual(2000)
+  expect(message.split('\n').at(-1)).toMatch(/^\+\d+ more$/)
 })

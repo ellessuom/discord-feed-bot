@@ -115,7 +115,8 @@ as `overflow` for the daily wrap-up). All state is in D1 (`app_meta`,
 - Patch notes (`patches.ts`): for games the group played ≥2 h in the last 2 weeks, official
   Steam announcements from the last 48 h, summarized by AI only with `AI_ENABLED` and
   `OPENAI_API_KEY`. At most 3 per run, and only while a slot is free today (otherwise they
-  go to the digest unsummarized). Fail-soft: any error skips patches, never the sales.
+  go to the digest unsummarized). Recorded before posting, so a failure never pays for the
+  same summary twice. Fail-soft: any error skips patches, never the sales.
 
 ## Wrap-ups (`src/wrapup/`)
 
@@ -125,7 +126,8 @@ as `overflow` for the daily wrap-up). All state is in D1 (`app_meta`,
   then marked `listed`. Weekly voice recap from Monday 12:00 Dublin (the previous Monday to
   Monday, 169 h when the clocks go back), which also runs the 400-day voice purge.
 - Each records a `wrapup:*` key in `alerts` with status `done`, never `posted`: `POSTED_SINCE`
-  counts `posted` rows toward the 5-a-day alert cap. A missed run catches up on the next.
+  counts `posted` rows toward the 5-a-day alert cap. A missed run catches up later the same
+  day (daily) or week (weekly).
 - `wrapup-preview.yml` (manual) posts either one to #test now and records nothing.
 
 ## Source Types Entry Point

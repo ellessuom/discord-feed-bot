@@ -1,4 +1,5 @@
 /** Wrap-up maths and text, kept pure so the tests can pin every number. */
+import { newsUrl } from '../alerts/patches'
 
 const ZONE = 'Europe/Dublin'
 const TICK_MINUTES = 2 // the Worker samples voice every 2 min
@@ -14,20 +15,21 @@ export interface Sample {
   appid: number | null
 }
 
+// Built once: it runs for every voice tick.
+const DUBLIN_PARTS = new Intl.DateTimeFormat('en-GB', {
+  timeZone: ZONE,
+  year: 'numeric',
+  month: '2-digit',
+  day: '2-digit',
+  hour: '2-digit',
+  hourCycle: 'h23',
+  weekday: 'short',
+})
+
 /** Dublin wall clock. weekday: 0 = Monday. */
 export function dublin(ms: number): { date: string; hour: number; weekday: number } {
   const parts = Object.fromEntries(
-    new Intl.DateTimeFormat('en-GB', {
-      timeZone: ZONE,
-      year: 'numeric',
-      month: '2-digit',
-      day: '2-digit',
-      hour: '2-digit',
-      hourCycle: 'h23',
-      weekday: 'short',
-    })
-      .formatToParts(ms)
-      .map((part) => [part.type, part.value])
+    DUBLIN_PARTS.formatToParts(ms).map((part) => [part.type, part.value])
   )
   return {
     date: `${parts.year}-${parts.month}-${parts.day}`,
@@ -51,21 +53,27 @@ export interface Period {
   to: number // ms, exclusive
 }
 
-/** The daily digest is due from 18:00 Dublin time. */
+/**
+ * The daily digest is due from 18:00 Dublin time. It looks back 2 days because rows
+ * leave the digest by being marked listed, not by age: a later-than-usual run can't
+ * skip any.
+ */
 export function dailyDue(now: number): Period | null {
   const { date, hour } = dublin(now)
-  return hour >= 18 ? { key: `wrapup:daily:${date}`, from: now - 86_400_000, to: now } : null
+  return hour >= 18 ? { key: `wrapup:daily:${date}`, from: now - 2 * 86_400_000, to: now } : null
 }
 
-/** From Monday 12:00 Dublin time: last Monday-to-Monday, which is 169 h when the clocks go back. */
+/** From Monday 12:00 Dublin time: last week, which is 169 h when the clocks go back. */
 export function weeklyDue(now: number): Period | null {
   const { date, hour, weekday } = dublin(now)
   if (weekday === 0 && hour < 12) return null
   const monday = addDays(date, -weekday)
   return {
     key: `wrapup:weekly:${monday}`,
-    from: dublinMidnight(addDays(monday, -7)),
-    to: dublinMidnight(monday),
+    // 06:00 to 06:00, like the evenings, so a Sunday session past midnight stays in its week.
+    // (Clocks change on a Sunday, so Monday 00:00 + 6 h is always 06:00.)
+    from: dublinMidnight(addDays(monday, -7)) + EVENING_SHIFT_S * 1000,
+    to: dublinMidnight(monday) + EVENING_SHIFT_S * 1000,
   }
 }
 
@@ -170,7 +178,7 @@ const evening = (ts: number): string =>
 const range = (from: number, to: number): string => {
   const day = (ms: number) =>
     new Date(ms).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', timeZone: ZONE })
-  return `${day(from)} to ${day(to - 1)}`
+  return `${day(from)} to ${day(to - EVENING_SHIFT_S * 1000 - 1)}`
 }
 
 const at = (id: string) => `<@${id}>`
@@ -216,24 +224,28 @@ export function renderWeekly(
 
 const DIGEST_LINES = 8
 
-/** Alerts that went over the 5-a-day cap; null when there were none. */
-export function renderDaily(rows: { appid: number | null; line: string | null }[]): string | null {
-  const lines = rows.flatMap((row) =>
-    row.line
-      ? [
-          row.appid
-            ? `• [${row.line}](<https://store.steampowered.com/app/${row.appid}/>)`
-            : `• ${row.line}`,
-        ]
-      : []
-  )
+/** Alerts that went over the 5-a-day cap, linked (patch notes to the notes); null if none. */
+export function renderDaily(
+  rows: { key: string; appid: number | null; line: string | null }[]
+): string | null {
+  const lines = rows.flatMap(({ key, appid, line }) => {
+    if (!line) return []
+    if (!appid) return [`• ${line}`]
+    const url = key.startsWith('patch:')
+      ? newsUrl(appid, key.slice('patch:'.length))
+      : `https://store.steampowered.com/app/${appid}/`
+    // A bracket in a game or post title would end the link text early.
+    return [`• [${line.replace(/[[\]]/g, '\\$&')}](<${url}>)`]
+  })
   if (lines.length === 0) return null
-  const more = lines.length - DIGEST_LINES
-  return [
-    '**Also today** (past the 5-a-day limit)',
-    ...lines.slice(0, DIGEST_LINES),
-    ...(more > 0 ? [`+${more} more`] : []),
-  ]
-    .join('\n')
-    .slice(0, 2000)
+
+  const head = '**Also today** (past the 5-a-day limit)'
+  const shown: string[] = []
+  for (const line of lines) {
+    // Whole lines only, leaving room for "+N more" under Discord's 2,000 characters.
+    if (shown.length === DIGEST_LINES || [head, ...shown, line].join('\n').length > 1900) break
+    shown.push(line)
+  }
+  const more = lines.length - shown.length
+  return [head, ...shown, ...(more > 0 ? [`+${more} more`] : [])].join('\n')
 }

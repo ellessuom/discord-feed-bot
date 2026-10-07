@@ -3,6 +3,8 @@ import { htmlToText } from '../utils/html-to-text'
 /** A game counts as "being played" with this many minutes across the group in 2 weeks. */
 const RECENT_MINUTES = 120
 export const PATCH_WINDOW_MS = 48 * 3_600_000
+/** AI summaries per run: bounds the cost, and the daily cap bounds the posts. */
+export const PATCHES_PER_RUN = 3
 
 export const PATCH_INSTRUCTIONS = `You summarize Steam update posts for friends who play the game.
 If the post doesn't describe changes shipped to the game (an event, sale, contest, merch, \
@@ -62,3 +64,35 @@ export function newsText(contents: string): string {
 
 export const newsUrl = (appid: number, gid: string) =>
   `https://store.steampowered.com/news/app/${appid}/view/${gid}`
+
+export interface PatchNews {
+  appid: number
+  players: string[]
+  item: NewsItem
+}
+
+/**
+ * New patch posts (last 48 h, not seen before), newest first, each gid once even when
+ * cross-posted under two apps. With no slot left today they all go to the digest
+ * unsummarized; otherwise at most min(PATCHES_PER_RUN, room) get an AI summary now, and
+ * the rest wait for a later run, still inside the 48 h window.
+ */
+export function pickPatches(
+  news: PatchNews[],
+  known: Set<string>,
+  room: number,
+  now: number
+): { summarize: PatchNews[]; overflow: PatchNews[] } {
+  const gids = new Set<string>()
+  const fresh = news
+    .filter((n) => n.item.date * 1000 >= now - PATCH_WINDOW_MS)
+    .filter((n) => !known.has(`patch:${n.item.gid}`))
+    .sort((a, b) => b.item.date - a.item.date)
+    .filter((n) => !gids.has(n.item.gid) && Boolean(gids.add(n.item.gid)))
+  return room <= 0
+    ? { summarize: [], overflow: fresh }
+    : { summarize: fresh.slice(0, Math.min(PATCHES_PER_RUN, room)), overflow: [] }
+}
+
+/** The model's "not a patch" answer, however it punctuates it. */
+export const isSkip = (text: string): boolean => /^skip\b/i.test(text.trim())

@@ -9,11 +9,13 @@ import { DiscordClient } from '../discord/client'
 import { fetchAppDetails, fetchPrices, type SteamPrice } from '../proposals/steam'
 import {
   PATCH_INSTRUCTIONS,
-  PATCH_WINDOW_MS,
   fetchPatchNews,
+  isSkip,
   newsText,
   newsUrl,
   patchCandidates,
+  pickPatches,
+  type PatchNews,
 } from './patches'
 import { fetchPicks } from './picks'
 import {
@@ -38,9 +40,6 @@ import * as sql from './sql'
 const REGION = { cc: 'IE', lang: 'english' }
 /** "Daily", with slack for a run that starts a little early. */
 const PICKS_EVERY_MS = 20 * 3_600_000
-/** AI summaries per run: bounds the cost, and the daily cap bounds the posts. */
-const PATCHES_PER_RUN = 3
-
 type OwnedRow = {
   discord_id: string
   appid: number
@@ -56,11 +55,16 @@ const meter: Sql = async (text, params) => {
   return rows
 }
 
+interface Patches {
+  alerts: Alert[]
+  skipped: Alert[]
+  failed: boolean
+}
+
 /**
- * Patch notes for games the group played ≥2 h in the last 2 weeks, from the last 48 h.
- * Summarized only when they can still get a slot today (at most PATCHES_PER_RUN); the
- * rest wait for a later run. With no room left they go straight to the daily digest.
- * Returns alerts to rank, and SKIPs (not a patch) to record.
+ * Patch notes for games the group played ≥2 h in the last 2 weeks (see pickPatches for
+ * which get summarized). Returns alerts to rank and SKIPs (not a patch) to record. An
+ * OpenAI failure stops summarizing but keeps what was already paid for.
  */
 async function patchAlerts(
   owned: OwnedRow[],
@@ -68,31 +72,26 @@ async function patchAlerts(
   room: number,
   now: number,
   query: Query
-): Promise<{ alerts: Alert[]; skipped: Alert[] }> {
+): Promise<Patches> {
   const apiKey = process.env.OPENAI_API_KEY
-  const none = { alerts: [], skipped: [] }
-  if (process.env.AI_ENABLED !== 'true' || !apiKey) return none
+  const result: Patches = { alerts: [], skipped: [], failed: false }
+  if (process.env.AI_ENABLED !== 'true' || !apiKey) return result
 
   const candidates = [...patchCandidates(owned)].filter(([appid]) => meta.get(appid)?.name)
-  const news = (
+  const news: PatchNews[] = (
     await Promise.all(
       candidates.map(async ([appid, players]) =>
-        (await fetchPatchNews(appid).catch(() => []))
-          .filter((item) => item.date * 1000 >= now - PATCH_WINDOW_MS)
-          .map((item) => ({ appid, players, item }))
+        (await fetchPatchNews(appid).catch(() => [])).map((item) => ({ appid, players, item }))
       )
     )
   ).flat()
-  if (news.length === 0) return none
+  if (news.length === 0) return result
 
   const keys = news.map((n) => `patch:${n.item.gid}`)
   const known = new Set(
     (await query<{ key: string }>(sql.EXISTING_ALERTS, [JSON.stringify(keys)])).map((r) => r.key)
   )
-  const fresh = news
-    .filter((n) => !known.has(`patch:${n.item.gid}`))
-    .sort((a, b) => b.item.date - a.item.date)
-  const toAlert = (n: (typeof news)[number], summary?: string): Alert => ({
+  const toAlert = (n: PatchNews, summary?: string): Alert => ({
     key: `patch:${n.item.gid}`,
     kind: 'patch',
     appid: n.appid,
@@ -101,19 +100,29 @@ async function patchAlerts(
     players: n.players,
     ...(summary ? { summary } : {}),
   })
-  if (room <= 0) return { alerts: fresh.map((n) => toAlert(n)), skipped: [] }
+  const { summarize, overflow } = pickPatches(news, known, room, now)
+  result.alerts.push(...overflow.map((n) => toAlert(n)))
+  if (summarize.length === 0 || !(await underMonthCap(meter, now))) return result
 
-  const result: { alerts: Alert[]; skipped: Alert[] } = { alerts: [], skipped: [] }
-  for (const n of fresh.slice(0, Math.min(PATCHES_PER_RUN, room))) {
-    if (!(await underMonthCap(meter, now))) break
-    const { text, usd } = await respond(apiKey, {
-      instructions: PATCH_INSTRUCTIONS,
-      input: `Game: ${meta.get(n.appid)?.name}\nTitle: ${n.item.title}\n\n${newsText(n.item.contents)}`,
-      max_output_tokens: 250,
-    })
-    await settle(meter, 'patch', '', usd, now)
-    const summary = sanitize(text, 600)
-    if (text.trim() === 'SKIP' || !summary) result.skipped.push(toAlert(n))
+  for (const n of summarize) {
+    let reply
+    try {
+      reply = await respond(
+        apiKey,
+        {
+          instructions: PATCH_INSTRUCTIONS,
+          input: `Game: ${meta.get(n.appid)?.name}\nTitle: ${n.item.title}\n\n${newsText(n.item.contents)}`,
+          max_output_tokens: 250,
+        },
+        AbortSignal.timeout(30_000)
+      )
+    } catch {
+      result.failed = true
+      break
+    }
+    await settle(meter, 'patch', '', reply.usd, now, 1)
+    const summary = sanitize(reply.text, 600)
+    if (isSkip(reply.text) || !summary) result.skipped.push(toAlert(n))
     else result.alerts.push(toAlert(n, summary))
   }
   return result
@@ -207,11 +216,9 @@ async function main(): Promise<void> {
 
   // A nice-to-have: any Steam, OpenAI or meter trouble skips patch notes, never the sales.
   const outranking = fresh.filter((a) => a.kind === 'ea' || a.kind === 'release').length
-  let patchError = false
-  const patches = await patchAlerts(owned, meta, slots - outranking, now, query).catch(() => {
-    patchError = true
-    return { alerts: [], skipped: [] }
-  })
+  const patches = await patchAlerts(owned, meta, slots - outranking, now, query).catch(
+    (): Patches => ({ alerts: [], skipped: [], failed: true })
+  )
   const ranked = rank([...fresh, ...patches.alerts])
   const toPost = ranked.slice(0, slots)
   const overflow = ranked.slice(slots)
@@ -223,6 +230,10 @@ async function main(): Promise<void> {
       status,
       nowIso,
     ])
+  // Patch notes are recorded before posting, so a failure further down can't make the next
+  // run pay for the same summaries again; a successful post upgrades the row to 'posted'.
+  if (patches.alerts.length > 0) await record(patches.alerts, 'overflow')
+  if (patches.skipped.length > 0) await record(patches.skipped, 'skip')
   for (const alert of toPost) {
     const app = meta.get(alert.appid)
     if (!app) continue
@@ -236,7 +247,6 @@ async function main(): Promise<void> {
     await record([alert], 'posted')
   }
   if (overflow.length > 0) await record(overflow, 'overflow')
-  if (patches.skipped.length > 0) await record(patches.skipped, 'skip')
 
   // Saved last: if anything above failed, the next run re-detects it and the dedupe
   // above stops double posts.
@@ -257,7 +267,7 @@ async function main(): Promise<void> {
       `${priceRows.length} price change(s), ${toPost.length} posted, ${overflow.length} over the daily cap` +
       (picks.length > 0 ? `, ${picks.length} co-op pick(s)` : '') +
       `, ${patches.alerts.length} patch note(s), ${patches.skipped.length} non-patch post(s)` +
-      (patchError ? ', patch notes skipped on an error' : '') +
+      (patches.failed ? ', patch notes stopped on an error' : '') +
       (steamErrors > 0 ? ', stopped early on a Steam error' : '') +
       '.'
   )

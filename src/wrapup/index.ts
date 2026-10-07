@@ -60,7 +60,10 @@ async function main(): Promise<void> {
     return renderWeekly(stats, new Map(names.map((n) => [n.appid, n.name])), period.from, period.to)
   }
 
-  const preview = process.argv.includes('--preview') ? process.env.WRAPUP_KIND : undefined
+  // A preview never falls through to the real, recorded run, even without WRAPUP_KIND.
+  const preview = process.argv.includes('--preview')
+    ? process.env.WRAPUP_KIND || 'weekly'
+    : undefined
   if (preview) {
     const period = { key: 'preview', from: now - (preview === 'daily' ? 1 : 7) * DAY_MS, to: now }
     const message = preview === 'daily' ? (await daily(period)).message : await weekly(period)
@@ -74,31 +77,36 @@ async function main(): Promise<void> {
   const done = new Set(
     (await query<{ key: string }>(sql.EXISTING_ALERTS, [JSON.stringify(keys)])).map((r) => r.key)
   )
-  const record = (key: string) =>
-    d1Query(sql.UPSERT_ALERTS, [
+  const record = (key: string) => ({
+    sql: sql.UPSERT_ALERTS,
+    params: [
       JSON.stringify([{ key, kind: 'wrapup', appid: null, line: null }]),
       'done',
       new Date(now).toISOString(),
-    ])
+    ],
+  })
   const log: string[] = []
 
   if (due.daily && !done.has(due.daily.key)) {
     const { message, keys: listed } = await daily(due.daily)
     if (message) await post(ALERTS_CHANNEL_ID, message)
-    await d1Batch([{ sql: sql.MARK_LISTED, params: [JSON.stringify(listed)] }])
-    await record(due.daily.key)
+    await d1Batch([
+      { sql: sql.MARK_LISTED, params: [JSON.stringify(listed)] },
+      record(due.daily.key),
+    ])
     log.push(`daily digest: ${listed.length} line(s)`)
   }
 
   if (due.weekly && !done.has(due.weekly.key)) {
-    const message = await weekly(due.weekly)
-    if (message) await post(WEEKLY_CHANNEL_ID, message)
     // The weekly run also keeps PRIVACY.md's promises: voice samples go after 400 days.
+    // Purged before posting, so a failed purge can't re-post the recap next hour.
     await d1Batch([
       { sql: sql.PURGE_VOICE, params: [String(Math.floor((now - 400 * DAY_MS) / 1000))] },
       { sql: sql.PURGE_SPEND, params: [new Date(now - 62 * DAY_MS).toISOString().slice(0, 10)] },
     ])
-    await record(due.weekly.key)
+    const message = await weekly(due.weekly)
+    if (message) await post(WEEKLY_CHANNEL_ID, message)
+    await d1Batch([record(due.weekly.key)])
     log.push(`weekly recap: ${message ? 'posted' : 'quiet week'}`)
   }
 

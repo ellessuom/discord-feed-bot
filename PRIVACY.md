@@ -57,7 +57,8 @@ repository.
 Showing who owns or wishlisted a game (`/owns`, `/together` and the #game-proposals cards),
 pinging you when a game you wishlisted or proposed drops in price (unless you
 already own it), game alerts in #game-news that show who owns or wishlisted the
-game (by name, never a ping), and, as the bot grows, deal alerts for games your friends play,
+game (by name, never a ping), patch notes there that show who played the game in the last
+two weeks, and, as the bot grows, deal alerts for games your friends play,
 game-night suggestions and playtime recaps.
 Apart from what `/ask` sends to OpenAI (above), it is not shared with anyone outside the server.
 
