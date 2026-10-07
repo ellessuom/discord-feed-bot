@@ -31,3 +31,14 @@ CREATE TABLE IF NOT EXISTS proposal_owners (
   appid INTEGER PRIMARY KEY,
   rendered TEXT NOT NULL
 );
+
+-- Written every 2 min by the Worker cron, only for members in VOICE_OPT_IN who are
+-- in voice. ts = unix seconds of the tick, shared by every row of that tick.
+-- Purged after 400 days by the weekly wrap-up (see PRIVACY.md).
+CREATE TABLE IF NOT EXISTS voice_samples (
+  ts INTEGER NOT NULL,
+  discord_id TEXT NOT NULL,
+  channel_id TEXT NOT NULL,
+  appid INTEGER, -- Steam game they were in, when their profile shows it
+  PRIMARY KEY (ts, discord_id)
+);

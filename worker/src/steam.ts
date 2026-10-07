@@ -17,6 +17,8 @@ export interface Player {
   personaname: string
   /** 3 = public; anything else hides the profile from the API. */
   communityvisibilitystate: number
+  /** The game being played right now; absent when not playing, Offline/Invisible, or private. */
+  gameid?: string
 }
 
 export type ProfileRef = { steamId: string } | { vanity: string }
@@ -57,12 +59,16 @@ export async function resolveSteamId(ref: ProfileRef, key: string): Promise<stri
   return data.response.success === 1 ? (data.response.steamid ?? null) : null
 }
 
-export async function getPlayer(steamId: string, key: string): Promise<Player | null> {
+export async function getPlayers(steamIds: string[], key: string): Promise<Player[]> {
   const data = await steamApi<{ response: { players: Player[] } }>(
     'ISteamUser/GetPlayerSummaries/v2',
-    { key, steamids: steamId }
+    { key, steamids: steamIds.join(',') }
   )
-  return data.response.players[0] ?? null
+  return data.response.players
+}
+
+export async function getPlayer(steamId: string, key: string): Promise<Player | null> {
+  return (await getPlayers([steamId], key))[0] ?? null
 }
 
 /** null means the profile's "Game details" are not public (Steam returns an empty object). */
