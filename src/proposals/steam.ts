@@ -136,6 +136,60 @@ export interface SteamRegion {
   lang: string
 }
 
+export interface SteamDiscount {
+  appid: number
+  name: string
+  pct: number
+  /** ms; null when Steam gives no end date. */
+  endsAt: number | null
+}
+
+interface StoreItem {
+  appid?: number
+  name?: string
+  best_purchase_option?: {
+    discount_pct?: number
+    active_discounts?: { discount_end_date?: number }[]
+  }
+}
+
+/**
+ * Apps on sale right now and when each sale ends, in one call. appdetails has no end
+ * date; IStoreBrowseService does (verified 2026-10-08). Errors carry the status only.
+ */
+export async function fetchDiscounts(
+  appids: number[],
+  region: SteamRegion
+): Promise<SteamDiscount[]> {
+  if (appids.length === 0) return []
+  const input = {
+    ids: appids.map((appid) => ({ appid })),
+    context: { language: region.lang, country_code: region.cc },
+    data_request: { include_all_purchase_options: true },
+  }
+  const response = await fetch(
+    `https://api.steampowered.com/IStoreBrowseService/GetItems/v1/?input_json=${encodeURIComponent(JSON.stringify(input))}`,
+    { signal: AbortSignal.timeout(10_000) }
+  )
+  if (!response.ok) throw new Error(`Steam store items failed: HTTP ${response.status}`)
+  const data = (await response.json()) as { response?: { store_items?: StoreItem[] } }
+  return (data.response?.store_items ?? []).flatMap((item) => {
+    const option = item.best_purchase_option
+    if (!item.appid || !item.name || !option?.discount_pct) return []
+    const ends = (option.active_discounts ?? []).flatMap((d) =>
+      d.discount_end_date ? [d.discount_end_date * 1000] : []
+    )
+    return [
+      {
+        appid: item.appid,
+        name: item.name,
+        pct: option.discount_pct,
+        endsAt: ends.length > 0 ? Math.min(...ends) : null,
+      },
+    ]
+  })
+}
+
 /** Full metadata for one app. Cannot be batched — see PRICE_BATCH_SIZE note. */
 export async function fetchAppDetails(appid: number, region: SteamRegion): Promise<SteamLookup> {
   const url = `${APPDETAILS_URL}?appids=${appid}&cc=${region.cc}&l=${region.lang}`

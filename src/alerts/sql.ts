@@ -88,3 +88,8 @@ export const PURGE_VOICE = 'DELETE FROM voice_samples WHERE ts < ?1'
 
 /** ?1: UTC date about 2 months ago. */
 export const PURGE_SPEND = 'DELETE FROM ai_spend WHERE day < ?1'
+
+/** ?1..?2: ISO times [from, to). What the alerts job posted to #game-news, per kind. */
+export const POSTED_BY_KIND = `SELECT kind, COUNT(*) AS n FROM alerts
+  WHERE status = 'posted' AND created_at >= ?1 AND created_at < ?2
+  GROUP BY kind`
