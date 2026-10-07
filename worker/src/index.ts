@@ -4,7 +4,7 @@ import {
   InteractionType,
   verifyKey,
 } from 'discord-interactions'
-import { GUILD_ID, PUBLIC_KEY, editReply, option, type Interaction } from './discord'
+import { GUILD_ID, PUBLIC_KEY, editReply, isAdmin, option, type Interaction } from './discord'
 import { findApp, getPlayer, parseProfileInput, resolveSteamId } from './steam'
 import { syncMember, syncStalestMember } from './sync'
 
@@ -52,8 +52,14 @@ export default {
       return reply("This bot only works in Caesar's Palace.")
     }
 
-    const userId = interaction.member?.user.id
     const command = interaction.data?.name
+    // Admins can /link or /unlink someone else; everyone else only themselves.
+    const callerId = interaction.member?.user.id
+    const memberId = option(interaction, 'member')
+    if (memberId && memberId !== callerId && !isAdmin(interaction)) {
+      return reply('Only admins can link or unlink someone else.')
+    }
+    const userId = memberId || callerId
     const run =
       command === 'link' && userId
         ? () => link(env, userId, option(interaction, 'profile'))
@@ -127,15 +133,15 @@ async function link(env: Env, discordId: string, input: string): Promise<string>
 
   const synced = await syncMember(env.DB, steamId, env.STEAM_API_KEY)
   if (!synced) {
-    return `Linked to **${player.personaname}**, but its *Game details* are private so I can't see any games yet. ${PRIVACY_HELP}; I'll pick them up on the next daily sync.`
+    return `Linked <@${discordId}> to **${player.personaname}**, but its *Game details* are private so I can't see any games yet. ${PRIVACY_HELP}; I'll pick them up on the next daily sync.`
   }
 
   const lines = [
-    `Linked to **${player.personaname}**: ${synced.games} games, ${synced.wishlist} on the wishlist.`,
+    `Linked <@${discordId}> to **${player.personaname}**: ${synced.games} games, ${synced.wishlist} on the wishlist.`,
   ]
   if (synced.playtimeHidden) {
     lines.push(
-      "Every game shows 0 hours, which usually means *Always keep my total playtime private* is ticked in Steam's privacy settings. Unticking it lets the bot see what you actually play."
+      "Every game shows 0 hours, which usually means *Always keep my total playtime private* is ticked in Steam's privacy settings. Unticking it lets the bot see what's actually played."
     )
   }
   return lines.join('\n')
@@ -152,8 +158,8 @@ async function unlink(env: Env, discordId: string): Promise<string> {
   ])
   const removed = results.at(-1)?.meta.changes ?? 0
   return removed > 0
-    ? 'Unlinked. Your Steam ID and library data have been deleted.'
-    : "You weren't linked, so there was nothing to delete."
+    ? `Unlinked <@${discordId}>: their Steam ID and library data have been deleted.`
+    : `<@${discordId}> wasn't linked, so there was nothing to delete.`
 }
 
 const hours = (minutes: number): string =>

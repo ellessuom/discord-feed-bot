@@ -1,6 +1,8 @@
 # Privacy
 
 This bot runs on a small private Discord server. Linking your Steam account is optional.
+A server admin can link a member's public profile on their behalf; any member can
+`/unlink` themselves at any time.
 
 ## What is stored when you `/link`
 
@@ -10,7 +12,7 @@ This bot runs on a small private Discord server. Linking your Steam account is o
 - The games on your Steam wishlist, and when you added them
 
 All of it comes from Steam's public API, so the bot can only see it while your
-profile and *Game details* are set to Public.
+profile and _Game details_ are set to Public.
 
 ## Where it lives
 
