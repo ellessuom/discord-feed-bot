@@ -42,3 +42,37 @@ CREATE TABLE IF NOT EXISTS voice_samples (
   appid INTEGER, -- Steam game they were in, when their profile shows it
   PRIMARY KEY (ts, discord_id)
 );
+
+-- Written by the hourly alerts job (src/alerts/). Steam store metadata only.
+CREATE TABLE IF NOT EXISTS app_meta (
+  appid INTEGER PRIMARY KEY,
+  name TEXT,
+  coop INTEGER NOT NULL DEFAULT 0,
+  early_access INTEGER NOT NULL DEFAULT 0,
+  coming_soon INTEGER NOT NULL DEFAULT 0,
+  header_image TEXT,
+  has_data INTEGER NOT NULL, -- 0 when Steam returned nothing usable (delisted, region-locked)
+  fetched_at TEXT NOT NULL
+);
+
+-- Our own price history (IE store): one row each time an app's price changes.
+CREATE TABLE IF NOT EXISTS price_changes (
+  appid INTEGER NOT NULL,
+  ts TEXT NOT NULL,
+  final INTEGER NOT NULL, -- cents
+  initial INTEGER NOT NULL,
+  currency TEXT NOT NULL,
+  PRIMARY KEY (appid, ts)
+);
+
+-- Every alert decision: posted, over the daily cap (listed in the wrap-up), or skipped.
+-- `line` names the game only, never people, so /unlink leaves nothing behind here.
+CREATE TABLE IF NOT EXISTS alerts (
+  key TEXT PRIMARY KEY,
+  kind TEXT NOT NULL,
+  appid INTEGER,
+  line TEXT,
+  status TEXT NOT NULL,
+  created_at TEXT NOT NULL
+);
+CREATE INDEX IF NOT EXISTS alerts_by_time ON alerts (created_at);

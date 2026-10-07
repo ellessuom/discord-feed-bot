@@ -139,7 +139,8 @@ export interface SteamRegion {
 /** Full metadata for one app. Cannot be batched — see PRICE_BATCH_SIZE note. */
 export async function fetchAppDetails(appid: number, region: SteamRegion): Promise<SteamLookup> {
   const url = `${APPDETAILS_URL}?appids=${appid}&cc=${region.cc}&l=${region.lang}`
-  const raw = await spacedFetch<Record<string, RawEntry | undefined>>(url, `appdetails(${appid})`)
+  // The appid stays out of the label: retry warnings land in public Actions logs.
+  const raw = await spacedFetch<Record<string, RawEntry | undefined>>(url, 'appdetails')
   return readEntry(raw, appid)
 }
 

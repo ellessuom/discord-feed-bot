@@ -95,6 +95,20 @@ Non-obvious constraints, all of them load-bearing:
   enough; extend the `Config` interface and the return literal too.
 - Thread deletion needs `MANAGE_THREADS`, not thread ownership.
 
+## Game Alerts (`src/alerts/`)
+
+`npm run alerts`, a step in `feed.yml`: sales, Early Access exits and releases for
+the group's games, posted one embed per game (max 5 per 24 h; the rest are stored
+as `overflow` for the daily wrap-up). All state is in D1 (`app_meta`,
+`price_changes`, `alerts`); it never commits.
+
+- Pure rules in `rules.ts`, SQL in `sql.ts` (tested on `node:sqlite` against
+  `worker/schema.sql`); `index.ts` runs `main()` on import, like proposals.
+- It runs `worker/schema.sql` on start (`ensureSchema`), so that file must stay
+  `CREATE … IF NOT EXISTS` only; a test enforces it.
+- Fails loudly (exit 1) on D1/Discord errors so GitHub emails the owner; logs
+  counts only, because Actions logs are public.
+
 ## Source Types Entry Point
 
 `src/sources/index.ts` dispatches source fetching by type. All source implementations export a `fetch*` function.
