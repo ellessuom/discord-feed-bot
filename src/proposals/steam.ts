@@ -47,7 +47,7 @@ interface RawEntry {
 
 let lastRequestAt = 0
 
-async function spacedFetch<T>(url: string, operation: string): Promise<T> {
+export async function spacedFetch<T>(url: string, operation: string): Promise<T> {
   const elapsed = Date.now() - lastRequestAt
   if (elapsed < REQUEST_SPACING_MS) {
     await new Promise((resolve) => setTimeout(resolve, REQUEST_SPACING_MS - elapsed))

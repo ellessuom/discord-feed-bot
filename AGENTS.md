@@ -108,6 +108,9 @@ as `overflow` for the daily wrap-up). All state is in D1 (`app_meta`,
   `CREATE … IF NOT EXISTS` only; a test enforces it.
 - Fails loudly (exit 1) on D1/Discord errors so GitHub emails the owner; logs
   counts only, because Actions logs are public.
+- Once a day it also refreshes `discover` (`picks.ts`): Steam's popular new Online
+  Co-op games rated Very Positive+, for `/together`. That store search is
+  undocumented, so it's fail-soft and keeps the old list on any error.
 
 ## Source Types Entry Point
 
@@ -121,7 +124,7 @@ as `overflow` for the daily wrap-up). All state is in D1 (`app_meta`,
 
 ## Worker (`worker/`)
 
-- Cloudflare Worker for slash commands (`/link`, `/unlink`, `/owns`) plus a `*/2` cron that (independently) samples voice for `VOICE_OPT_IN` members, re-syncs one stale Steam library, and at minute 0 dispatches `feed.yml` — GitHub's own `schedule` only fires every 3–7 h, so the Worker is the clock
+- Cloudflare Worker for slash commands (`/link`, `/unlink`, `/owns`, `/together`) plus a `*/2` cron that (independently) samples voice for `VOICE_OPT_IN` members, re-syncs one stale Steam library, and at minute 0 dispatches `feed.yml` — GitHub's own `schedule` only fires every 3–7 h, so the Worker is the clock
 - Separate package, **not** a root workspace (keeps wrangler out of the hourly `npm ci`): `npm ci --prefix worker`
 - Wrangler needs Node 22 (`.nvmrc`)
 - Commands: `npm run typecheck --prefix worker`, `npm run dev --prefix worker`; its tests live in `worker/src/__tests__/` and run with the root `npm test`

@@ -72,15 +72,18 @@ const mostPlayed = (library: Library, appid: number): number =>
   Math.max(0, ...(library.owners.get(appid)?.values() ?? []))
 
 /**
- * Which apps to look up on the store this run. Only apps that can ever alert:
- * wishlisted, or played ≥2 h by someone (an owned game nobody has played can't
- * fire a sale). New wishlisted apps first, then new owned ones most recently
- * played first (the OWNED query's order); then Early Access / unreleased apps
- * once a day, and empty lookups once a week.
+ * Which apps to look up on the store this run. Only apps that can alert or show
+ * up in /together: wishlisted, played ≥2 h by someone, or owned by two or more
+ * (an owned game nobody has played can't fire a sale). New wishlisted apps
+ * first, then new owned ones most recently played first (the OWNED query's
+ * order); then Early Access / unreleased apps once a day, and empty lookups
+ * once a week.
  */
 export function metaQueue(library: Library, meta: Map<number, AppMeta>, now: number): number[] {
   const tracked = (appid: number) =>
-    library.wishers.has(appid) || mostPlayed(library, appid) >= PLAYED_MINUTES
+    library.wishers.has(appid) ||
+    (library.owners.get(appid)?.size ?? 0) >= 2 ||
+    mostPlayed(library, appid) >= PLAYED_MINUTES
   const isNew = (appid: number) => !meta.has(appid)
   const olderThan = (row: AppMeta, ms: number) => Date.parse(row.fetched_at) < now - ms
   const rows = [...meta.values()].filter((row) => tracked(row.appid))

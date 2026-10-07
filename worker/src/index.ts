@@ -9,6 +9,7 @@ import { findApp, getPlayer, parseProfileInput, resolveSteamId } from './steam'
 import { syncMember, syncStalestMember } from './sync'
 import { runClock } from './clock'
 import { pollVoice } from './voice'
+import { together } from './together'
 
 interface Env {
   DB: D1Database
@@ -71,7 +72,9 @@ export default {
           ? () => unlink(env, userId)
           : command === 'owns'
             ? () => owns(env, option(interaction, 'game'))
-            : null
+            : command === 'together' && callerId
+              ? () => together(env.DB, env.DISCORD_BOT_TOKEN, callerId)
+              : null
     if (!run) return reply('Unknown command.')
 
     // Steam can take longer than Discord's 3-second limit: acknowledge now, answer within 15 min.
@@ -79,13 +82,17 @@ export default {
       run()
         .catch((error: unknown) => {
           console.error(`/${command} failed:`, error instanceof Error ? error.message : error)
-          return 'Something went wrong talking to Steam. Try again in a minute.'
+          return 'Something went wrong. Try again in a minute.'
         })
         .then((content) => editReply(interaction.token, content))
     )
     return json({
       type: InteractionResponseType.DEFERRED_CHANNEL_MESSAGE_WITH_SOURCE,
-      data: command === 'owns' ? {} : { flags: InteractionResponseFlags.EPHEMERAL },
+      // /owns and /together answer in the channel; /link and /unlink only to the caller.
+      data:
+        command === 'owns' || command === 'together'
+          ? {}
+          : { flags: InteractionResponseFlags.EPHEMERAL },
     })
   },
 

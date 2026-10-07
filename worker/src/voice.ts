@@ -15,7 +15,7 @@ export interface VoiceSample {
  * null = not in voice (404) or in a channel the bot can't see (403). Anything else
  * (429, 5xx) throws, so the tick is skipped rather than recorded with someone missing.
  */
-async function voiceState(token: string, userId: string): Promise<VoiceState | null> {
+export async function voiceState(token: string, userId: string): Promise<VoiceState | null> {
   const response = await discordApi(token, `/guilds/${GUILD_ID}/voice-states/${userId}`)
   if (response.status === 404 || response.status === 403) return null
   if (!response.ok) throw new Error(`voice-state failed: HTTP ${response.status}`)

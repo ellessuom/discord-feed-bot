@@ -27,6 +27,9 @@ This is used for the weekly recap in #general (hours in voice, who played with w
 what you played together) and a yearly recap. Samples are deleted after 400 days.
 To opt out, ask an admin: your ID is removed from the list and your samples deleted.
 
+`/together` is separate: when someone runs it, the bot checks who is in their voice
+channel right then, to suggest games for those people. Nothing about that is stored.
+
 ## Where it lives
 
 In a private Cloudflare D1 database that only the server owner can access, stored
@@ -35,7 +38,7 @@ repository.
 
 ## What it's used for
 
-Showing who owns or wishlisted a game (`/owns` and the #game-proposals cards),
+Showing who owns or wishlisted a game (`/owns`, `/together` and the #game-proposals cards),
 pinging you when a game you wishlisted or proposed drops in price (unless you
 already own it), game alerts in #game-news that show who owns or wishlisted the
 game (by name, never a ping), and, as the bot grows, deal alerts for games your friends play,

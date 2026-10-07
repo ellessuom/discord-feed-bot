@@ -52,3 +52,13 @@ export const INSERT_PRICES = `INSERT OR IGNORE INTO price_changes (appid, ts, fi
   SELECT json_extract(value, '$.appid'), ?2, json_extract(value, '$.final'),
          json_extract(value, '$.initial'), json_extract(value, '$.currency')
   FROM json_each(?1)`
+
+export const PICKS_UPDATED = 'SELECT MAX(seen_at) AS at FROM discover'
+
+export const DELETE_PICKS = 'DELETE FROM discover'
+
+/** ?1: JSON array of {appid, name, rank, reviews}, ?2: ISO time. Replaces the list after DELETE_PICKS. */
+export const INSERT_PICKS = `INSERT OR IGNORE INTO discover (appid, name, rank, reviews, seen_at)
+  SELECT json_extract(value, '$.appid'), json_extract(value, '$.name'),
+         json_extract(value, '$.rank'), json_extract(value, '$.reviews'), ?2
+  FROM json_each(?1)`

@@ -76,3 +76,13 @@ CREATE TABLE IF NOT EXISTS alerts (
   created_at TEXT NOT NULL
 );
 CREATE INDEX IF NOT EXISTS alerts_by_time ON alerts (created_at);
+
+-- Written daily by the alerts job: Steam's popular new Online Co-op games rated Very
+-- Positive or better (public store data only). /together suggests the ones nobody owns.
+CREATE TABLE IF NOT EXISTS discover (
+  appid INTEGER PRIMARY KEY,
+  name TEXT NOT NULL,
+  rank INTEGER NOT NULL, -- position in Steam's list
+  reviews TEXT NOT NULL, -- Steam's label, e.g. "Very Positive"
+  seen_at TEXT NOT NULL
+);
