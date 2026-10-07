@@ -3,8 +3,10 @@
 
 export const MEMBERS = 'SELECT discord_id FROM members ORDER BY linked_at'
 
+/** Most recently played first: buildLibrary keeps this order, and metaQueue scans in it. */
 export const OWNED = `SELECT m.discord_id, o.appid, o.playtime_forever FROM owned_games o
-  JOIN members m ON m.steam_id = o.steam_id`
+  JOIN members m ON m.steam_id = o.steam_id
+  ORDER BY o.playtime_2weeks DESC, o.playtime_forever DESC`
 
 export const WISHLIST = `SELECT m.discord_id, w.appid FROM wishlist w
   JOIN members m ON m.steam_id = w.steam_id`
