@@ -19,6 +19,7 @@
     "proposals:dry-run": "tsx src/proposals/index.ts --dry-run",
     "proposals:backfill": "tsx src/proposals/index.ts --backfill",
     "proposals:undo": "tsx src/proposals/index.ts --undo",
+    "alerts": "tsx src/alerts/index.ts",
     "lint": "eslint src/ && npm run lint -w ui",
     "typecheck": "tsc --noEmit && npm run typecheck -w ui",
     "format": "prettier --write src/",

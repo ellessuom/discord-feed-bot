@@ -37,7 +37,8 @@ repository.
 
 Showing who owns or wishlisted a game (`/owns` and the #game-proposals cards),
 pinging you when a game you wishlisted or proposed drops in price (unless you
-already own it), and, as the bot grows, deal alerts for games your friends play,
+already own it), game alerts in #game-news that show who owns or wishlisted the
+game (by name, never a ping), and, as the bot grows, deal alerts for games your friends play,
 game-night suggestions and playtime recaps.
 It is not shared with anyone outside the server.
 

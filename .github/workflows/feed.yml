@@ -49,6 +49,16 @@ jobs:
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
           CF_D1_TOKEN: ${{ secrets.CF_D1_TOKEN }}
 
+      # Sales, Early Access exits and releases (src/alerts/). State lives in D1, so it
+      # never commits; it runs even if an earlier step failed, and fails loudly itself.
+      - name: Post game alerts
+        if: ${{ !cancelled() }}
+        timeout-minutes: 10
+        run: npm run alerts
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          CF_D1_TOKEN: ${{ secrets.CF_D1_TOKEN }}
+
       # always(): a failure in the proposals step must not discard the news state
       # or the scan cursor, or the next run re-posts news and re-scans history.
       - name: Commit state and status
