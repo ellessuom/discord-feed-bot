@@ -1,12 +1,9 @@
 import fs from 'node:fs'
 import path from 'node:path'
-import { fileURLToPath } from 'node:url'
+import { dataDir } from '../paths'
 import type { ProposalsFile } from './types'
 
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
-const projectRoot = path.resolve(__dirname, '..', '..')
-const proposalsPath = path.resolve(projectRoot, 'data', 'proposals.json')
+const proposalsPath = path.resolve(dataDir, 'proposals.json')
 
 /**
  * Deliberately separate from data/state.json: that file prunes at 30 days and

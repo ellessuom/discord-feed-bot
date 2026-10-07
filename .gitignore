@@ -5,3 +5,9 @@ dist/
 data/state.json
 *.log
 .DS_Store
+# Local secrets and dev-only config/data (never commit)
+.dev.vars*
+.wrangler/
+config.yaml.backup
+config.dev.yaml
+data-dev/

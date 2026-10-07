@@ -1,8 +1,7 @@
 import fs from 'node:fs'
-import path from 'node:path'
-import { fileURLToPath } from 'node:url'
 import yaml from 'js-yaml'
 import { z } from 'zod'
+import { configPath } from './paths'
 import type { Source } from './sources/types'
 
 const DiscordConfigSchema = z.object({
@@ -130,10 +129,6 @@ export interface Config {
   proposals?: ProposalsConfig | undefined
 }
 
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
-const projectRoot = path.resolve(__dirname, '..')
-
 function substituteEnvVars(value: string): string {
   const envVarPattern = /\$\{([^}]+)\}/g
   return value.replace(envVarPattern, (_, varName) => {
@@ -163,8 +158,6 @@ function substituteEnvVarsInObject(obj: unknown): unknown {
 }
 
 export function loadConfig(): Config {
-  const configPath = path.resolve(projectRoot, 'config.yaml')
-
   if (!fs.existsSync(configPath)) {
     throw new Error(`Config file not found: ${configPath}`)
   }

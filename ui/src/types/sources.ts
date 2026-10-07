@@ -57,6 +57,8 @@ export interface Config {
   }
   sources: Source[]
   settings: Settings
+  /** Top-level blocks the UI doesn't edit (e.g. `proposals`), written back untouched on save. */
+  extra?: Record<string, unknown>
 }
 
 export const SOURCE_TYPE_INFO: Record<

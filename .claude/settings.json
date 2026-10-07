@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(**/.env*)",
+      "Read(**/.dev.vars*)",
+      "Bash(npm run proposals:undo*)",
+      "Bash(npm run proposals -- --undo*)",
+      "Bash(tsx src/proposals/index.ts --undo*)",
+      "Bash(npx tsx src/proposals/index.ts --undo*)",
+      "Bash(gh workflow run proposals-backfill*)",
+      "Bash(gh workflow run \"Game Proposals*)",
+      "Bash(gh workflow run 'Game Proposals*)",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git push * --force*)",
+      "Bash(git push * -f*)",
+      "Bash(git push * +*)",
+      "Bash(wrangler delete*)",
+      "Bash(npx wrangler delete*)",
+      "Bash(wrangler d1 delete*)",
+      "Bash(npx wrangler d1 delete*)"
+    ]
+  }
+}

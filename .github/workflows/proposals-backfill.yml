@@ -1,8 +1,9 @@
 name: Game Proposals (manual)
 
 # One-shot operations that must never run on the hourly cron: the initial
-# history backfill, a dry run, and the rollback that deletes every forum post
-# this bot created.
+# history backfill and a dry run. The rollback (--undo) is deliberately not
+# offered here: it deletes every forum thread and its discussion, so it only
+# runs locally, by hand.
 on:
   workflow_dispatch:
     inputs:
@@ -14,7 +15,6 @@ on:
         options:
           - dry-run
           - backfill
-          - undo
       limit:
         description: 'Max pages of 100 messages to scan (blank = no limit)'
         required: false
@@ -50,7 +50,6 @@ jobs:
           case "${{ inputs.mode }}" in
             dry-run)  ARGS="--dry-run" ;;
             backfill) ARGS="--backfill" ;;
-            undo)     ARGS="--undo" ;;
           esac
           if [ -n "${{ inputs.limit }}" ]; then
             ARGS="$ARGS --limit=${{ inputs.limit }}"

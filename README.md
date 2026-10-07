@@ -305,9 +305,9 @@ under 100 servers).
 | `npm run proposals` | Incremental scan + price refresh. Runs hourly in `feed.yml`. |
 | `npm run proposals:dry-run` | Scans and prints findings. **Writes nothing.** |
 | `npm run proposals:backfill` | Walks the channel's entire history, oldest-first. |
-| `npm run proposals:undo` | Deletes every forum post this bot created and resets cursors. |
+| `npm run proposals:undo` | **Irreversible:** deletes every forum post this bot created (and the discussion in it) and resets cursors. Add `-- --dry-run` to list what it would delete. |
 
-Backfill, dry-run and undo also run from Actions → **Game Proposals (manual)**.
+Backfill and dry-run also run from Actions → **Game Proposals (manual)**. Undo is local-only on purpose.
 
 **Run the dry run first.** If it reports messages scanned but no Steam links found,
 the Message Content intent is still off — every `content` field comes back empty.

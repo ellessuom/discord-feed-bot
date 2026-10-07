@@ -1,11 +1,8 @@
 import fs from 'node:fs'
 import path from 'node:path'
-import { fileURLToPath } from 'node:url'
+import { dataDir } from './paths'
 
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
-const projectRoot = path.resolve(__dirname, '..')
-const statePath = path.resolve(projectRoot, 'data', 'state.json')
+const statePath = path.resolve(dataDir, 'state.json')
 
 const MAX_AGE_DAYS = 30
 const MAX_IDS_PER_SOURCE = 100
