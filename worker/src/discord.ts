@@ -1,7 +1,7 @@
 // Fixed identifiers of the app and server; none of these are secrets.
 export const APPLICATION_ID = '1547676115693346946'
 export const PUBLIC_KEY = '707103b118a335695decdbaefc1d5356d9d1786f053aa873cf5ac477b33fb2c0'
-export const GUILD_ID = '' // TODO(user): server ID (Developer Mode → right-click server → Copy Server ID)
+export const GUILD_ID = '1305936883271860294' // Caesar's Palace
 
 const STRING = 3
 const GUILD_ONLY = [0]
