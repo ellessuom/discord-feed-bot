@@ -1,8 +1,11 @@
 name: Fetch Steam News
 
 on:
+  # The Worker cron (worker/src/clock.ts) dispatches this every hour on the hour;
+  # GitHub's own schedule fires only every 3-7 h, so it's just a fallback in case
+  # the Worker is paused. Offset to :30 so it doesn't collide with a dispatch.
   schedule:
-    - cron: '0 * * * *'
+    - cron: '30 */6 * * *'
   workflow_dispatch:
 
 concurrency:
