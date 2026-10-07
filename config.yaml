@@ -8,7 +8,7 @@ sources:
   - id: reddit_steamdeals
     type: reddit
     name: r/steamdeals
-    enabled: true
+    enabled: false
     subreddit: steamdeals
   - id: steam_2073850
     type: steam_game
@@ -18,11 +18,11 @@ sources:
   - id: steam_sales
     type: steam_sales
     name: Steam Sales
-    enabled: true
+    enabled: false
   - id: reddit_gamingnews
     type: reddit
     name: r/gamingnews
-    enabled: true
+    enabled: false
     subreddit: gamingnews
 settings:
   max_posts_per_run: 24
