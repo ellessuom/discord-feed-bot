@@ -68,10 +68,11 @@ export default {
       return reply('Only admins can link or unlink someone else.')
     }
     const userId = memberId || callerId
+    const now = Date.now()
     if (command === 'ask' && callerId) {
       // The budget check and reservation run before the deferral, so "you've used your 5"
       // is shown only to the asker. A D1 error refuses rather than skipping the meter.
-      const refusal = await askGate(env, callerId).catch(
+      const refusal = await askGate(env, callerId, now).catch(
         () => 'Something went wrong. Try again in a minute.'
       )
       if (refusal) return reply(refusal)
@@ -86,7 +87,7 @@ export default {
             : command === 'together' && callerId
               ? () => together(env.DB, env.DISCORD_BOT_TOKEN, callerId)
               : command === 'ask' && callerId
-                ? () => ask(env, callerId, option(interaction, 'question'))
+                ? () => ask(env, callerId, option(interaction, 'question'), now)
                 : null
     if (!run) return reply('Unknown command.')
 

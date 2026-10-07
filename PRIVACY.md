@@ -37,12 +37,14 @@ When you use it:
 
 - your question (with any @mentions removed) is sent to OpenAI, together with facts from
   the server's Steam data: which linked members own or wishlisted the games involved, and
-  their hours. People are sent only as "Friend A", "Friend B"…, never by name or Discord ID;
-  the bot puts the names back into its reply.
+  their hours, and which co-op games each linked member owns (for suggestions). People are
+  sent only as "Friend A", "Friend B"…, never by name or Discord ID; the bot puts the names
+  back into its reply.
 - the bot asks OpenAI not to store the request, but OpenAI may keep it for up to 30 days to
   check for abuse.
-- the bot itself doesn't keep your question or the answer, only how many questions each
-  person asked per day (for the daily limit) and what they cost, for about 2 months.
+- the question and the answer are posted in the channel for everyone there to see. The
+  bot itself doesn't store either, only how many questions each person asked per day (for
+  the daily limit) and what they cost, for about 2 months.
 
 ## Where it lives
 

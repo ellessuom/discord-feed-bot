@@ -39,8 +39,8 @@ test('facts name people only as Friend letters, including who lacks a game', () 
     - PC requirements: Minimum: · OS: Windows 10 · Memory: 8 GB RAM
     - Owned by: Friend A (40 h). Wishlisted by: Friend B. Doesn't have it: Friend B, Friend C
 
-    Co-op games the group owns (letters = who owns it):
-    - Deep Rock Galactic: A B C"
+    Co-op games the group owns, and who owns each:
+    - Deep Rock Galactic: Friend A, Friend B, Friend C"
   `)
 })
 
@@ -66,6 +66,12 @@ test('render turns Friend letters into mentions, but never "F1 25" or unknown le
   )
   expect(message).toBe(
     '> <@c>: games like REPO?\n<@a> owns F1 25; Friend Z and a link do not.\n-# Sources: <https://reddit.com/r/x>'
+  )
+})
+
+test('the echoed question loses links too', () => {
+  expect(render('c', 'is [free nitro](https://x.example) real?', 'No.', [], [])).toBe(
+    '> <@c>: is free nitro real?\nNo.'
   )
 })
 

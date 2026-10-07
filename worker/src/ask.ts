@@ -47,7 +47,7 @@ export interface AskEnv {
   AI_ENABLED?: string
 }
 
-export const d1Sql =
+const d1Sql =
   (db: D1Database): Sql =>
   async (sql, params) =>
     (
@@ -58,9 +58,9 @@ export const d1Sql =
     ).results
 
 /** Runs before the deferral, so a refusal is shown only to the asker. Reserves on success. */
-export async function askGate(env: AskEnv, callerId: string): Promise<string | null> {
+export async function askGate(env: AskEnv, callerId: string, now: number): Promise<string | null> {
   if (env.AI_ENABLED !== 'true' || !env.OPENAI_API_KEY) return '/ask is switched off right now.'
-  const refusal = await reserve(d1Sql(env.DB), callerId, Date.now())
+  const refusal = await reserve(d1Sql(env.DB), callerId, now)
   return refusal ? REFUSALS[refusal] : null
 }
 
@@ -139,12 +139,12 @@ export function factsBlock(
   }
 
   if (library.length > 0) {
-    const letter = (id: string) => friend(members, id)?.slice(-1)
     lines.push(
       '',
-      'Co-op games the group owns (letters = who owns it):',
+      'Co-op games the group owns, and who owns each:',
       ...library.map(
-        (game) => `- ${game.name}: ${(JSON.parse(game.owners) as string[]).map(letter).join(' ')}`
+        (game) =>
+          `- ${game.name}: ${(JSON.parse(game.owners) as string[]).map((id) => friend(members, id)).join(', ')}`
       )
     )
   }
@@ -159,7 +159,8 @@ export function render(
   sources: string[],
   members: string[]
 ): string {
-  const head = `> <@${callerId}>: ${question}`
+  // The question is echoed too, so it gets the same link strip as the answer.
+  const head = `> <@${callerId}>: ${sanitize(question, 300)}`
   const foot = sources.length > 0 ? `\n-# Sources: ${sources.map((u) => `<${u}>`).join(' · ')}` : ''
   const answer = sanitize(text, 1500).replace(/\bFriend ([A-Z])\b/g, (match, letter: string) => {
     const id = members[letter.charCodeAt(0) - 65]
@@ -180,25 +181,42 @@ async function lookup(title: string): Promise<GameFacts | null> {
   }
 }
 
+function parseTriage(text: string): { on_topic?: boolean; games?: string[] } {
+  try {
+    return JSON.parse(text) as { on_topic: boolean; games: string[] }
+  } catch {
+    return {}
+  }
+}
+
 const isTimeout = (error: unknown) => error instanceof Error && error.name === 'TimeoutError'
 
 /**
  * Runs in waitUntil, which Cloudflare cuts off 30 s after the deferral: one deadline
  * covers triage, Steam and the answer. An abort leaves the reservation as the cost.
+ * `now` is the gate's, so the reservation and its settlement land on the same UTC day.
  * ponytail: if 26 s is often too short, use OpenAI background mode and let the 2-minute cron
  * finish the reply (the interaction token lasts 15 min).
  */
-export async function ask(env: AskEnv, callerId: string, question: string): Promise<string> {
+export async function ask(
+  env: AskEnv,
+  callerId: string,
+  question: string,
+  now: number
+): Promise<string> {
   const deadline = Date.now() + 26_000
   const apiKey = env.OPENAI_API_KEY ?? ''
   const q = cleanQuestion(question)
+  // The reservation already covers the cost, so a failed settlement never costs the answer.
+  const settleCost = (usd: number) =>
+    settle(d1Sql(env.DB), 'ask', callerId, usd - ASK_RESERVE_USD, now).catch(() => {})
   try {
     const triage = await respond(
       apiKey,
       {
         instructions: TRIAGE,
         input: q,
-        max_output_tokens: 80,
+        max_output_tokens: 150,
         text: {
           format: {
             type: 'json_schema',
@@ -218,9 +236,11 @@ export async function ask(env: AskEnv, callerId: string, question: string): Prom
       },
       AbortSignal.timeout(4000)
     )
-    const { on_topic, games } = JSON.parse(triage.text) as { on_topic: boolean; games: string[] }
+    // A cut-off reply (many games named) still gets an answer, just without Steam facts;
+    // the answer prompt refuses off-topic questions too.
+    const { on_topic = true, games = [] } = parseTriage(triage.text)
     if (!on_topic) {
-      await settle(d1Sql(env.DB), 'ask', callerId, triage.usd - ASK_RESERVE_USD, Date.now())
+      await settleCost(triage.usd)
       return render(callerId, q, OFF_TOPIC, [], [])
     }
 
@@ -259,16 +279,11 @@ export async function ask(env: AskEnv, callerId: string, question: string): Prom
       },
       AbortSignal.timeout(Math.max(1000, deadline - Date.now() - 2000))
     )
-    await settle(
-      d1Sql(env.DB),
-      'ask',
-      callerId,
-      triage.usd + answer.usd - ASK_RESERVE_USD,
-      Date.now()
-    )
-    return answer.text.trim() === 'OFF_TOPIC'
+    await settleCost(triage.usd + answer.usd)
+    const text = answer.text.trim()
+    return text.startsWith('OFF_TOPIC')
       ? render(callerId, q, OFF_TOPIC, [], [])
-      : render(callerId, q, answer.text, answer.sources, members)
+      : render(callerId, q, text || "I couldn't find an answer to that.", answer.sources, members)
   } catch (error) {
     if (isTimeout(error))
       return render(callerId, q, 'That one took too long, try a narrower question.', [], [])
