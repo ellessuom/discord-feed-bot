@@ -1,0 +1,17 @@
+name = "palace-bot"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+
+[vars]
+# Kill switch: set to "false" (dashboard or here + deploy) and every command answers "paused".
+BOT_ENABLED = "true"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "palace-bot"
+# Placeholder until `wrangler d1 create palace-bot` is run; local dev doesn't need the real id.
+database_id = "00000000-0000-0000-0000-000000000000"
+
+[triggers]
+# Each run re-syncs at most one member whose library is older than a day.
+crons = ["*/30 * * * *"]
