@@ -1,3 +1,5 @@
+import { htmlToText } from '../../src/utils/html-to-text'
+
 const API = 'https://api.steampowered.com'
 const STORE = 'https://store.steampowered.com'
 
@@ -89,10 +91,15 @@ export async function getWishlist(steamId: string, key: string): Promise<Wishlis
   return data.response.items ?? []
 }
 
-export async function findApp(input: string): Promise<{ appid: number; name: string } | null> {
+export async function findApp(
+  input: string,
+  signal?: AbortSignal
+): Promise<{ appid: number; name: string } | null> {
   const appid = parseAppInput(input)
   if (appid !== null) {
-    const response = await fetch(`${STORE}/api/appdetails?appids=${appid}&filters=basic`)
+    const response = await fetch(`${STORE}/api/appdetails?appids=${appid}&filters=basic`, {
+      signal: signal ?? null,
+    })
     if (!response.ok) throw new Error(`Steam appdetails failed: HTTP ${response.status}`)
     const data = (await response.json()) as Record<
       string,
@@ -103,9 +110,70 @@ export async function findApp(input: string): Promise<{ appid: number; name: str
   }
 
   const params = new URLSearchParams({ term: input.trim(), l: 'english', cc: 'IE' })
-  const response = await fetch(`${STORE}/api/storesearch/?${params}`)
+  const response = await fetch(`${STORE}/api/storesearch/?${params}`, { signal: signal ?? null })
   if (!response.ok) throw new Error(`Steam store search failed: HTTP ${response.status}`)
   const data = (await response.json()) as { items?: { id: number; name: string; type: string }[] }
   const hit = data.items?.find((item) => item.type === 'app')
   return hit ? { appid: hit.id, name: hit.name } : null
+}
+
+export interface GameFacts {
+  appid: number
+  name: string
+  released: string
+  controller: string | null
+  features: string[]
+  price: string | null
+  /** Steam's minimum PC requirements as plain text; '' when the store lists none. */
+  minimum: string
+  reviews: string | null
+}
+
+interface AppDetailsData {
+  name: string
+  is_free?: boolean
+  release_date?: { coming_soon: boolean; date: string }
+  controller_support?: string
+  categories?: { description: string }[]
+  genres?: { description: string }[]
+  price_overview?: { final_formatted: string }
+  pc_requirements?: { minimum?: string } | []
+}
+
+/** Store facts for /ask: authoritative and free, so the AI only searches for the rest. */
+export async function gameFacts(appid: number, signal: AbortSignal): Promise<GameFacts | null> {
+  const get = async <T>(url: string): Promise<T | null> => {
+    const response = await fetch(url, { signal })
+    return response.ok ? ((await response.json()) as T) : null
+  }
+  const [details, reviews] = await Promise.all([
+    get<Record<string, { data?: AppDetailsData }>>(
+      `${STORE}/api/appdetails?appids=${appid}&cc=IE&l=english`
+    ),
+    get<{ query_summary?: { review_score_desc?: string; total_reviews?: number } }>(
+      `${STORE}/appreviews/${appid}?json=1&language=all&purchase_type=all&num_per_page=0`
+    ).catch(() => null),
+  ])
+  const data = details?.[appid]?.data
+  if (!data) return null
+
+  const earlyAccess = data.genres?.some((g) => g.description === 'Early Access') ?? false
+  const date = data.release_date
+  const summary = reviews?.query_summary
+  const minimum = Array.isArray(data.pc_requirements) ? '' : (data.pc_requirements?.minimum ?? '')
+  return {
+    appid,
+    name: data.name,
+    released:
+      (date?.coming_soon ? `not out yet (${date.date || 'no date'})` : date?.date || 'unknown') +
+      (earlyAccess ? ', in Early Access' : ''),
+    controller: data.controller_support ?? null,
+    features: (data.categories ?? []).map((c) => c.description),
+    price: data.is_free ? 'free' : (data.price_overview?.final_formatted ?? null),
+    minimum: htmlToText(minimum, 600).replace(/\s*\n+\s*/g, ' · '),
+    reviews:
+      summary?.review_score_desc && summary.total_reviews
+        ? `${summary.review_score_desc} (${summary.total_reviews.toLocaleString('en-IE')} reviews)`
+        : null,
+  }
 }

@@ -61,6 +61,21 @@ export const COMMANDS = [
     description: 'Co-op games the people in your voice channel can play, or buy, together',
     contexts: GUILD_ONLY,
   },
+  {
+    name: 'ask',
+    description:
+      'Ask anything about a video game: specs, co-op, controllers, opinions, what to play',
+    contexts: GUILD_ONLY,
+    options: [
+      {
+        type: STRING,
+        name: 'question',
+        description: 'e.g. how many people can play Valheim in co-op?',
+        required: true,
+        max_length: 300,
+      },
+    ],
+  },
 ]
 
 export interface Interaction {
