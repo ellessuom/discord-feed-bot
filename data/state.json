@@ -1,16 +1,8 @@
 {
-  "lastRun": "2026-10-06T21:30:42.576Z",
+  "lastRun": "2026-10-07T01:18:12.523Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wq2brt/save_75_on_hades_on_steam/",
-        "postedAt": "2026-09-25T18:21:33.961Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wpwg39/save_50_on_pentiment_on_steam/",
-        "postedAt": "2026-09-25T18:21:33.961Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wpqavb/save_75_on_south_park_snow_day_on_steam/",
         "postedAt": "2026-09-25T18:21:33.961Z"
@@ -402,6 +394,14 @@
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wz8u6b/lostbound_48930_off/",
         "postedAt": "2026-10-06T21:30:42.576Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wziuyf/save_90_on_hackgu_last_recode_new_historical_low/",
+        "postedAt": "2026-10-07T01:18:12.523Z"
+      },
+      {
+        "id": "https://www.reddit.com/r/steamdeals/comments/1wzgrk6/save_70_on_far_lands_on_steam/",
+        "postedAt": "2026-10-07T01:18:12.523Z"
       }
     ],
     "steam_sales": [
@@ -957,7 +957,7 @@
   },
   "lastSeen": {
     "steam_news": "https://store.steampowered.com/news/app/261550/view/637963704478991267",
-    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wz8u6b/lostbound_48930_off/",
+    "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wzgrk6/save_70_on_far_lands_on_steam/",
     "steam_sales": "sale_1326470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
     "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703275952293020219"
