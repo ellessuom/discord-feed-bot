@@ -4,8 +4,8 @@ import type { SteamLookup, SteamPrice } from '../proposals/steam'
 
 export const DAILY_CAP = 5
 export const META_PER_RUN = 150
-/** #test while the alerts are being tried out; #game-news once they go live. */
-export const ALERTS_CHANNEL_ID = '1557377666246770729'
+/** #game-news: sale, Early Access, release and patch-note posts, and the 18:00 digest. */
+export const ALERTS_CHANNEL_ID = '1493953981246869556'
 const DAY_MS = 86_400_000
 const SALE_DISCOUNT = 40
 const PLAYED_MINUTES = 120
