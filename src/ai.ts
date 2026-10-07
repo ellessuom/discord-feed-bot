@@ -110,6 +110,15 @@ export async function reserve(sql: Sql, who: string, now: number): Promise<Refus
   return null
 }
 
+/** For the Actions jobs, which bound themselves per run: only the monthly total applies. */
+export async function underMonthCap(sql: Sql, now: number): Promise<boolean> {
+  const [row = {}] = await sql(
+    'SELECT COALESCE(SUM(usd), 0) AS month FROM ai_spend WHERE day >= ?1',
+    [`${utcDay(now).slice(0, 7)}-01`]
+  )
+  return Number(row.month ?? 0) + 0.01 <= MONTH_USD
+}
+
 /** Adds to the meter; usd may be negative to release part of a reservation. */
 export async function settle(
   sql: Sql,

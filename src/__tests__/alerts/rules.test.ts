@@ -193,14 +193,15 @@ describe('isNew and rank', () => {
     expect(isNew(sale('sale:1:749', 70), new Map([['sale:1:749', days(5)]]), NOW)).toBe(false)
   })
 
-  test('Early Access first, then lowest-seen, then the biggest discount', () => {
+  test('Early Access first, then patch notes, then lowest-seen, then the biggest discount', () => {
     const ranked = rank([
       sale('sale:a', 50),
+      { key: 'patch:1', kind: 'patch', appid: 1, line: '' },
       sale('sale:b', 90),
       sale('sale:c', 30, days(60)),
       { key: 'ea:1', kind: 'ea', appid: 1, line: '' },
     ])
-    expect(ranked.map((a) => a.key)).toEqual(['ea:1', 'sale:c', 'sale:b', 'sale:a'])
+    expect(ranked.map((a) => a.key)).toEqual(['ea:1', 'patch:1', 'sale:c', 'sale:b', 'sale:a'])
   })
 })
 

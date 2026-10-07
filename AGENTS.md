@@ -112,6 +112,22 @@ as `overflow` for the daily wrap-up). All state is in D1 (`app_meta`,
   Co-op games rated Very Positive+, for `/together`. That store search is
   undocumented, so it's fail-soft and keeps the old list on any error.
 
+- Patch notes (`patches.ts`): for games the group played ≥2 h in the last 2 weeks, official
+  Steam announcements from the last 48 h, summarized by AI only with `AI_ENABLED` and
+  `OPENAI_API_KEY`. At most 3 per run, and only while a slot is free today (otherwise they
+  go to the digest unsummarized). Fail-soft: any error skips patches, never the sales.
+
+## Wrap-ups (`src/wrapup/`)
+
+`npm run wrapup`, a `feed.yml` step after alerts. No AI: code writes every word.
+
+- Daily digest from 18:00 Dublin: the last day's `overflow` alerts, to the alerts channel,
+  then marked `listed`. Weekly voice recap from Monday 12:00 Dublin (the previous Monday to
+  Monday, 169 h when the clocks go back), which also runs the 400-day voice purge.
+- Each records a `wrapup:*` key in `alerts` with status `done`, never `posted`: `POSTED_SINCE`
+  counts `posted` rows toward the 5-a-day alert cap. A missed run catches up on the next.
+- `wrapup-preview.yml` (manual) posts either one to #test now and records nothing.
+
 ## Source Types Entry Point
 
 `src/sources/index.ts` dispatches source fetching by type. All source implementations export a `fetch*` function.

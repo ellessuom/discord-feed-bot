@@ -20,6 +20,7 @@
     "proposals:backfill": "tsx src/proposals/index.ts --backfill",
     "proposals:undo": "tsx src/proposals/index.ts --undo",
     "alerts": "tsx src/alerts/index.ts",
+    "wrapup": "tsx src/wrapup/index.ts",
     "lint": "eslint src/ && npm run lint -w ui",
     "typecheck": "tsc --noEmit && npm run typecheck -w ui",
     "format": "prettier --write src/",

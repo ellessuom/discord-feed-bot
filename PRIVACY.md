@@ -23,8 +23,8 @@ bot records:
 - that you were in voice, and in which channel (the AFK channel is ignored)
 - the Steam game you were playing at that moment, if your Steam profile shows it
 
-This is used for the weekly recap in #general (hours in voice, who played with whom,
-what you played together) and a yearly recap. Samples are deleted after 400 days.
+This is used for the weekly recap in #general (time in voice together, who played with
+whom, the longest session and busiest evening, what you played together) and a yearly recap. Samples are deleted after 400 days.
 To opt out, ask an admin: your ID is removed from the list and your samples deleted.
 
 `/together` is separate: when someone runs it, the bot checks who is in their voice
