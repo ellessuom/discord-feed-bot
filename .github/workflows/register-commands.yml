@@ -1,0 +1,47 @@
+name: Register Discord commands (manual)
+
+# Registers the Worker's slash commands in the server using the existing
+# DISCORD_BOT_TOKEN secret, so nobody has to copy the token out of GitHub.
+on:
+  workflow_dispatch:
+    inputs:
+      public:
+        description: 'Visible to everyone (unticked = admins only, for testing)'
+        type: boolean
+        default: false
+      endpoint:
+        description: 'Also set the Interactions Endpoint URL (the Worker URL), optional'
+        type: string
+        required: false
+
+jobs:
+  register:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: worker/package-lock.json
+
+      - name: Install worker dependencies
+        run: npm ci --prefix worker
+
+      # Inputs go through env, never interpolated into the script, so they can't inject shell.
+      - name: Register
+        env:
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          PUBLIC: ${{ inputs.public }}
+          ENDPOINT: ${{ inputs.endpoint }}
+        run: |
+          args=()
+          if [ "$PUBLIC" = "true" ]; then args+=(--public); fi
+          if [ -n "$ENDPOINT" ]; then args+=("--endpoint=$ENDPOINT"); fi
+          npm run register --prefix worker -- "${args[@]}"
