@@ -10,6 +10,7 @@ import { syncMember, syncStalestMember } from './sync'
 import { runClock } from './clock'
 import { pollVoice } from './voice'
 import { together } from './together'
+import { OWNERS_SQL, WISHERS_SQL, ask, askGate } from './ask'
 
 interface Env {
   DB: D1Database
@@ -17,6 +18,8 @@ interface Env {
   DISCORD_BOT_TOKEN: string
   GITHUB_DISPATCH_TOKEN: string
   BOT_ENABLED?: string
+  OPENAI_API_KEY?: string
+  AI_ENABLED?: string
 }
 
 const json = (body: unknown, status = 200): Response =>
@@ -65,6 +68,15 @@ export default {
       return reply('Only admins can link or unlink someone else.')
     }
     const userId = memberId || callerId
+    const now = Date.now()
+    if (command === 'ask' && callerId) {
+      // The budget check and reservation run before the deferral, so "you've used your 5"
+      // is shown only to the asker. A D1 error refuses rather than skipping the meter.
+      const refusal = await askGate(env, callerId, now).catch(
+        () => 'Something went wrong. Try again in a minute.'
+      )
+      if (refusal) return reply(refusal)
+    }
     const run =
       command === 'link' && userId
         ? () => link(env, userId, option(interaction, 'profile'))
@@ -74,7 +86,9 @@ export default {
             ? () => owns(env, option(interaction, 'game'))
             : command === 'together' && callerId
               ? () => together(env.DB, env.DISCORD_BOT_TOKEN, callerId)
-              : null
+              : command === 'ask' && callerId
+                ? () => ask(env, callerId, option(interaction, 'question'), now)
+                : null
     if (!run) return reply('Unknown command.')
 
     // Steam can take longer than Discord's 3-second limit: acknowledge now, answer within 15 min.
@@ -88,11 +102,10 @@ export default {
     )
     return json({
       type: InteractionResponseType.DEFERRED_CHANNEL_MESSAGE_WITH_SOURCE,
-      // /owns and /together answer in the channel; /link and /unlink only to the caller.
-      data:
-        command === 'owns' || command === 'together'
-          ? {}
-          : { flags: InteractionResponseFlags.EPHEMERAL },
+      // /owns, /together and /ask answer in the channel; /link and /unlink only to the caller.
+      data: ['owns', 'together', 'ask'].includes(command ?? '')
+        ? {}
+        : { flags: InteractionResponseFlags.EPHEMERAL },
     })
   },
 
@@ -191,18 +204,10 @@ async function owns(env: Env, input: string): Promise<string> {
   if (!app) return `Couldn't find a Steam game matching \`${input.trim()}\`.`
 
   const [owners, wishers, members] = await Promise.all([
-    env.DB.prepare(
-      `SELECT m.discord_id, o.playtime_forever FROM owned_games o
-       JOIN members m ON m.steam_id = o.steam_id
-       WHERE o.appid = ?1 ORDER BY o.playtime_forever DESC`
-    )
+    env.DB.prepare(OWNERS_SQL)
       .bind(app.appid)
       .all<{ discord_id: string; playtime_forever: number }>(),
-    env.DB.prepare(
-      `SELECT m.discord_id FROM wishlist w JOIN members m ON m.steam_id = w.steam_id WHERE w.appid = ?1`
-    )
-      .bind(app.appid)
-      .all<{ discord_id: string }>(),
+    env.DB.prepare(WISHERS_SQL).bind(app.appid).all<{ discord_id: string }>(),
     env.DB.prepare('SELECT discord_id FROM members').all<{ discord_id: string }>(),
   ])
 

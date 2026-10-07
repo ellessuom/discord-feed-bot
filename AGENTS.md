@@ -122,14 +122,32 @@ as `overflow` for the daily wrap-up). All state is in D1 (`app_meta`,
 - ESLint has special rules for `src/components/ui/*.tsx` files
 - Build: `tsc -b && vite build` (typecheck then build)
 
+## AI (`src/ai.ts`)
+
+OpenAI calls (`gpt-6-luna`, Responses API, `store: false`) and the D1 spend meter
+(`ai_spend`), shared by the Actions jobs and the Worker's `/ask`.
+
+- **Platform-neutral**: the Worker bundles it via `../../src/ai`, so no `node:` imports, no
+  `process`, and never import `src/d1.ts` (it reads files). Each side passes a `Sql` adapter.
+- **Code decides every link**: `sanitize()` strips all URLs, links, mentions and invites from
+  model text; `/ask` shows only cited sources picked by code, as bare `<url>`s.
+- **Caps** (constants at the top): $1.80/month for all AI (the OpenAI project's $2 hard
+  limit is the backstop), `/ask` $1.50/month, $0.25/day, 5 questions per person per day.
+  Each question reserves its worst case before calling OpenAI and settles after, so a
+  timeout or crash is already counted. D1 binds params as strings: compare sums in JS.
+- **Kill switches**: `AI_ENABLED` in `worker/wrangler.toml` for `/ask` (a deploy re-applies it
+  over a dashboard edit, like `BOT_ENABLED`), and the `AI_ENABLED` repo variable for Actions.
+- OpenAI never gets Discord names or IDs: people are "Friend A", "Friend B"… and code swaps
+  mentions back in.
+
 ## Worker (`worker/`)
 
-- Cloudflare Worker for slash commands (`/link`, `/unlink`, `/owns`, `/together`) plus a `*/2` cron that (independently) samples voice for `VOICE_OPT_IN` members, re-syncs one stale Steam library, and at minute 0 dispatches `feed.yml` — GitHub's own `schedule` only fires every 3–7 h, so the Worker is the clock
+- Cloudflare Worker for slash commands (`/link`, `/unlink`, `/owns`, `/together`, `/ask`) plus a `*/2` cron that (independently) samples voice for `VOICE_OPT_IN` members, re-syncs one stale Steam library, and at minute 0 dispatches `feed.yml` — GitHub's own `schedule` only fires every 3–7 h, so the Worker is the clock
 - Separate package, **not** a root workspace (keeps wrangler out of the hourly `npm ci`): `npm ci --prefix worker`
 - Wrangler needs Node 22 (`.nvmrc`)
 - Commands: `npm run typecheck --prefix worker`, `npm run dev --prefix worker`; its tests live in `worker/src/__tests__/` and run with the root `npm test`
 - Private data (Steam links, libraries) lives in D1 only — see `worker/schema.sql` (additive changes only) and `PRIVACY.md`
 - Actions reach the same D1 through `src/d1.ts` (REST, `CF_D1_TOKEN` from the step's `env:`). It's optional: without the token, ownership on forum cards is skipped. Never copy D1 results into `data/` (public)
-- Fixed IDs (application, public key, guild) are constants in `worker/src/discord.ts`; secrets (`STEAM_API_KEY`, `DISCORD_BOT_TOKEN`, `GITHUB_DISPATCH_TOKEN`) are Worker secrets. Voice tracking is opt-in only (`VOICE_OPT_IN`)
+- Fixed IDs (application, public key, guild) are constants in `worker/src/discord.ts`; secrets (`STEAM_API_KEY`, `DISCORD_BOT_TOKEN`, `GITHUB_DISPATCH_TOKEN`, `OPENAI_API_KEY`) are Worker secrets. Voice tracking is opt-in only (`VOICE_OPT_IN`)
 - `BOT_ENABLED = "false"` in `wrangler.toml` / dashboard is the kill switch
 - `scripts/register.ts` registers commands (admin-only unless `--public`) and can set the interactions endpoint; the user runs it with their own bot token

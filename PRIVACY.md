@@ -30,6 +30,22 @@ To opt out, ask an admin: your ID is removed from the list and your samples dele
 `/together` is separate: when someone runs it, the bot checks who is in their voice
 channel right then, to suggest games for those people. Nothing about that is stored.
 
+## `/ask`
+
+`/ask` answers questions about video games using OpenAI (GPT-6 Luna) and web search.
+When you use it:
+
+- your question (with any @mentions removed) is sent to OpenAI, together with facts from
+  the server's Steam data: which linked members own or wishlisted the games involved, and
+  their hours, and which co-op games each linked member owns (for suggestions). People are
+  sent only as "Friend A", "Friend B"…, never by name or Discord ID; the bot puts the names
+  back into its reply.
+- the bot asks OpenAI not to store the request, but OpenAI may keep it for up to 30 days to
+  check for abuse.
+- the question and the answer are posted in the channel for everyone there to see. The
+  bot itself doesn't store either, only how many questions each person asked per day (for
+  the daily limit) and what they cost, for about 2 months.
+
 ## Where it lives
 
 In a private Cloudflare D1 database that only the server owner can access, stored
@@ -43,7 +59,7 @@ pinging you when a game you wishlisted or proposed drops in price (unless you
 already own it), game alerts in #game-news that show who owns or wishlisted the
 game (by name, never a ping), and, as the bot grows, deal alerts for games your friends play,
 game-night suggestions and playtime recaps.
-It is not shared with anyone outside the server.
+Apart from what `/ask` sends to OpenAI (above), it is not shared with anyone outside the server.
 
 ## Updates and removal
 

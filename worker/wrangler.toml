@@ -5,6 +5,9 @@ compatibility_date = "2026-10-01"
 [vars]
 # Kill switch: set to "false" (dashboard or here + deploy) and every command answers "paused".
 BOT_ENABLED = "true"
+# AI kill switch for /ask (the Actions jobs use the AI_ENABLED repo variable). A deploy
+# re-applies this value over a dashboard edit, like BOT_ENABLED.
+AI_ENABLED = "true"
 
 [[d1_databases]]
 binding = "DB"

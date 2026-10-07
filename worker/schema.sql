@@ -86,3 +86,15 @@ CREATE TABLE IF NOT EXISTS discover (
   reviews TEXT NOT NULL, -- Steam's label, e.g. "Very Positive"
   seen_at TEXT NOT NULL
 );
+
+-- The AI spend meter (src/ai.ts), shared by the Actions jobs and the Worker's /ask.
+-- who: the asker's Discord ID for 'ask' (the per-person daily limit), '' otherwise.
+-- Holds counts and cost only, never questions; purged after about 2 months.
+CREATE TABLE IF NOT EXISTS ai_spend (
+  day TEXT NOT NULL, -- UTC YYYY-MM-DD
+  kind TEXT NOT NULL, -- 'ask' | 'patch'
+  who TEXT NOT NULL DEFAULT '',
+  usd REAL NOT NULL DEFAULT 0,
+  calls INTEGER NOT NULL DEFAULT 0,
+  PRIMARY KEY (day, kind, who)
+);
