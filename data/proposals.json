@@ -1,6 +1,6 @@
 {
   "cursors": {
-    "newestScannedId": "1557816492274491472",
+    "newestScannedId": "1557849449206653029",
     "oldestScannedId": "1305939645917565029",
     "backfillComplete": true
   },
@@ -1027,6 +1027,39 @@
         "co-op",
         "online-multiplayer",
         "singleplayer"
+      ]
+    },
+    "app:2881650": {
+      "kind": "app",
+      "id": 2881650,
+      "name": "Content Warning",
+      "url": "https://store.steampowered.com/app/2881650/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg?t=1785137321",
+      "description": "Film your friends doing scary things to become SpöökTube famous! (strongly advised to not go alone)",
+      "price": {
+        "current": 464,
+        "original": 749,
+        "discount": 38,
+        "currency": "EUR",
+        "lowestSeen": 464,
+        "checkedAt": "2026-10-08T21:02:19.474Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1557849180167344241",
+          "at": "2026-10-08T20:16:27.990000+00:00"
+        }
+      ],
+      "threadId": "1557860721415430155",
+      "starterMessageId": "1557860721415430155",
+      "tags": [
+        "on-sale",
+        "under-10",
+        "co-op",
+        "online-multiplayer"
       ]
     }
   }
