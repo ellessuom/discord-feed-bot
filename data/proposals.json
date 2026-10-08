@@ -472,7 +472,15 @@
         "co-op",
         "online-multiplayer",
         "singleplayer"
-      ]
+      ],
+      "price": {
+        "current": 974,
+        "original": 1299,
+        "discount": 25,
+        "currency": "EUR",
+        "lowestSeen": 974,
+        "checkedAt": "2026-10-08T08:02:27.422Z"
+      }
     },
     "app:1951780": {
       "kind": "app",
