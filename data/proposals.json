@@ -1,6 +1,6 @@
 {
   "cursors": {
-    "newestScannedId": "1557877219315945593",
+    "newestScannedId": "1558568072225362013",
     "oldestScannedId": "1305939645917565029",
     "backfillComplete": true
   },
@@ -1091,6 +1091,38 @@
       "tags": [
         "co-op",
         "online-multiplayer"
+      ]
+    },
+    "app:1304930": {
+      "kind": "app",
+      "id": 1304930,
+      "name": "The Outlast Trials",
+      "url": "https://store.steampowered.com/app/1304930/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
+      "description": "Red Barrels invites you to experience mind-numbing terror, this time with friends. Whether you go through the trials alone or in teams, if you survive long enough and complete the therapy, Murkoff will happily let you leave… but will you be the same?",
+      "price": {
+        "current": 3899,
+        "original": 3899,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 3899,
+        "checkedAt": "2026-10-10T20:02:28.666Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1558567976775712848",
+          "at": "2026-10-10T19:52:42.456000+00:00"
+        }
+      ],
+      "threadId": "1558570436013461606",
+      "starterMessageId": "1558570436013461606",
+      "tags": [
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
       ]
     }
   }
