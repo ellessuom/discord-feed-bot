@@ -23,8 +23,8 @@ import {
 } from './stats'
 
 const TEST_CHANNEL_ID = '1557377666246770729'
-/** #test until the first recap has been checked there; then #general. */
-const WEEKLY_CHANNEL_ID = TEST_CHANNEL_ID
+/** #general: the weekly recap is for everyone (the digest goes to the alerts channel). */
+const WEEKLY_CHANNEL_ID = '1305936883271860296'
 const DAY_MS = 86_400_000
 const REGION = { cc: 'IE', lang: 'english' }
 
