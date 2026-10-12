@@ -1,6 +1,6 @@
 {
   "cursors": {
-    "newestScannedId": "1559300366246346852",
+    "newestScannedId": "1559321223354384577",
     "oldestScannedId": "1305939645917565029",
     "backfillComplete": true
   },
@@ -406,6 +406,12 @@
           "username": "sollace4781t",
           "messageId": "1532434328758259824",
           "at": "2026-07-30T17:06:55.229000+00:00"
+        },
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1559313279921426462",
+          "at": "2026-10-12T21:14:16.573000+00:00"
         }
       ],
       "threadId": "1547689560501264427",
@@ -440,6 +446,12 @@
           "username": "zeroaim0276",
           "messageId": "1534310323820167298",
           "at": "2026-08-04T21:21:27.306000+00:00"
+        },
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1559321223354384577",
+          "at": "2026-10-12T21:45:50.435000+00:00"
         }
       ],
       "threadId": "1547689592860188764",
@@ -1121,6 +1133,103 @@
       "starterMessageId": "1558570436013461606",
       "tags": [
         "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:1326470": {
+      "kind": "app",
+      "id": 1326470,
+      "name": "Sons Of The Forest",
+      "url": "https://store.steampowered.com/app/1326470/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+      "description": "Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends, in this terrifying new open-world survival horror simulator.",
+      "price": {
+        "current": 2899,
+        "original": 2899,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 2899,
+        "checkedAt": "2026-10-12T22:03:21.397Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1559313451891822602",
+          "at": "2026-10-12T21:14:57.574000+00:00"
+        }
+      ],
+      "threadId": "1559325637557354565",
+      "starterMessageId": "1559325637557354565",
+      "tags": [
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:892970": {
+      "kind": "app",
+      "id": 892970,
+      "name": "Valheim",
+      "url": "https://store.steampowered.com/app/892970/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1791544831",
+      "description": "A collaborative exploration and survival game for 1-10 players, set in a procedurally generated afterlife inspired by Viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s patronage!",
+      "price": {
+        "current": 2999,
+        "original": 2999,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 2999,
+        "checkedAt": "2026-10-12T22:03:30.321Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1559315151042257059",
+          "at": "2026-10-12T21:21:42.683000+00:00"
+        }
+      ],
+      "threadId": "1559325673888415825",
+      "starterMessageId": "1559325673888415825",
+      "tags": [
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:286160": {
+      "kind": "app",
+      "id": 286160,
+      "name": "Tabletop Simulator",
+      "url": "https://store.steampowered.com/app/286160/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg?t=1772387518",
+      "description": "Tabletop Simulator is the only simulator where you can let your aggression out by flipping the table! There are no rules to follow: just you, a physics sandbox, and your friends. Make your own online board games or play the thousands of community created mods. Unlimited gaming possibilities!",
+      "price": {
+        "current": 1950,
+        "original": 1950,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 1950,
+        "checkedAt": "2026-10-12T22:03:37.626Z"
+      },
+      "mentions": [
+        {
+          "userId": "1177970658571993218",
+          "username": "zeroaim0276",
+          "messageId": "1559319859794284635",
+          "at": "2026-10-12T21:40:25.337000+00:00"
+        }
+      ],
+      "threadId": "1559325704317968486",
+      "starterMessageId": "1559325704317968486",
+      "tags": [
+        "co-op",
+        "local-multiplayer",
         "online-multiplayer",
         "singleplayer"
       ]
