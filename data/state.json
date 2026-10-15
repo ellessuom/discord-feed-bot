@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-10-12T14:03:25.764Z",
+  "lastRun": "2026-10-15T10:01:19.299Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,46 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_252490",
-        "postedAt": "2026-09-13T18:39:31.187Z"
-      },
-      {
-        "id": "sale_1086940",
-        "postedAt": "2026-09-14T20:48:35.791Z"
-      },
-      {
-        "id": "sale_3375780",
-        "postedAt": "2026-09-14T20:48:35.791Z"
-      },
-      {
-        "id": "sale_3070070",
-        "postedAt": "2026-09-14T20:48:35.791Z"
-      },
-      {
-        "id": "sale_3008130",
-        "postedAt": "2026-09-14T20:48:35.791Z"
-      },
-      {
-        "id": "sale_1627720",
-        "postedAt": "2026-09-14T23:45:15.223Z"
-      },
-      {
-        "id": "sale_3180340",
-        "postedAt": "2026-09-14T23:45:15.223Z"
-      },
-      {
-        "id": "sale_2001120",
-        "postedAt": "2026-09-14T23:45:15.223Z"
-      },
-      {
-        "id": "sale_1172620",
-        "postedAt": "2026-09-15T04:10:56.249Z"
-      },
-      {
-        "id": "sale_1426210",
-        "postedAt": "2026-09-15T04:10:56.250Z"
-      },
-      {
         "id": "sale_2402680",
         "postedAt": "2026-09-15T18:47:34.950Z"
       },
@@ -808,54 +768,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wegy3z/fed_up_with_sony_playstation_fans_compile_a_list/",
-        "postedAt": "2026-09-12T16:52:02.012Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1we7fyh/fired_gta_6_dev_speaks_out_outside_court_the/",
-        "postedAt": "2026-09-12T16:52:02.012Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1we44v8/sony_took_its_decima_engine_from_kojima/",
-        "postedAt": "2026-09-12T16:52:02.012Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wdp142/sony_and_kojima_reportedly_clashed_over_physints/",
-        "postedAt": "2026-09-12T16:52:02.012Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1we3ifg/rockstar_reveals_the_extreme_lengths_it_goes_to/",
-        "postedAt": "2026-09-12T22:03:00.684Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1we300l/playstation_architect_mark_cerny_nearing_the_end/",
-        "postedAt": "2026-09-12T22:03:00.684Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wdmkcx/sacked_grand_theft_auto_worker_claims_rockstar/",
-        "postedAt": "2026-09-12T22:03:00.684Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wdk4zc/nintendo_of_america_puts_tariff_refunds_towards/",
-        "postedAt": "2026-09-12T22:03:00.684Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wew8a4/palworld_lead_john_buckley_worries_steam_early/",
-        "postedAt": "2026-09-13T21:18:01.932Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1weez0d/saber_exec_the_game_industry_must_look_beyond/",
-        "postedAt": "2026-09-13T21:18:01.932Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1we7nvs/mayhem_à_la_carte_official_reveal_trailer/",
-        "postedAt": "2026-09-13T21:18:01.932Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wdhf8u/stay_tuned_gamestop_speaks_out_after_planning_to/",
-        "postedAt": "2026-09-13T21:18:01.932Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1wjn2n5/weekly_rgamingnews_discussion_what_game_you_will/",
         "postedAt": "2026-09-18T18:11:01.571Z"
       },
@@ -889,10 +801,6 @@
       }
     ],
     "steam_2073850": [
-      {
-        "id": "https://store.steampowered.com/news/app/2073850/view/689763250409046312",
-        "postedAt": "2026-09-14T16:52:18.095Z"
-      },
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/671754559586042064",
         "postedAt": "2026-09-17T13:13:42.436Z"
@@ -936,6 +844,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/547902498070855892",
         "postedAt": "2026-10-12T14:03:25.764Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/686393161428241895",
+        "postedAt": "2026-10-15T10:01:19.299Z"
       }
     ]
   },
@@ -944,6 +856,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wzokhz/save_55_on_cybrid_on_steam/",
     "steam_sales": "sale_1326470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/547902498070855892"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/686393161428241895"
   }
 }
