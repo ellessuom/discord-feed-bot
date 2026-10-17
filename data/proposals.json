@@ -1,6 +1,6 @@
 {
   "cursors": {
-    "newestScannedId": "1559815789715001354",
+    "newestScannedId": "1561044698896928909",
     "oldestScannedId": "1305939645917565029",
     "backfillComplete": true
   },
@@ -1400,6 +1400,40 @@
       ],
       "threadId": "1559823402506780675",
       "starterMessageId": "1559823402506780675",
+      "tags": [
+        "on-sale",
+        "under-10",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:4954910": {
+      "kind": "app",
+      "id": 4954910,
+      "name": "Scam With Your Friends",
+      "url": "https://store.steampowered.com/app/4954910/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792088818",
+      "description": "Run a scam call center with your friends. Use increasingly ridiculous schemes to trick AI callers out of their life savings. Hit your daily quota, cause chaos around the office, and survive a brutal performance review from your rageaholic boss.",
+      "price": {
+        "current": 922,
+        "original": 1025,
+        "discount": 10,
+        "currency": "EUR",
+        "lowestSeen": 922,
+        "checkedAt": "2026-10-17T16:01:18.530Z"
+      },
+      "mentions": [
+        {
+          "userId": "202727571648020480",
+          "username": "sollace4781t",
+          "messageId": "1561044698896928909",
+          "at": "2026-10-17T15:54:19.025000+00:00"
+        }
+      ],
+      "threadId": "1561046458957045893",
+      "starterMessageId": "1561046458957045893",
       "tags": [
         "on-sale",
         "under-10",
