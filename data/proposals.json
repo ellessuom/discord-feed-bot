@@ -1,6 +1,6 @@
 {
   "cursors": {
-    "newestScannedId": "1561058728298549409",
+    "newestScannedId": "1561087434446602330",
     "oldestScannedId": "1305939645917565029",
     "backfillComplete": true
   },
@@ -1436,6 +1436,39 @@
       "starterMessageId": "1561046458957045893",
       "tags": [
         "on-sale",
+        "under-10",
+        "co-op",
+        "online-multiplayer",
+        "singleplayer"
+      ]
+    },
+    "app:2141730": {
+      "kind": "app",
+      "id": 2141730,
+      "name": "Backrooms: Escape Together",
+      "url": "https://store.steampowered.com/app/2141730/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2141730/header.jpg?t=1780282746",
+      "description": "A visually lifelike co-op horror game for 1-6 people. Journey through 11 procedurally generated levels, using what's available to survive and progress deeper into the Backrooms.",
+      "price": {
+        "current": 975,
+        "original": 975,
+        "discount": 0,
+        "currency": "EUR",
+        "lowestSeen": 975,
+        "checkedAt": "2026-10-17T19:01:31.640Z"
+      },
+      "mentions": [
+        {
+          "userId": "344398473489154058",
+          "username": "stinselle",
+          "messageId": "1561086004281213091",
+          "at": "2026-10-17T18:38:26.996000+00:00"
+        }
+      ],
+      "threadId": "1561091812414726276",
+      "starterMessageId": "1561091812414726276",
+      "tags": [
         "under-10",
         "co-op",
         "online-multiplayer",
