@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-10-17T14:01:29.329Z",
+  "lastRun": "2026-10-18T19:01:43.861Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,42 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1172710",
-        "postedAt": "2026-09-17T18:02:50.615Z"
-      },
-      {
-        "id": "sale_2977260",
-        "postedAt": "2026-09-17T18:02:50.615Z"
-      },
-      {
-        "id": "sale_2459550",
-        "postedAt": "2026-09-17T18:02:50.616Z"
-      },
-      {
-        "id": "sale_3407390",
-        "postedAt": "2026-09-17T21:59:37.015Z"
-      },
-      {
-        "id": "sale_3159330",
-        "postedAt": "2026-09-17T21:59:37.015Z"
-      },
-      {
-        "id": "sale_2369390",
-        "postedAt": "2026-09-18T05:40:30.429Z"
-      },
-      {
-        "id": "sale_12210",
-        "postedAt": "2026-09-18T05:40:30.429Z"
-      },
-      {
-        "id": "sale_4110220",
-        "postedAt": "2026-09-18T14:51:40.952Z"
-      },
-      {
-        "id": "sale_3124340",
-        "postedAt": "2026-09-18T18:11:01.571Z"
-      },
-      {
         "id": "sale_2909400",
         "postedAt": "2026-09-19T00:00:29.433Z"
       },
@@ -740,22 +704,6 @@
     ],
     "reddit_gamingnews": [
       {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wjn2n5/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-09-18T18:11:01.571Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wjhl5x/marvels_wolverine_inside_insomniacs_blood_and/",
-        "postedAt": "2026-09-18T18:11:01.571Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wj4hij/video_games_europe_warns_against_sweeping/",
-        "postedAt": "2026-09-18T18:11:01.571Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wj0wqh/marvels_wolverine_motorcycle_section_and/",
-        "postedAt": "2026-09-18T18:11:01.571Z"
-      },
-      {
         "id": "https://www.reddit.com/r/gamingnews/comments/1wr2p23/the_last_of_us_casts_john_goodman_ian_alexander/",
         "postedAt": "2026-09-26T22:33:01.226Z"
       },
@@ -773,10 +721,6 @@
       }
     ],
     "steam_2073850": [
-      {
-        "id": "https://store.steampowered.com/news/app/2073850/view/671754559586042348",
-        "postedAt": "2026-09-18T18:11:01.571Z"
-      },
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/685262822701007214",
         "postedAt": "2026-09-19T13:47:34.365Z"
@@ -820,6 +764,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/671754559586042064",
         "postedAt": "2026-10-17T14:01:29.329Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/671754559586042348",
+        "postedAt": "2026-10-18T19:01:43.861Z"
       }
     ]
   },
@@ -828,6 +776,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wzokhz/save_55_on_cybrid_on_steam/",
     "steam_sales": "sale_1326470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/671754559586042064"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/671754559586042348"
   }
 }
