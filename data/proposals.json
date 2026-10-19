@@ -1091,12 +1091,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg?t=1791302579",
       "description": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
       "price": {
-        "current": 1999,
+        "current": 799,
         "original": 1999,
-        "discount": 0,
+        "discount": 60,
         "currency": "EUR",
-        "lowestSeen": 1999,
-        "checkedAt": "2026-10-08T23:02:58.557Z"
+        "lowestSeen": 799,
+        "checkedAt": "2026-10-19T17:01:38.231Z"
       },
       "mentions": [
         {
@@ -1284,12 +1284,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg?t=1791569963",
       "description": "The Master Chief’s iconic journey includes six games, built for PC and collected in a single integrated experience. Whether you’re a long-time fan or meeting Spartan 117 for the first time, The Master Chief Collection is the definitive Halo gaming experience.",
       "price": {
-        "current": 999,
+        "current": 3999,
         "original": 3999,
-        "discount": 75,
+        "discount": 0,
         "currency": "EUR",
         "lowestSeen": 999,
-        "checkedAt": "2026-10-13T08:02:31.162Z"
+        "checkedAt": "2026-10-19T17:01:40.612Z"
       },
       "mentions": [
         {
@@ -1351,12 +1351,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1766060/f6d26a2b241d9cb955c735738d45e5a6d4d78c25/header.jpg?t=1789768601",
       "description": "HumanitZ is an isometric, open-world sandbox survival game set in a world ended by a zombie outbreak. Survive alone or with friends by scavenging, crafting, building, and fighting to last as long as ‘humanly’ possible. You can’t change the past, but you can fight for the future of humanity.",
       "price": {
-        "current": 1849,
+        "current": 1109,
         "original": 1849,
-        "discount": 0,
+        "discount": 40,
         "currency": "EUR",
-        "lowestSeen": 1849,
-        "checkedAt": "2026-10-13T19:09:49.129Z"
+        "lowestSeen": 1109,
+        "checkedAt": "2026-10-19T17:01:42.367Z"
       },
       "mentions": [
         {
