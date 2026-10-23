@@ -1,6 +1,6 @@
 {
   "cursors": {
-    "newestScannedId": "1561759642348949534",
+    "newestScannedId": "1563226535526269081",
     "oldestScannedId": "1305939645917565029",
     "backfillComplete": true
   },
@@ -1473,6 +1473,39 @@
         "co-op",
         "online-multiplayer",
         "singleplayer"
+      ]
+    },
+    "app:2708450": {
+      "kind": "app",
+      "id": 2708450,
+      "name": "Oh Deer",
+      "url": "https://store.steampowered.com/app/2708450/",
+      "status": "priced",
+      "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2708450/677d8a61ee8d532b590df691174914eb7bfac0f1/header.jpg?t=1792166826",
+      "description": "One hunter &amp; up to 9 friends disguised as deer. A game of hide-and-seek where every move could be your last. Will you blend in with the herd or stand out? Oh Deer...",
+      "price": {
+        "current": 561,
+        "original": 749,
+        "discount": 25,
+        "currency": "EUR",
+        "lowestSeen": 561,
+        "checkedAt": "2026-10-23T17:00:50.692Z"
+      },
+      "mentions": [
+        {
+          "userId": "202727571648020480",
+          "username": "sollace4781t",
+          "messageId": "1563226535526269081",
+          "at": "2026-10-23T16:24:09.414000+00:00"
+        }
+      ],
+      "threadId": "1563235769982648411",
+      "starterMessageId": "1563235769982648411",
+      "tags": [
+        "on-sale",
+        "under-10",
+        "co-op",
+        "online-multiplayer"
       ]
     }
   }
