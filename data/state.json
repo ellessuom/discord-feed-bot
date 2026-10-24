@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-10-20T14:01:12.793Z",
+  "lastRun": "2026-10-24T15:00:51.298Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
@@ -406,106 +406,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1757300",
-        "postedAt": "2026-09-21T04:44:31.642Z"
-      },
-      {
-        "id": "sale_4019220",
-        "postedAt": "2026-09-21T16:53:50.593Z"
-      },
-      {
-        "id": "sale_4364730",
-        "postedAt": "2026-09-21T16:53:50.593Z"
-      },
-      {
-        "id": "sale_3510740",
-        "postedAt": "2026-09-21T16:53:50.593Z"
-      },
-      {
-        "id": "sale_2552430",
-        "postedAt": "2026-09-21T23:56:40.479Z"
-      },
-      {
-        "id": "sale_1222140",
-        "postedAt": "2026-09-22T04:33:14.087Z"
-      },
-      {
-        "id": "sale_400750",
-        "postedAt": "2026-09-22T09:43:13.698Z"
-      },
-      {
-        "id": "sale_3691330",
-        "postedAt": "2026-09-22T09:43:13.698Z"
-      },
-      {
-        "id": "sale_620980",
-        "postedAt": "2026-09-22T18:38:20.582Z"
-      },
-      {
-        "id": "sale_3699590",
-        "postedAt": "2026-09-22T18:38:20.582Z"
-      },
-      {
-        "id": "sale_1374860",
-        "postedAt": "2026-09-22T21:53:46.178Z"
-      },
-      {
-        "id": "sale_3208930",
-        "postedAt": "2026-09-23T05:40:39.408Z"
-      },
-      {
-        "id": "sale_599140",
-        "postedAt": "2026-09-23T16:29:13.703Z"
-      },
-      {
-        "id": "sale_4146760",
-        "postedAt": "2026-09-23T20:02:43.932Z"
-      },
-      {
-        "id": "sale_3431300",
-        "postedAt": "2026-09-23T20:02:43.932Z"
-      },
-      {
-        "id": "sale_2085540",
-        "postedAt": "2026-09-23T20:02:43.932Z"
-      },
-      {
-        "id": "sale_1372110",
-        "postedAt": "2026-09-23T23:29:22.119Z"
-      },
-      {
-        "id": "sale_1894430",
-        "postedAt": "2026-09-23T23:29:22.119Z"
-      },
-      {
-        "id": "sale_3861710",
-        "postedAt": "2026-09-24T03:59:18.888Z"
-      },
-      {
-        "id": "sale_3020510",
-        "postedAt": "2026-09-24T09:14:15.609Z"
-      },
-      {
-        "id": "sale_3101040",
-        "postedAt": "2026-09-24T09:14:15.609Z"
-      },
-      {
-        "id": "sale_2879840",
-        "postedAt": "2026-09-24T09:14:15.609Z"
-      },
-      {
-        "id": "sale_4259190",
-        "postedAt": "2026-09-24T14:45:06.077Z"
-      },
-      {
-        "id": "sale_3527290",
-        "postedAt": "2026-09-24T14:45:06.077Z"
-      },
-      {
-        "id": "sale_4209920",
-        "postedAt": "2026-09-24T14:45:06.077Z"
-      },
-      {
         "id": "sale_2531310",
         "postedAt": "2026-09-24T18:54:28.974Z"
       },
@@ -698,10 +598,6 @@
     ],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/685265994960077835",
-        "postedAt": "2026-09-24T14:45:06.077Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/678508056965808434",
         "postedAt": "2026-09-26T16:57:39.174Z"
       },
@@ -748,6 +644,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/686393161428241869",
         "postedAt": "2026-10-20T14:01:12.793Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/685265994960077835",
+        "postedAt": "2026-10-24T15:00:51.298Z"
       }
     ]
   },
@@ -756,6 +656,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wzokhz/save_55_on_cybrid_on_steam/",
     "steam_sales": "sale_1326470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/686393161428241869"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/685265994960077835"
   }
 }
