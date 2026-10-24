@@ -933,12 +933,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1785150/928a874b14168ffdcbd95989ac10e48a77302d53/header_alt_assets_9.jpg?t=1789035048",
       "description": "A frantic, online PvP shooter that combines combat and deck building. Choose a character, customize your card-based loadout, and get ready for the fights of your life!",
       "price": {
-        "current": 999,
+        "current": 249,
         "original": 999,
-        "discount": 0,
+        "discount": 75,
         "currency": "EUR",
         "lowestSeen": 249,
-        "checkedAt": "2026-10-08T18:04:27.802Z"
+        "checkedAt": "2026-10-24T18:00:53.949Z"
       },
       "mentions": [
         {
