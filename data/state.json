@@ -1,52 +1,8 @@
 {
-  "lastRun": "2026-10-26T17:01:13.708Z",
+  "lastRun": "2026-10-29T11:01:20.686Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wqxorn/save_91_on_thief_simulator_on_steam/",
-        "postedAt": "2026-09-26T19:41:53.553Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wqxo95/save_90_on_tank_mechanic_simulator_on_steam/",
-        "postedAt": "2026-09-26T19:41:53.553Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wqwfxu/steam_sprites_honor_599_526_40_off/",
-        "postedAt": "2026-09-26T19:41:53.553Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wr0ie2/save_79_on_thief_simulator_2_on_steam/",
-        "postedAt": "2026-09-26T22:33:01.226Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wro94w/save_85_on_lost_horizon_double_pack_299/",
-        "postedAt": "2026-09-27T18:09:46.647Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wrl7nh/save_60_on_rematch_on_steam_999_alltime_low/",
-        "postedAt": "2026-09-27T18:09:46.647Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wruven/save_75_on_obscure_collection_on_steam/",
-        "postedAt": "2026-09-27T21:55:53.648Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ws4zuk/save_95_on_agents_of_mayhem_149/",
-        "postedAt": "2026-09-28T06:30:05.381Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wsl8wl/steam_desiro_059_usd_40_off/",
-        "postedAt": "2026-09-28T21:42:32.345Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wskon4/save_85_on_darksiders_genesis_449/",
-        "postedAt": "2026-09-28T21:42:32.345Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wsjafi/save_90_on_duke_nukem_3d_20th_anniversary_world/",
-        "postedAt": "2026-09-28T21:42:32.345Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wtb8cl/save_85_on_darksiders_warmastered_edition_299/",
         "postedAt": "2026-09-29T15:32:31.140Z"
@@ -350,18 +306,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_524220",
-        "postedAt": "2026-09-27T07:50:47.660Z"
-      },
-      {
-        "id": "sale_1057090",
-        "postedAt": "2026-09-27T21:55:53.648Z"
-      },
-      {
-        "id": "sale_4623570",
-        "postedAt": "2026-09-28T21:42:32.345Z"
-      },
-      {
         "id": "sale_3398110",
         "postedAt": "2026-09-29T15:32:31.140Z"
       },
@@ -462,24 +406,7 @@
         "postedAt": "2026-10-05T22:24:56.620Z"
       }
     ],
-    "reddit_gamingnews": [
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wr2p23/the_last_of_us_casts_john_goodman_ian_alexander/",
-        "postedAt": "2026-09-26T22:33:01.226Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wqpifo/nintendo_wins_45_million_lawsuit_against_switch/",
-        "postedAt": "2026-09-26T22:33:01.226Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wqleym/amid_mass_xbox_layoffs_microsoft_ceo_satya/",
-        "postedAt": "2026-09-26T22:33:01.226Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
-        "postedAt": "2026-09-26T22:33:01.226Z"
-      }
-    ],
+    "reddit_gamingnews": [],
     "steam_2073850": [
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/686392527015641287",
@@ -532,6 +459,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/678508056965808434",
         "postedAt": "2026-10-26T17:01:13.708Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/703283562262037038",
+        "postedAt": "2026-10-29T11:01:20.686Z"
       }
     ]
   },
@@ -540,6 +471,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wzokhz/save_55_on_cybrid_on_steam/",
     "steam_sales": "sale_1326470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508056965808434"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703283562262037038"
   }
 }
