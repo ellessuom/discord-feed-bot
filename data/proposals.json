@@ -578,12 +578,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/df3b0e300632f3cd1caf0aa9dc6213ebe79dac43/header_alt_assets_0.jpg?t=1789049074",
       "description": "A co-op adventure about driving your Recreational Vehicle home.",
       "price": {
-        "current": 779,
+        "current": 467,
         "original": 779,
-        "discount": 0,
+        "discount": 40,
         "currency": "EUR",
         "lowestSeen": 467,
-        "checkedAt": "2026-10-08T18:04:12.710Z"
+        "checkedAt": "2026-10-29T19:01:34.052Z"
       },
       "mentions": [
         {
@@ -1251,12 +1251,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/9258286b309480a3ce438c07cb51fadf3ea2f1d1/header_alt_assets_27.jpg?t=1789479416",
       "description": "Human Fall Flat is a hilarious, light-hearted platformer set in floating dreamscapes that can be played solo or with up to 8 players online. Free new levels keep its vibrant community rewarded.",
       "price": {
-        "current": 1999,
+        "current": 599,
         "original": 1999,
-        "discount": 0,
+        "discount": 70,
         "currency": "EUR",
-        "lowestSeen": 1999,
-        "checkedAt": "2026-10-12T23:02:40.587Z"
+        "lowestSeen": 599,
+        "checkedAt": "2026-10-29T19:01:35.808Z"
       },
       "mentions": [
         {
