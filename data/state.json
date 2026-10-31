@@ -1,36 +1,8 @@
 {
-  "lastRun": "2026-10-29T11:01:20.686Z",
+  "lastRun": "2026-10-31T17:01:10.648Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wtb8cl/save_85_on_darksiders_warmastered_edition_299/",
-        "postedAt": "2026-09-29T15:32:31.140Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wtxlij/save_50_on_dark_souls_series/",
-        "postedAt": "2026-09-30T06:27:17.352Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wtxbja/save_90_on_townsmen_a_kingdom_rebuilt_199/",
-        "postedAt": "2026-09-30T06:27:17.352Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wtwu47/save_90_on_galgun_double_peace_on_steam/",
-        "postedAt": "2026-09-30T06:27:17.352Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wu8481/save_90_on_toem_a_photo_adventure_189/",
-        "postedAt": "2026-09-30T18:57:25.630Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wu82bg/nouveau_jeu_voxelforge_sur_steam_à_venir_très/",
-        "postedAt": "2026-09-30T18:57:25.630Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wuxyk2/save_25_on_pih_on_steam/",
-        "postedAt": "2026-10-01T16:10:46.430Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wv5s00/save_90_on_monster_hunter_rise_on_steam_new/",
         "postedAt": "2026-10-01T21:41:08.548Z"
@@ -306,22 +278,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_3398110",
-        "postedAt": "2026-09-29T15:32:31.140Z"
-      },
-      {
-        "id": "sale_4114220",
-        "postedAt": "2026-09-29T20:33:56.145Z"
-      },
-      {
-        "id": "sale_1488490",
-        "postedAt": "2026-09-30T06:27:17.352Z"
-      },
-      {
-        "id": "sale_1706510",
-        "postedAt": "2026-09-30T22:56:33.696Z"
-      },
-      {
         "id": "sale_1091500",
         "postedAt": "2026-10-01T21:41:08.548Z"
       },
@@ -409,10 +365,6 @@
     "reddit_gamingnews": [],
     "steam_2073850": [
       {
-        "id": "https://store.steampowered.com/news/app/2073850/view/686392527015641287",
-        "postedAt": "2026-10-01T16:10:46.430Z"
-      },
-      {
         "id": "https://store.steampowered.com/news/app/2073850/view/678508690826854583",
         "postedAt": "2026-10-03T17:06:56.366Z"
       },
@@ -463,6 +415,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/703283562262037038",
         "postedAt": "2026-10-29T11:01:20.686Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/686392527015641287",
+        "postedAt": "2026-10-31T17:01:10.648Z"
       }
     ]
   },
@@ -471,6 +427,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wzokhz/save_55_on_cybrid_on_steam/",
     "steam_sales": "sale_1326470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703283562262037038"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/686392527015641287"
   }
 }
