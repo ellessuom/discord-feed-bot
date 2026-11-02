@@ -1,124 +1,8 @@
 {
-  "lastRun": "2026-10-31T17:01:10.648Z",
+  "lastRun": "2026-11-02T18:01:12.758Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wv5s00/save_90_on_monster_hunter_rise_on_steam_new/",
-        "postedAt": "2026-10-01T21:41:08.548Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wv5bye/save_90_on_the_talos_principle_2_on_steam_new/",
-        "postedAt": "2026-10-01T21:41:08.548Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wv568s/save_90_on_the_elder_scrolls_v_skyrim_special/",
-        "postedAt": "2026-10-01T21:41:08.548Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wv54h9/save_60_on_cyberpunk_2077_ultimate_edition_on/",
-        "postedAt": "2026-10-01T21:41:08.548Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvlbq7/save_80_on_crosscode_on_steam/",
-        "postedAt": "2026-10-02T08:11:20.941Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvkhiw/save_85_on_tomb_raider_definitive_survivor/",
-        "postedAt": "2026-10-02T08:11:20.941Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvjrig/save_80_on_mafia_definitive_edition_on_steam/",
-        "postedAt": "2026-10-02T08:11:20.941Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wv6da0/save_95_on_mirrors_edge_catalyst_on_steam/",
-        "postedAt": "2026-10-02T08:11:20.941Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvr37r/save_75_on_divinity_original_sin_2_definitive/",
-        "postedAt": "2026-10-02T15:34:41.392Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvpxiz/save_90_on_middleearth_shadow_of_war_on_steam/",
-        "postedAt": "2026-10-02T15:34:41.392Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvprda/save_80_on_atomic_heart_on_steam/",
-        "postedAt": "2026-10-02T15:34:41.392Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvpomo/save_70_on_cyberpunk_2077_on_steam/",
-        "postedAt": "2026-10-02T15:34:41.392Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ww04dv/save_60_on_diplomacy_is_not_an_option_on_steam/",
-        "postedAt": "2026-10-02T20:31:19.488Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvyiwy/save_90_on_deaths_door_on_steam/",
-        "postedAt": "2026-10-02T20:31:19.488Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvppkp/save_70_on_kingdom_hearts_hd_1525_remix_on_steam/",
-        "postedAt": "2026-10-02T20:31:19.488Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvpmte/save_85_on_bioshock_2_remastered_on_steam/",
-        "postedAt": "2026-10-02T20:31:19.488Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ww4r2f/save_90_on_eldest_souls_199/",
-        "postedAt": "2026-10-03T00:17:17.577Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ww17mq/save_33_on_military_conflict_vietnam_on_steam/",
-        "postedAt": "2026-10-03T00:17:17.577Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ww0f4d/save_85_on_indivisible_on_steam/",
-        "postedAt": "2026-10-03T00:17:17.577Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvsaw4/save_55_on_hifi_rush_on_steam/",
-        "postedAt": "2026-10-03T00:17:17.577Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wwel1y/save_95_on_outward_definitive_edition_199/",
-        "postedAt": "2026-10-03T06:14:26.619Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1ww55me/save_85_on_generation_zero_on_steam/",
-        "postedAt": "2026-10-03T06:14:26.619Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvs2jq/save_20_on_profits_2167_planetary_resource/",
-        "postedAt": "2026-10-03T06:14:26.619Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvkiw1/save_90_on_robocop_rogue_city_alex_murphy_edition/",
-        "postedAt": "2026-10-03T06:14:26.619Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wwg5c6/save_34_on_tides_of_tomorrow_on_steam_new/",
-        "postedAt": "2026-10-03T12:21:34.728Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvv8kt/save_75_on_deadbolt_on_steam/",
-        "postedAt": "2026-10-03T12:21:34.728Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvufuz/developer_our_two_immersive_puzzle_escape_room/",
-        "postedAt": "2026-10-03T12:21:34.728Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvu6xd/developer_here_save_50_on_spherebuddie_64_on_steam/",
-        "postedAt": "2026-10-03T12:21:34.728Z"
-      },
-      {
-        "id": "https://www.reddit.com/r/steamdeals/comments/1wvh0zy/save_75_on_splinter_cell_legacy_collection_on/",
-        "postedAt": "2026-10-03T17:06:56.366Z"
-      },
       {
         "id": "https://www.reddit.com/r/steamdeals/comments/1wwtmi7/save_90_on_solasta_crown_of_the_magister_on_steam/",
         "postedAt": "2026-10-03T20:49:05.575Z"
@@ -278,66 +162,6 @@
     ],
     "steam_sales": [
       {
-        "id": "sale_1091500",
-        "postedAt": "2026-10-01T21:41:08.548Z"
-      },
-      {
-        "id": "sale_1304930",
-        "postedAt": "2026-10-01T21:41:08.548Z"
-      },
-      {
-        "id": "sale_489830",
-        "postedAt": "2026-10-01T21:41:08.548Z"
-      },
-      {
-        "id": "sale_2406770",
-        "postedAt": "2026-10-01T21:41:08.548Z"
-      },
-      {
-        "id": "sale_814380",
-        "postedAt": "2026-10-02T01:26:25.292Z"
-      },
-      {
-        "id": "sale_1174180",
-        "postedAt": "2026-10-02T01:26:25.292Z"
-      },
-      {
-        "id": "sale_2138330",
-        "postedAt": "2026-10-02T01:26:25.292Z"
-      },
-      {
-        "id": "sale_2483190",
-        "postedAt": "2026-10-02T01:26:25.292Z"
-      },
-      {
-        "id": "sale_266410",
-        "postedAt": "2026-10-02T08:11:20.941Z"
-      },
-      {
-        "id": "sale_4001890",
-        "postedAt": "2026-10-02T08:11:20.941Z"
-      },
-      {
-        "id": "sale_413150",
-        "postedAt": "2026-10-02T15:34:41.392Z"
-      },
-      {
-        "id": "sale_1817070",
-        "postedAt": "2026-10-02T20:31:19.488Z"
-      },
-      {
-        "id": "sale_2183900",
-        "postedAt": "2026-10-02T20:31:19.488Z"
-      },
-      {
-        "id": "sale_2651280",
-        "postedAt": "2026-10-02T20:31:19.488Z"
-      },
-      {
-        "id": "sale_2215430",
-        "postedAt": "2026-10-03T12:21:34.728Z"
-      },
-      {
         "id": "sale_3764200",
         "postedAt": "2026-10-03T20:49:05.575Z"
       },
@@ -364,10 +188,6 @@
     ],
     "reddit_gamingnews": [],
     "steam_2073850": [
-      {
-        "id": "https://store.steampowered.com/news/app/2073850/view/678508690826854583",
-        "postedAt": "2026-10-03T17:06:56.366Z"
-      },
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/703275952293020219",
         "postedAt": "2026-10-06T16:36:50.749Z"
@@ -419,6 +239,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/686392527015641287",
         "postedAt": "2026-10-31T17:01:10.648Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/678508690826854583",
+        "postedAt": "2026-11-02T18:01:12.758Z"
       }
     ]
   },
@@ -427,6 +251,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wzokhz/save_55_on_cybrid_on_steam/",
     "steam_sales": "sale_1326470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/686392527015641287"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/678508690826854583"
   }
 }
