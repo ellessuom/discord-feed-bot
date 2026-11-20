@@ -711,12 +711,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b52405d3dd3d4bfd356cd9af7b399bcbc5a23f7e/header.jpg?t=1787010637",
       "description": "Shrunk again, but the world is much larger. In this open-world, single-player or co-op survival adventure, craft weapons and armor, build your base, and traverse the playground on your buggy. But something else is out there—and it hasn’t forgotten you.",
       "price": {
-        "current": 2999,
+        "current": 2399,
         "original": 2999,
-        "discount": 0,
+        "discount": 20,
         "currency": "EUR",
-        "lowestSeen": 2699,
-        "checkedAt": "2026-10-08T18:04:18.845Z"
+        "lowestSeen": 2399,
+        "checkedAt": "2026-11-20T18:01:10.795Z"
       },
       "mentions": [
         {
@@ -866,12 +866,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1789019569",
       "description": "Ready or Not is an intense, tactical, first-person shooter that depicts a modern-day world in which SWAT police units are called to defuse hostile and confronting situations.",
       "price": {
-        "current": 4999,
+        "current": 2499,
         "original": 4999,
-        "discount": 0,
+        "discount": 50,
         "currency": "EUR",
         "lowestSeen": 2499,
-        "checkedAt": "2026-10-08T18:04:24.913Z"
+        "checkedAt": "2026-11-20T18:01:16.002Z"
       },
       "mentions": [
         {
@@ -1284,12 +1284,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg?t=1791569963",
       "description": "The Master Chief’s iconic journey includes six games, built for PC and collected in a single integrated experience. Whether you’re a long-time fan or meeting Spartan 117 for the first time, The Master Chief Collection is the definitive Halo gaming experience.",
       "price": {
-        "current": 3999,
+        "current": 999,
         "original": 3999,
-        "discount": 0,
+        "discount": 75,
         "currency": "EUR",
         "lowestSeen": 999,
-        "checkedAt": "2026-10-19T17:01:40.612Z"
+        "checkedAt": "2026-11-20T18:01:22.099Z"
       },
       "mentions": [
         {
