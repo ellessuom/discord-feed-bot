@@ -1058,12 +1058,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg?t=1785137321",
       "description": "Film your friends doing scary things to become SpöökTube famous! (strongly advised to not go alone)",
       "price": {
-        "current": 749,
+        "current": 464,
         "original": 749,
-        "discount": 0,
+        "discount": 38,
         "currency": "EUR",
         "lowestSeen": 464,
-        "checkedAt": "2026-10-22T17:01:25.058Z"
+        "checkedAt": "2026-11-21T17:01:21.649Z"
       },
       "mentions": [
         {
