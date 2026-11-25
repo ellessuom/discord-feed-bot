@@ -210,12 +210,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/89e942c838b6cb0bb0c2127c113a86c59d6ce92f/header_alt_assets_1.jpg?t=1784798117",
       "description": "An online 1-8 player golf game where everyone plays at the same time. Swing, shoot, sabotage, and finish first by any means necessary in a free-for-all rush to the hole.",
       "price": {
-        "current": 1249,
+        "current": 749,
         "original": 1249,
-        "discount": 0,
+        "discount": 40,
         "currency": "EUR",
-        "lowestSeen": 811,
-        "checkedAt": "2026-10-22T17:01:16.894Z"
+        "lowestSeen": 749,
+        "checkedAt": "2026-11-25T18:01:52.379Z"
       },
       "mentions": [
         {
@@ -1484,12 +1484,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2708450/677d8a61ee8d532b590df691174914eb7bfac0f1/header.jpg?t=1792166826",
       "description": "One hunter &amp; up to 9 friends disguised as deer. A game of hide-and-seek where every move could be your last. Will you blend in with the herd or stand out? Oh Deer...",
       "price": {
-        "current": 749,
+        "current": 486,
         "original": 749,
-        "discount": 0,
+        "discount": 35,
         "currency": "EUR",
-        "lowestSeen": 561,
-        "checkedAt": "2026-10-24T16:00:54.901Z"
+        "lowestSeen": 486,
+        "checkedAt": "2026-11-25T18:01:57.587Z"
       },
       "mentions": [
         {
