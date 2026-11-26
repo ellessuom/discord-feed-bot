@@ -511,12 +511,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1951780/header.jpg?t=1762769884",
       "description": "Play, race and hang with your feline friends in this online platformer party game! Purrfect your pussycat parkour as you sprint, jump, bounce, swing, skid and slide through a collection of collaborative and competitive mini-games set in a grandiose cartoon mansion. Get jumpin', jazz cats!",
       "price": {
-        "current": 899,
-        "original": 899,
-        "discount": 0,
+        "current": 299,
+        "original": 1499,
+        "discount": 80,
         "currency": "EUR",
         "lowestSeen": 224,
-        "checkedAt": "2026-11-09T18:01:54.110Z"
+        "checkedAt": "2026-11-26T18:01:15.025Z"
       },
       "mentions": [
         {
@@ -1383,12 +1383,12 @@
       "headerImage": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314580/6d7cb32debcbdba122624fae234c659cdff2b4bf/header.jpg?t=1791911043",
       "description": "Team up with your raccoon squad in this physics-based co-op adventure for up to 6 players. Scavenge trash, fill your stolen wagon, and haul it to Raccoon Paradise. Live your best raccoon life.",
       "price": {
-        "current": 779,
+        "current": 623,
         "original": 779,
-        "discount": 0,
+        "discount": 20,
         "currency": "EUR",
-        "lowestSeen": 701,
-        "checkedAt": "2026-10-27T17:01:25.851Z"
+        "lowestSeen": 623,
+        "checkedAt": "2026-11-26T18:01:20.082Z"
       },
       "mentions": [
         {
