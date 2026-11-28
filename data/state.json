@@ -1,15 +1,11 @@
 {
-  "lastRun": "2026-11-27T11:01:30.697Z",
+  "lastRun": "2026-11-28T11:01:24.084Z",
   "postedIds": {
     "steam_news": [],
     "reddit_steamdeals": [],
     "steam_sales": [],
     "reddit_gamingnews": [],
     "steam_2073850": [
-      {
-        "id": "https://store.steampowered.com/news/app/2073850/view/703283562262037038",
-        "postedAt": "2026-10-29T11:01:20.686Z"
-      },
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/686392527015641287",
         "postedAt": "2026-10-31T17:01:10.648Z"
@@ -69,6 +65,10 @@
       {
         "id": "https://store.steampowered.com/news/app/2073850/view/703285469074424492",
         "postedAt": "2026-11-27T11:01:30.697Z"
+      },
+      {
+        "id": "https://store.steampowered.com/news/app/2073850/view/703283562262037038",
+        "postedAt": "2026-11-28T11:01:24.084Z"
       }
     ]
   },
@@ -77,6 +77,6 @@
     "reddit_steamdeals": "https://www.reddit.com/r/steamdeals/comments/1wzokhz/save_55_on_cybrid_on_steam/",
     "steam_sales": "sale_1326470",
     "reddit_gamingnews": "https://www.reddit.com/r/gamingnews/comments/1wptbj4/weekly_rgamingnews_discussion_what_game_you_will/",
-    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703285469074424492"
+    "steam_2073850": "https://store.steampowered.com/news/app/2073850/view/703283562262037038"
   }
 }
